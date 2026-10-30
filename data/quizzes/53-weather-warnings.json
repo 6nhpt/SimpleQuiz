@@ -1,0 +1,429 @@
+{
+ "title": "気象庁の特別警報・警報・注意報（37種）",
+ "category": "くらし",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "大雨特別警報",
+   "aliases": [
+    "レベル5大雨特別警報"
+   ],
+   "note": "レベル5",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "土砂災害特別警報",
+   "aliases": [
+    "レベル5土砂災害特別警報"
+   ],
+   "note": "レベル5",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "氾濫特別警報",
+   "aliases": [
+    "レベル5氾濫特別警報",
+    "はん濫特別警報"
+   ],
+   "note": "レベル5（2026年新設）",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高潮特別警報",
+   "aliases": [
+    "レベル5高潮特別警報"
+   ],
+   "note": "レベル5",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暴風特別警報",
+   "aliases": [],
+   "note": "",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暴風雪特別警報",
+   "aliases": [],
+   "note": "",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雪特別警報",
+   "aliases": [],
+   "note": "",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "波浪特別警報",
+   "aliases": [],
+   "note": "",
+   "group": "特別警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雨危険警報",
+   "aliases": [
+    "レベル4大雨危険警報"
+   ],
+   "note": "レベル4",
+   "group": "危険警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "土砂災害危険警報",
+   "aliases": [
+    "レベル4土砂災害危険警報"
+   ],
+   "note": "レベル4（旧・土砂災害警戒情報）",
+   "group": "危険警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "氾濫危険警報",
+   "aliases": [
+    "レベル4氾濫危険警報",
+    "はん濫危険警報"
+   ],
+   "note": "レベル4",
+   "group": "危険警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高潮危険警報",
+   "aliases": [
+    "レベル4高潮危険警報"
+   ],
+   "note": "レベル4",
+   "group": "危険警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雨警報",
+   "aliases": [
+    "レベル3大雨警報"
+   ],
+   "note": "レベル3",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "土砂災害警報",
+   "aliases": [
+    "レベル3土砂災害警報"
+   ],
+   "note": "レベル3",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "氾濫警報",
+   "aliases": [
+    "レベル3氾濫警報",
+    "はん濫警報"
+   ],
+   "note": "レベル3",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高潮警報",
+   "aliases": [
+    "レベル3高潮警報"
+   ],
+   "note": "レベル3",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暴風警報",
+   "aliases": [],
+   "note": "",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暴風雪警報",
+   "aliases": [],
+   "note": "",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雪警報",
+   "aliases": [],
+   "note": "",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "波浪警報",
+   "aliases": [],
+   "note": "",
+   "group": "警報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雨注意報",
+   "aliases": [
+    "レベル2大雨注意報"
+   ],
+   "note": "レベル2",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "土砂災害注意報",
+   "aliases": [
+    "レベル2土砂災害注意報"
+   ],
+   "note": "レベル2",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "氾濫注意報",
+   "aliases": [
+    "レベル2氾濫注意報",
+    "はん濫注意報"
+   ],
+   "note": "レベル2",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高潮注意報",
+   "aliases": [
+    "レベル2高潮注意報"
+   ],
+   "note": "レベル2",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "強風注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "風雪注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大雪注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "波浪注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雷注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "融雪注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "濃霧注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "乾燥注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "なだれ注意報",
+   "aliases": [
+    "雪崩注意報"
+   ],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "低温注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "霜注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "着氷注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "着雪注意報",
+   "aliases": [],
+   "note": "",
+   "group": "注意報",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "洪水警報",
+   "aliases": [],
+   "note": "2026年5月に廃止（氾濫警報・大雨警報へ）",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "洪水注意報",
+   "aliases": [],
+   "note": "2026年5月に廃止（氾濫注意報・大雨注意報へ）",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "土砂災害警戒情報",
+   "aliases": [],
+   "note": "2026年5月から土砂災害危険警報に",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "指定河川洪水予報",
+   "aliases": [],
+   "note": "2026年5月から氾濫の警報・注意報に",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "浸水警報",
+   "aliases": [],
+   "note": "単独では出さず、大雨警報に含まれる",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "浸水注意報",
+   "aliases": [],
+   "note": "単独では出さず、大雨注意報に含まれる",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "地面現象警報",
+   "aliases": [],
+   "note": "2023年の法改正で土砂災害警報に",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "地面現象注意報",
+   "aliases": [],
+   "note": "2023年の法改正で土砂災害注意報に",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "津波警報",
+   "aliases": [
+    "大津波警報",
+    "津波注意報"
+   ],
+   "note": "地震・津波の警報で、気象の警報ではない",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "記録的短時間大雨情報",
+   "aliases": [],
+   "note": "2026年5月から気象防災速報（記録的短時間大雨）に",
+   "group": "注意報",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "53-weather-warnings",
+ "created": 51.0
+}

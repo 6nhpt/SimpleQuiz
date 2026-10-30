@@ -1,0 +1,235 @@
+{
+ "title": "日本式天気記号（21種）",
+ "category": "理科・天文",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "快晴",
+   "aliases": [
+    "かいせい"
+   ],
+   "note": "",
+   "group": "晴れ・くもり",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "晴れ",
+   "aliases": [
+    "晴",
+    "はれ"
+   ],
+   "note": "",
+   "group": "晴れ・くもり",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "くもり",
+   "aliases": [
+    "曇り",
+    "曇"
+   ],
+   "note": "",
+   "group": "晴れ・くもり",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "霧雨",
+   "aliases": [
+    "きりさめ"
+   ],
+   "note": "",
+   "group": "雨",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雨",
+   "aliases": [
+    "あめ"
+   ],
+   "note": "",
+   "group": "雨",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雨強し",
+   "aliases": [
+    "強い雨",
+    "強雨",
+    "あめつよし"
+   ],
+   "note": "",
+   "group": "雨",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "にわか雨",
+   "aliases": [
+    "驟雨",
+    "にわかあめ"
+   ],
+   "note": "",
+   "group": "雨",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "みぞれ",
+   "aliases": [
+    "霙"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雪",
+   "aliases": [
+    "ゆき"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雪強し",
+   "aliases": [
+    "強い雪",
+    "ゆきつよし"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "にわか雪",
+   "aliases": [
+    "にわかゆき"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "あられ",
+   "aliases": [
+    "霰"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ひょう",
+   "aliases": [
+    "雹"
+   ],
+   "note": "",
+   "group": "雪・氷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雷",
+   "aliases": [
+    "かみなり"
+   ],
+   "note": "",
+   "group": "雷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "雷強し",
+   "aliases": [
+    "強い雷",
+    "かみなりつよし"
+   ],
+   "note": "",
+   "group": "雷",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "霧",
+   "aliases": [
+    "きり"
+   ],
+   "note": "",
+   "group": "視界をさえぎるもの",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "煙霧",
+   "aliases": [
+    "えんむ"
+   ],
+   "note": "",
+   "group": "視界をさえぎるもの",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ちり煙霧",
+   "aliases": [
+    "塵煙霧",
+    "ちりえんむ"
+   ],
+   "note": "",
+   "group": "視界をさえぎるもの",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "砂じんあらし",
+   "aliases": [
+    "砂塵嵐",
+    "砂じん嵐",
+    "さじんあらし",
+    "砂嵐"
+   ],
+   "note": "",
+   "group": "視界をさえぎるもの",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "地ふぶき",
+   "aliases": [
+    "地吹雪",
+    "じふぶき"
+   ],
+   "note": "",
+   "group": "視界をさえぎるもの",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天気不明",
+   "aliases": [
+    "不明",
+    "てんきふめい"
+   ],
+   "note": "",
+   "group": "その他",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "52-weather-symbols",
+ "created": 50.0
+}
