@@ -1,5 +1,5 @@
 {
- "title": "上越新幹線の駅（大宮〜新潟）",
+ "title": "上越新幹線の駅",
  "category": "鉄道",
  "options": {
   "suffix": [
@@ -16,7 +16,8 @@
    ],
    "note": "埼玉県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "熊谷",
@@ -25,7 +26,8 @@
    ],
    "note": "埼玉県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "本庄早稲田",
@@ -34,7 +36,8 @@
    ],
    "note": "埼玉県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "高崎",
@@ -43,7 +46,8 @@
    ],
    "note": "群馬県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "上毛高原",
@@ -52,7 +56,8 @@
    ],
    "note": "群馬県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "越後湯沢",
@@ -61,7 +66,8 @@
    ],
    "note": "新潟県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ガーラ湯沢",
@@ -70,7 +76,8 @@
    ],
    "note": "上越線支線（冬季のみ）",
    "group": "",
-   "secret": true
+   "secret": true,
+   "ghost": false
   },
   {
    "name": "浦佐",
@@ -79,7 +86,8 @@
    ],
    "note": "新潟県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "長岡",
@@ -88,7 +96,8 @@
    ],
    "note": "新潟県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "燕三条",
@@ -97,7 +106,8 @@
    ],
    "note": "新潟県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "新潟",
@@ -106,7 +116,8 @@
    ],
    "note": "新潟県",
    "group": "",
-   "secret": false
+   "secret": false,
+   "ghost": false
   }
  ],
  "id": "33-joetsu-shinkansen",

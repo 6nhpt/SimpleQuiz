@@ -146,7 +146,8 @@ async function renderPlay(id) {
   const quiz = await api("GET", id);
   const matcher = new Matcher(quiz);
   const isSecret = (i) => !!quiz.items[i].secret;
-  const base = quiz.items.filter((it) => !it.secret).length;  // シークレットを除いた総数
+  const isGhost = (i) => !!quiz.items[i].ghost;  // 判定のみ（正解に数えない）
+  const base = quiz.items.filter((it) => !it.secret && !it.ghost).length;  // シークレット等を除いた総数
   const prog = loadProg(id);
   const answered = new Set();
   quiz.items.forEach((it, i) => { if (prog.answered.includes(it.name)) answered.add(i); });
@@ -183,25 +184,32 @@ async function renderPlay(id) {
     });
   }
 
-  function cell(it, i) {
+  // シークレットは見つけるまで枠を出さない（ギブアップでも明かさない）。
+  // ただし「全部シークレットの区分」（隠し区分）は、1個見つけると区分ごと空き枠付きで現れる
+  function cell(it, i, open) {
     const ok = answered.has(i);
-    // シークレットは見つけるまで枠を出さない（ギブアップ時は種明かし）
-    if (it.secret && !ok && !gaveUp) return "";
-    const cls = (ok ? "ok" : gaveUp ? "miss" : "blank") + (it.secret ? " secret" : "");
-    const text = ok || gaveUp ? (it.secret ? "★ " : "") + esc(it.name) : "";
-    const hint = (showHint || gaveUp || ok) && it.note ? `<small>${esc(it.note)}</small>` : "";
+    if (it.secret && !ok && !open) return "";
+    const miss = gaveUp && !it.secret;
+    const cls = (ok ? "ok" : miss ? "miss" : "blank") + (it.secret ? " secret" : "");
+    const text = ok || miss ? (it.secret ? "★ " : "") + esc(it.name) : "";
+    const hint = (showHint || miss || ok) && it.note && (ok || !it.secret || open) ? `<small>${esc(it.note)}</small>` : "";
     return `<li class="${cls}" data-i="${i}">${text || "&nbsp;"}${hint}</li>`;
   }
 
-  const groups = groupItems(quiz.items);
+  const groups = groupItems(quiz.items)
+    .map(([g, idxs]) => [g, idxs.filter((i) => !isGhost(i))])
+    .filter(([, idxs]) => idxs.length);
+  const hiddenGroup = (idxs) => idxs.every(isSecret);
   function renderGrid(flash) {
-    $grid.innerHTML = groups.map(([g, idxs]) => {
+    const shown = groups.filter(([, idxs]) => !hiddenGroup(idxs) || idxs.some((i) => answered.has(i)));
+    $grid.innerHTML = shown.map(([g, idxs]) => {
+      const open = hiddenGroup(idxs);
       const n = idxs.filter((i) => answered.has(i)).length;
-      const len = idxs.filter((i) => !isSecret(i) || answered.has(i)).length;
-      const head = groups.length > 1
-        ? `<h3 class="grp-head${n === len ? " done" : ""}">${esc(g || "その他")}<span>${n} / ${len}</span></h3>`
+      const len = open ? idxs.length : idxs.filter((i) => !isSecret(i) || answered.has(i)).length;
+      const head = shown.length > 1
+        ? `<h3 class="grp-head${n === len ? " done" : ""}${open ? " secret" : ""}">${open ? "★ " : ""}${esc(g || "その他")}<span>${n} / ${len}</span></h3>`
         : "";
-      return `<section class="grp">${head}<ol class="grid">${idxs.map((i) => cell(quiz.items[i], i)).join("")}</ol></section>`;
+      return `<section class="grp">${head}<ol class="grid">${idxs.map((i) => cell(quiz.items[i], i, open)).join("")}</ol></section>`;
     }).join("");
     const found = [...answered].filter(isSecret).length;
     const done = answered.size - found;  // シークレット以外の正解数
@@ -209,7 +217,7 @@ async function renderPlay(id) {
     document.getElementById("bar-fill").style.width = `${(done / base) * 100}%`;
     if (flash !== undefined) $grid.querySelector(`[data-i="${flash}"]`)?.classList.add("flash");
     // コンプリート後もシークレット探しができるよう、入力はギブアップ時だけ止める
-    $in.disabled = gaveUp || answered.size === quiz.items.length;
+    $in.disabled = gaveUp;
     if (gaveUp) {
       $fb.className = "feedback ng";
       $fb.textContent = `ギブアップ：${done} / ${base}`;
@@ -231,7 +239,10 @@ async function renderPlay(id) {
     renderGrid(r.index);
     const name = quiz.items[r.index].name + (r.fuzzy ? "（表記ゆれ）" : "");
     const done = [...answered].filter((i) => !isSecret(i)).length;
-    if (isSecret(r.index)) feedback("secret", `★ シークレット発見！ ${name}`);
+    const g = groups.find(([, idxs]) => idxs.includes(r.index));
+    const firstInHidden = g && hiddenGroup(g[1]) && g[1].filter((i) => answered.has(i)).length === 1;
+    if (firstInHidden) feedback("secret", `★ ${g[0]} 解放！ ${name}`);
+    else if (isSecret(r.index)) feedback("secret", `★ シークレット発見！ ${name}`);
     else if (done === base) feedback("ok", `🎉 コンプリート！（${name}）`);
     else feedback("ok", `✓ ${name}`);
   }
@@ -241,9 +252,15 @@ async function renderPlay(id) {
   $in.addEventListener("compositionstart", () => (composing = true));
   $in.addEventListener("compositionend", () => { composing = false; tryAuto(); });
   $in.addEventListener("input", (e) => { if (!composing && !e.isComposing) tryAuto(); });
+  function ghost(r) {
+    const it = quiz.items[r.index];
+    feedback("ghost", `💡 ${it.name}${it.note ? "：" + it.note : ""}（正解には数えません）`);
+    $in.value = "";
+  }
   function tryAuto() {
     const r = matcher.judge($in.value, answered, true);
     if (r.status === "ok") accept(r);
+    else if (r.status === "ghost") ghost(r);
   }
 
   document.getElementById("ans").addEventListener("submit", (e) => {
@@ -252,6 +269,7 @@ async function renderPlay(id) {
     if (!v) return;
     const r = matcher.judge(v, answered, false);
     if (r.status === "ok") accept(r);
+    else if (r.status === "ghost") ghost(r);
     else if (r.status === "dup") {
       feedback("dup", `回答済み：${quiz.items[r.index].name}`);
       $in.value = "";
@@ -294,9 +312,10 @@ async function renderView(id) {
   const quiz = await api("GET", id);
   const groups = groupItems(quiz.items);
   const normal = groups
-    .map(([g, idxs]) => [g, idxs.filter((i) => !quiz.items[i].secret)])
+    .map(([g, idxs]) => [g, idxs.filter((i) => !quiz.items[i].secret && !quiz.items[i].ghost)])
     .filter(([, idxs]) => idxs.length);
   const secrets = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].secret);
+  const ghosts = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].ghost);
   const li = (it) => `
               <li data-s="${esc([it.name, ...it.aliases, it.note, it.group || ""].join(" ").toLowerCase())}">
                 <span class="name">${esc(it.name)}</span>
@@ -306,7 +325,7 @@ async function renderView(id) {
   setBar(quiz.title, "#/", STATIC ? "" : `<a class="btn small" href="#/edit/${id}">編集</a>`);
   $app.innerHTML = `
     <div class="view-head">
-      <span>${quiz.items.length - secrets.length}個</span>
+      <span>${quiz.items.length - secrets.length - ghosts.length}個</span>
       <a class="btn small primary" href="#/play/${id}">挑戦する</a>
     </div>
     <input id="filter" type="search" placeholder="絞り込み">
@@ -321,6 +340,11 @@ async function renderView(id) {
       <details class="secret-box">
         <summary>★ シークレット（ネタバレ注意・${secrets.length}個）</summary>
         <ul class="list">${secrets.map((i) => li(quiz.items[i])).join("")}</ul>
+      </details>` : ""}
+    ${ghosts.length ? `
+      <details class="secret-box ghost-box">
+        <summary>💡 判定のみの別名（正解には数えない・${ghosts.length}個）</summary>
+        <ul class="list">${ghosts.map((i) => li(quiz.items[i])).join("")}</ul>
       </details>` : ""}`;
   document.getElementById("filter").addEventListener("input", (e) => {
     const q = e.target.value.trim().toLowerCase();
@@ -360,7 +384,8 @@ async function renderEdit(id) {
           <li>カタカナの項目はひらがなでも自動で正解になります（ヴァ/バ、ウェ/ウエ、長音の有無なども自動で吸収）</li>
           <li><code>#</code> の後ろはメモ（ヒント・一覧表示用、判定には使いません）</li>
           <li><code>## 区分名</code> の行を入れると、それ以降の項目がその区分にまとまって表示されます</li>
-          <li>行頭に <code>*</code> を付けるとシークレット（総数に出ず、答えると+1）</li>
+          <li>行頭に <code>*</code> を付けるとシークレット（総数に出ず、答えると+1）。区分の中身が全部シークレットなら、1個見つけた時点で区分ごと現れます</li>
+          <li>行頭に <code>?</code> を付けると判定のみ（答えるとメモを表示するが、正解には数えない）</li>
         </ul>
       </details>
       <label>判定テスト<input id="e-test" placeholder="ここに入力すると、どれに当たるか表示"></label>
@@ -386,7 +411,8 @@ async function renderEdit(id) {
   const updateCount = () => {
     const items = textToItems($items.value);
     const sec = items.filter((it) => it.secret).length;
-    $count.textContent = ` ${items.length - sec}個${sec ? `＋シークレット${sec}個` : ""}`;
+    const gh = items.filter((it) => it.ghost).length;
+    $count.textContent = ` ${items.length - sec - gh}個${sec ? `＋シークレット${sec}個` : ""}${gh ? `＋判定のみ${gh}個` : ""}`;
   };
   $items.addEventListener("input", updateCount);
   updateCount();

@@ -1,5 +1,6 @@
 {
  "title": "元素（118）",
+ "category": "理科・天文",
  "options": {
   "suffix": [],
   "fuzzy": true
@@ -11,28 +12,40 @@
     "すいそ",
     "H"
    ],
-   "note": "1"
+   "note": "1",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ヘリウム",
    "aliases": [
     "He"
    ],
-   "note": "2"
+   "note": "2",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "リチウム",
    "aliases": [
     "Li"
    ],
-   "note": "3"
+   "note": "3",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ベリリウム",
    "aliases": [
     "Be"
    ],
-   "note": "4"
+   "note": "4",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ホウ素",
@@ -41,7 +54,10 @@
     "ほうそ",
     "B"
    ],
-   "note": "5"
+   "note": "5",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "炭素",
@@ -49,7 +65,10 @@
     "たんそ",
     "C"
    ],
-   "note": "6"
+   "note": "6",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "窒素",
@@ -57,7 +76,10 @@
     "ちっそ",
     "N"
    ],
-   "note": "7"
+   "note": "7",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "酸素",
@@ -65,7 +87,10 @@
     "さんそ",
     "O"
    ],
-   "note": "8"
+   "note": "8",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "フッ素",
@@ -74,35 +99,50 @@
     "ふっそ",
     "F"
    ],
-   "note": "9"
+   "note": "9",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ネオン",
    "aliases": [
     "Ne"
    ],
-   "note": "10"
+   "note": "10",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ナトリウム",
    "aliases": [
     "Na"
    ],
-   "note": "11"
+   "note": "11",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "マグネシウム",
    "aliases": [
     "Mg"
    ],
-   "note": "12"
+   "note": "12",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アルミニウム",
    "aliases": [
     "Al"
    ],
-   "note": "13"
+   "note": "13",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ケイ素",
@@ -111,7 +151,10 @@
     "けいそ",
     "Si"
    ],
-   "note": "14"
+   "note": "14",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "リン",
@@ -119,7 +162,10 @@
     "燐",
     "P"
    ],
-   "note": "15"
+   "note": "15",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "硫黄",
@@ -127,7 +173,10 @@
     "いおう",
     "S"
    ],
-   "note": "16"
+   "note": "16",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "塩素",
@@ -135,63 +184,90 @@
     "えんそ",
     "Cl"
    ],
-   "note": "17"
+   "note": "17",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アルゴン",
    "aliases": [
     "Ar"
    ],
-   "note": "18"
+   "note": "18",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "カリウム",
    "aliases": [
     "K"
    ],
-   "note": "19"
+   "note": "19",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "カルシウム",
    "aliases": [
     "Ca"
    ],
-   "note": "20"
+   "note": "20",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "スカンジウム",
    "aliases": [
     "Sc"
    ],
-   "note": "21"
+   "note": "21",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "チタン",
    "aliases": [
     "Ti"
    ],
-   "note": "22"
+   "note": "22",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "バナジウム",
    "aliases": [
     "V"
    ],
-   "note": "23"
+   "note": "23",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "クロム",
    "aliases": [
     "Cr"
    ],
-   "note": "24"
+   "note": "24",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "マンガン",
    "aliases": [
     "Mn"
    ],
-   "note": "25"
+   "note": "25",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "鉄",
@@ -199,21 +275,30 @@
     "てつ",
     "Fe"
    ],
-   "note": "26"
+   "note": "26",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "コバルト",
    "aliases": [
     "Co"
    ],
-   "note": "27"
+   "note": "27",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ニッケル",
    "aliases": [
     "Ni"
    ],
-   "note": "28"
+   "note": "28",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "銅",
@@ -221,7 +306,10 @@
     "どう",
     "Cu"
    ],
-   "note": "29"
+   "note": "29",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "亜鉛",
@@ -229,21 +317,30 @@
     "あえん",
     "Zn"
    ],
-   "note": "30"
+   "note": "30",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ガリウム",
    "aliases": [
     "Ga"
    ],
-   "note": "31"
+   "note": "31",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ゲルマニウム",
    "aliases": [
     "Ge"
    ],
-   "note": "32"
+   "note": "32",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ヒ素",
@@ -252,14 +349,20 @@
     "ひそ",
     "As"
    ],
-   "note": "33"
+   "note": "33",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "セレン",
    "aliases": [
     "Se"
    ],
-   "note": "34"
+   "note": "34",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "臭素",
@@ -267,84 +370,120 @@
     "しゅうそ",
     "Br"
    ],
-   "note": "35"
+   "note": "35",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "クリプトン",
    "aliases": [
     "Kr"
    ],
-   "note": "36"
+   "note": "36",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ルビジウム",
    "aliases": [
     "Rb"
    ],
-   "note": "37"
+   "note": "37",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ストロンチウム",
    "aliases": [
     "Sr"
    ],
-   "note": "38"
+   "note": "38",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "イットリウム",
    "aliases": [
     "Y"
    ],
-   "note": "39"
+   "note": "39",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ジルコニウム",
    "aliases": [
     "Zr"
    ],
-   "note": "40"
+   "note": "40",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ニオブ",
    "aliases": [
     "Nb"
    ],
-   "note": "41"
+   "note": "41",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "モリブデン",
    "aliases": [
     "Mo"
    ],
-   "note": "42"
+   "note": "42",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "テクネチウム",
    "aliases": [
     "Tc"
    ],
-   "note": "43"
+   "note": "43",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ルテニウム",
    "aliases": [
     "Ru"
    ],
-   "note": "44"
+   "note": "44",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ロジウム",
    "aliases": [
     "Rh"
    ],
-   "note": "45"
+   "note": "45",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "パラジウム",
    "aliases": [
     "Pd"
    ],
-   "note": "46"
+   "note": "46",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "銀",
@@ -352,21 +491,30 @@
     "ぎん",
     "Ag"
    ],
-   "note": "47"
+   "note": "47",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "カドミウム",
    "aliases": [
     "Cd"
    ],
-   "note": "48"
+   "note": "48",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "インジウム",
    "aliases": [
     "In"
    ],
-   "note": "49"
+   "note": "49",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "スズ",
@@ -374,21 +522,30 @@
     "錫",
     "Sn"
    ],
-   "note": "50"
+   "note": "50",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アンチモン",
    "aliases": [
     "Sb"
    ],
-   "note": "51"
+   "note": "51",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "テルル",
    "aliases": [
     "Te"
    ],
-   "note": "52"
+   "note": "52",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ヨウ素",
@@ -397,175 +554,250 @@
     "ようそ",
     "I"
    ],
-   "note": "53"
+   "note": "53",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "キセノン",
    "aliases": [
     "Xe"
    ],
-   "note": "54"
+   "note": "54",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "セシウム",
    "aliases": [
     "Cs"
    ],
-   "note": "55"
+   "note": "55",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "バリウム",
    "aliases": [
     "Ba"
    ],
-   "note": "56"
+   "note": "56",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ランタン",
    "aliases": [
     "La"
    ],
-   "note": "57"
+   "note": "57",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "セリウム",
    "aliases": [
     "Ce"
    ],
-   "note": "58"
+   "note": "58",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "プラセオジム",
    "aliases": [
     "Pr"
    ],
-   "note": "59"
+   "note": "59",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ネオジム",
    "aliases": [
     "Nd"
    ],
-   "note": "60"
+   "note": "60",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "プロメチウム",
    "aliases": [
     "Pm"
    ],
-   "note": "61"
+   "note": "61",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "サマリウム",
    "aliases": [
     "Sm"
    ],
-   "note": "62"
+   "note": "62",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ユウロピウム",
    "aliases": [
     "Eu"
    ],
-   "note": "63"
+   "note": "63",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ガドリニウム",
    "aliases": [
     "Gd"
    ],
-   "note": "64"
+   "note": "64",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "テルビウム",
    "aliases": [
     "Tb"
    ],
-   "note": "65"
+   "note": "65",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ジスプロシウム",
    "aliases": [
     "Dy"
    ],
-   "note": "66"
+   "note": "66",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ホルミウム",
    "aliases": [
     "Ho"
    ],
-   "note": "67"
+   "note": "67",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "エルビウム",
    "aliases": [
     "Er"
    ],
-   "note": "68"
+   "note": "68",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ツリウム",
    "aliases": [
     "Tm"
    ],
-   "note": "69"
+   "note": "69",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "イッテルビウム",
    "aliases": [
     "Yb"
    ],
-   "note": "70"
+   "note": "70",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ルテチウム",
    "aliases": [
     "Lu"
    ],
-   "note": "71"
+   "note": "71",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ハフニウム",
    "aliases": [
     "Hf"
    ],
-   "note": "72"
+   "note": "72",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "タンタル",
    "aliases": [
     "Ta"
    ],
-   "note": "73"
+   "note": "73",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "タングステン",
    "aliases": [
     "W"
    ],
-   "note": "74"
+   "note": "74",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "レニウム",
    "aliases": [
     "Re"
    ],
-   "note": "75"
+   "note": "75",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "オスミウム",
    "aliases": [
     "Os"
    ],
-   "note": "76"
+   "note": "76",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "イリジウム",
    "aliases": [
     "Ir"
    ],
-   "note": "77"
+   "note": "77",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "白金",
@@ -574,7 +806,10 @@
     "プラチナ",
     "Pt"
    ],
-   "note": "78"
+   "note": "78",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "金",
@@ -582,7 +817,10 @@
     "きん",
     "Au"
    ],
-   "note": "79"
+   "note": "79",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "水銀",
@@ -590,14 +828,20 @@
     "すいぎん",
     "Hg"
    ],
-   "note": "80"
+   "note": "80",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "タリウム",
    "aliases": [
     "Tl"
    ],
-   "note": "81"
+   "note": "81",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "鉛",
@@ -605,112 +849,160 @@
     "なまり",
     "Pb"
    ],
-   "note": "82"
+   "note": "82",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ビスマス",
    "aliases": [
     "Bi"
    ],
-   "note": "83"
+   "note": "83",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ポロニウム",
    "aliases": [
     "Po"
    ],
-   "note": "84"
+   "note": "84",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アスタチン",
    "aliases": [
     "At"
    ],
-   "note": "85"
+   "note": "85",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ラドン",
    "aliases": [
     "Rn"
    ],
-   "note": "86"
+   "note": "86",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "フランシウム",
    "aliases": [
     "Fr"
    ],
-   "note": "87"
+   "note": "87",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ラジウム",
    "aliases": [
     "Ra"
    ],
-   "note": "88"
+   "note": "88",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アクチニウム",
    "aliases": [
     "Ac"
    ],
-   "note": "89"
+   "note": "89",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "トリウム",
    "aliases": [
     "Th"
    ],
-   "note": "90"
+   "note": "90",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "プロトアクチニウム",
    "aliases": [
     "Pa"
    ],
-   "note": "91"
+   "note": "91",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ウラン",
    "aliases": [
     "U"
    ],
-   "note": "92"
+   "note": "92",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ネプツニウム",
    "aliases": [
     "Np"
    ],
-   "note": "93"
+   "note": "93",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "プルトニウム",
    "aliases": [
     "Pu"
    ],
-   "note": "94"
+   "note": "94",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アメリシウム",
    "aliases": [
     "Am"
    ],
-   "note": "95"
+   "note": "95",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "キュリウム",
    "aliases": [
     "Cm"
    ],
-   "note": "96"
+   "note": "96",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "バークリウム",
    "aliases": [
     "Bk"
    ],
-   "note": "97"
+   "note": "97",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "カリホルニウム",
@@ -718,150 +1010,1335 @@
     "カリフォルニウム",
     "Cf"
    ],
-   "note": "98"
+   "note": "98",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "アインスタイニウム",
    "aliases": [
     "Es"
    ],
-   "note": "99"
+   "note": "99",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "フェルミウム",
    "aliases": [
     "Fm"
    ],
-   "note": "100"
+   "note": "100",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "メンデレビウム",
    "aliases": [
     "Md"
    ],
-   "note": "101"
+   "note": "101",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ノーベリウム",
    "aliases": [
     "No"
    ],
-   "note": "102"
+   "note": "102",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ローレンシウム",
    "aliases": [
     "Lr"
    ],
-   "note": "103"
+   "note": "103",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ラザホージウム",
    "aliases": [
     "Rf"
    ],
-   "note": "104"
+   "note": "104",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ドブニウム",
    "aliases": [
     "Db"
    ],
-   "note": "105"
+   "note": "105",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "シーボーギウム",
    "aliases": [
     "Sg"
    ],
-   "note": "106"
+   "note": "106",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ボーリウム",
    "aliases": [
     "Bh"
    ],
-   "note": "107"
+   "note": "107",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ハッシウム",
    "aliases": [
     "Hs"
    ],
-   "note": "108"
+   "note": "108",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "マイトネリウム",
    "aliases": [
     "Mt"
    ],
-   "note": "109"
+   "note": "109",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ダームスタチウム",
    "aliases": [
     "Ds"
    ],
-   "note": "110"
+   "note": "110",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "レントゲニウム",
    "aliases": [
     "Rg"
    ],
-   "note": "111"
+   "note": "111",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "コペルニシウム",
    "aliases": [
     "Cn"
    ],
-   "note": "112"
+   "note": "112",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "ニホニウム",
    "aliases": [
     "Nh"
    ],
-   "note": "113"
+   "note": "113",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "フレロビウム",
    "aliases": [
     "Fl"
    ],
-   "note": "114"
+   "note": "114",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "モスコビウム",
    "aliases": [
     "Mc"
    ],
-   "note": "115"
+   "note": "115",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "リバモリウム",
    "aliases": [
     "Lv"
    ],
-   "note": "116"
+   "note": "116",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "テネシン",
    "aliases": [
     "Ts"
    ],
-   "note": "117"
+   "note": "117",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "オガネソン",
    "aliases": [
     "Og"
    ],
-   "note": "118"
+   "note": "118",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "反水素",
+   "aliases": [
+    "はんすいそ",
+    "antihydrogen",
+    "anti-hydrogen",
+    "反ヘリウム",
+    "はんヘリウム",
+    "反リチウム",
+    "はんリチウム",
+    "反ベリリウム",
+    "はんベリリウム",
+    "反ホウ素",
+    "反硼素",
+    "はんほうそ",
+    "反炭素",
+    "はんたんそ",
+    "反窒素",
+    "はんちっそ",
+    "反酸素",
+    "はんさんそ",
+    "反フッ素",
+    "反弗素",
+    "はんふっそ",
+    "反ネオン",
+    "はんネオン",
+    "反ナトリウム",
+    "はんナトリウム",
+    "反マグネシウム",
+    "はんマグネシウム",
+    "反アルミニウム",
+    "はんアルミニウム",
+    "反ケイ素",
+    "反珪素",
+    "はんけいそ",
+    "反リン",
+    "はんリン",
+    "反燐",
+    "反硫黄",
+    "はんいおう",
+    "反塩素",
+    "はんえんそ",
+    "反アルゴン",
+    "はんアルゴン",
+    "反カリウム",
+    "はんカリウム",
+    "反カルシウム",
+    "はんカルシウム",
+    "反スカンジウム",
+    "はんスカンジウム",
+    "反チタン",
+    "はんチタン",
+    "反バナジウム",
+    "はんバナジウム",
+    "反クロム",
+    "はんクロム",
+    "反マンガン",
+    "はんマンガン",
+    "反鉄",
+    "はんてつ",
+    "反コバルト",
+    "はんコバルト",
+    "反ニッケル",
+    "はんニッケル",
+    "反銅",
+    "はんどう",
+    "反亜鉛",
+    "はんあえん",
+    "反ガリウム",
+    "はんガリウム",
+    "反ゲルマニウム",
+    "はんゲルマニウム",
+    "反ヒ素",
+    "反砒素",
+    "はんひそ",
+    "反セレン",
+    "はんセレン",
+    "反臭素",
+    "はんしゅうそ",
+    "反クリプトン",
+    "はんクリプトン",
+    "反ルビジウム",
+    "はんルビジウム",
+    "反ストロンチウム",
+    "はんストロンチウム",
+    "反イットリウム",
+    "はんイットリウム",
+    "反ジルコニウム",
+    "はんジルコニウム",
+    "反ニオブ",
+    "はんニオブ",
+    "反モリブデン",
+    "はんモリブデン",
+    "反テクネチウム",
+    "はんテクネチウム",
+    "反ルテニウム",
+    "はんルテニウム",
+    "反ロジウム",
+    "はんロジウム",
+    "反パラジウム",
+    "はんパラジウム",
+    "反銀",
+    "はんぎん",
+    "反カドミウム",
+    "はんカドミウム",
+    "反インジウム",
+    "はんインジウム",
+    "反スズ",
+    "はんスズ",
+    "反錫",
+    "反アンチモン",
+    "はんアンチモン",
+    "反テルル",
+    "はんテルル",
+    "反ヨウ素",
+    "反沃素",
+    "はんようそ",
+    "反キセノン",
+    "はんキセノン",
+    "反セシウム",
+    "はんセシウム",
+    "反バリウム",
+    "はんバリウム",
+    "反ランタン",
+    "はんランタン",
+    "反セリウム",
+    "はんセリウム",
+    "反プラセオジム",
+    "はんプラセオジム",
+    "反ネオジム",
+    "はんネオジム",
+    "反プロメチウム",
+    "はんプロメチウム",
+    "反サマリウム",
+    "はんサマリウム",
+    "反ユウロピウム",
+    "はんユウロピウム",
+    "反ガドリニウム",
+    "はんガドリニウム",
+    "反テルビウム",
+    "はんテルビウム",
+    "反ジスプロシウム",
+    "はんジスプロシウム",
+    "反ホルミウム",
+    "はんホルミウム",
+    "反エルビウム",
+    "はんエルビウム",
+    "反ツリウム",
+    "はんツリウム",
+    "反イッテルビウム",
+    "はんイッテルビウム",
+    "反ルテチウム",
+    "はんルテチウム",
+    "反ハフニウム",
+    "はんハフニウム",
+    "反タンタル",
+    "はんタンタル",
+    "反タングステン",
+    "はんタングステン",
+    "反レニウム",
+    "はんレニウム",
+    "反オスミウム",
+    "はんオスミウム",
+    "反イリジウム",
+    "はんイリジウム",
+    "反白金",
+    "はんはっきん",
+    "反プラチナ",
+    "はんプラチナ",
+    "反金",
+    "はんきん",
+    "反水銀",
+    "はんすいぎん",
+    "反タリウム",
+    "はんタリウム",
+    "反鉛",
+    "はんなまり",
+    "反ビスマス",
+    "はんビスマス",
+    "反ポロニウム",
+    "はんポロニウム",
+    "反アスタチン",
+    "はんアスタチン",
+    "反ラドン",
+    "はんラドン",
+    "反フランシウム",
+    "はんフランシウム",
+    "反ラジウム",
+    "はんラジウム",
+    "反アクチニウム",
+    "はんアクチニウム",
+    "反トリウム",
+    "はんトリウム",
+    "反プロトアクチニウム",
+    "はんプロトアクチニウム",
+    "反ウラン",
+    "はんウラン",
+    "反ネプツニウム",
+    "はんネプツニウム",
+    "反プルトニウム",
+    "はんプルトニウム",
+    "反アメリシウム",
+    "はんアメリシウム",
+    "反キュリウム",
+    "はんキュリウム",
+    "反バークリウム",
+    "はんバークリウム",
+    "反カリホルニウム",
+    "はんカリホルニウム",
+    "反カリフォルニウム",
+    "はんカリフォルニウム",
+    "反アインスタイニウム",
+    "はんアインスタイニウム",
+    "反フェルミウム",
+    "はんフェルミウム",
+    "反メンデレビウム",
+    "はんメンデレビウム",
+    "反ノーベリウム",
+    "はんノーベリウム",
+    "反ローレンシウム",
+    "はんローレンシウム",
+    "反ラザホージウム",
+    "はんラザホージウム",
+    "反ドブニウム",
+    "はんドブニウム",
+    "反シーボーギウム",
+    "はんシーボーギウム",
+    "反ボーリウム",
+    "はんボーリウム",
+    "反ハッシウム",
+    "はんハッシウム",
+    "反マイトネリウム",
+    "はんマイトネリウム",
+    "反ダームスタチウム",
+    "はんダームスタチウム",
+    "反レントゲニウム",
+    "はんレントゲニウム",
+    "反コペルニシウム",
+    "はんコペルニシウム",
+    "反ニホニウム",
+    "はんニホニウム",
+    "反フレロビウム",
+    "はんフレロビウム",
+    "反モスコビウム",
+    "はんモスコビウム",
+    "反リバモリウム",
+    "はんリバモリウム",
+    "反テネシン",
+    "はんテネシン",
+    "反オガネソン",
+    "はんオガネソン"
+   ],
+   "note": "原子として作られた反原子は今のところ反水素だけ",
+   "group": "元素（1〜118）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "エカホウ素",
+   "aliases": [
+    "えかほうそ",
+    "エカボロン",
+    "eka-boron"
+   ],
+   "note": "スカンジウム（21）のメンデレーエフによる予言名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "エカアルミニウム",
+   "aliases": [
+    "えかあるみにうむ",
+    "eka-aluminium"
+   ],
+   "note": "ガリウム（31）の予言名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "エカケイ素",
+   "aliases": [
+    "えかけいそ",
+    "エカシリコン",
+    "eka-silicon"
+   ],
+   "note": "ゲルマニウム（32）の予言名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "エカマンガン",
+   "aliases": [
+    "eka-manganese"
+   ],
+   "note": "テクネチウム（43）の予言名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ニッポニウム",
+   "aliases": [
+    "nipponium"
+   ],
+   "note": "小川正孝が1908年に発表した新元素。実はレニウム（75）だった",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "コロンビウム",
+   "aliases": [
+    "columbium"
+   ],
+   "note": "ニオブ（41）の旧名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "グルシニウム",
+   "aliases": [
+    "glucinium"
+   ],
+   "note": "ベリリウム（4）の旧名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウォルフラム",
+   "aliases": [
+    "wolfram"
+   ],
+   "note": "タングステン（74）の別名。記号Wの由来",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アゾート",
+   "aliases": [
+    "azote"
+   ],
+   "note": "窒素（7）の旧名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "エマナチオン",
+   "aliases": [
+    "ニトン",
+    "emanation",
+    "niton"
+   ],
+   "note": "ラドン（86）の旧名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルクアジウム",
+   "aliases": [
+    "unnilquadium",
+    "Unq"
+   ],
+   "note": "ラザホージウム（104）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルペンチウム",
+   "aliases": [
+    "unnilpentium",
+    "Unp"
+   ],
+   "note": "ドブニウム（105）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルヘキシウム",
+   "aliases": [
+    "unnilhexium",
+    "Unh"
+   ],
+   "note": "シーボーギウム（106）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルセプチウム",
+   "aliases": [
+    "unnilseptium",
+    "Uns"
+   ],
+   "note": "ボーリウム（107）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルオクチウム",
+   "aliases": [
+    "unniloctium",
+    "Uno"
+   ],
+   "note": "ハッシウム（108）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンニルエンニウム",
+   "aliases": [
+    "unnilennium",
+    "Une"
+   ],
+   "note": "マイトネリウム（109）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンニリウム",
+   "aliases": [
+    "ununnilium",
+    "Uun"
+   ],
+   "note": "ダームスタチウム（110）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンウニウム",
+   "aliases": [
+    "unununium",
+    "Uuu"
+   ],
+   "note": "レントゲニウム（111）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンビウム",
+   "aliases": [
+    "ununbium",
+    "Uub"
+   ],
+   "note": "コペルニシウム（112）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウントリウム",
+   "aliases": [
+    "ununtrium",
+    "Uut"
+   ],
+   "note": "ニホニウム（113）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンクアジウム",
+   "aliases": [
+    "ununquadium",
+    "Uuq"
+   ],
+   "note": "フレロビウム（114）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンペンチウム",
+   "aliases": [
+    "ununpentium",
+    "Uup"
+   ],
+   "note": "モスコビウム（115）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンヘキシウム",
+   "aliases": [
+    "ununhexium",
+    "Uuh"
+   ],
+   "note": "リバモリウム（116）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンセプチウム",
+   "aliases": [
+    "ununseptium",
+    "Uus"
+   ],
+   "note": "テネシン（117）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンオクチウム",
+   "aliases": [
+    "ununoctium",
+    "Uuo"
+   ],
+   "note": "オガネソン（118）の命名前の仮名",
+   "group": "元素（1〜118）",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ウンウンエンニウム",
+   "aliases": [
+    "ununennium",
+    "Uue"
+   ],
+   "note": "119",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビニリウム",
+   "aliases": [
+    "unbinilium",
+    "Ubn"
+   ],
+   "note": "120",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビウニウム",
+   "aliases": [
+    "unbiunium",
+    "Ubu"
+   ],
+   "note": "121",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビビウム",
+   "aliases": [
+    "unbibium",
+    "Ubb"
+   ],
+   "note": "122",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビトリウム",
+   "aliases": [
+    "unbitrium",
+    "Ubt"
+   ],
+   "note": "123",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビクアジウム",
+   "aliases": [
+    "unbiquadium",
+    "Ubq"
+   ],
+   "note": "124",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビペンチウム",
+   "aliases": [
+    "unbipentium",
+    "Ubp"
+   ],
+   "note": "125",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビヘキシウム",
+   "aliases": [
+    "unbihexium",
+    "Ubh"
+   ],
+   "note": "126",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビセプチウム",
+   "aliases": [
+    "unbiseptium",
+    "Ubs"
+   ],
+   "note": "127",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビオクチウム",
+   "aliases": [
+    "unbioctium",
+    "Ubo"
+   ],
+   "note": "128",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンビエンニウム",
+   "aliases": [
+    "unbiennium",
+    "Ube"
+   ],
+   "note": "129",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリニリウム",
+   "aliases": [
+    "untrinilium",
+    "Utn"
+   ],
+   "note": "130",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリウニウム",
+   "aliases": [
+    "untriunium",
+    "Utu"
+   ],
+   "note": "131",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリビウム",
+   "aliases": [
+    "untribium",
+    "Utb"
+   ],
+   "note": "132",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリトリウム",
+   "aliases": [
+    "untritrium",
+    "Utt"
+   ],
+   "note": "133",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリクアジウム",
+   "aliases": [
+    "untriquadium",
+    "Utq"
+   ],
+   "note": "134",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリペンチウム",
+   "aliases": [
+    "untripentium",
+    "Utp"
+   ],
+   "note": "135",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリヘキシウム",
+   "aliases": [
+    "untrihexium",
+    "Uth"
+   ],
+   "note": "136",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリセプチウム",
+   "aliases": [
+    "untriseptium",
+    "Uts"
+   ],
+   "note": "137",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリオクチウム",
+   "aliases": [
+    "untrioctium",
+    "Uto"
+   ],
+   "note": "138",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウントリエンニウム",
+   "aliases": [
+    "untriennium",
+    "Ute"
+   ],
+   "note": "139",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドニリウム",
+   "aliases": [
+    "unquadnilium",
+    "Uqn"
+   ],
+   "note": "140",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドウニウム",
+   "aliases": [
+    "unquadunium",
+    "Uqu"
+   ],
+   "note": "141",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドビウム",
+   "aliases": [
+    "unquadbium",
+    "Uqb"
+   ],
+   "note": "142",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドトリウム",
+   "aliases": [
+    "unquadtrium",
+    "Uqt"
+   ],
+   "note": "143",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドクアジウム",
+   "aliases": [
+    "unquadquadium",
+    "Uqq"
+   ],
+   "note": "144",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドペンチウム",
+   "aliases": [
+    "unquadpentium",
+    "Uqp"
+   ],
+   "note": "145",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドヘキシウム",
+   "aliases": [
+    "unquadhexium",
+    "Uqh"
+   ],
+   "note": "146",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドセプチウム",
+   "aliases": [
+    "unquadseptium",
+    "Uqs"
+   ],
+   "note": "147",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドオクチウム",
+   "aliases": [
+    "unquadoctium",
+    "Uqo"
+   ],
+   "note": "148",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンクアドエンニウム",
+   "aliases": [
+    "unquadennium",
+    "Uqe"
+   ],
+   "note": "149",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントニリウム",
+   "aliases": [
+    "unpentnilium",
+    "Upn"
+   ],
+   "note": "150",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントウニウム",
+   "aliases": [
+    "unpentunium",
+    "Upu"
+   ],
+   "note": "151",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントビウム",
+   "aliases": [
+    "unpentbium",
+    "Upb"
+   ],
+   "note": "152",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントトリウム",
+   "aliases": [
+    "unpenttrium",
+    "Upt"
+   ],
+   "note": "153",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントクアジウム",
+   "aliases": [
+    "unpentquadium",
+    "Upq"
+   ],
+   "note": "154",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントペンチウム",
+   "aliases": [
+    "unpentpentium",
+    "Upp"
+   ],
+   "note": "155",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントヘキシウム",
+   "aliases": [
+    "unpenthexium",
+    "Uph"
+   ],
+   "note": "156",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントセプチウム",
+   "aliases": [
+    "unpentseptium",
+    "Ups"
+   ],
+   "note": "157",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントオクチウム",
+   "aliases": [
+    "unpentoctium",
+    "Upo"
+   ],
+   "note": "158",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンペントエンニウム",
+   "aliases": [
+    "unpentennium",
+    "Upe"
+   ],
+   "note": "159",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスニリウム",
+   "aliases": [
+    "unhexnilium",
+    "Uhn"
+   ],
+   "note": "160",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスウニウム",
+   "aliases": [
+    "unhexunium",
+    "Uhu"
+   ],
+   "note": "161",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスビウム",
+   "aliases": [
+    "unhexbium",
+    "Uhb"
+   ],
+   "note": "162",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキストリウム",
+   "aliases": [
+    "unhextrium",
+    "Uht"
+   ],
+   "note": "163",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスクアジウム",
+   "aliases": [
+    "unhexquadium",
+    "Uhq"
+   ],
+   "note": "164",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスペンチウム",
+   "aliases": [
+    "unhexpentium",
+    "Uhp"
+   ],
+   "note": "165",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスヘキシウム",
+   "aliases": [
+    "unhexhexium",
+    "Uhh"
+   ],
+   "note": "166",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスセプチウム",
+   "aliases": [
+    "unhexseptium",
+    "Uhs"
+   ],
+   "note": "167",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスオクチウム",
+   "aliases": [
+    "unhexoctium",
+    "Uho"
+   ],
+   "note": "168",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンヘキスエンニウム",
+   "aliases": [
+    "unhexennium",
+    "Uhe"
+   ],
+   "note": "169",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンセプトニリウム",
+   "aliases": [
+    "unseptnilium",
+    "Usn"
+   ],
+   "note": "170",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンセプトウニウム",
+   "aliases": [
+    "unseptunium",
+    "Usu"
+   ],
+   "note": "171",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンセプトビウム",
+   "aliases": [
+    "unseptbium",
+    "Usb"
+   ],
+   "note": "172",
+   "group": "拡張周期表（119〜172）",
+   "secret": true,
+   "ghost": false
   }
  ],
  "id": "08-elements",
- "created": 7.0,
- "category": "理科・天文"
+ "created": 7.0
 }

@@ -90,16 +90,22 @@ export class Matcher {
    * 判定する。answered は回答済み index の Set。
    * strict=true（入力途中の自動判定）では、あいまい一致は使わず、
    * 他の未回答項目の前方一致になる入力（例: ギニア / ギニアビサウ）は保留する。
-   * 戻り値: {status:'ok'|'dup'|'none'|'wait', index, fuzzy}
+   * 判定のみ項目（ghost）に当たった場合は status:'ghost'（正解ではない）。
+   * 戻り値: {status:'ok'|'dup'|'ghost'|'none'|'wait', index, fuzzy}
    */
   judge(input, answered, strict = false) {
-    const { key, hits } = this.exact(input);
+    const { key, hits: all } = this.exact(input);
     if (!key) return { status: "none" };
+    const hits = all.filter((i) => !this.items[i].ghost);
+    if (!hits.length && all.length) return { status: "ghost", index: all[0] };
     if (hits.length) {
       const fresh = hits.find((i) => !answered.has(i));
       if (fresh === undefined) return { status: "dup", index: hits[0] };
-      // シークレット項目は待ちの判定に使わない（「博多」で止まると博多南の存在がばれるため）
-      if (strict && this.allKeys.some(([k, i]) => i !== fresh && !answered.has(i) && !this.items[i].secret && k !== key && k.startsWith(key))) {
+      // シークレット・判定のみ項目は待ちの判定に使わない（「博多」で止まると博多南の存在がばれるため）。
+      // ただし英字は1文字ずつ入力されるので、待たないと「u」でウランが確定して「Uue」が打てない
+      const ascii = /^[\x20-\x7e]+$/.test(key);
+      const hidden = (i) => !ascii && (this.items[i].secret || this.items[i].ghost);
+      if (strict && this.allKeys.some(([k, i]) => i !== fresh && !answered.has(i) && !hidden(i) && k !== key && k.startsWith(key))) {
         return { status: "wait" };
       }
       return { status: "ok", index: fresh };
@@ -112,6 +118,7 @@ export class Matcher {
     }
     if (cands.size !== 1) return { status: "none" };
     const [idx] = cands;
+    if (this.items[idx].ghost) return { status: "ghost", index: idx, fuzzy: true };
     return { status: answered.has(idx) ? "dup" : "ok", index: idx, fuzzy: true };
   }
 }
@@ -126,7 +133,7 @@ export function itemsToText(items) {
       if (lines.length) lines.push("");
       lines.push("## " + (group || "（区分なし）"));
     }
-    let s = (it.secret ? "* " : "") + [it.name, ...(it.aliases || [])].join(" | ");
+    let s = (it.secret ? "* " : it.ghost ? "? " : "") + [it.name, ...(it.aliases || [])].join(" | ");
     if (it.note) s += " # " + it.note;
     lines.push(s);
   }
@@ -145,13 +152,14 @@ export function textToItems(text) {
       continue;
     }
     const secret = line.startsWith("*");
-    const rest = secret ? line.slice(1).trim() : line;
+    const ghost = line.startsWith("?");
+    const rest = secret || ghost ? line.slice(1).trim() : line;
     const hash = rest.indexOf("#");
     const body = hash >= 0 ? rest.slice(0, hash) : rest;
     const note = hash >= 0 ? rest.slice(hash + 1).trim() : "";
     const parts = body.split("|").map((p) => p.trim()).filter(Boolean);
     if (!parts.length) continue;
-    items.push({ name: parts[0], aliases: parts.slice(1), note, group, secret });
+    items.push({ name: parts[0], aliases: parts.slice(1), note, group, secret, ghost });
   }
   return items;
 }

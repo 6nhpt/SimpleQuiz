@@ -30,6 +30,7 @@ def parse_text(text):
     以降は 1行1項目:  名前 | 別解 | 別解 # メモ
     「## 区分名」の行以降の項目はその区分（group）に入る。
     行頭が「*」の項目はシークレット（総数に数えず、答えると+1される）。
+    行頭が「?」の項目は判定のみ（答えるとメモを表示するが、正解には数えない）。
     """
     quiz = {"title": "", "category": "", "options": {"suffix": [], "fuzzy": True}, "items": []}
     group = ""
@@ -54,15 +55,15 @@ def parse_text(text):
         if line.startswith("##"):
             group = line[2:].strip()
             continue
-        secret = line.startswith("*")
-        if secret:
+        secret, ghost = line.startswith("*"), line.startswith("?")
+        if secret or ghost:
             line = line[1:].strip()
         body, _, note = line.partition("#")
         parts = [p.strip() for p in body.split("|") if p.strip()]
         if not parts:
             continue
         quiz["items"].append({"name": parts[0], "aliases": parts[1:], "note": note.strip(), "group": group,
-                              "secret": secret})
+                              "secret": secret, "ghost": ghost})
     return quiz
 
 
@@ -112,7 +113,7 @@ def list_quizzes():
         except (OSError, ValueError):
             continue
         out.append({"id": q["id"], "title": q.get("title", ""), "category": q.get("category", ""),
-                    "count": sum(1 for i in q.get("items", []) if not i.get("secret")),
+                    "count": sum(1 for i in q.get("items", []) if not i.get("secret") and not i.get("ghost")),
                     "created": q.get("created", 0)})
     out.sort(key=lambda q: q["created"])
     return out
@@ -133,8 +134,9 @@ def clean_quiz(body, qid, created):
             continue
         aliases = [str(a).strip() for a in it.get("aliases") or [] if str(a).strip()]
         items.append({"name": name, "aliases": aliases, "note": str(it.get("note", "")).strip(),
-                      "group": str(it.get("group", "")).strip(), "secret": bool(it.get("secret"))})
-    if not any(not it["secret"] for it in items):
+                      "group": str(it.get("group", "")).strip(), "secret": bool(it.get("secret")),
+                      "ghost": bool(it.get("ghost")) and not it.get("secret")})
+    if not any(not it["secret"] and not it["ghost"] for it in items):
         raise ValueError("項目がありません")
     return {
         "id": qid,

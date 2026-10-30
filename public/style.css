@@ -162,3 +162,7 @@ input[type=text], input[type=search], input:not([type]), textarea {
 .secret-box { margin-top: 18px; font-size: 14px; background: var(--card); padding: 8px 12px; border-radius: 10px; border: 1px dashed var(--gold); }
 .secret-box summary { color: var(--gold); cursor: pointer; }
 .secret-box .list { padding-left: 1.2em; }
+.feedback.ghost { color: var(--primary); }
+.grp-head.secret { color: var(--gold); }
+.ghost-box { border-color: var(--primary); }
+.ghost-box summary { color: var(--primary); }

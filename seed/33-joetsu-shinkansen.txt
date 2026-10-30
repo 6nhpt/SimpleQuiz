@@ -1,4 +1,4 @@
-@title 上越新幹線の駅（大宮〜新潟）
+@title 上越新幹線の駅
 @category 鉄道
 @suffix 駅,えき
 @fuzzy off
