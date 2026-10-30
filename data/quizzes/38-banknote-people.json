@@ -1,0 +1,247 @@
+{
+ "title": "お札になった人物（日本円）",
+ "category": "歴史・文化",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "菅原道真",
+   "aliases": [
+    "すがわらのみちざね",
+    "菅公"
+   ],
+   "note": "改造五円券など",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "和気清麻呂",
+   "aliases": [
+    "わけのきよまろ"
+   ],
+   "note": "改造十円券・ろ拾圓券など",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "武内宿禰",
+   "aliases": [
+    "たけのうちのすくね",
+    "たけしうちのすくね"
+   ],
+   "note": "改造一円券・い一円券など",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原鎌足",
+   "aliases": [
+    "中臣鎌足",
+    "ふじわらのかまたり",
+    "なかとみのかまたり"
+   ],
+   "note": "改造百円券・丁貳百圓券",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "聖徳太子",
+   "aliases": [
+    "厩戸皇子",
+    "厩戸王",
+    "しょうとくたいし"
+   ],
+   "note": "乙百圓券〜C一万円券",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "日本武尊",
+   "aliases": [
+    "倭建命",
+    "ヤマトタケル",
+    "やまとたけるのみこと"
+   ],
+   "note": "甲千圓券",
+   "group": "明治〜戦前",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "二宮尊徳",
+   "aliases": [
+    "二宮金次郎",
+    "にのみやそんとく",
+    "にのみやきんじろう"
+   ],
+   "note": "A一円券",
+   "group": "戦後（A〜C号券）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高橋是清",
+   "aliases": [
+    "たかはしこれきよ"
+   ],
+   "note": "B五十円券",
+   "group": "戦後（A〜C号券）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "板垣退助",
+   "aliases": [
+    "いたがきたいすけ"
+   ],
+   "note": "B百円券",
+   "group": "戦後（A〜C号券）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岩倉具視",
+   "aliases": [
+    "いわくらともみ"
+   ],
+   "note": "B・C五百円券",
+   "group": "戦後（A〜C号券）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "伊藤博文",
+   "aliases": [
+    "いとうひろぶみ"
+   ],
+   "note": "C千円券",
+   "group": "戦後（A〜C号券）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "夏目漱石",
+   "aliases": [
+    "なつめそうせき"
+   ],
+   "note": "D千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新渡戸稲造",
+   "aliases": [
+    "にとべいなぞう"
+   ],
+   "note": "D五千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福沢諭吉",
+   "aliases": [
+    "福澤諭吉",
+    "ふくざわゆきち"
+   ],
+   "note": "D・E一万円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "樋口一葉",
+   "aliases": [
+    "ひぐちいちよう"
+   ],
+   "note": "E五千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "野口英世",
+   "aliases": [
+    "のぐちひでよ"
+   ],
+   "note": "E千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "渋沢栄一",
+   "aliases": [
+    "澁澤榮一",
+    "渋澤栄一",
+    "しぶさわえいいち"
+   ],
+   "note": "F一万円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "津田梅子",
+   "aliases": [
+    "つだうめこ"
+   ],
+   "note": "F五千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北里柴三郎",
+   "aliases": [
+    "きたさとしばさぶろう"
+   ],
+   "note": "F千円券",
+   "group": "D〜F号券",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神功皇后",
+   "aliases": [
+    "じんぐうこうごう"
+   ],
+   "note": "改造紙幣（明治の政府紙幣）",
+   "group": "政府紙幣",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大黒天",
+   "aliases": [
+    "だいこくてん",
+    "大黒様",
+    "だいこくさま"
+   ],
+   "note": "旧一円券（大黒札）。人物ではないので番外",
+   "group": "番外",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "紫式部",
+   "aliases": [
+    "むらさきしきぶ"
+   ],
+   "note": "D二千円券の裏面。肖像（表面）ではないので番外",
+   "group": "番外",
+   "secret": true,
+   "ghost": false
+  }
+ ],
+ "id": "38-banknote-people",
+ "created": 36.0
+}

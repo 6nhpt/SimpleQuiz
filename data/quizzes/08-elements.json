@@ -1582,6 +1582,9 @@
   {
    "name": "ウンニルクアジウム",
    "aliases": [
+    "ウンニルクアディウム",
+    "ウンニルクワジウム",
+    "ウンニルクワディウム",
     "unnilquadium",
     "Unq"
    ],
@@ -1593,6 +1596,7 @@
   {
    "name": "ウンニルペンチウム",
    "aliases": [
+    "ウンニルペンティウム",
     "unnilpentium",
     "Unp"
    ],
@@ -1604,6 +1608,7 @@
   {
    "name": "ウンニルヘキシウム",
    "aliases": [
+    "ウンニルヘクシウム",
     "unnilhexium",
     "Unh"
    ],
@@ -1615,6 +1620,7 @@
   {
    "name": "ウンニルセプチウム",
    "aliases": [
+    "ウンニルセプティウム",
     "unnilseptium",
     "Uns"
    ],
@@ -1626,6 +1632,7 @@
   {
    "name": "ウンニルオクチウム",
    "aliases": [
+    "ウンニルオクティウム",
     "unniloctium",
     "Uno"
    ],
@@ -1637,6 +1644,7 @@
   {
    "name": "ウンニルエンニウム",
    "aliases": [
+    "ウンニルエニウム",
     "unnilennium",
     "Une"
    ],
@@ -1692,6 +1700,9 @@
   {
    "name": "ウンウンクアジウム",
    "aliases": [
+    "ウンウンクアディウム",
+    "ウンウンクワジウム",
+    "ウンウンクワディウム",
     "ununquadium",
     "Uuq"
    ],
@@ -1703,6 +1714,7 @@
   {
    "name": "ウンウンペンチウム",
    "aliases": [
+    "ウンウンペンティウム",
     "ununpentium",
     "Uup"
    ],
@@ -1714,6 +1726,7 @@
   {
    "name": "ウンウンヘキシウム",
    "aliases": [
+    "ウンウンヘクシウム",
     "ununhexium",
     "Uuh"
    ],
@@ -1725,6 +1738,7 @@
   {
    "name": "ウンウンセプチウム",
    "aliases": [
+    "ウンウンセプティウム",
     "ununseptium",
     "Uus"
    ],
@@ -1736,6 +1750,7 @@
   {
    "name": "ウンウンオクチウム",
    "aliases": [
+    "ウンウンオクティウム",
     "ununoctium",
     "Uuo"
    ],
@@ -1747,11 +1762,12 @@
   {
    "name": "ウンウンエンニウム",
    "aliases": [
+    "ウンウンエニウム",
     "ununennium",
     "Uue"
    ],
    "note": "119",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1762,7 +1778,7 @@
     "Ubn"
    ],
    "note": "120",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1773,7 +1789,7 @@
     "Ubu"
    ],
    "note": "121",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1784,7 +1800,7 @@
     "Ubb"
    ],
    "note": "122",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1795,73 +1811,81 @@
     "Ubt"
    ],
    "note": "123",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビクアジウム",
    "aliases": [
+    "ウンビクアディウム",
+    "ウンビクワジウム",
+    "ウンビクワディウム",
     "unbiquadium",
     "Ubq"
    ],
    "note": "124",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビペンチウム",
    "aliases": [
+    "ウンビペンティウム",
     "unbipentium",
     "Ubp"
    ],
    "note": "125",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビヘキシウム",
    "aliases": [
+    "ウンビヘクシウム",
     "unbihexium",
     "Ubh"
    ],
    "note": "126",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビセプチウム",
    "aliases": [
+    "ウンビセプティウム",
     "unbiseptium",
     "Ubs"
    ],
    "note": "127",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビオクチウム",
    "aliases": [
+    "ウンビオクティウム",
     "unbioctium",
     "Ubo"
    ],
    "note": "128",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンビエンニウム",
    "aliases": [
+    "ウンビエニウム",
     "unbiennium",
     "Ube"
    ],
    "note": "129",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1872,7 +1896,7 @@
     "Utn"
    ],
    "note": "130",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1883,7 +1907,7 @@
     "Utu"
    ],
    "note": "131",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1894,7 +1918,7 @@
     "Utb"
    ],
    "note": "132",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -1905,183 +1929,219 @@
     "Utt"
    ],
    "note": "133",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリクアジウム",
    "aliases": [
+    "ウントリクアディウム",
+    "ウントリクワジウム",
+    "ウントリクワディウム",
     "untriquadium",
     "Utq"
    ],
    "note": "134",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリペンチウム",
    "aliases": [
+    "ウントリペンティウム",
     "untripentium",
     "Utp"
    ],
    "note": "135",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリヘキシウム",
    "aliases": [
+    "ウントリヘクシウム",
     "untrihexium",
     "Uth"
    ],
    "note": "136",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリセプチウム",
    "aliases": [
+    "ウントリセプティウム",
     "untriseptium",
-    "Uts"
+    "Uts",
+    "ファインマニウム",
+    "feynmanium"
    ],
    "note": "137",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリオクチウム",
    "aliases": [
+    "ウントリオクティウム",
     "untrioctium",
     "Uto"
    ],
    "note": "138",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウントリエンニウム",
    "aliases": [
+    "ウントリエニウム",
     "untriennium",
     "Ute"
    ],
    "note": "139",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドニリウム",
    "aliases": [
+    "ウンクワドニリウム",
     "unquadnilium",
     "Uqn"
    ],
    "note": "140",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドウニウム",
    "aliases": [
+    "ウンクワドウニウム",
     "unquadunium",
     "Uqu"
    ],
    "note": "141",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドビウム",
    "aliases": [
+    "ウンクワドビウム",
     "unquadbium",
     "Uqb"
    ],
    "note": "142",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドトリウム",
    "aliases": [
+    "ウンクワドトリウム",
     "unquadtrium",
     "Uqt"
    ],
    "note": "143",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドクアジウム",
    "aliases": [
+    "ウンクアドクアディウム",
+    "ウンクアドクワジウム",
+    "ウンクアドクワディウム",
+    "ウンクワドクアジウム",
+    "ウンクワドクアディウム",
+    "ウンクワドクワジウム",
+    "ウンクワドクワディウム",
     "unquadquadium",
     "Uqq"
    ],
    "note": "144",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドペンチウム",
    "aliases": [
+    "ウンクアドペンティウム",
+    "ウンクワドペンチウム",
+    "ウンクワドペンティウム",
     "unquadpentium",
     "Uqp"
    ],
    "note": "145",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドヘキシウム",
    "aliases": [
+    "ウンクアドヘクシウム",
+    "ウンクワドヘキシウム",
+    "ウンクワドヘクシウム",
     "unquadhexium",
     "Uqh"
    ],
    "note": "146",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドセプチウム",
    "aliases": [
+    "ウンクアドセプティウム",
+    "ウンクワドセプチウム",
+    "ウンクワドセプティウム",
     "unquadseptium",
     "Uqs"
    ],
    "note": "147",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドオクチウム",
    "aliases": [
+    "ウンクアドオクティウム",
+    "ウンクワドオクチウム",
+    "ウンクワドオクティウム",
     "unquadoctium",
     "Uqo"
    ],
    "note": "148",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンクアドエンニウム",
    "aliases": [
+    "ウンクアドエニウム",
+    "ウンクワドエンニウム",
+    "ウンクワドエニウム",
     "unquadennium",
     "Uqe"
    ],
    "note": "149",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2092,7 +2152,7 @@
     "Upn"
    ],
    "note": "150",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2103,7 +2163,7 @@
     "Upu"
    ],
    "note": "151",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2114,7 +2174,7 @@
     "Upb"
    ],
    "note": "152",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2125,183 +2185,217 @@
     "Upt"
    ],
    "note": "153",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントクアジウム",
    "aliases": [
+    "ウンペントクアディウム",
+    "ウンペントクワジウム",
+    "ウンペントクワディウム",
     "unpentquadium",
     "Upq"
    ],
    "note": "154",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントペンチウム",
    "aliases": [
+    "ウンペントペンティウム",
     "unpentpentium",
     "Upp"
    ],
    "note": "155",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントヘキシウム",
    "aliases": [
+    "ウンペントヘクシウム",
     "unpenthexium",
     "Uph"
    ],
    "note": "156",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントセプチウム",
    "aliases": [
+    "ウンペントセプティウム",
     "unpentseptium",
     "Ups"
    ],
    "note": "157",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントオクチウム",
    "aliases": [
+    "ウンペントオクティウム",
     "unpentoctium",
     "Upo"
    ],
    "note": "158",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンペントエンニウム",
    "aliases": [
+    "ウンペントエニウム",
     "unpentennium",
     "Upe"
    ],
    "note": "159",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスニリウム",
    "aliases": [
+    "ウンヘクスニリウム",
     "unhexnilium",
     "Uhn"
    ],
    "note": "160",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスウニウム",
    "aliases": [
+    "ウンヘクスウニウム",
     "unhexunium",
     "Uhu"
    ],
    "note": "161",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスビウム",
    "aliases": [
+    "ウンヘクスビウム",
     "unhexbium",
     "Uhb"
    ],
    "note": "162",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキストリウム",
    "aliases": [
+    "ウンヘクストリウム",
     "unhextrium",
     "Uht"
    ],
    "note": "163",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスクアジウム",
    "aliases": [
+    "ウンヘキスクアディウム",
+    "ウンヘキスクワジウム",
+    "ウンヘキスクワディウム",
+    "ウンヘクスクアジウム",
+    "ウンヘクスクアディウム",
+    "ウンヘクスクワジウム",
+    "ウンヘクスクワディウム",
     "unhexquadium",
     "Uhq"
    ],
    "note": "164",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスペンチウム",
    "aliases": [
+    "ウンヘキスペンティウム",
+    "ウンヘクスペンチウム",
+    "ウンヘクスペンティウム",
     "unhexpentium",
     "Uhp"
    ],
    "note": "165",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスヘキシウム",
    "aliases": [
+    "ウンヘキスヘクシウム",
+    "ウンヘクスヘキシウム",
+    "ウンヘクスヘクシウム",
     "unhexhexium",
     "Uhh"
    ],
    "note": "166",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスセプチウム",
    "aliases": [
+    "ウンヘキスセプティウム",
+    "ウンヘクスセプチウム",
+    "ウンヘクスセプティウム",
     "unhexseptium",
     "Uhs"
    ],
    "note": "167",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスオクチウム",
    "aliases": [
+    "ウンヘキスオクティウム",
+    "ウンヘクスオクチウム",
+    "ウンヘクスオクティウム",
     "unhexoctium",
     "Uho"
    ],
    "note": "168",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
   {
    "name": "ウンヘキスエンニウム",
    "aliases": [
+    "ウンヘキスエニウム",
+    "ウンヘクスエンニウム",
+    "ウンヘクスエニウム",
     "unhexennium",
     "Uhe"
    ],
    "note": "169",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2312,7 +2406,7 @@
     "Usn"
    ],
    "note": "170",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2323,7 +2417,7 @@
     "Usu"
    ],
    "note": "171",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   },
@@ -2334,7 +2428,18 @@
     "Usb"
    ],
    "note": "172",
-   "group": "拡張周期表（119〜172）",
+   "group": "拡張周期表（119〜173）",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "ウンセプトトリウム",
+   "aliases": [
+    "unsepttrium",
+    "Ust"
+   ],
+   "note": "173",
+   "group": "拡張周期表（119〜173）",
    "secret": true,
    "ghost": false
   }

@@ -133,74 +133,75 @@
 ? ウォルフラム | wolfram # タングステン（74）の別名。記号Wの由来
 ? アゾート | azote # 窒素（7）の旧名
 ? エマナチオン | ニトン | emanation | niton # ラドン（86）の旧名
-? ウンニルクアジウム | unnilquadium | Unq # ラザホージウム（104）の命名前の仮名
-? ウンニルペンチウム | unnilpentium | Unp # ドブニウム（105）の命名前の仮名
-? ウンニルヘキシウム | unnilhexium | Unh # シーボーギウム（106）の命名前の仮名
-? ウンニルセプチウム | unnilseptium | Uns # ボーリウム（107）の命名前の仮名
-? ウンニルオクチウム | unniloctium | Uno # ハッシウム（108）の命名前の仮名
-? ウンニルエンニウム | unnilennium | Une # マイトネリウム（109）の命名前の仮名
+? ウンニルクアジウム | ウンニルクアディウム | ウンニルクワジウム | ウンニルクワディウム | unnilquadium | Unq # ラザホージウム（104）の命名前の仮名
+? ウンニルペンチウム | ウンニルペンティウム | unnilpentium | Unp # ドブニウム（105）の命名前の仮名
+? ウンニルヘキシウム | ウンニルヘクシウム | unnilhexium | Unh # シーボーギウム（106）の命名前の仮名
+? ウンニルセプチウム | ウンニルセプティウム | unnilseptium | Uns # ボーリウム（107）の命名前の仮名
+? ウンニルオクチウム | ウンニルオクティウム | unniloctium | Uno # ハッシウム（108）の命名前の仮名
+? ウンニルエンニウム | ウンニルエニウム | unnilennium | Une # マイトネリウム（109）の命名前の仮名
 ? ウンウンニリウム | ununnilium | Uun # ダームスタチウム（110）の命名前の仮名
 ? ウンウンウニウム | unununium | Uuu # レントゲニウム（111）の命名前の仮名
 ? ウンウンビウム | ununbium | Uub # コペルニシウム（112）の命名前の仮名
 ? ウンウントリウム | ununtrium | Uut # ニホニウム（113）の命名前の仮名
-? ウンウンクアジウム | ununquadium | Uuq # フレロビウム（114）の命名前の仮名
-? ウンウンペンチウム | ununpentium | Uup # モスコビウム（115）の命名前の仮名
-? ウンウンヘキシウム | ununhexium | Uuh # リバモリウム（116）の命名前の仮名
-? ウンウンセプチウム | ununseptium | Uus # テネシン（117）の命名前の仮名
-? ウンウンオクチウム | ununoctium | Uuo # オガネソン（118）の命名前の仮名
+? ウンウンクアジウム | ウンウンクアディウム | ウンウンクワジウム | ウンウンクワディウム | ununquadium | Uuq # フレロビウム（114）の命名前の仮名
+? ウンウンペンチウム | ウンウンペンティウム | ununpentium | Uup # モスコビウム（115）の命名前の仮名
+? ウンウンヘキシウム | ウンウンヘクシウム | ununhexium | Uuh # リバモリウム（116）の命名前の仮名
+? ウンウンセプチウム | ウンウンセプティウム | ununseptium | Uus # テネシン（117）の命名前の仮名
+? ウンウンオクチウム | ウンウンオクティウム | ununoctium | Uuo # オガネソン（118）の命名前の仮名
 
-## 拡張周期表（119〜172）
-* ウンウンエンニウム | ununennium | Uue # 119
+## 拡張周期表（119〜173）
+* ウンウンエンニウム | ウンウンエニウム | ununennium | Uue # 119
 * ウンビニリウム | unbinilium | Ubn # 120
 * ウンビウニウム | unbiunium | Ubu # 121
 * ウンビビウム | unbibium | Ubb # 122
 * ウンビトリウム | unbitrium | Ubt # 123
-* ウンビクアジウム | unbiquadium | Ubq # 124
-* ウンビペンチウム | unbipentium | Ubp # 125
-* ウンビヘキシウム | unbihexium | Ubh # 126
-* ウンビセプチウム | unbiseptium | Ubs # 127
-* ウンビオクチウム | unbioctium | Ubo # 128
-* ウンビエンニウム | unbiennium | Ube # 129
+* ウンビクアジウム | ウンビクアディウム | ウンビクワジウム | ウンビクワディウム | unbiquadium | Ubq # 124
+* ウンビペンチウム | ウンビペンティウム | unbipentium | Ubp # 125
+* ウンビヘキシウム | ウンビヘクシウム | unbihexium | Ubh # 126
+* ウンビセプチウム | ウンビセプティウム | unbiseptium | Ubs # 127
+* ウンビオクチウム | ウンビオクティウム | unbioctium | Ubo # 128
+* ウンビエンニウム | ウンビエニウム | unbiennium | Ube # 129
 * ウントリニリウム | untrinilium | Utn # 130
 * ウントリウニウム | untriunium | Utu # 131
 * ウントリビウム | untribium | Utb # 132
 * ウントリトリウム | untritrium | Utt # 133
-* ウントリクアジウム | untriquadium | Utq # 134
-* ウントリペンチウム | untripentium | Utp # 135
-* ウントリヘキシウム | untrihexium | Uth # 136
-* ウントリセプチウム | untriseptium | Uts # 137
-* ウントリオクチウム | untrioctium | Uto # 138
-* ウントリエンニウム | untriennium | Ute # 139
-* ウンクアドニリウム | unquadnilium | Uqn # 140
-* ウンクアドウニウム | unquadunium | Uqu # 141
-* ウンクアドビウム | unquadbium | Uqb # 142
-* ウンクアドトリウム | unquadtrium | Uqt # 143
-* ウンクアドクアジウム | unquadquadium | Uqq # 144
-* ウンクアドペンチウム | unquadpentium | Uqp # 145
-* ウンクアドヘキシウム | unquadhexium | Uqh # 146
-* ウンクアドセプチウム | unquadseptium | Uqs # 147
-* ウンクアドオクチウム | unquadoctium | Uqo # 148
-* ウンクアドエンニウム | unquadennium | Uqe # 149
+* ウントリクアジウム | ウントリクアディウム | ウントリクワジウム | ウントリクワディウム | untriquadium | Utq # 134
+* ウントリペンチウム | ウントリペンティウム | untripentium | Utp # 135
+* ウントリヘキシウム | ウントリヘクシウム | untrihexium | Uth # 136
+* ウントリセプチウム | ウントリセプティウム | untriseptium | Uts | ファインマニウム | feynmanium # 137
+* ウントリオクチウム | ウントリオクティウム | untrioctium | Uto # 138
+* ウントリエンニウム | ウントリエニウム | untriennium | Ute # 139
+* ウンクアドニリウム | ウンクワドニリウム | unquadnilium | Uqn # 140
+* ウンクアドウニウム | ウンクワドウニウム | unquadunium | Uqu # 141
+* ウンクアドビウム | ウンクワドビウム | unquadbium | Uqb # 142
+* ウンクアドトリウム | ウンクワドトリウム | unquadtrium | Uqt # 143
+* ウンクアドクアジウム | ウンクアドクアディウム | ウンクアドクワジウム | ウンクアドクワディウム | ウンクワドクアジウム | ウンクワドクアディウム | ウンクワドクワジウム | ウンクワドクワディウム | unquadquadium | Uqq # 144
+* ウンクアドペンチウム | ウンクアドペンティウム | ウンクワドペンチウム | ウンクワドペンティウム | unquadpentium | Uqp # 145
+* ウンクアドヘキシウム | ウンクアドヘクシウム | ウンクワドヘキシウム | ウンクワドヘクシウム | unquadhexium | Uqh # 146
+* ウンクアドセプチウム | ウンクアドセプティウム | ウンクワドセプチウム | ウンクワドセプティウム | unquadseptium | Uqs # 147
+* ウンクアドオクチウム | ウンクアドオクティウム | ウンクワドオクチウム | ウンクワドオクティウム | unquadoctium | Uqo # 148
+* ウンクアドエンニウム | ウンクアドエニウム | ウンクワドエンニウム | ウンクワドエニウム | unquadennium | Uqe # 149
 * ウンペントニリウム | unpentnilium | Upn # 150
 * ウンペントウニウム | unpentunium | Upu # 151
 * ウンペントビウム | unpentbium | Upb # 152
 * ウンペントトリウム | unpenttrium | Upt # 153
-* ウンペントクアジウム | unpentquadium | Upq # 154
-* ウンペントペンチウム | unpentpentium | Upp # 155
-* ウンペントヘキシウム | unpenthexium | Uph # 156
-* ウンペントセプチウム | unpentseptium | Ups # 157
-* ウンペントオクチウム | unpentoctium | Upo # 158
-* ウンペントエンニウム | unpentennium | Upe # 159
-* ウンヘキスニリウム | unhexnilium | Uhn # 160
-* ウンヘキスウニウム | unhexunium | Uhu # 161
-* ウンヘキスビウム | unhexbium | Uhb # 162
-* ウンヘキストリウム | unhextrium | Uht # 163
-* ウンヘキスクアジウム | unhexquadium | Uhq # 164
-* ウンヘキスペンチウム | unhexpentium | Uhp # 165
-* ウンヘキスヘキシウム | unhexhexium | Uhh # 166
-* ウンヘキスセプチウム | unhexseptium | Uhs # 167
-* ウンヘキスオクチウム | unhexoctium | Uho # 168
-* ウンヘキスエンニウム | unhexennium | Uhe # 169
+* ウンペントクアジウム | ウンペントクアディウム | ウンペントクワジウム | ウンペントクワディウム | unpentquadium | Upq # 154
+* ウンペントペンチウム | ウンペントペンティウム | unpentpentium | Upp # 155
+* ウンペントヘキシウム | ウンペントヘクシウム | unpenthexium | Uph # 156
+* ウンペントセプチウム | ウンペントセプティウム | unpentseptium | Ups # 157
+* ウンペントオクチウム | ウンペントオクティウム | unpentoctium | Upo # 158
+* ウンペントエンニウム | ウンペントエニウム | unpentennium | Upe # 159
+* ウンヘキスニリウム | ウンヘクスニリウム | unhexnilium | Uhn # 160
+* ウンヘキスウニウム | ウンヘクスウニウム | unhexunium | Uhu # 161
+* ウンヘキスビウム | ウンヘクスビウム | unhexbium | Uhb # 162
+* ウンヘキストリウム | ウンヘクストリウム | unhextrium | Uht # 163
+* ウンヘキスクアジウム | ウンヘキスクアディウム | ウンヘキスクワジウム | ウンヘキスクワディウム | ウンヘクスクアジウム | ウンヘクスクアディウム | ウンヘクスクワジウム | ウンヘクスクワディウム | unhexquadium | Uhq # 164
+* ウンヘキスペンチウム | ウンヘキスペンティウム | ウンヘクスペンチウム | ウンヘクスペンティウム | unhexpentium | Uhp # 165
+* ウンヘキスヘキシウム | ウンヘキスヘクシウム | ウンヘクスヘキシウム | ウンヘクスヘクシウム | unhexhexium | Uhh # 166
+* ウンヘキスセプチウム | ウンヘキスセプティウム | ウンヘクスセプチウム | ウンヘクスセプティウム | unhexseptium | Uhs # 167
+* ウンヘキスオクチウム | ウンヘキスオクティウム | ウンヘクスオクチウム | ウンヘクスオクティウム | unhexoctium | Uho # 168
+* ウンヘキスエンニウム | ウンヘキスエニウム | ウンヘクスエンニウム | ウンヘクスエニウム | unhexennium | Uhe # 169
 * ウンセプトニリウム | unseptnilium | Usn # 170
 * ウンセプトウニウム | unseptunium | Usu # 171
 * ウンセプトビウム | unseptbium | Usb # 172
+* ウンセプトトリウム | unsepttrium | Ust # 173

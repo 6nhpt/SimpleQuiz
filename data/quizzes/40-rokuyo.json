@@ -1,0 +1,82 @@
+{
+ "title": "六曜",
+ "category": "歴史・文化",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "先勝",
+   "aliases": [
+    "せんしょう",
+    "さきがち",
+    "せんかち",
+    "さきかち"
+   ],
+   "note": "午前は吉、午後は凶",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "友引",
+   "aliases": [
+    "ともびき"
+   ],
+   "note": "朝夕は吉、昼は凶。葬儀を避ける",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "先負",
+   "aliases": [
+    "せんぶ",
+    "さきまけ",
+    "せんまけ",
+    "せんぷ"
+   ],
+   "note": "午前は凶、午後は吉",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "仏滅",
+   "aliases": [
+    "ぶつめつ"
+   ],
+   "note": "万事に凶",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大安",
+   "aliases": [
+    "たいあん",
+    "だいあん"
+   ],
+   "note": "万事に吉",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "赤口",
+   "aliases": [
+    "しゃっこう",
+    "しゃっく",
+    "じゃっく",
+    "せきぐち"
+   ],
+   "note": "正午のみ吉",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "40-rokuyo",
+ "created": 38.0
+}

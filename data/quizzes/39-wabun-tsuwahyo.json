@@ -1,0 +1,557 @@
+{
+ "title": "和文通話表",
+ "category": "ことば・記号",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "朝日",
+   "aliases": [
+    "あさひ"
+   ],
+   "note": "ア",
+   "group": "ア行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "いろは",
+   "aliases": [],
+   "note": "イ",
+   "group": "ア行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上野",
+   "aliases": [
+    "うえの"
+   ],
+   "note": "ウ",
+   "group": "ア行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "英語",
+   "aliases": [
+    "えいご"
+   ],
+   "note": "エ",
+   "group": "ア行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪",
+   "aliases": [
+    "おおさか"
+   ],
+   "note": "オ",
+   "group": "ア行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "為替",
+   "aliases": [
+    "かわせ"
+   ],
+   "note": "カ",
+   "group": "カ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "切手",
+   "aliases": [
+    "きって"
+   ],
+   "note": "キ",
+   "group": "カ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "クラブ",
+   "aliases": [],
+   "note": "ク",
+   "group": "カ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "景色",
+   "aliases": [
+    "けしき"
+   ],
+   "note": "ケ",
+   "group": "カ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "子供",
+   "aliases": [
+    "こども"
+   ],
+   "note": "コ",
+   "group": "カ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "桜",
+   "aliases": [
+    "さくら"
+   ],
+   "note": "サ",
+   "group": "サ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新聞",
+   "aliases": [
+    "しんぶん"
+   ],
+   "note": "シ",
+   "group": "サ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "すずめ",
+   "aliases": [
+    "雀"
+   ],
+   "note": "ス",
+   "group": "サ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "世界",
+   "aliases": [
+    "せかい"
+   ],
+   "note": "セ",
+   "group": "サ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "そろばん",
+   "aliases": [
+    "算盤"
+   ],
+   "note": "ソ",
+   "group": "サ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "煙草",
+   "aliases": [
+    "たばこ",
+    "タバコ"
+   ],
+   "note": "タ",
+   "group": "タ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ちどり",
+   "aliases": [
+    "千鳥"
+   ],
+   "note": "チ",
+   "group": "タ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "つるかめ",
+   "aliases": [
+    "鶴亀"
+   ],
+   "note": "ツ",
+   "group": "タ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "手紙",
+   "aliases": [
+    "てがみ"
+   ],
+   "note": "テ",
+   "group": "タ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京",
+   "aliases": [
+    "とうきょう"
+   ],
+   "note": "ト",
+   "group": "タ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋",
+   "aliases": [
+    "なごや"
+   ],
+   "note": "ナ",
+   "group": "ナ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "日本",
+   "aliases": [
+    "にっぽん",
+    "にほん"
+   ],
+   "note": "ニ",
+   "group": "ナ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "沼津",
+   "aliases": [
+    "ぬまづ"
+   ],
+   "note": "ヌ",
+   "group": "ナ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ねずみ",
+   "aliases": [
+    "鼠"
+   ],
+   "note": "ネ",
+   "group": "ナ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "野原",
+   "aliases": [
+    "のはら"
+   ],
+   "note": "ノ",
+   "group": "ナ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "はがき",
+   "aliases": [
+    "葉書"
+   ],
+   "note": "ハ",
+   "group": "ハ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "飛行機",
+   "aliases": [
+    "ひこうき"
+   ],
+   "note": "ヒ",
+   "group": "ハ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "富士山",
+   "aliases": [
+    "ふじさん"
+   ],
+   "note": "フ",
+   "group": "ハ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "平和",
+   "aliases": [
+    "へいわ"
+   ],
+   "note": "ヘ",
+   "group": "ハ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "保険",
+   "aliases": [
+    "ほけん"
+   ],
+   "note": "ホ",
+   "group": "ハ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "マッチ",
+   "aliases": [],
+   "note": "マ",
+   "group": "マ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "三笠",
+   "aliases": [
+    "みかさ"
+   ],
+   "note": "ミ",
+   "group": "マ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "無線",
+   "aliases": [
+    "むせん"
+   ],
+   "note": "ム",
+   "group": "マ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "明治",
+   "aliases": [
+    "めいじ"
+   ],
+   "note": "メ",
+   "group": "マ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "もみじ",
+   "aliases": [
+    "紅葉"
+   ],
+   "note": "モ",
+   "group": "マ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大和",
+   "aliases": [
+    "やまと"
+   ],
+   "note": "ヤ",
+   "group": "ヤ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "弓矢",
+   "aliases": [
+    "ゆみや"
+   ],
+   "note": "ユ",
+   "group": "ヤ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吉野",
+   "aliases": [
+    "よしの"
+   ],
+   "note": "ヨ",
+   "group": "ヤ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ラジオ",
+   "aliases": [],
+   "note": "ラ",
+   "group": "ラ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "りんご",
+   "aliases": [
+    "林檎"
+   ],
+   "note": "リ",
+   "group": "ラ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "るすい",
+   "aliases": [
+    "留守居"
+   ],
+   "note": "ル",
+   "group": "ラ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "れんげ",
+   "aliases": [
+    "蓮華"
+   ],
+   "note": "レ",
+   "group": "ラ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ローマ",
+   "aliases": [],
+   "note": "ロ",
+   "group": "ラ行",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "わらび",
+   "aliases": [
+    "蕨"
+   ],
+   "note": "ワ",
+   "group": "ワ行・ン",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ゐど",
+   "aliases": [
+    "井戸",
+    "いど"
+   ],
+   "note": "ヰ",
+   "group": "ワ行・ン",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "かぎのあるヱ",
+   "aliases": [
+    "鍵のあるヱ",
+    "かぎのある",
+    "鍵のある"
+   ],
+   "note": "ヱ",
+   "group": "ワ行・ン",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "尾張",
+   "aliases": [
+    "おわり"
+   ],
+   "note": "ヲ",
+   "group": "ワ行・ン",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "おしまい",
+   "aliases": [
+    "お仕舞い"
+   ],
+   "note": "ン",
+   "group": "ワ行・ン",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "濁点",
+   "aliases": [
+    "だくてん"
+   ],
+   "note": "゛",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "半濁点",
+   "aliases": [
+    "はんだくてん"
+   ],
+   "note": "゜",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長音",
+   "aliases": [
+    "ちょうおん"
+   ],
+   "note": "ー",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "区切点",
+   "aliases": [
+    "くぎりてん"
+   ],
+   "note": "、",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "段落",
+   "aliases": [
+    "だんらく"
+   ],
+   "note": "∟",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下向括弧",
+   "aliases": [
+    "したむきかっこ"
+   ],
+   "note": "（",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上向括弧",
+   "aliases": [
+    "うわむきかっこ"
+   ],
+   "note": "）",
+   "group": "記号",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "39-wabun-tsuwahyo",
+ "created": 37.0
+}
