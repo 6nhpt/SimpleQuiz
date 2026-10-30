@@ -1,0 +1,615 @@
+{
+ "title": "88星座",
+ "options": {
+  "suffix": [
+   "座",
+   "ざ"
+  ],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "アンドロメダ座",
+   "aliases": [],
+   "note": "Andromeda"
+  },
+  {
+   "name": "いっかくじゅう座",
+   "aliases": [
+    "一角獣座"
+   ],
+   "note": "Monoceros"
+  },
+  {
+   "name": "いて座",
+   "aliases": [
+    "射手座"
+   ],
+   "note": "Sagittarius"
+  },
+  {
+   "name": "いるか座",
+   "aliases": [
+    "海豚座"
+   ],
+   "note": "Delphinus"
+  },
+  {
+   "name": "インディアン座",
+   "aliases": [],
+   "note": "Indus"
+  },
+  {
+   "name": "うお座",
+   "aliases": [
+    "魚座"
+   ],
+   "note": "Pisces"
+  },
+  {
+   "name": "うさぎ座",
+   "aliases": [
+    "兎座"
+   ],
+   "note": "Lepus"
+  },
+  {
+   "name": "うしかい座",
+   "aliases": [
+    "牛飼座",
+    "牛飼い座"
+   ],
+   "note": "Boötes"
+  },
+  {
+   "name": "うみへび座",
+   "aliases": [
+    "海蛇座"
+   ],
+   "note": "Hydra"
+  },
+  {
+   "name": "エリダヌス座",
+   "aliases": [],
+   "note": "Eridanus"
+  },
+  {
+   "name": "おうし座",
+   "aliases": [
+    "牡牛座"
+   ],
+   "note": "Taurus"
+  },
+  {
+   "name": "おおいぬ座",
+   "aliases": [
+    "大犬座"
+   ],
+   "note": "Canis Major"
+  },
+  {
+   "name": "おおかみ座",
+   "aliases": [
+    "狼座"
+   ],
+   "note": "Lupus"
+  },
+  {
+   "name": "おおぐま座",
+   "aliases": [
+    "大熊座"
+   ],
+   "note": "Ursa Major"
+  },
+  {
+   "name": "おとめ座",
+   "aliases": [
+    "乙女座"
+   ],
+   "note": "Virgo"
+  },
+  {
+   "name": "おひつじ座",
+   "aliases": [
+    "牡羊座"
+   ],
+   "note": "Aries"
+  },
+  {
+   "name": "オリオン座",
+   "aliases": [],
+   "note": "Orion"
+  },
+  {
+   "name": "がか座",
+   "aliases": [
+    "画架座"
+   ],
+   "note": "Pictor"
+  },
+  {
+   "name": "カシオペヤ座",
+   "aliases": [
+    "カシオペア座"
+   ],
+   "note": "Cassiopeia"
+  },
+  {
+   "name": "かじき座",
+   "aliases": [
+    "旗魚座"
+   ],
+   "note": "Dorado"
+  },
+  {
+   "name": "かに座",
+   "aliases": [
+    "蟹座"
+   ],
+   "note": "Cancer"
+  },
+  {
+   "name": "かみのけ座",
+   "aliases": [
+    "髪の毛座"
+   ],
+   "note": "Coma Berenices"
+  },
+  {
+   "name": "カメレオン座",
+   "aliases": [],
+   "note": "Chamaeleon"
+  },
+  {
+   "name": "からす座",
+   "aliases": [
+    "烏座"
+   ],
+   "note": "Corvus"
+  },
+  {
+   "name": "かんむり座",
+   "aliases": [
+    "冠座"
+   ],
+   "note": "Corona Borealis"
+  },
+  {
+   "name": "きょしちょう座",
+   "aliases": [
+    "巨嘴鳥座"
+   ],
+   "note": "Tucana"
+  },
+  {
+   "name": "ぎょしゃ座",
+   "aliases": [
+    "馭者座",
+    "御者座"
+   ],
+   "note": "Auriga"
+  },
+  {
+   "name": "きりん座",
+   "aliases": [
+    "麒麟座"
+   ],
+   "note": "Camelopardalis"
+  },
+  {
+   "name": "くじゃく座",
+   "aliases": [
+    "孔雀座"
+   ],
+   "note": "Pavo"
+  },
+  {
+   "name": "くじら座",
+   "aliases": [
+    "鯨座"
+   ],
+   "note": "Cetus"
+  },
+  {
+   "name": "ケフェウス座",
+   "aliases": [],
+   "note": "Cepheus"
+  },
+  {
+   "name": "ケンタウルス座",
+   "aliases": [],
+   "note": "Centaurus"
+  },
+  {
+   "name": "けんびきょう座",
+   "aliases": [
+    "顕微鏡座"
+   ],
+   "note": "Microscopium"
+  },
+  {
+   "name": "こいぬ座",
+   "aliases": [
+    "小犬座"
+   ],
+   "note": "Canis Minor"
+  },
+  {
+   "name": "こうま座",
+   "aliases": [
+    "小馬座"
+   ],
+   "note": "Equuleus"
+  },
+  {
+   "name": "こぎつね座",
+   "aliases": [
+    "小狐座"
+   ],
+   "note": "Vulpecula"
+  },
+  {
+   "name": "こぐま座",
+   "aliases": [
+    "小熊座"
+   ],
+   "note": "Ursa Minor"
+  },
+  {
+   "name": "こじし座",
+   "aliases": [
+    "小獅子座"
+   ],
+   "note": "Leo Minor"
+  },
+  {
+   "name": "コップ座",
+   "aliases": [],
+   "note": "Crater"
+  },
+  {
+   "name": "こと座",
+   "aliases": [
+    "琴座"
+   ],
+   "note": "Lyra"
+  },
+  {
+   "name": "コンパス座",
+   "aliases": [],
+   "note": "Circinus"
+  },
+  {
+   "name": "さいだん座",
+   "aliases": [
+    "祭壇座"
+   ],
+   "note": "Ara"
+  },
+  {
+   "name": "さそり座",
+   "aliases": [
+    "蠍座"
+   ],
+   "note": "Scorpius"
+  },
+  {
+   "name": "さんかく座",
+   "aliases": [
+    "三角座"
+   ],
+   "note": "Triangulum"
+  },
+  {
+   "name": "しし座",
+   "aliases": [
+    "獅子座"
+   ],
+   "note": "Leo"
+  },
+  {
+   "name": "じょうぎ座",
+   "aliases": [
+    "定規座"
+   ],
+   "note": "Norma"
+  },
+  {
+   "name": "たて座",
+   "aliases": [
+    "楯座",
+    "盾座"
+   ],
+   "note": "Scutum"
+  },
+  {
+   "name": "ちょうこくぐ座",
+   "aliases": [
+    "彫刻具座"
+   ],
+   "note": "Caelum"
+  },
+  {
+   "name": "ちょうこくしつ座",
+   "aliases": [
+    "彫刻室座"
+   ],
+   "note": "Sculptor"
+  },
+  {
+   "name": "つる座",
+   "aliases": [
+    "鶴座"
+   ],
+   "note": "Grus"
+  },
+  {
+   "name": "テーブルさん座",
+   "aliases": [
+    "テーブル山座"
+   ],
+   "note": "Mensa"
+  },
+  {
+   "name": "てんびん座",
+   "aliases": [
+    "天秤座"
+   ],
+   "note": "Libra"
+  },
+  {
+   "name": "とかげ座",
+   "aliases": [
+    "蜥蜴座"
+   ],
+   "note": "Lacerta"
+  },
+  {
+   "name": "とけい座",
+   "aliases": [
+    "時計座"
+   ],
+   "note": "Horologium"
+  },
+  {
+   "name": "とびうお座",
+   "aliases": [
+    "飛魚座"
+   ],
+   "note": "Volans"
+  },
+  {
+   "name": "とも座",
+   "aliases": [
+    "艫座"
+   ],
+   "note": "Puppis"
+  },
+  {
+   "name": "はえ座",
+   "aliases": [
+    "蝿座"
+   ],
+   "note": "Musca"
+  },
+  {
+   "name": "はくちょう座",
+   "aliases": [
+    "白鳥座"
+   ],
+   "note": "Cygnus"
+  },
+  {
+   "name": "はちぶんぎ座",
+   "aliases": [
+    "八分儀座"
+   ],
+   "note": "Octans"
+  },
+  {
+   "name": "はと座",
+   "aliases": [
+    "鳩座"
+   ],
+   "note": "Columba"
+  },
+  {
+   "name": "ふうちょう座",
+   "aliases": [
+    "風鳥座"
+   ],
+   "note": "Apus"
+  },
+  {
+   "name": "ふたご座",
+   "aliases": [
+    "双子座"
+   ],
+   "note": "Gemini"
+  },
+  {
+   "name": "ペガスス座",
+   "aliases": [
+    "ペガサス座"
+   ],
+   "note": "Pegasus"
+  },
+  {
+   "name": "へび座",
+   "aliases": [
+    "蛇座"
+   ],
+   "note": "Serpens"
+  },
+  {
+   "name": "へびつかい座",
+   "aliases": [
+    "蛇遣座",
+    "蛇使い座"
+   ],
+   "note": "Ophiuchus"
+  },
+  {
+   "name": "ヘルクレス座",
+   "aliases": [
+    "ヘラクレス座"
+   ],
+   "note": "Hercules"
+  },
+  {
+   "name": "ペルセウス座",
+   "aliases": [],
+   "note": "Perseus"
+  },
+  {
+   "name": "ほ座",
+   "aliases": [
+    "帆座"
+   ],
+   "note": "Vela"
+  },
+  {
+   "name": "ぼうえんきょう座",
+   "aliases": [
+    "望遠鏡座"
+   ],
+   "note": "Telescopium"
+  },
+  {
+   "name": "ほうおう座",
+   "aliases": [
+    "鳳凰座"
+   ],
+   "note": "Phoenix"
+  },
+  {
+   "name": "ポンプ座",
+   "aliases": [],
+   "note": "Antlia"
+  },
+  {
+   "name": "みずがめ座",
+   "aliases": [
+    "水瓶座"
+   ],
+   "note": "Aquarius"
+  },
+  {
+   "name": "みずへび座",
+   "aliases": [
+    "水蛇座"
+   ],
+   "note": "Hydrus"
+  },
+  {
+   "name": "みなみじゅうじ座",
+   "aliases": [
+    "南十字座"
+   ],
+   "note": "Crux"
+  },
+  {
+   "name": "みなみのうお座",
+   "aliases": [
+    "南の魚座",
+    "南魚座"
+   ],
+   "note": "Piscis Austrinus"
+  },
+  {
+   "name": "みなみのかんむり座",
+   "aliases": [
+    "南の冠座",
+    "南冠座"
+   ],
+   "note": "Corona Australis"
+  },
+  {
+   "name": "みなみのさんかく座",
+   "aliases": [
+    "南の三角座",
+    "南三角座"
+   ],
+   "note": "Triangulum Australe"
+  },
+  {
+   "name": "や座",
+   "aliases": [
+    "矢座"
+   ],
+   "note": "Sagitta"
+  },
+  {
+   "name": "やぎ座",
+   "aliases": [
+    "山羊座"
+   ],
+   "note": "Capricornus"
+  },
+  {
+   "name": "やまねこ座",
+   "aliases": [
+    "山猫座"
+   ],
+   "note": "Lynx"
+  },
+  {
+   "name": "らしんばん座",
+   "aliases": [
+    "羅針盤座"
+   ],
+   "note": "Pyxis"
+  },
+  {
+   "name": "りゅう座",
+   "aliases": [
+    "竜座",
+    "龍座"
+   ],
+   "note": "Draco"
+  },
+  {
+   "name": "りゅうこつ座",
+   "aliases": [
+    "竜骨座"
+   ],
+   "note": "Carina"
+  },
+  {
+   "name": "りょうけん座",
+   "aliases": [
+    "猟犬座"
+   ],
+   "note": "Canes Venatici"
+  },
+  {
+   "name": "レチクル座",
+   "aliases": [],
+   "note": "Reticulum"
+  },
+  {
+   "name": "ろ座",
+   "aliases": [
+    "炉座"
+   ],
+   "note": "Fornax"
+  },
+  {
+   "name": "ろくぶんぎ座",
+   "aliases": [
+    "六分儀座"
+   ],
+   "note": "Sextans"
+  },
+  {
+   "name": "わし座",
+   "aliases": [
+    "鷲座"
+   ],
+   "note": "Aquila"
+  }
+ ],
+ "id": "02-constellations",
+ "created": 1.0,
+ "category": "理科・天文"
+}

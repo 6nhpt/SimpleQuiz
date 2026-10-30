@@ -1,0 +1,176 @@
+{
+ "title": "東京23区",
+ "options": {
+  "suffix": [
+   "区",
+   "く"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "千代田区",
+   "aliases": [
+    "ちよだ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "中央区",
+   "aliases": [
+    "ちゅうおう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "港区",
+   "aliases": [
+    "みなと"
+   ],
+   "note": ""
+  },
+  {
+   "name": "新宿区",
+   "aliases": [
+    "しんじゅく"
+   ],
+   "note": ""
+  },
+  {
+   "name": "文京区",
+   "aliases": [
+    "ぶんきょう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "台東区",
+   "aliases": [
+    "たいとう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "墨田区",
+   "aliases": [
+    "すみだ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "江東区",
+   "aliases": [
+    "こうとう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "品川区",
+   "aliases": [
+    "しながわ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "目黒区",
+   "aliases": [
+    "めぐろ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "大田区",
+   "aliases": [
+    "おおた"
+   ],
+   "note": ""
+  },
+  {
+   "name": "世田谷区",
+   "aliases": [
+    "せたがや"
+   ],
+   "note": ""
+  },
+  {
+   "name": "渋谷区",
+   "aliases": [
+    "しぶや"
+   ],
+   "note": ""
+  },
+  {
+   "name": "中野区",
+   "aliases": [
+    "なかの"
+   ],
+   "note": ""
+  },
+  {
+   "name": "杉並区",
+   "aliases": [
+    "すぎなみ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "豊島区",
+   "aliases": [
+    "としま"
+   ],
+   "note": ""
+  },
+  {
+   "name": "北区",
+   "aliases": [
+    "きた"
+   ],
+   "note": ""
+  },
+  {
+   "name": "荒川区",
+   "aliases": [
+    "あらかわ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "板橋区",
+   "aliases": [
+    "いたばし"
+   ],
+   "note": ""
+  },
+  {
+   "name": "練馬区",
+   "aliases": [
+    "ねりま"
+   ],
+   "note": ""
+  },
+  {
+   "name": "足立区",
+   "aliases": [
+    "あだち"
+   ],
+   "note": ""
+  },
+  {
+   "name": "葛飾区",
+   "aliases": [
+    "かつしか"
+   ],
+   "note": ""
+  },
+  {
+   "name": "江戸川区",
+   "aliases": [
+    "えどがわ"
+   ],
+   "note": ""
+  }
+ ],
+ "id": "04-tokyo-23ku",
+ "created": 3.0,
+ "category": "日本の地理"
+}

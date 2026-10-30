@@ -1,0 +1,151 @@
+{
+ "title": "EU加盟国",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "ベルギー",
+   "aliases": [],
+   "note": "1958年"
+  },
+  {
+   "name": "フランス",
+   "aliases": [],
+   "note": "1958年"
+  },
+  {
+   "name": "ドイツ",
+   "aliases": [],
+   "note": "1958年"
+  },
+  {
+   "name": "イタリア",
+   "aliases": [],
+   "note": "1958年"
+  },
+  {
+   "name": "ルクセンブルク",
+   "aliases": [
+    "ルクセンブルグ"
+   ],
+   "note": "1958年"
+  },
+  {
+   "name": "オランダ",
+   "aliases": [],
+   "note": "1958年"
+  },
+  {
+   "name": "デンマーク",
+   "aliases": [],
+   "note": "1973年"
+  },
+  {
+   "name": "アイルランド",
+   "aliases": [],
+   "note": "1973年"
+  },
+  {
+   "name": "ギリシャ",
+   "aliases": [
+    "ギリシア"
+   ],
+   "note": "1981年"
+  },
+  {
+   "name": "スペイン",
+   "aliases": [],
+   "note": "1986年"
+  },
+  {
+   "name": "ポルトガル",
+   "aliases": [],
+   "note": "1986年"
+  },
+  {
+   "name": "オーストリア",
+   "aliases": [],
+   "note": "1995年"
+  },
+  {
+   "name": "フィンランド",
+   "aliases": [],
+   "note": "1995年"
+  },
+  {
+   "name": "スウェーデン",
+   "aliases": [],
+   "note": "1995年"
+  },
+  {
+   "name": "キプロス",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "チェコ",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "エストニア",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "ハンガリー",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "ラトビア",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "リトアニア",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "マルタ",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "ポーランド",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "スロバキア",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "スロベニア",
+   "aliases": [],
+   "note": "2004年"
+  },
+  {
+   "name": "ブルガリア",
+   "aliases": [],
+   "note": "2007年"
+  },
+  {
+   "name": "ルーマニア",
+   "aliases": [],
+   "note": "2007年"
+  },
+  {
+   "name": "クロアチア",
+   "aliases": [],
+   "note": "2013年"
+  }
+ ],
+ "id": "11-eu",
+ "created": 10.0,
+ "category": "世界の地理"
+}

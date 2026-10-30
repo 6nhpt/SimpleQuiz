@@ -1,0 +1,54 @@
+@title アメリカ50州
+@category 世界の地理
+@suffix 州,しゅう
+@fuzzy on
+アラバマ | Alabama
+アラスカ | Alaska
+アリゾナ | Arizona
+アーカンソー | アーカンザス | Arkansas
+カリフォルニア | California
+コロラド | Colorado
+コネチカット | コネティカット | Connecticut
+デラウェア | Delaware
+フロリダ | Florida
+ジョージア | Georgia
+ハワイ | Hawaii
+アイダホ | Idaho
+イリノイ | Illinois
+インディアナ | Indiana
+アイオワ | Iowa
+カンザス | カンサス | Kansas
+ケンタッキー | Kentucky
+ルイジアナ | Louisiana
+メイン | Maine
+メリーランド | Maryland
+マサチューセッツ | マサチュセッツ | Massachusetts
+ミシガン | Michigan
+ミネソタ | Minnesota
+ミシシッピ | Mississippi
+ミズーリ | Missouri
+モンタナ | Montana
+ネブラスカ | Nebraska
+ネバダ | Nevada
+ニューハンプシャー | New Hampshire
+ニュージャージー | New Jersey
+ニューメキシコ | New Mexico
+ニューヨーク | New York
+ノースカロライナ | ノースカロライナー | North Carolina
+ノースダコタ | North Dakota
+オハイオ | Ohio
+オクラホマ | Oklahoma
+オレゴン | Oregon
+ペンシルベニア | ペンシルバニア | Pennsylvania
+ロードアイランド | Rhode Island
+サウスカロライナ | サウスカロライナー | South Carolina
+サウスダコタ | South Dakota
+テネシー | Tennessee
+テキサス | Texas
+ユタ | Utah
+バーモント | Vermont
+バージニア | Virginia
+ワシントン | Washington
+ウェストバージニア | ウエストヴァージニア | West Virginia
+ウィスコンシン | Wisconsin
+ワイオミング | Wyoming

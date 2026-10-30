@@ -1,0 +1,226 @@
+{
+ "title": "山手線の駅",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "東京",
+   "aliases": [
+    "とうきょう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "有楽町",
+   "aliases": [
+    "ゆうらくちょう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "新橋",
+   "aliases": [
+    "しんばし"
+   ],
+   "note": ""
+  },
+  {
+   "name": "浜松町",
+   "aliases": [
+    "はままつちょう"
+   ],
+   "note": ""
+  },
+  {
+   "name": "田町",
+   "aliases": [
+    "たまち"
+   ],
+   "note": ""
+  },
+  {
+   "name": "高輪ゲートウェイ",
+   "aliases": [
+    "たかなわげーとうぇい",
+    "高輪GW"
+   ],
+   "note": ""
+  },
+  {
+   "name": "品川",
+   "aliases": [
+    "しながわ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "大崎",
+   "aliases": [
+    "おおさき"
+   ],
+   "note": ""
+  },
+  {
+   "name": "五反田",
+   "aliases": [
+    "ごたんだ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "目黒",
+   "aliases": [
+    "めぐろ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "恵比寿",
+   "aliases": [
+    "えびす"
+   ],
+   "note": ""
+  },
+  {
+   "name": "渋谷",
+   "aliases": [
+    "しぶや"
+   ],
+   "note": ""
+  },
+  {
+   "name": "原宿",
+   "aliases": [
+    "はらじゅく"
+   ],
+   "note": ""
+  },
+  {
+   "name": "代々木",
+   "aliases": [
+    "よよぎ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "新宿",
+   "aliases": [
+    "しんじゅく"
+   ],
+   "note": ""
+  },
+  {
+   "name": "新大久保",
+   "aliases": [
+    "しんおおくぼ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "高田馬場",
+   "aliases": [
+    "たかだのばば"
+   ],
+   "note": ""
+  },
+  {
+   "name": "目白",
+   "aliases": [
+    "めじろ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "池袋",
+   "aliases": [
+    "いけぶくろ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "大塚",
+   "aliases": [
+    "おおつか"
+   ],
+   "note": ""
+  },
+  {
+   "name": "巣鴨",
+   "aliases": [
+    "すがも"
+   ],
+   "note": ""
+  },
+  {
+   "name": "駒込",
+   "aliases": [
+    "こまごめ"
+   ],
+   "note": ""
+  },
+  {
+   "name": "田端",
+   "aliases": [
+    "たばた"
+   ],
+   "note": ""
+  },
+  {
+   "name": "西日暮里",
+   "aliases": [
+    "にしにっぽり"
+   ],
+   "note": ""
+  },
+  {
+   "name": "日暮里",
+   "aliases": [
+    "にっぽり"
+   ],
+   "note": ""
+  },
+  {
+   "name": "鶯谷",
+   "aliases": [
+    "うぐいすだに"
+   ],
+   "note": ""
+  },
+  {
+   "name": "上野",
+   "aliases": [
+    "うえの"
+   ],
+   "note": ""
+  },
+  {
+   "name": "御徒町",
+   "aliases": [
+    "おかちまち"
+   ],
+   "note": ""
+  },
+  {
+   "name": "秋葉原",
+   "aliases": [
+    "あきはばら"
+   ],
+   "note": ""
+  },
+  {
+   "name": "神田",
+   "aliases": [
+    "かんだ"
+   ],
+   "note": ""
+  }
+ ],
+ "id": "09-yamanote",
+ "created": 8.0,
+ "category": "日本の地理"
+}

@@ -1,0 +1,867 @@
+{
+ "title": "元素（118）",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "水素",
+   "aliases": [
+    "すいそ",
+    "H"
+   ],
+   "note": "1"
+  },
+  {
+   "name": "ヘリウム",
+   "aliases": [
+    "He"
+   ],
+   "note": "2"
+  },
+  {
+   "name": "リチウム",
+   "aliases": [
+    "Li"
+   ],
+   "note": "3"
+  },
+  {
+   "name": "ベリリウム",
+   "aliases": [
+    "Be"
+   ],
+   "note": "4"
+  },
+  {
+   "name": "ホウ素",
+   "aliases": [
+    "硼素",
+    "ほうそ",
+    "B"
+   ],
+   "note": "5"
+  },
+  {
+   "name": "炭素",
+   "aliases": [
+    "たんそ",
+    "C"
+   ],
+   "note": "6"
+  },
+  {
+   "name": "窒素",
+   "aliases": [
+    "ちっそ",
+    "N"
+   ],
+   "note": "7"
+  },
+  {
+   "name": "酸素",
+   "aliases": [
+    "さんそ",
+    "O"
+   ],
+   "note": "8"
+  },
+  {
+   "name": "フッ素",
+   "aliases": [
+    "弗素",
+    "ふっそ",
+    "F"
+   ],
+   "note": "9"
+  },
+  {
+   "name": "ネオン",
+   "aliases": [
+    "Ne"
+   ],
+   "note": "10"
+  },
+  {
+   "name": "ナトリウム",
+   "aliases": [
+    "Na"
+   ],
+   "note": "11"
+  },
+  {
+   "name": "マグネシウム",
+   "aliases": [
+    "Mg"
+   ],
+   "note": "12"
+  },
+  {
+   "name": "アルミニウム",
+   "aliases": [
+    "Al"
+   ],
+   "note": "13"
+  },
+  {
+   "name": "ケイ素",
+   "aliases": [
+    "珪素",
+    "けいそ",
+    "Si"
+   ],
+   "note": "14"
+  },
+  {
+   "name": "リン",
+   "aliases": [
+    "燐",
+    "P"
+   ],
+   "note": "15"
+  },
+  {
+   "name": "硫黄",
+   "aliases": [
+    "いおう",
+    "S"
+   ],
+   "note": "16"
+  },
+  {
+   "name": "塩素",
+   "aliases": [
+    "えんそ",
+    "Cl"
+   ],
+   "note": "17"
+  },
+  {
+   "name": "アルゴン",
+   "aliases": [
+    "Ar"
+   ],
+   "note": "18"
+  },
+  {
+   "name": "カリウム",
+   "aliases": [
+    "K"
+   ],
+   "note": "19"
+  },
+  {
+   "name": "カルシウム",
+   "aliases": [
+    "Ca"
+   ],
+   "note": "20"
+  },
+  {
+   "name": "スカンジウム",
+   "aliases": [
+    "Sc"
+   ],
+   "note": "21"
+  },
+  {
+   "name": "チタン",
+   "aliases": [
+    "Ti"
+   ],
+   "note": "22"
+  },
+  {
+   "name": "バナジウム",
+   "aliases": [
+    "V"
+   ],
+   "note": "23"
+  },
+  {
+   "name": "クロム",
+   "aliases": [
+    "Cr"
+   ],
+   "note": "24"
+  },
+  {
+   "name": "マンガン",
+   "aliases": [
+    "Mn"
+   ],
+   "note": "25"
+  },
+  {
+   "name": "鉄",
+   "aliases": [
+    "てつ",
+    "Fe"
+   ],
+   "note": "26"
+  },
+  {
+   "name": "コバルト",
+   "aliases": [
+    "Co"
+   ],
+   "note": "27"
+  },
+  {
+   "name": "ニッケル",
+   "aliases": [
+    "Ni"
+   ],
+   "note": "28"
+  },
+  {
+   "name": "銅",
+   "aliases": [
+    "どう",
+    "Cu"
+   ],
+   "note": "29"
+  },
+  {
+   "name": "亜鉛",
+   "aliases": [
+    "あえん",
+    "Zn"
+   ],
+   "note": "30"
+  },
+  {
+   "name": "ガリウム",
+   "aliases": [
+    "Ga"
+   ],
+   "note": "31"
+  },
+  {
+   "name": "ゲルマニウム",
+   "aliases": [
+    "Ge"
+   ],
+   "note": "32"
+  },
+  {
+   "name": "ヒ素",
+   "aliases": [
+    "砒素",
+    "ひそ",
+    "As"
+   ],
+   "note": "33"
+  },
+  {
+   "name": "セレン",
+   "aliases": [
+    "Se"
+   ],
+   "note": "34"
+  },
+  {
+   "name": "臭素",
+   "aliases": [
+    "しゅうそ",
+    "Br"
+   ],
+   "note": "35"
+  },
+  {
+   "name": "クリプトン",
+   "aliases": [
+    "Kr"
+   ],
+   "note": "36"
+  },
+  {
+   "name": "ルビジウム",
+   "aliases": [
+    "Rb"
+   ],
+   "note": "37"
+  },
+  {
+   "name": "ストロンチウム",
+   "aliases": [
+    "Sr"
+   ],
+   "note": "38"
+  },
+  {
+   "name": "イットリウム",
+   "aliases": [
+    "Y"
+   ],
+   "note": "39"
+  },
+  {
+   "name": "ジルコニウム",
+   "aliases": [
+    "Zr"
+   ],
+   "note": "40"
+  },
+  {
+   "name": "ニオブ",
+   "aliases": [
+    "Nb"
+   ],
+   "note": "41"
+  },
+  {
+   "name": "モリブデン",
+   "aliases": [
+    "Mo"
+   ],
+   "note": "42"
+  },
+  {
+   "name": "テクネチウム",
+   "aliases": [
+    "Tc"
+   ],
+   "note": "43"
+  },
+  {
+   "name": "ルテニウム",
+   "aliases": [
+    "Ru"
+   ],
+   "note": "44"
+  },
+  {
+   "name": "ロジウム",
+   "aliases": [
+    "Rh"
+   ],
+   "note": "45"
+  },
+  {
+   "name": "パラジウム",
+   "aliases": [
+    "Pd"
+   ],
+   "note": "46"
+  },
+  {
+   "name": "銀",
+   "aliases": [
+    "ぎん",
+    "Ag"
+   ],
+   "note": "47"
+  },
+  {
+   "name": "カドミウム",
+   "aliases": [
+    "Cd"
+   ],
+   "note": "48"
+  },
+  {
+   "name": "インジウム",
+   "aliases": [
+    "In"
+   ],
+   "note": "49"
+  },
+  {
+   "name": "スズ",
+   "aliases": [
+    "錫",
+    "Sn"
+   ],
+   "note": "50"
+  },
+  {
+   "name": "アンチモン",
+   "aliases": [
+    "Sb"
+   ],
+   "note": "51"
+  },
+  {
+   "name": "テルル",
+   "aliases": [
+    "Te"
+   ],
+   "note": "52"
+  },
+  {
+   "name": "ヨウ素",
+   "aliases": [
+    "沃素",
+    "ようそ",
+    "I"
+   ],
+   "note": "53"
+  },
+  {
+   "name": "キセノン",
+   "aliases": [
+    "Xe"
+   ],
+   "note": "54"
+  },
+  {
+   "name": "セシウム",
+   "aliases": [
+    "Cs"
+   ],
+   "note": "55"
+  },
+  {
+   "name": "バリウム",
+   "aliases": [
+    "Ba"
+   ],
+   "note": "56"
+  },
+  {
+   "name": "ランタン",
+   "aliases": [
+    "La"
+   ],
+   "note": "57"
+  },
+  {
+   "name": "セリウム",
+   "aliases": [
+    "Ce"
+   ],
+   "note": "58"
+  },
+  {
+   "name": "プラセオジム",
+   "aliases": [
+    "Pr"
+   ],
+   "note": "59"
+  },
+  {
+   "name": "ネオジム",
+   "aliases": [
+    "Nd"
+   ],
+   "note": "60"
+  },
+  {
+   "name": "プロメチウム",
+   "aliases": [
+    "Pm"
+   ],
+   "note": "61"
+  },
+  {
+   "name": "サマリウム",
+   "aliases": [
+    "Sm"
+   ],
+   "note": "62"
+  },
+  {
+   "name": "ユウロピウム",
+   "aliases": [
+    "Eu"
+   ],
+   "note": "63"
+  },
+  {
+   "name": "ガドリニウム",
+   "aliases": [
+    "Gd"
+   ],
+   "note": "64"
+  },
+  {
+   "name": "テルビウム",
+   "aliases": [
+    "Tb"
+   ],
+   "note": "65"
+  },
+  {
+   "name": "ジスプロシウム",
+   "aliases": [
+    "Dy"
+   ],
+   "note": "66"
+  },
+  {
+   "name": "ホルミウム",
+   "aliases": [
+    "Ho"
+   ],
+   "note": "67"
+  },
+  {
+   "name": "エルビウム",
+   "aliases": [
+    "Er"
+   ],
+   "note": "68"
+  },
+  {
+   "name": "ツリウム",
+   "aliases": [
+    "Tm"
+   ],
+   "note": "69"
+  },
+  {
+   "name": "イッテルビウム",
+   "aliases": [
+    "Yb"
+   ],
+   "note": "70"
+  },
+  {
+   "name": "ルテチウム",
+   "aliases": [
+    "Lu"
+   ],
+   "note": "71"
+  },
+  {
+   "name": "ハフニウム",
+   "aliases": [
+    "Hf"
+   ],
+   "note": "72"
+  },
+  {
+   "name": "タンタル",
+   "aliases": [
+    "Ta"
+   ],
+   "note": "73"
+  },
+  {
+   "name": "タングステン",
+   "aliases": [
+    "W"
+   ],
+   "note": "74"
+  },
+  {
+   "name": "レニウム",
+   "aliases": [
+    "Re"
+   ],
+   "note": "75"
+  },
+  {
+   "name": "オスミウム",
+   "aliases": [
+    "Os"
+   ],
+   "note": "76"
+  },
+  {
+   "name": "イリジウム",
+   "aliases": [
+    "Ir"
+   ],
+   "note": "77"
+  },
+  {
+   "name": "白金",
+   "aliases": [
+    "はっきん",
+    "プラチナ",
+    "Pt"
+   ],
+   "note": "78"
+  },
+  {
+   "name": "金",
+   "aliases": [
+    "きん",
+    "Au"
+   ],
+   "note": "79"
+  },
+  {
+   "name": "水銀",
+   "aliases": [
+    "すいぎん",
+    "Hg"
+   ],
+   "note": "80"
+  },
+  {
+   "name": "タリウム",
+   "aliases": [
+    "Tl"
+   ],
+   "note": "81"
+  },
+  {
+   "name": "鉛",
+   "aliases": [
+    "なまり",
+    "Pb"
+   ],
+   "note": "82"
+  },
+  {
+   "name": "ビスマス",
+   "aliases": [
+    "Bi"
+   ],
+   "note": "83"
+  },
+  {
+   "name": "ポロニウム",
+   "aliases": [
+    "Po"
+   ],
+   "note": "84"
+  },
+  {
+   "name": "アスタチン",
+   "aliases": [
+    "At"
+   ],
+   "note": "85"
+  },
+  {
+   "name": "ラドン",
+   "aliases": [
+    "Rn"
+   ],
+   "note": "86"
+  },
+  {
+   "name": "フランシウム",
+   "aliases": [
+    "Fr"
+   ],
+   "note": "87"
+  },
+  {
+   "name": "ラジウム",
+   "aliases": [
+    "Ra"
+   ],
+   "note": "88"
+  },
+  {
+   "name": "アクチニウム",
+   "aliases": [
+    "Ac"
+   ],
+   "note": "89"
+  },
+  {
+   "name": "トリウム",
+   "aliases": [
+    "Th"
+   ],
+   "note": "90"
+  },
+  {
+   "name": "プロトアクチニウム",
+   "aliases": [
+    "Pa"
+   ],
+   "note": "91"
+  },
+  {
+   "name": "ウラン",
+   "aliases": [
+    "U"
+   ],
+   "note": "92"
+  },
+  {
+   "name": "ネプツニウム",
+   "aliases": [
+    "Np"
+   ],
+   "note": "93"
+  },
+  {
+   "name": "プルトニウム",
+   "aliases": [
+    "Pu"
+   ],
+   "note": "94"
+  },
+  {
+   "name": "アメリシウム",
+   "aliases": [
+    "Am"
+   ],
+   "note": "95"
+  },
+  {
+   "name": "キュリウム",
+   "aliases": [
+    "Cm"
+   ],
+   "note": "96"
+  },
+  {
+   "name": "バークリウム",
+   "aliases": [
+    "Bk"
+   ],
+   "note": "97"
+  },
+  {
+   "name": "カリホルニウム",
+   "aliases": [
+    "カリフォルニウム",
+    "Cf"
+   ],
+   "note": "98"
+  },
+  {
+   "name": "アインスタイニウム",
+   "aliases": [
+    "Es"
+   ],
+   "note": "99"
+  },
+  {
+   "name": "フェルミウム",
+   "aliases": [
+    "Fm"
+   ],
+   "note": "100"
+  },
+  {
+   "name": "メンデレビウム",
+   "aliases": [
+    "Md"
+   ],
+   "note": "101"
+  },
+  {
+   "name": "ノーベリウム",
+   "aliases": [
+    "No"
+   ],
+   "note": "102"
+  },
+  {
+   "name": "ローレンシウム",
+   "aliases": [
+    "Lr"
+   ],
+   "note": "103"
+  },
+  {
+   "name": "ラザホージウム",
+   "aliases": [
+    "Rf"
+   ],
+   "note": "104"
+  },
+  {
+   "name": "ドブニウム",
+   "aliases": [
+    "Db"
+   ],
+   "note": "105"
+  },
+  {
+   "name": "シーボーギウム",
+   "aliases": [
+    "Sg"
+   ],
+   "note": "106"
+  },
+  {
+   "name": "ボーリウム",
+   "aliases": [
+    "Bh"
+   ],
+   "note": "107"
+  },
+  {
+   "name": "ハッシウム",
+   "aliases": [
+    "Hs"
+   ],
+   "note": "108"
+  },
+  {
+   "name": "マイトネリウム",
+   "aliases": [
+    "Mt"
+   ],
+   "note": "109"
+  },
+  {
+   "name": "ダームスタチウム",
+   "aliases": [
+    "Ds"
+   ],
+   "note": "110"
+  },
+  {
+   "name": "レントゲニウム",
+   "aliases": [
+    "Rg"
+   ],
+   "note": "111"
+  },
+  {
+   "name": "コペルニシウム",
+   "aliases": [
+    "Cn"
+   ],
+   "note": "112"
+  },
+  {
+   "name": "ニホニウム",
+   "aliases": [
+    "Nh"
+   ],
+   "note": "113"
+  },
+  {
+   "name": "フレロビウム",
+   "aliases": [
+    "Fl"
+   ],
+   "note": "114"
+  },
+  {
+   "name": "モスコビウム",
+   "aliases": [
+    "Mc"
+   ],
+   "note": "115"
+  },
+  {
+   "name": "リバモリウム",
+   "aliases": [
+    "Lv"
+   ],
+   "note": "116"
+  },
+  {
+   "name": "テネシン",
+   "aliases": [
+    "Ts"
+   ],
+   "note": "117"
+  },
+  {
+   "name": "オガネソン",
+   "aliases": [
+    "Og"
+   ],
+   "note": "118"
+  }
+ ],
+ "id": "08-elements",
+ "created": 7.0,
+ "category": "理科・天文"
+}

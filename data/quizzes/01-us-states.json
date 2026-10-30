@@ -1,0 +1,373 @@
+{
+ "title": "アメリカ50州",
+ "options": {
+  "suffix": [
+   "州",
+   "しゅう"
+  ],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "アラバマ",
+   "aliases": [
+    "Alabama"
+   ],
+   "note": ""
+  },
+  {
+   "name": "アラスカ",
+   "aliases": [
+    "Alaska"
+   ],
+   "note": ""
+  },
+  {
+   "name": "アリゾナ",
+   "aliases": [
+    "Arizona"
+   ],
+   "note": ""
+  },
+  {
+   "name": "アーカンソー",
+   "aliases": [
+    "アーカンザス",
+    "Arkansas"
+   ],
+   "note": ""
+  },
+  {
+   "name": "カリフォルニア",
+   "aliases": [
+    "California"
+   ],
+   "note": ""
+  },
+  {
+   "name": "コロラド",
+   "aliases": [
+    "Colorado"
+   ],
+   "note": ""
+  },
+  {
+   "name": "コネチカット",
+   "aliases": [
+    "コネティカット",
+    "Connecticut"
+   ],
+   "note": ""
+  },
+  {
+   "name": "デラウェア",
+   "aliases": [
+    "Delaware"
+   ],
+   "note": ""
+  },
+  {
+   "name": "フロリダ",
+   "aliases": [
+    "Florida"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ジョージア",
+   "aliases": [
+    "Georgia"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ハワイ",
+   "aliases": [
+    "Hawaii"
+   ],
+   "note": ""
+  },
+  {
+   "name": "アイダホ",
+   "aliases": [
+    "Idaho"
+   ],
+   "note": ""
+  },
+  {
+   "name": "イリノイ",
+   "aliases": [
+    "Illinois"
+   ],
+   "note": ""
+  },
+  {
+   "name": "インディアナ",
+   "aliases": [
+    "Indiana"
+   ],
+   "note": ""
+  },
+  {
+   "name": "アイオワ",
+   "aliases": [
+    "Iowa"
+   ],
+   "note": ""
+  },
+  {
+   "name": "カンザス",
+   "aliases": [
+    "カンサス",
+    "Kansas"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ケンタッキー",
+   "aliases": [
+    "Kentucky"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ルイジアナ",
+   "aliases": [
+    "Louisiana"
+   ],
+   "note": ""
+  },
+  {
+   "name": "メイン",
+   "aliases": [
+    "Maine"
+   ],
+   "note": ""
+  },
+  {
+   "name": "メリーランド",
+   "aliases": [
+    "Maryland"
+   ],
+   "note": ""
+  },
+  {
+   "name": "マサチューセッツ",
+   "aliases": [
+    "マサチュセッツ",
+    "Massachusetts"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ミシガン",
+   "aliases": [
+    "Michigan"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ミネソタ",
+   "aliases": [
+    "Minnesota"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ミシシッピ",
+   "aliases": [
+    "Mississippi"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ミズーリ",
+   "aliases": [
+    "Missouri"
+   ],
+   "note": ""
+  },
+  {
+   "name": "モンタナ",
+   "aliases": [
+    "Montana"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ネブラスカ",
+   "aliases": [
+    "Nebraska"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ネバダ",
+   "aliases": [
+    "Nevada"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ニューハンプシャー",
+   "aliases": [
+    "New Hampshire"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ニュージャージー",
+   "aliases": [
+    "New Jersey"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ニューメキシコ",
+   "aliases": [
+    "New Mexico"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ニューヨーク",
+   "aliases": [
+    "New York"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ノースカロライナ",
+   "aliases": [
+    "ノースカロライナー",
+    "North Carolina"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ノースダコタ",
+   "aliases": [
+    "North Dakota"
+   ],
+   "note": ""
+  },
+  {
+   "name": "オハイオ",
+   "aliases": [
+    "Ohio"
+   ],
+   "note": ""
+  },
+  {
+   "name": "オクラホマ",
+   "aliases": [
+    "Oklahoma"
+   ],
+   "note": ""
+  },
+  {
+   "name": "オレゴン",
+   "aliases": [
+    "Oregon"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ペンシルベニア",
+   "aliases": [
+    "ペンシルバニア",
+    "Pennsylvania"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ロードアイランド",
+   "aliases": [
+    "Rhode Island"
+   ],
+   "note": ""
+  },
+  {
+   "name": "サウスカロライナ",
+   "aliases": [
+    "サウスカロライナー",
+    "South Carolina"
+   ],
+   "note": ""
+  },
+  {
+   "name": "サウスダコタ",
+   "aliases": [
+    "South Dakota"
+   ],
+   "note": ""
+  },
+  {
+   "name": "テネシー",
+   "aliases": [
+    "Tennessee"
+   ],
+   "note": ""
+  },
+  {
+   "name": "テキサス",
+   "aliases": [
+    "Texas"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ユタ",
+   "aliases": [
+    "Utah"
+   ],
+   "note": ""
+  },
+  {
+   "name": "バーモント",
+   "aliases": [
+    "Vermont"
+   ],
+   "note": ""
+  },
+  {
+   "name": "バージニア",
+   "aliases": [
+    "Virginia"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ワシントン",
+   "aliases": [
+    "Washington"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ウェストバージニア",
+   "aliases": [
+    "ウエストヴァージニア",
+    "West Virginia"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ウィスコンシン",
+   "aliases": [
+    "Wisconsin"
+   ],
+   "note": ""
+  },
+  {
+   "name": "ワイオミング",
+   "aliases": [
+    "Wyoming"
+   ],
+   "note": ""
+  }
+ ],
+ "id": "01-us-states",
+ "created": 0.0,
+ "category": "世界の地理"
+}

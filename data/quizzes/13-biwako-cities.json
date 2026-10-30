@@ -1,0 +1,85 @@
+{
+ "title": "琵琶湖に面した市",
+ "options": {
+  "suffix": [
+   "市",
+   "し"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "大津市",
+   "aliases": [
+    "おおつ"
+   ],
+   "note": "南湖西岸"
+  },
+  {
+   "name": "草津市",
+   "aliases": [
+    "くさつ"
+   ],
+   "note": "南湖東岸"
+  },
+  {
+   "name": "守山市",
+   "aliases": [
+    "もりやま"
+   ],
+   "note": "南湖東岸"
+  },
+  {
+   "name": "野洲市",
+   "aliases": [
+    "やす"
+   ],
+   "note": "東岸"
+  },
+  {
+   "name": "近江八幡市",
+   "aliases": [
+    "おうみはちまん"
+   ],
+   "note": "東岸"
+  },
+  {
+   "name": "東近江市",
+   "aliases": [
+    "ひがしおうみ"
+   ],
+   "note": "東岸"
+  },
+  {
+   "name": "彦根市",
+   "aliases": [
+    "ひこね"
+   ],
+   "note": "東岸"
+  },
+  {
+   "name": "米原市",
+   "aliases": [
+    "まいばら"
+   ],
+   "note": "東岸"
+  },
+  {
+   "name": "長浜市",
+   "aliases": [
+    "ながはま"
+   ],
+   "note": "北東岸"
+  },
+  {
+   "name": "高島市",
+   "aliases": [
+    "たかしま"
+   ],
+   "note": "西岸"
+  }
+ ],
+ "id": "13-biwako-cities",
+ "created": 12.0,
+ "category": "日本の地理"
+}
