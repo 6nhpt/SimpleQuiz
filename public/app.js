@@ -64,6 +64,27 @@ function groupItems(items) {
   return [...groups];
 }
 
+// ---------------------------------------------------------------- カテゴリの色
+
+// カテゴリごとの色相とアイコン。知らないカテゴリは名前から色相を決める
+const CATS = {
+  "世界の地理": [200, "🌍"], "日本の地理": [150, "🗾"], "理科・天文": [255, "🔭"], "鉄道": [25, "🚄"],
+  "歴史・文化": [345, "🏯"], "ことば・記号": [185, "🔤"], "エンタメ・スポーツ": [300, "🎬"], "くらし": [45, "🏠"],
+};
+function catHue(c) {
+  if (CATS[c]) return CATS[c][0];
+  let h = 0;
+  for (const ch of c || "") h = (h * 31 + ch.codePointAt(0)) % 360;
+  return c ? h : 220;
+}
+const catIcon = (c) => (CATS[c] ? CATS[c][1] : "📁");
+// 回答・一覧画面はそのクイズのカテゴリ色にする（ホームなどでは null で既定色に戻す）
+function setTheme(cat) {
+  const root = document.documentElement;
+  if (cat == null) root.style.removeProperty("--h");
+  else root.style.setProperty("--h", catHue(cat));
+}
+
 // ---------------------------------------------------------------- ルーター
 
 function setBar(title, back, right = "") {
@@ -77,6 +98,7 @@ function setBar(title, back, right = "") {
 async function route() {
   const [, view, id] = location.hash.replace(/^#/, "").split("/");
   window.scrollTo(0, 0);
+  setTheme(null);
   try {
     if (view === "play" && id) await renderPlay(id);
     else if (view === "view" && id) await renderView(id);
@@ -141,8 +163,8 @@ async function renderHome() {
 
   $app.innerHTML = `
     ${cats.map((c) => `
-      <details class="cat" data-cat="${esc(c)}" ${closed.has(c) ? "" : "open"}>
-        <summary>${esc(c || "未分類")}<span class="muted">${groups.get(c).length}</span></summary>
+      <details class="cat" data-cat="${esc(c)}" style="--h:${catHue(c)}" ${closed.has(c) ? "" : "open"}>
+        <summary><span class="cat-icon">${catIcon(c)}</span>${esc(c || "未分類")}<span class="muted">${groups.get(c).length}</span></summary>
         <ul class="cards">${groups.get(c).map(card).join("")}</ul>
       </details>`).join("")}
     ${STATIC ? "" : `<a class="btn primary wide" href="#/new">＋ クイズを追加</a>`}
@@ -194,6 +216,7 @@ async function renderHome() {
 
 async function renderPlay(id) {
   const quiz = await api("GET", id);
+  setTheme(quiz.category || "");
   const matcher = new Matcher(quiz);
   const isSecret = (i) => !!quiz.items[i].secret;
   const isGhost = (i) => !!quiz.items[i].ghost;  // 判定のみ（正解に数えない）
@@ -272,16 +295,28 @@ async function renderPlay(id) {
     .map(([g, idxs]) => [g, idxs.filter((i) => !isGhost(i))])
     .filter(([, idxs]) => idxs.length);
   const hiddenGroup = (idxs) => idxs.every(isSecret);
+  const groupOf = (i) => groups.find(([, idxs]) => idxs.includes(i))?.[0];
+  // 完成した区分は畳む。タップで開閉した区分はそれに従う。答えたマスの区分は、埋まるのを見せる間だけ開けておく
+  const toggled = new Map();  // 区分名 → 開いているか
+  const peeking = new Map();  // 区分名 → 畳み直すタイマー
+  function peek(g) {
+    clearTimeout(peeking.get(g));
+    peeking.set(g, null);
+  }
+  function unpeekLater(g) {
+    clearTimeout(peeking.get(g));
+    peeking.set(g, setTimeout(() => { peeking.delete(g); renderGrid(); }, 1200));
+  }
   function renderGrid(flash) {
     const shown = groups.filter(([, idxs]) => !hiddenGroup(idxs) || idxs.some((i) => answered.has(i)));
     $grid.innerHTML = shown.map(([g, idxs]) => {
       const open = hiddenGroup(idxs);
-      const n = idxs.filter((i) => answered.has(i)).length;
+      const n = idxs.filter((i) => answered.has(i) && !pending.has(i)).length;
       const len = open ? idxs.length : idxs.filter((i) => !isSecret(i) || answered.has(i)).length;
-      const head = shown.length > 1
-        ? `<h3 class="grp-head${n === len ? " done" : ""}${open ? " secret" : ""}">${open ? "★ " : ""}${esc(g || "その他")}<span>${n} / ${len}</span></h3>`
-        : "";
-      return `<section class="grp">${head}<ol class="grid">${idxs.map((i) => cell(quiz.items[i], i, open)).join("")}</ol></section>`;
+      if (shown.length < 2) return `<section class="grp"><ol class="grid">${idxs.map((i) => cell(quiz.items[i], i, open)).join("")}</ol></section>`;
+      const closed = !peeking.has(g) && (toggled.has(g) ? !toggled.get(g) : n === len);
+      const head = `<h3 class="grp-head toggle${n === len ? " done" : ""}${open ? " secret" : ""}" data-g="${esc(g)}">${open ? "★ " : ""}${esc(g || "その他")}<span>${n} / ${len}</span></h3>`;
+      return `<section class="grp${closed ? " closed" : ""}">${head}<ol class="grid">${idxs.map((i) => cell(quiz.items[i], i, open)).join("")}</ol></section>`;
     }).join("");
     const found = [...answered].filter(isSecret).length;
     const done = answered.size - found;  // シークレット以外の正解数
@@ -311,10 +346,13 @@ async function renderPlay(id) {
     $in.value = "";
     // 空欄のまま描いて、そのマスまでスクロールしてから埋める
     pending.add(r.index);
+    const g0 = groupOf(r.index);
+    peek(g0);
     renderGrid();
     scrollToCell(r.index).then(() => {
       if (!pending.delete(r.index)) return;  // 途中でリセットされた
       renderGrid(r.index);
+      unpeekLater(g0);
     });
     const name = quiz.items[r.index].name + (r.fuzzy ? "（表記ゆれ）" : "");
     const done = [...answered].filter((i) => !isSecret(i)).length;
@@ -353,12 +391,27 @@ async function renderPlay(id) {
     else if (r.status === "dup") {
       feedback("dup", `回答済み：${quiz.items[r.index].name}`);
       $in.value = "";
-      scrollToCell(r.index).then(() => $grid.querySelector(`[data-i="${r.index}"]`)?.classList.add("flash"));
+      const g0 = groupOf(r.index);
+      peek(g0);
+      renderGrid();
+      scrollToCell(r.index).then(() => {
+        $grid.querySelector(`[data-i="${r.index}"]`)?.classList.add("flash");
+        unpeekLater(g0);
+      });
     } else {
       feedback("ng", `✗ 「${v}」はありません`);
       $in.select();
     }
     $in.focus();
+  });
+
+  $grid.addEventListener("click", (e) => {
+    const h = e.target.closest(".grp-head.toggle");
+    if (!h) return;
+    const g = h.dataset.g;
+    peeking.delete(g);
+    toggled.set(g, h.parentElement.classList.contains("closed"));
+    renderGrid();
   });
 
   document.getElementById("hint")?.addEventListener("change", (e) => {
@@ -391,6 +444,7 @@ async function renderPlay(id) {
 
 async function renderView(id) {
   const quiz = await api("GET", id);
+  setTheme(quiz.category || "");
   const groups = groupItems(quiz.items);
   const normal = groups
     .map(([g, idxs]) => [g, idxs.filter((i) => !quiz.items[i].secret && !quiz.items[i].ghost)])
@@ -429,10 +483,11 @@ async function renderView(id) {
     <input id="filter" type="search" placeholder="絞り込み">
     <div id="list">
       ${normal.map(([g, idxs]) => `
-        <section class="grp">
-          ${normal.length > 1 ? `<h3 class="grp-head">${esc(g || "その他")}<span>${idxs.length}</span></h3>` : ""}
+        ${normal.length > 1 ? `
+        <details class="grp" open>
+          <summary class="grp-head toggle">${esc(g || "その他")}<span>${idxs.length}</span></summary>
           <ol class="list">${idxs.map((i) => li(quiz.items[i])).join("")}</ol>
-        </section>`).join("")}
+        </details>` : `<ol class="list">${idxs.map((i) => li(quiz.items[i])).join("")}</ol>`}`).join("")}
     </div>
     ${secrets.length ? `
       <details class="secret-box">
@@ -447,7 +502,10 @@ async function renderView(id) {
   document.getElementById("filter").addEventListener("input", (e) => {
     const q = e.target.value.trim().toLowerCase();
     for (const li of document.querySelectorAll("#list li")) li.hidden = q && !li.dataset.s.includes(q);
-    for (const sec of document.querySelectorAll("#list .grp")) sec.hidden = !sec.querySelector("li:not([hidden])");
+    for (const sec of document.querySelectorAll("#list .grp")) {
+      sec.hidden = !sec.querySelector("li:not([hidden])");
+      if (q) sec.open = true;  // 畳んだ区分の中の該当も見えるように
+    }
   });
 }
 
