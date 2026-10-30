@@ -335,7 +335,7 @@
   {
    "name": "ヘクトパスカル",
    "aliases": [],
-   "note": "パスカルにSI接頭語ヘクトを付けたもの",
+   "note": "{パスカル|○○}にSI接頭語ヘクトを付けたもの",
    "group": "",
    "secret": false,
    "ghost": true
@@ -343,7 +343,7 @@
   {
    "name": "カロリー",
    "aliases": [],
-   "note": "SIではない（今はジュールを使う）",
+   "note": "SIではない（今は{ジュール|○○}を使う）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -351,7 +351,7 @@
   {
    "name": "ガウス",
    "aliases": [],
-   "note": "CGS単位（SIではテスラ）",
+   "note": "CGS単位（SIでは{テスラ|○○}）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -359,7 +359,7 @@
   {
    "name": "エルグ",
    "aliases": [],
-   "note": "CGS単位（SIではジュール）",
+   "note": "CGS単位（SIでは{ジュール|○○}）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -367,7 +367,7 @@
   {
    "name": "ダイン",
    "aliases": [],
-   "note": "CGS単位（SIではニュートン）",
+   "note": "CGS単位（SIでは{ニュートン|○○}）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -375,7 +375,7 @@
   {
    "name": "キュリー",
    "aliases": [],
-   "note": "昔の単位（SIではベクレル）",
+   "note": "昔の単位（SIでは{ベクレル|○○}）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -391,7 +391,7 @@
   {
    "name": "レム",
    "aliases": [],
-   "note": "昔の単位（SIではシーベルト）",
+   "note": "昔の単位（SIでは{シーベルト|○○}）",
    "group": "",
    "secret": false,
    "ghost": true
@@ -401,7 +401,7 @@
    "aliases": [
     "ミリバール"
    ],
-   "note": "SIではない（SIではパスカル）",
+   "note": "SIではない（SIでは{パスカル|○○}）",
    "group": "",
    "secret": false,
    "ghost": true

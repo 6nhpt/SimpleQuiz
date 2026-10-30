@@ -1479,7 +1479,7 @@
     "エカボロン",
     "eka-boron"
    ],
-   "note": "スカンジウム（21）のメンデレーエフによる予言名",
+   "note": "{スカンジウム|○○}（21）のメンデレーエフによる予言名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1490,7 +1490,7 @@
     "えかあるみにうむ",
     "eka-aluminium"
    ],
-   "note": "ガリウム（31）の予言名",
+   "note": "{ガリウム|○○}（31）の予言名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1502,7 +1502,7 @@
     "エカシリコン",
     "eka-silicon"
    ],
-   "note": "ゲルマニウム（32）の予言名",
+   "note": "{ゲルマニウム|○○}（32）の予言名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1512,7 +1512,7 @@
    "aliases": [
     "eka-manganese"
    ],
-   "note": "テクネチウム（43）の予言名",
+   "note": "{テクネチウム|○○}（43）の予言名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1522,7 +1522,7 @@
    "aliases": [
     "nipponium"
    ],
-   "note": "小川正孝が1908年に発表した新元素。実はレニウム（75）だった",
+   "note": "小川正孝が1908年に発表した新元素。実は{レニウム|○○}（75）だった",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1532,7 +1532,7 @@
    "aliases": [
     "columbium"
    ],
-   "note": "ニオブ（41）の旧名",
+   "note": "{ニオブ|○○}（41）の旧名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1542,7 +1542,7 @@
    "aliases": [
     "glucinium"
    ],
-   "note": "ベリリウム（4）の旧名",
+   "note": "{ベリリウム|○○}（4）の旧名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1552,7 +1552,7 @@
    "aliases": [
     "wolfram"
    ],
-   "note": "タングステン（74）の別名。記号Wの由来",
+   "note": "{タングステン|○○}（74）の別名。記号Wの由来",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1562,7 +1562,7 @@
    "aliases": [
     "azote"
    ],
-   "note": "窒素（7）の旧名",
+   "note": "{窒素|○○}（7）の旧名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1574,7 +1574,7 @@
     "emanation",
     "niton"
    ],
-   "note": "ラドン（86）の旧名",
+   "note": "{ラドン|○○}（86）の旧名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1588,7 +1588,7 @@
     "unnilquadium",
     "Unq"
    ],
-   "note": "ラザホージウム（104）の命名前の仮名",
+   "note": "{ラザホージウム|○○}（104）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1600,7 +1600,7 @@
     "unnilpentium",
     "Unp"
    ],
-   "note": "ドブニウム（105）の命名前の仮名",
+   "note": "{ドブニウム|○○}（105）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1612,7 +1612,7 @@
     "unnilhexium",
     "Unh"
    ],
-   "note": "シーボーギウム（106）の命名前の仮名",
+   "note": "{シーボーギウム|○○}（106）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1624,7 +1624,7 @@
     "unnilseptium",
     "Uns"
    ],
-   "note": "ボーリウム（107）の命名前の仮名",
+   "note": "{ボーリウム|○○}（107）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1636,7 +1636,7 @@
     "unniloctium",
     "Uno"
    ],
-   "note": "ハッシウム（108）の命名前の仮名",
+   "note": "{ハッシウム|○○}（108）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1648,7 +1648,7 @@
     "unnilennium",
     "Une"
    ],
-   "note": "マイトネリウム（109）の命名前の仮名",
+   "note": "{マイトネリウム|○○}（109）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1659,7 +1659,7 @@
     "ununnilium",
     "Uun"
    ],
-   "note": "ダームスタチウム（110）の命名前の仮名",
+   "note": "{ダームスタチウム|○○}（110）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1670,7 +1670,7 @@
     "unununium",
     "Uuu"
    ],
-   "note": "レントゲニウム（111）の命名前の仮名",
+   "note": "{レントゲニウム|○○}（111）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1681,7 +1681,7 @@
     "ununbium",
     "Uub"
    ],
-   "note": "コペルニシウム（112）の命名前の仮名",
+   "note": "{コペルニシウム|○○}（112）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1692,7 +1692,7 @@
     "ununtrium",
     "Uut"
    ],
-   "note": "ニホニウム（113）の命名前の仮名",
+   "note": "{ニホニウム|○○}（113）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1706,7 +1706,7 @@
     "ununquadium",
     "Uuq"
    ],
-   "note": "フレロビウム（114）の命名前の仮名",
+   "note": "{フレロビウム|○○}（114）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1718,7 +1718,7 @@
     "ununpentium",
     "Uup"
    ],
-   "note": "モスコビウム（115）の命名前の仮名",
+   "note": "{モスコビウム|○○}（115）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1730,7 +1730,7 @@
     "ununhexium",
     "Uuh"
    ],
-   "note": "リバモリウム（116）の命名前の仮名",
+   "note": "{リバモリウム|○○}（116）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1742,7 +1742,7 @@
     "ununseptium",
     "Uus"
    ],
-   "note": "テネシン（117）の命名前の仮名",
+   "note": "{テネシン|○○}（117）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true
@@ -1754,7 +1754,7 @@
     "ununoctium",
     "Uuo"
    ],
-   "note": "オガネソン（118）の命名前の仮名",
+   "note": "{オガネソン|○○}（118）の命名前の仮名",
    "group": "元素（1〜118）",
    "secret": false,
    "ghost": true

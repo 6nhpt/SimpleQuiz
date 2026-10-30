@@ -179,7 +179,7 @@
   {
    "name": "宮内庁",
    "aliases": [],
-   "note": "内閣府に置かれる機関",
+   "note": "{内閣府|○○府}に置かれる機関",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -187,7 +187,7 @@
   {
    "name": "こども家庭庁",
    "aliases": [],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -195,7 +195,7 @@
   {
    "name": "金融庁",
    "aliases": [],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -203,7 +203,7 @@
   {
    "name": "消費者庁",
    "aliases": [],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -213,7 +213,7 @@
    "aliases": [
     "公取"
    ],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -221,7 +221,7 @@
   {
    "name": "個人情報保護委員会",
    "aliases": [],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -229,7 +229,7 @@
   {
    "name": "カジノ管理委員会",
    "aliases": [],
-   "note": "内閣府の外局",
+   "note": "{内閣府|○○府}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -237,7 +237,7 @@
   {
    "name": "警察庁",
    "aliases": [],
-   "note": "国家公安委員会に置かれる",
+   "note": "{国家公安委員会|○○委員会}に置かれる",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -277,7 +277,7 @@
   {
    "name": "消防庁",
    "aliases": [],
-   "note": "総務省の外局",
+   "note": "{総務省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -285,7 +285,7 @@
   {
    "name": "公安調査庁",
    "aliases": [],
-   "note": "法務省の外局",
+   "note": "{法務省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -296,7 +296,7 @@
     "入管庁",
     "入管"
    ],
-   "note": "法務省の外局",
+   "note": "{法務省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -304,7 +304,7 @@
   {
    "name": "国税庁",
    "aliases": [],
-   "note": "財務省の外局",
+   "note": "{財務省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -312,7 +312,7 @@
   {
    "name": "文化庁",
    "aliases": [],
-   "note": "文部科学省の外局",
+   "note": "{文部科学省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -320,7 +320,7 @@
   {
    "name": "スポーツ庁",
    "aliases": [],
-   "note": "文部科学省の外局",
+   "note": "{文部科学省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -328,7 +328,7 @@
   {
    "name": "林野庁",
    "aliases": [],
-   "note": "農林水産省の外局",
+   "note": "{農林水産省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -336,7 +336,7 @@
   {
    "name": "水産庁",
    "aliases": [],
-   "note": "農林水産省の外局",
+   "note": "{農林水産省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -346,7 +346,7 @@
    "aliases": [
     "エネ庁"
    ],
-   "note": "経済産業省の外局",
+   "note": "{経済産業省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -354,7 +354,7 @@
   {
    "name": "特許庁",
    "aliases": [],
-   "note": "経済産業省の外局",
+   "note": "{経済産業省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -362,7 +362,7 @@
   {
    "name": "中小企業庁",
    "aliases": [],
-   "note": "経済産業省の外局",
+   "note": "{経済産業省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -370,7 +370,7 @@
   {
    "name": "観光庁",
    "aliases": [],
-   "note": "国土交通省の外局",
+   "note": "{国土交通省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -378,7 +378,7 @@
   {
    "name": "気象庁",
    "aliases": [],
-   "note": "国土交通省の外局",
+   "note": "{国土交通省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -388,7 +388,7 @@
    "aliases": [
     "海保"
    ],
-   "note": "国土交通省の外局",
+   "note": "{国土交通省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -398,7 +398,7 @@
    "aliases": [
     "規制委"
    ],
-   "note": "環境省の外局",
+   "note": "{環境省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -406,7 +406,7 @@
   {
    "name": "防衛装備庁",
    "aliases": [],
-   "note": "防衛省の外局",
+   "note": "{防衛省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -414,7 +414,7 @@
   {
    "name": "中央労働委員会",
    "aliases": [],
-   "note": "厚生労働省の外局",
+   "note": "{厚生労働省|○○省}の外局",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -422,7 +422,7 @@
   {
    "name": "総理府",
    "aliases": [],
-   "note": "2001年の再編で内閣府へ",
+   "note": "2001年の再編で{内閣府|○○府}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -430,7 +430,7 @@
   {
    "name": "大蔵省",
    "aliases": [],
-   "note": "2001年の再編で財務省へ",
+   "note": "2001年の再編で{財務省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -438,7 +438,7 @@
   {
    "name": "文部省",
    "aliases": [],
-   "note": "2001年の再編で文部科学省へ",
+   "note": "2001年の再編で{文部科学省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -446,7 +446,7 @@
   {
    "name": "科学技術庁",
    "aliases": [],
-   "note": "2001年の再編で文部科学省へ",
+   "note": "2001年の再編で{文部科学省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -454,7 +454,7 @@
   {
    "name": "厚生省",
    "aliases": [],
-   "note": "2001年の再編で厚生労働省へ",
+   "note": "2001年の再編で{厚生労働省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -462,7 +462,7 @@
   {
    "name": "労働省",
    "aliases": [],
-   "note": "2001年の再編で厚生労働省へ",
+   "note": "2001年の再編で{厚生労働省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -472,7 +472,7 @@
    "aliases": [
     "通産省"
    ],
-   "note": "2001年の再編で経済産業省へ",
+   "note": "2001年の再編で{経済産業省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -480,7 +480,7 @@
   {
    "name": "運輸省",
    "aliases": [],
-   "note": "2001年の再編で国土交通省へ",
+   "note": "2001年の再編で{国土交通省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -488,7 +488,7 @@
   {
    "name": "建設省",
    "aliases": [],
-   "note": "2001年の再編で国土交通省へ",
+   "note": "2001年の再編で{国土交通省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -496,7 +496,7 @@
   {
    "name": "国土庁",
    "aliases": [],
-   "note": "2001年の再編で国土交通省へ",
+   "note": "2001年の再編で{国土交通省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -504,7 +504,7 @@
   {
    "name": "北海道開発庁",
    "aliases": [],
-   "note": "2001年の再編で国土交通省へ",
+   "note": "2001年の再編で{国土交通省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -512,7 +512,7 @@
   {
    "name": "郵政省",
    "aliases": [],
-   "note": "2001年の再編で総務省へ",
+   "note": "2001年の再編で{総務省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -520,7 +520,7 @@
   {
    "name": "自治省",
    "aliases": [],
-   "note": "2001年の再編で総務省へ",
+   "note": "2001年の再編で{総務省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -528,7 +528,7 @@
   {
    "name": "総務庁",
    "aliases": [],
-   "note": "2001年の再編で総務省へ",
+   "note": "2001年の再編で{総務省|○○省}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -536,7 +536,7 @@
   {
    "name": "環境庁",
    "aliases": [],
-   "note": "2001年の再編で環境省に昇格",
+   "note": "2001年の再編で{環境省|○○省}に昇格",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -544,7 +544,7 @@
   {
    "name": "防衛庁",
    "aliases": [],
-   "note": "2007年に防衛省に昇格",
+   "note": "2007年に{防衛省|○○省}に昇格",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -552,7 +552,7 @@
   {
    "name": "経済企画庁",
    "aliases": [],
-   "note": "2001年の再編で内閣府へ",
+   "note": "2001年の再編で{内閣府|○○府}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true
@@ -560,7 +560,7 @@
   {
    "name": "沖縄開発庁",
    "aliases": [],
-   "note": "2001年の再編で内閣府へ",
+   "note": "2001年の再編で{内閣府|○○府}へ",
    "group": "庁・委員会",
    "secret": false,
    "ghost": true

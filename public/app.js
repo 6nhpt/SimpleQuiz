@@ -6,6 +6,9 @@ const $right = document.getElementById("bar-right");
 const $back = document.getElementById("back");
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+// メモ中の {答え|伏せ字} は、その答えを回答済みなら答え、まだなら伏せ字（省略時は○○）で表示する
+const noteText = (note, known = () => true) =>
+  (note || "").replace(/\{([^{}|]+)(?:\|([^{}]*))?\}/g, (_, name, mask) => (known(name) ? name : mask ?? "○○"));
 
 // ---------------------------------------------------------------- API / 保存
 
@@ -227,6 +230,7 @@ async function renderPlay(id) {
   const $grid = document.getElementById("grid");
   const $head = document.getElementById("head");
   const pending = new Set();
+  const known = (name) => [...answered].some((i) => quiz.items[i].name === name);
 
   // マスが見える位置（固定ヘッダーの下）までスッとスクロールする。見えていれば何もしない
   function scrollToCell(i) {
@@ -260,7 +264,7 @@ async function renderPlay(id) {
     const miss = gaveUp && !it.secret;
     const cls = (ok ? "ok" : miss ? "miss" : "blank") + (it.secret ? " secret" : "");
     const text = ok || miss ? (it.secret ? "★ " : "") + esc(it.name) : "";
-    const hint = (showHint || miss || ok) && it.note && (ok || !it.secret || open) ? `<small>${esc(it.note)}</small>` : "";
+    const hint = (showHint || miss || ok) && it.note && (ok || !it.secret || open) ? `<small>${esc(noteText(it.note, known))}</small>` : "";
     return `<li class="${cls}" data-i="${i}">${text || "&nbsp;"}${hint}</li>`;
   }
 
@@ -330,7 +334,7 @@ async function renderPlay(id) {
   function ghost(r) {
     const it = quiz.items[r.index];
     addFound(id, it.name);
-    feedback("ghost", `💡 ${it.name}${it.note ? "：" + it.note : ""}（正解には数えません）`);
+    feedback("ghost", `💡 ${it.name}${it.note ? "：" + noteText(it.note, known) : ""}（正解には数えません）`);
     $in.value = "";
   }
   function tryAuto() {
@@ -397,9 +401,9 @@ async function renderView(id) {
   const secrets = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].secret && found.has(quiz.items[i].name));
   const ghosts = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].ghost && found.has(quiz.items[i].name));
   const li = (it) => `
-              <li data-s="${esc([it.name, ...it.aliases, it.note, it.group || ""].join(" ").toLowerCase())}">
+              <li data-s="${esc([it.name, ...it.aliases, noteText(it.note), it.group || ""].join(" ").toLowerCase())}">
                 <span class="name">${esc(it.name)}</span>
-                ${it.note ? `<span class="note">${esc(it.note)}</span>` : ""}
+                ${it.note ? `<span class="note">${esc(noteText(it.note))}</span>` : ""}
                 ${it.aliases.length ? `<span class="aliases">${it.aliases.map(esc).join(" / ")}</span>` : ""}
               </li>`;
   setBar(quiz.title, "#/", STATIC ? "" : `<a class="btn small" href="#/edit/${id}">編集</a>`);
@@ -466,6 +470,7 @@ async function renderEdit(id) {
           <li><code>## 区分名</code> の行を入れると、それ以降の項目がその区分にまとまって表示されます</li>
           <li>行頭に <code>*</code> を付けるとシークレット（総数に出ず、答えると+1）。区分の中身が全部シークレットなら、1個見つけた時点で区分ごと現れます</li>
           <li>行頭に <code>?</code> を付けると判定のみ（答えるとメモを表示するが、正解には数えない）</li>
+          <li>メモ中の <code>{厚生労働省|○○省}</code> は、その答えを回答済みなら名前、まだなら伏せ字で表示（伏せ字を省くと「○○」）</li>
         </ul>
       </details>
       <label>判定テスト<input id="e-test" placeholder="ここに入力すると、どれに当たるか表示"></label>
