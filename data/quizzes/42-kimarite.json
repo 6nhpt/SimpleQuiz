@@ -1,0 +1,934 @@
+{
+ "title": "大相撲の決まり手（82手）",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "突き出し",
+   "aliases": [
+    "突出し",
+    "つきだし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "突き倒し",
+   "aliases": [
+    "突倒し",
+    "つきたおし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "押し出し",
+   "aliases": [
+    "押出し",
+    "おしだし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "押し倒し",
+   "aliases": [
+    "押倒し",
+    "おしたおし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "寄り切り",
+   "aliases": [
+    "寄切り",
+    "よりきり"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "寄り倒し",
+   "aliases": [
+    "寄倒し",
+    "よりたおし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浴びせ倒し",
+   "aliases": [
+    "浴せ倒し",
+    "あびせたおし"
+   ],
+   "note": "",
+   "group": "基本技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上手投げ",
+   "aliases": [
+    "上手投",
+    "うわてなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下手投げ",
+   "aliases": [
+    "下手投",
+    "したてなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小手投げ",
+   "aliases": [
+    "こてなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "掬い投げ",
+   "aliases": [
+    "すくい投げ",
+    "すくいなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上手出し投げ",
+   "aliases": [
+    "うわてだしなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下手出し投げ",
+   "aliases": [
+    "したてだしなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "腰投げ",
+   "aliases": [
+    "こしなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "首投げ",
+   "aliases": [
+    "くびなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "一本背負い",
+   "aliases": [
+    "いっぽんぜおい"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "二丁投げ",
+   "aliases": [
+    "にちょうなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "櫓投げ",
+   "aliases": [
+    "やぐら投げ",
+    "やぐらなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "掛け投げ",
+   "aliases": [
+    "かけなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "掴み投げ",
+   "aliases": [
+    "つかみ投げ",
+    "つかみなげ"
+   ],
+   "note": "",
+   "group": "投げ手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "内掛け",
+   "aliases": [
+    "うちがけ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "外掛け",
+   "aliases": [
+    "そとがけ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ちょん掛け",
+   "aliases": [
+    "ちょんがけ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "切り返し",
+   "aliases": [
+    "きりかえし"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "河津掛け",
+   "aliases": [
+    "かわづがけ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "蹴返し",
+   "aliases": [
+    "けかえし"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "蹴手繰り",
+   "aliases": [
+    "けたぐり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "三所攻め",
+   "aliases": [
+    "みところぜめ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "渡し込み",
+   "aliases": [
+    "わたしこみ"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "二枚蹴り",
+   "aliases": [
+    "にまいげり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小股掬い",
+   "aliases": [
+    "小股すくい",
+    "こまたすくい"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "外小股",
+   "aliases": [
+    "そとこまた"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大股",
+   "aliases": [
+    "おおまた"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "褄取り",
+   "aliases": [
+    "つま取り",
+    "つまとり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小褄取り",
+   "aliases": [
+    "小づま取り",
+    "こづまとり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "足取り",
+   "aliases": [
+    "あしとり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "裾取り",
+   "aliases": [
+    "すそ取り",
+    "すそとり"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "裾払い",
+   "aliases": [
+    "すそ払い",
+    "すそはらい"
+   ],
+   "note": "",
+   "group": "掛け手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "居反り",
+   "aliases": [
+    "いぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "撞木反り",
+   "aliases": [
+    "しゅもく反り",
+    "しゅもくぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "掛け反り",
+   "aliases": [
+    "かけぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "襷反り",
+   "aliases": [
+    "たすき反り",
+    "たすきぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "外襷反り",
+   "aliases": [
+    "外たすき反り",
+    "そとたすきぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "伝え反り",
+   "aliases": [
+    "つたえぞり"
+   ],
+   "note": "",
+   "group": "反り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "突き落とし",
+   "aliases": [
+    "突き落し",
+    "つきおとし"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "巻き落とし",
+   "aliases": [
+    "巻き落し",
+    "まきおとし"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "とったり",
+   "aliases": [],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "逆とったり",
+   "aliases": [
+    "さかとったり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "肩透かし",
+   "aliases": [
+    "肩すかし",
+    "かたすかし"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "外無双",
+   "aliases": [
+    "そとむそう"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "内無双",
+   "aliases": [
+    "うちむそう"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "頭捻り",
+   "aliases": [
+    "ずぶねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上手捻り",
+   "aliases": [
+    "うわてひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下手捻り",
+   "aliases": [
+    "したてひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "網打ち",
+   "aliases": [
+    "あみうち"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鯖折り",
+   "aliases": [
+    "さば折り",
+    "さばおり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "波離間投げ",
+   "aliases": [
+    "はりま投げ",
+    "はりまなげ"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大逆手",
+   "aliases": [
+    "おおさかて"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "腕捻り",
+   "aliases": [
+    "かいなひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "合掌捻り",
+   "aliases": [
+    "がっしょうひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "徳利投げ",
+   "aliases": [
+    "とっくり投げ",
+    "とっくりなげ"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "首捻り",
+   "aliases": [
+    "くびひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小手捻り",
+   "aliases": [
+    "こてひねり"
+   ],
+   "note": "",
+   "group": "捻り手",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "引き落とし",
+   "aliases": [
+    "引き落し",
+    "ひきおとし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "引っ掛け",
+   "aliases": [
+    "ひっかけ"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "叩き込み",
+   "aliases": [
+    "はたき込み",
+    "はたきこみ"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "素首落とし",
+   "aliases": [
+    "そっ首落とし",
+    "そっくびおとし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吊り出し",
+   "aliases": [
+    "つり出し",
+    "つりだし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り吊り出し",
+   "aliases": [
+    "送りつり出し",
+    "おくりつりだし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吊り落とし",
+   "aliases": [
+    "つり落とし",
+    "つりおとし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り吊り落とし",
+   "aliases": [
+    "送りつり落とし",
+    "おくりつりおとし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り出し",
+   "aliases": [
+    "おくりだし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り倒し",
+   "aliases": [
+    "おくりたおし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り投げ",
+   "aliases": [
+    "おくりなげ"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り掛け",
+   "aliases": [
+    "おくりがけ"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "送り引き落とし",
+   "aliases": [
+    "おくりひきおとし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "割り出し",
+   "aliases": [
+    "わりだし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "うっちゃり",
+   "aliases": [],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "極め出し",
+   "aliases": [
+    "きめだし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "極め倒し",
+   "aliases": [
+    "きめたおし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "後ろもたれ",
+   "aliases": [
+    "うしろもたれ"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "呼び戻し",
+   "aliases": [
+    "よびもどし"
+   ],
+   "note": "",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "勇み足",
+   "aliases": [
+    "いさみあし"
+   ],
+   "note": "非技（決まり手ではなく勝負結果）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "腰砕け",
+   "aliases": [
+    "こしくだけ"
+   ],
+   "note": "非技（決まり手ではなく勝負結果）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "つき手",
+   "aliases": [
+    "付き手",
+    "つきて"
+   ],
+   "note": "非技（決まり手ではなく勝負結果）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "つきひざ",
+   "aliases": [
+    "付き膝",
+    "つき膝"
+   ],
+   "note": "非技（決まり手ではなく勝負結果）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "踏み出し",
+   "aliases": [
+    "ふみだし"
+   ],
+   "note": "非技（決まり手ではなく勝負結果）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "不戦勝",
+   "aliases": [
+    "ふせんしょう"
+   ],
+   "note": "決まり手ではない（相手の休場）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "反則",
+   "aliases": [
+    "反則勝ち",
+    "はんそく"
+   ],
+   "note": "決まり手ではない（相手の反則）",
+   "group": "特殊技",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "42-kimarite",
+ "created": 40.0
+}

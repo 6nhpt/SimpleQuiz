@@ -38,6 +38,18 @@ function loadProg(id) {
 }
 function saveProg(id, p) { localStorage.setItem(progKey(id), JSON.stringify(p)); }
 
+const foundKey = (id) => "sq:found:" + id;
+function loadFound(id) {
+  try { return new Set(JSON.parse(localStorage.getItem(foundKey(id))) || []); }
+  catch { return new Set(); }
+}
+function addFound(id, name) {
+  const f = loadFound(id);
+  if (f.has(name)) return;
+  f.add(name);
+  localStorage.setItem(foundKey(id), JSON.stringify([...f]));
+}
+
 // 項目を区分（group）ごとにまとめる。並びは区分が最初に登場した順
 function groupItems(items) {
   const groups = new Map();
@@ -152,6 +164,7 @@ async function renderPlay(id) {
   const answered = new Set();
   quiz.items.forEach((it, i) => { if (prog.answered.includes(it.name)) answered.add(i); });
   let gaveUp = prog.gaveUp;
+  for (const i of answered) if (isSecret(i)) addFound(id, quiz.items[i].name);
   let showHint = localStorage.getItem("sq:hint") === "1";
   const hasNotes = quiz.items.some((it) => it.note);
 
@@ -234,6 +247,7 @@ async function renderPlay(id) {
 
   function accept(r) {
     answered.add(r.index);
+    if (isSecret(r.index)) addFound(id, quiz.items[r.index].name);
     persist();
     $in.value = "";
     renderGrid(r.index);
@@ -254,6 +268,7 @@ async function renderPlay(id) {
   $in.addEventListener("input", (e) => { if (!composing && !e.isComposing) tryAuto(); });
   function ghost(r) {
     const it = quiz.items[r.index];
+    addFound(id, it.name);
     feedback("ghost", `💡 ${it.name}${it.note ? "：" + it.note : ""}（正解には数えません）`);
     $in.value = "";
   }
@@ -314,8 +329,11 @@ async function renderView(id) {
   const normal = groups
     .map(([g, idxs]) => [g, idxs.filter((i) => !quiz.items[i].secret && !quiz.items[i].ghost)])
     .filter(([, idxs]) => idxs.length);
-  const secrets = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].secret);
-  const ghosts = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].ghost);
+  const found = loadFound(id);
+  const secretCount = quiz.items.filter((it) => it.secret).length;
+  const ghostCount = quiz.items.filter((it) => it.ghost).length;
+  const secrets = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].secret && found.has(quiz.items[i].name));
+  const ghosts = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].ghost && found.has(quiz.items[i].name));
   const li = (it) => `
               <li data-s="${esc([it.name, ...it.aliases, it.note, it.group || ""].join(" ").toLowerCase())}">
                 <span class="name">${esc(it.name)}</span>
@@ -325,7 +343,7 @@ async function renderView(id) {
   setBar(quiz.title, "#/", STATIC ? "" : `<a class="btn small" href="#/edit/${id}">編集</a>`);
   $app.innerHTML = `
     <div class="view-head">
-      <span>${quiz.items.length - secrets.length - ghosts.length}個</span>
+      <span>${quiz.items.length - secretCount - ghostCount}個</span>
       <a class="btn small primary" href="#/play/${id}">挑戦する</a>
     </div>
     <input id="filter" type="search" placeholder="絞り込み">
@@ -338,12 +356,12 @@ async function renderView(id) {
     </div>
     ${secrets.length ? `
       <details class="secret-box">
-        <summary>★ シークレット（ネタバレ注意・${secrets.length}個）</summary>
+        <summary>★ 見つけたシークレット（${secrets.length}個）</summary>
         <ul class="list">${secrets.map((i) => li(quiz.items[i])).join("")}</ul>
       </details>` : ""}
     ${ghosts.length ? `
       <details class="secret-box ghost-box">
-        <summary>💡 判定のみの別名（正解には数えない・${ghosts.length}個）</summary>
+        <summary>💡 見つけた番外の答え（正解には数えない・${ghosts.length}個）</summary>
         <ul class="list">${ghosts.map((i) => li(quiz.items[i])).join("")}</ul>
       </details>` : ""}`;
   document.getElementById("filter").addEventListener("input", (e) => {

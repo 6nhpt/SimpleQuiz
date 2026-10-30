@@ -1,0 +1,1176 @@
+{
+ "title": "日本の空港（空港法の97空港）",
+ "category": "日本の地理",
+ "options": {
+  "suffix": [
+   "空港",
+   "くうこう",
+   "飛行場",
+   "ひこうじょう"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "新千歳",
+   "aliases": [
+    "しんちとせ"
+   ],
+   "note": "CTS",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "稚内",
+   "aliases": [
+    "わっかない"
+   ],
+   "note": "WKJ",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "釧路",
+   "aliases": [
+    "たんちょう釧路",
+    "くしろ"
+   ],
+   "note": "KUH",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "函館",
+   "aliases": [
+    "はこだて"
+   ],
+   "note": "HKD",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "旭川",
+   "aliases": [
+    "あさひかわ"
+   ],
+   "note": "AKJ",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "帯広",
+   "aliases": [
+    "とかち帯広",
+    "おびひろ"
+   ],
+   "note": "OBO",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "利尻",
+   "aliases": [
+    "りしり"
+   ],
+   "note": "RIS",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "礼文",
+   "aliases": [
+    "れぶん"
+   ],
+   "note": "RBJ（供用休止中）",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奥尻",
+   "aliases": [
+    "おくしり"
+   ],
+   "note": "OIR",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中標津",
+   "aliases": [
+    "根室中標津",
+    "なかしべつ"
+   ],
+   "note": "SHB",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "紋別",
+   "aliases": [
+    "オホーツク紋別",
+    "もんべつ"
+   ],
+   "note": "MBE",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "女満別",
+   "aliases": [
+    "めまんべつ"
+   ],
+   "note": "MMB",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "札幌（丘珠）",
+   "aliases": [
+    "札幌",
+    "丘珠",
+    "さっぽろ",
+    "おかだま"
+   ],
+   "note": "OKD",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "千歳（基地）",
+   "aliases": [
+    "千歳",
+    "ちとせ"
+   ],
+   "note": "IATAなし（ICAO RJCJ）",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "仙台",
+   "aliases": [
+    "せんだい"
+   ],
+   "note": "SDJ",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秋田",
+   "aliases": [
+    "あきた"
+   ],
+   "note": "AXT",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山形",
+   "aliases": [
+    "おいしい山形",
+    "やまがた"
+   ],
+   "note": "GAJ",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "青森",
+   "aliases": [
+    "あおもり"
+   ],
+   "note": "AOJ",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "花巻",
+   "aliases": [
+    "いわて花巻",
+    "はなまき"
+   ],
+   "note": "HNA",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大館能代",
+   "aliases": [
+    "あきた北",
+    "おおだてのしろ"
+   ],
+   "note": "ONJ",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "庄内",
+   "aliases": [
+    "おいしい庄内",
+    "しょうない"
+   ],
+   "note": "SYO",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福島",
+   "aliases": [
+    "ふくしま"
+   ],
+   "note": "FKS",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "三沢",
+   "aliases": [
+    "みさわ"
+   ],
+   "note": "MSJ",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "成田国際",
+   "aliases": [
+    "成田",
+    "なりた",
+    "なりたこくさい"
+   ],
+   "note": "NRT",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京国際（羽田）",
+   "aliases": [
+    "東京国際",
+    "羽田",
+    "はねだ",
+    "とうきょうこくさい"
+   ],
+   "note": "HND",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大島",
+   "aliases": [
+    "伊豆大島",
+    "おおしま"
+   ],
+   "note": "OIM",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新島",
+   "aliases": [
+    "にいじま"
+   ],
+   "note": "IATAなし（ICAO RJAN）",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神津島",
+   "aliases": [
+    "こうづしま"
+   ],
+   "note": "IATAなし（ICAO RJAZ）",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "三宅島",
+   "aliases": [
+    "みやけじま"
+   ],
+   "note": "MYE",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八丈島",
+   "aliases": [
+    "はちじょうじま"
+   ],
+   "note": "HAC",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "調布",
+   "aliases": [
+    "ちょうふ"
+   ],
+   "note": "IATAなし（ICAO RJTF）",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "百里（茨城）",
+   "aliases": [
+    "百里",
+    "茨城",
+    "ひゃくり",
+    "いばらき"
+   ],
+   "note": "IBR",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中部国際",
+   "aliases": [
+    "セントレア",
+    "ちゅうぶこくさい"
+   ],
+   "note": "NGO",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新潟",
+   "aliases": [
+    "にいがた"
+   ],
+   "note": "KIJ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "佐渡",
+   "aliases": [
+    "さど"
+   ],
+   "note": "SDS",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "富山",
+   "aliases": [
+    "富山きときと",
+    "とやま"
+   ],
+   "note": "TOY",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "能登",
+   "aliases": [
+    "のと里山",
+    "のと"
+   ],
+   "note": "NTQ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福井",
+   "aliases": [
+    "ふくい"
+   ],
+   "note": "FKJ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "松本",
+   "aliases": [
+    "信州まつもと",
+    "まつもと"
+   ],
+   "note": "MMJ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "静岡",
+   "aliases": [
+    "富士山静岡",
+    "しずおか"
+   ],
+   "note": "FSZ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋（小牧）",
+   "aliases": [
+    "名古屋",
+    "県営名古屋",
+    "小牧",
+    "なごや",
+    "こまき"
+   ],
+   "note": "NKM",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小松",
+   "aliases": [
+    "こまつ"
+   ],
+   "note": "KMQ",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "関西国際",
+   "aliases": [
+    "関空",
+    "かんさいこくさい",
+    "かんくう"
+   ],
+   "note": "KIX",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪国際（伊丹）",
+   "aliases": [
+    "大阪国際",
+    "伊丹",
+    "いたみ",
+    "おおさかこくさい"
+   ],
+   "note": "ITM",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神戸",
+   "aliases": [
+    "こうべ"
+   ],
+   "note": "UKB",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "南紀白浜",
+   "aliases": [
+    "なんきしらはま"
+   ],
+   "note": "SHM",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "但馬",
+   "aliases": [
+    "コウノトリ但馬",
+    "たじま"
+   ],
+   "note": "TJH",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八尾",
+   "aliases": [
+    "やお"
+   ],
+   "note": "IATAなし（ICAO RJOY）",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "広島",
+   "aliases": [
+    "ひろしま"
+   ],
+   "note": "HIJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山口宇部",
+   "aliases": [
+    "やまぐちうべ"
+   ],
+   "note": "UBJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鳥取",
+   "aliases": [
+    "鳥取砂丘コナン",
+    "とっとり"
+   ],
+   "note": "TTJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "隠岐",
+   "aliases": [
+    "隠岐世界ジオパーク",
+    "おき"
+   ],
+   "note": "OKI",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "出雲",
+   "aliases": [
+    "出雲縁結び",
+    "いずも"
+   ],
+   "note": "IZO",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "石見",
+   "aliases": [
+    "萩・石見",
+    "いわみ"
+   ],
+   "note": "IWJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岡山",
+   "aliases": [
+    "岡山桃太郎",
+    "おかやま"
+   ],
+   "note": "OKJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岡南",
+   "aliases": [
+    "こうなん"
+   ],
+   "note": "IATAなし（ICAO RJBK）",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "美保（米子）",
+   "aliases": [
+    "美保",
+    "米子",
+    "米子鬼太郎",
+    "みほ",
+    "よなご"
+   ],
+   "note": "YGJ",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岩国",
+   "aliases": [
+    "岩国錦帯橋",
+    "いわくに"
+   ],
+   "note": "IWK",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高松",
+   "aliases": [
+    "たかまつ"
+   ],
+   "note": "TAK",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "松山",
+   "aliases": [
+    "まつやま"
+   ],
+   "note": "MYJ",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高知",
+   "aliases": [
+    "高知龍馬",
+    "こうち"
+   ],
+   "note": "KCZ",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "徳島",
+   "aliases": [
+    "徳島阿波おどり",
+    "とくしま"
+   ],
+   "note": "TKS",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福岡",
+   "aliases": [
+    "ふくおか"
+   ],
+   "note": "FUK",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北九州",
+   "aliases": [
+    "きたきゅうしゅう"
+   ],
+   "note": "KKJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長崎",
+   "aliases": [
+    "ながさき"
+   ],
+   "note": "NGS",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熊本",
+   "aliases": [
+    "阿蘇くまもと",
+    "くまもと"
+   ],
+   "note": "KMJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大分",
+   "aliases": [
+    "おおいた"
+   ],
+   "note": "OIT",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮崎",
+   "aliases": [
+    "宮崎ブーゲンビリア",
+    "みやざき"
+   ],
+   "note": "KMI",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鹿児島",
+   "aliases": [
+    "かごしま"
+   ],
+   "note": "KOJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "佐賀",
+   "aliases": [
+    "九州佐賀国際",
+    "さが"
+   ],
+   "note": "HSG",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "対馬",
+   "aliases": [
+    "対馬やまねこ",
+    "つしま"
+   ],
+   "note": "TSJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小値賀",
+   "aliases": [
+    "おぢか"
+   ],
+   "note": "IATAなし（ICAO RJDO）",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福江",
+   "aliases": [
+    "五島つばき",
+    "ふくえ"
+   ],
+   "note": "FUJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上五島",
+   "aliases": [
+    "かみごとう"
+   ],
+   "note": "IATAなし（ICAO RJDK）",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "壱岐",
+   "aliases": [
+    "いき"
+   ],
+   "note": "IKI",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "種子島",
+   "aliases": [
+    "コスモポート種子島",
+    "たねがしま"
+   ],
+   "note": "TNE",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "屋久島",
+   "aliases": [
+    "やくしま"
+   ],
+   "note": "KUM",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奄美",
+   "aliases": [
+    "あまみ"
+   ],
+   "note": "ASJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "喜界",
+   "aliases": [
+    "きかい"
+   ],
+   "note": "KKX",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "徳之島",
+   "aliases": [
+    "とくのしま"
+   ],
+   "note": "TKN",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "沖永良部",
+   "aliases": [
+    "おきのえらぶ"
+   ],
+   "note": "OKE",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "与論",
+   "aliases": [
+    "よろん"
+   ],
+   "note": "RNJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天草",
+   "aliases": [
+    "あまくさ"
+   ],
+   "note": "AXJ",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大分県央",
+   "aliases": [
+    "おおいたけんおう"
+   ],
+   "note": "IATAなし（ICAO ROIT）",
+   "group": "九州",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "那覇",
+   "aliases": [
+    "なは"
+   ],
+   "note": "OKA",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "粟国",
+   "aliases": [
+    "あぐに"
+   ],
+   "note": "AGJ",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "久米島",
+   "aliases": [
+    "くめじま"
+   ],
+   "note": "UEO",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "慶良間",
+   "aliases": [
+    "けらま"
+   ],
+   "note": "KJP",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "南大東",
+   "aliases": [
+    "みなみだいとう"
+   ],
+   "note": "MMD",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北大東",
+   "aliases": [
+    "きただいとう"
+   ],
+   "note": "KTD",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "伊江島",
+   "aliases": [
+    "いえじま"
+   ],
+   "note": "IEJ",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮古",
+   "aliases": [
+    "みやこ"
+   ],
+   "note": "MMY",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下地島",
+   "aliases": [
+    "みやこ下地島",
+    "しもじしま"
+   ],
+   "note": "SHI",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "多良間",
+   "aliases": [
+    "たらま"
+   ],
+   "note": "TRA",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "石垣",
+   "aliases": [
+    "新石垣",
+    "南ぬ島石垣",
+    "いしがき"
+   ],
+   "note": "ISG",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "波照間",
+   "aliases": [
+    "はてるま"
+   ],
+   "note": "HTR",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "与那国",
+   "aliases": [
+    "よなぐに"
+   ],
+   "note": "OGN",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "広島西",
+   "aliases": [
+    "ひろしまにし"
+   ],
+   "note": "2012年に空港としては廃止（現在はヘリポート）",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弟子屈",
+   "aliases": [
+    "てしかが"
+   ],
+   "note": "廃止された飛行場",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "南鳥島",
+   "aliases": [
+    "みなみとりしま"
+   ],
+   "note": "自衛隊・気象庁などの飛行場で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "硫黄島",
+   "aliases": [
+    "いおうとう",
+    "いおうじま"
+   ],
+   "note": "自衛隊の飛行場で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ホンダエアポート",
+   "aliases": [
+    "ほんだえあぽーと"
+   ],
+   "note": "民間の私設飛行場で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "竜ヶ崎",
+   "aliases": [
+    "竜ケ崎",
+    "りゅうがさき"
+   ],
+   "note": "民間の飛行場で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "嘉手納",
+   "aliases": [
+    "かでな"
+   ],
+   "note": "米軍基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "横田",
+   "aliases": [
+    "よこた"
+   ],
+   "note": "米軍基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "厚木",
+   "aliases": [
+    "あつぎ"
+   ],
+   "note": "米軍・自衛隊の基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "普天間",
+   "aliases": [
+    "ふてんま"
+   ],
+   "note": "米軍基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "入間",
+   "aliases": [
+    "いるま"
+   ],
+   "note": "自衛隊の基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "浜松",
+   "aliases": [
+    "はままつ"
+   ],
+   "note": "自衛隊の基地で、空港法の空港ではない",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京ヘリポート",
+   "aliases": [
+    "とうきょうへりぽーと"
+   ],
+   "note": "公共用ヘリポートなので今回は対象外",
+   "group": "沖縄",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "41-airports",
+ "created": 39.0
+}

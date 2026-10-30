@@ -1,0 +1,468 @@
+{
+ "title": "スタジオジブリの長編映画",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "風の谷のナウシカ",
+   "aliases": [
+    "ナウシカ",
+    "かぜのたにのなうしか"
+   ],
+   "note": "1984",
+   "group": "1980年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天空の城ラピュタ",
+   "aliases": [
+    "ラピュタ",
+    "てんくうのしろらぴゅた"
+   ],
+   "note": "1986",
+   "group": "1980年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "となりのトトロ",
+   "aliases": [
+    "トトロ",
+    "隣のトトロ"
+   ],
+   "note": "1988",
+   "group": "1980年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "火垂るの墓",
+   "aliases": [
+    "火垂る",
+    "ほたるのはか"
+   ],
+   "note": "1988",
+   "group": "1980年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "魔女の宅急便",
+   "aliases": [
+    "魔女宅",
+    "まじょのたっきゅうびん"
+   ],
+   "note": "1989",
+   "group": "1980年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "おもひでぽろぽろ",
+   "aliases": [
+    "おもいでぽろぽろ"
+   ],
+   "note": "1991",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "紅の豚",
+   "aliases": [
+    "くれないのぶた"
+   ],
+   "note": "1992",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "平成狸合戦ぽんぽこ",
+   "aliases": [
+    "ぽんぽこ",
+    "へいせいたぬきがっせんぽんぽこ"
+   ],
+   "note": "1994",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "耳をすませば",
+   "aliases": [
+    "耳すま"
+   ],
+   "note": "1995",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "もののけ姫",
+   "aliases": [
+    "もののけ",
+    "もののけひめ"
+   ],
+   "note": "1997",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ホーホケキョ となりの山田くん",
+   "aliases": [
+    "となりの山田くん",
+    "山田くん"
+   ],
+   "note": "1999",
+   "group": "1990年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "千と千尋の神隠し",
+   "aliases": [
+    "千と千尋",
+    "せんとちひろのかみかくし"
+   ],
+   "note": "2001",
+   "group": "2000年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "猫の恩返し",
+   "aliases": [
+    "ねこのおんがえし"
+   ],
+   "note": "2002",
+   "group": "2000年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ハウルの動く城",
+   "aliases": [
+    "ハウル",
+    "はうるのうごくしろ"
+   ],
+   "note": "2004",
+   "group": "2000年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ゲド戦記",
+   "aliases": [
+    "げどせんき"
+   ],
+   "note": "2006",
+   "group": "2000年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "崖の上のポニョ",
+   "aliases": [
+    "ポニョ",
+    "がけのうえのぽにょ"
+   ],
+   "note": "2008",
+   "group": "2000年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "借りぐらしのアリエッティ",
+   "aliases": [
+    "アリエッティ",
+    "かりぐらしのありえってぃ"
+   ],
+   "note": "2010",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "コクリコ坂から",
+   "aliases": [
+    "コクリコ坂",
+    "こくりこざかから"
+   ],
+   "note": "2011",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "風立ちぬ",
+   "aliases": [
+    "かぜたちぬ"
+   ],
+   "note": "2013",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "かぐや姫の物語",
+   "aliases": [
+    "かぐや姫",
+    "かぐやひめのものがたり"
+   ],
+   "note": "2013",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "思い出のマーニー",
+   "aliases": [
+    "マーニー",
+    "おもいでのまーにー"
+   ],
+   "note": "2014",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "レッドタートル ある島の物語",
+   "aliases": [
+    "レッドタートル"
+   ],
+   "note": "2016",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "劇場版 アーヤと魔女",
+   "aliases": [
+    "アーヤと魔女",
+    "アーヤ"
+   ],
+   "note": "2021（テレビ版は2020）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "君たちはどう生きるか",
+   "aliases": [
+    "きみたちはどういきるか"
+   ],
+   "note": "2023",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "海がきこえる",
+   "aliases": [
+    "うみがきこえる"
+   ],
+   "note": "1993年のテレビ用作品",
+   "group": "2010年代以降",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "On Your Mark",
+   "aliases": [
+    "オンユアマーク"
+   ],
+   "note": "短編（1995年）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ギブリーズ",
+   "aliases": [
+    "ギブリーズ episode2"
+   ],
+   "note": "テレビ用作品・短編",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "フィルムぐるぐる",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "くじらとり",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "コロの大さんぽ",
+   "aliases": [
+    "ころのおおさんぽ"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "めいとこねこバス",
+   "aliases": [
+    "めいとこねこばす"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "空想の空飛ぶ機械達",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "空想の機械達の中の破壊の発明",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ポータブル空港",
+   "aliases": [],
+   "note": "短編",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "space station No.9",
+   "aliases": [
+    "スペースステーションナンバーナイン"
+   ],
+   "note": "短編",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "空飛ぶ都市計画",
+   "aliases": [],
+   "note": "短編",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "水グモもんもん",
+   "aliases": [
+    "みずぐももんもん"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "星をかった日",
+   "aliases": [
+    "ほしをかったひ"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "やどさがし",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ジュディ・ジェディ",
+   "aliases": [],
+   "note": "短編",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ちゅうずもう",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "パン種とタマゴ姫",
+   "aliases": [
+    "ぱんだねとたまごひめ"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "たからさがし",
+   "aliases": [],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "毛虫のボロ",
+   "aliases": [
+    "けむしのぼろ"
+   ],
+   "note": "短編（ジブリ美術館）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "禅 グローグーとマックロクロスケ",
+   "aliases": [
+    "禅グローグーとマックロクロスケ"
+   ],
+   "note": "短編（2022年）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "魔女の谷の夜",
+   "aliases": [
+    "まじょのたにのよる"
+   ],
+   "note": "短編（2026年）",
+   "group": "2010年代以降",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "43-ghibli",
+ "created": 41.0
+}
