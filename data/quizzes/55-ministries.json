@@ -1,0 +1,571 @@
+{
+ "title": "日本の府省庁（1府11省4庁）",
+ "category": "歴史・文化",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "内閣府",
+   "aliases": [
+    "ないかくふ"
+   ],
+   "note": "",
+   "group": "府",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "総務省",
+   "aliases": [
+    "そうむしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "法務省",
+   "aliases": [
+    "ほうむしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "外務省",
+   "aliases": [
+    "がいむしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "財務省",
+   "aliases": [
+    "ざいむしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "文部科学省",
+   "aliases": [
+    "文科省",
+    "もんぶかがくしょう",
+    "もんかしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "厚生労働省",
+   "aliases": [
+    "厚労省",
+    "こうせいろうどうしょう",
+    "こうろうしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "農林水産省",
+   "aliases": [
+    "農水省",
+    "のうりんすいさんしょう",
+    "のうすいしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "経済産業省",
+   "aliases": [
+    "経産省",
+    "けいざいさんぎょうしょう",
+    "けいさんしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "国土交通省",
+   "aliases": [
+    "国交省",
+    "こくどこうつうしょう",
+    "こっこうしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "環境省",
+   "aliases": [
+    "かんきょうしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "防衛省",
+   "aliases": [
+    "ぼうえいしょう"
+   ],
+   "note": "",
+   "group": "省",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "デジタル庁",
+   "aliases": [
+    "でじたるちょう"
+   ],
+   "note": "2021年発足・内閣に置かれる",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "復興庁",
+   "aliases": [
+    "ふっこうちょう"
+   ],
+   "note": "2012年発足・内閣に置かれる",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "防災庁",
+   "aliases": [
+    "ぼうさいちょう"
+   ],
+   "note": "2026年11月2日発足・内閣に置かれる",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "国家公安委員会",
+   "aliases": [
+    "こっかこうあんいいんかい"
+   ],
+   "note": "内閣府の外局だが、大臣が委員長なので府省と並べて数える",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮内庁",
+   "aliases": [],
+   "note": "内閣府に置かれる機関",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "こども家庭庁",
+   "aliases": [],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "金融庁",
+   "aliases": [],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "消費者庁",
+   "aliases": [],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "公正取引委員会",
+   "aliases": [
+    "公取"
+   ],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "個人情報保護委員会",
+   "aliases": [],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "カジノ管理委員会",
+   "aliases": [],
+   "note": "内閣府の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "警察庁",
+   "aliases": [],
+   "note": "国家公安委員会に置かれる",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "内閣官房",
+   "aliases": [],
+   "note": "内閣の補助機関（府省とは別枠）",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "内閣法制局",
+   "aliases": [],
+   "note": "内閣に置かれる機関（府省とは別枠）",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "人事院",
+   "aliases": [],
+   "note": "内閣の所轄の独立機関",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "会計検査院",
+   "aliases": [],
+   "note": "内閣から独立した憲法上の機関",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "消防庁",
+   "aliases": [],
+   "note": "総務省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "公安調査庁",
+   "aliases": [],
+   "note": "法務省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "出入国在留管理庁",
+   "aliases": [
+    "入管庁",
+    "入管"
+   ],
+   "note": "法務省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "国税庁",
+   "aliases": [],
+   "note": "財務省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "文化庁",
+   "aliases": [],
+   "note": "文部科学省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "スポーツ庁",
+   "aliases": [],
+   "note": "文部科学省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "林野庁",
+   "aliases": [],
+   "note": "農林水産省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "水産庁",
+   "aliases": [],
+   "note": "農林水産省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "資源エネルギー庁",
+   "aliases": [
+    "エネ庁"
+   ],
+   "note": "経済産業省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "特許庁",
+   "aliases": [],
+   "note": "経済産業省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "中小企業庁",
+   "aliases": [],
+   "note": "経済産業省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "観光庁",
+   "aliases": [],
+   "note": "国土交通省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "気象庁",
+   "aliases": [],
+   "note": "国土交通省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "海上保安庁",
+   "aliases": [
+    "海保"
+   ],
+   "note": "国土交通省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "原子力規制委員会",
+   "aliases": [
+    "規制委"
+   ],
+   "note": "環境省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "防衛装備庁",
+   "aliases": [],
+   "note": "防衛省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "中央労働委員会",
+   "aliases": [],
+   "note": "厚生労働省の外局",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "総理府",
+   "aliases": [],
+   "note": "2001年の再編で内閣府へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大蔵省",
+   "aliases": [],
+   "note": "2001年の再編で財務省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "文部省",
+   "aliases": [],
+   "note": "2001年の再編で文部科学省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "科学技術庁",
+   "aliases": [],
+   "note": "2001年の再編で文部科学省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "厚生省",
+   "aliases": [],
+   "note": "2001年の再編で厚生労働省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "労働省",
+   "aliases": [],
+   "note": "2001年の再編で厚生労働省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "通商産業省",
+   "aliases": [
+    "通産省"
+   ],
+   "note": "2001年の再編で経済産業省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "運輸省",
+   "aliases": [],
+   "note": "2001年の再編で国土交通省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "建設省",
+   "aliases": [],
+   "note": "2001年の再編で国土交通省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "国土庁",
+   "aliases": [],
+   "note": "2001年の再編で国土交通省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "北海道開発庁",
+   "aliases": [],
+   "note": "2001年の再編で国土交通省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "郵政省",
+   "aliases": [],
+   "note": "2001年の再編で総務省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "自治省",
+   "aliases": [],
+   "note": "2001年の再編で総務省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "総務庁",
+   "aliases": [],
+   "note": "2001年の再編で総務省へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "環境庁",
+   "aliases": [],
+   "note": "2001年の再編で環境省に昇格",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "防衛庁",
+   "aliases": [],
+   "note": "2007年に防衛省に昇格",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "経済企画庁",
+   "aliases": [],
+   "note": "2001年の再編で内閣府へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "沖縄開発庁",
+   "aliases": [],
+   "note": "2001年の再編で内閣府へ",
+   "group": "庁・委員会",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "55-ministries",
+ "created": 53.0
+}

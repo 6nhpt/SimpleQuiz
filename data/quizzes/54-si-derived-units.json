@@ -1,0 +1,412 @@
+{
+ "title": "固有の名称をもつSI組立単位（22個）",
+ "category": "理科・天文",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "ラジアン",
+   "aliases": [
+    "ラディアン",
+    "radian"
+   ],
+   "note": "平面角",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ステラジアン",
+   "aliases": [
+    "ステラディアン",
+    "steradian"
+   ],
+   "note": "立体角",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヘルツ",
+   "aliases": [
+    "hertz"
+   ],
+   "note": "周波数",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ニュートン",
+   "aliases": [
+    "newton"
+   ],
+   "note": "力",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "パスカル",
+   "aliases": [
+    "pascal"
+   ],
+   "note": "圧力・応力",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ジュール",
+   "aliases": [
+    "joule"
+   ],
+   "note": "エネルギー・仕事・熱量",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ワット",
+   "aliases": [
+    "watt"
+   ],
+   "note": "仕事率・電力",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "クーロン",
+   "aliases": [
+    "coulomb"
+   ],
+   "note": "電荷",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ボルト",
+   "aliases": [
+    "volt"
+   ],
+   "note": "電位差・電圧",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ファラド",
+   "aliases": [
+    "ファラッド",
+    "farad"
+   ],
+   "note": "静電容量",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "オーム",
+   "aliases": [
+    "ohm"
+   ],
+   "note": "電気抵抗",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ジーメンス",
+   "aliases": [
+    "シーメンス",
+    "siemens"
+   ],
+   "note": "コンダクタンス",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ウェーバ",
+   "aliases": [
+    "ウェーバー",
+    "weber"
+   ],
+   "note": "磁束",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "テスラ",
+   "aliases": [
+    "tesla"
+   ],
+   "note": "磁束密度",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヘンリー",
+   "aliases": [
+    "ヘンリ",
+    "henry"
+   ],
+   "note": "インダクタンス",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "セルシウス度",
+   "aliases": [
+    "セ氏度",
+    "摂氏度",
+    "摂氏",
+    "セルシウス",
+    "celsius"
+   ],
+   "note": "セルシウス温度",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ルーメン",
+   "aliases": [
+    "lumen"
+   ],
+   "note": "光束",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ルクス",
+   "aliases": [
+    "ルックス",
+    "lux"
+   ],
+   "note": "照度",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ベクレル",
+   "aliases": [
+    "becquerel"
+   ],
+   "note": "放射能",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "グレイ",
+   "aliases": [
+    "gray"
+   ],
+   "note": "吸収線量",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "シーベルト",
+   "aliases": [
+    "sievert"
+   ],
+   "note": "線量当量",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "カタール",
+   "aliases": [
+    "カタル",
+    "katal"
+   ],
+   "note": "酵素活性",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "メートル",
+   "aliases": [],
+   "note": "SI基本単位（長さ）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "キログラム",
+   "aliases": [],
+   "note": "SI基本単位（質量）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "秒",
+   "aliases": [
+    "びょう"
+   ],
+   "note": "SI基本単位（時間）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アンペア",
+   "aliases": [],
+   "note": "SI基本単位（電流）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ケルビン",
+   "aliases": [],
+   "note": "SI基本単位（熱力学温度）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "モル",
+   "aliases": [],
+   "note": "SI基本単位（物質量）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "カンデラ",
+   "aliases": [],
+   "note": "SI基本単位（光度）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "リットル",
+   "aliases": [],
+   "note": "SIではないが併用が認められている単位",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "トン",
+   "aliases": [],
+   "note": "SIではないが併用が認められている単位",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "電子ボルト",
+   "aliases": [
+    "エレクトロンボルト"
+   ],
+   "note": "SIではないが併用が認められている単位",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "デシベル",
+   "aliases": [
+    "ベル"
+   ],
+   "note": "SIではない（対数の単位）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ヘクトパスカル",
+   "aliases": [],
+   "note": "パスカルにSI接頭語ヘクトを付けたもの",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "カロリー",
+   "aliases": [],
+   "note": "SIではない（今はジュールを使う）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ガウス",
+   "aliases": [],
+   "note": "CGS単位（SIではテスラ）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "エルグ",
+   "aliases": [],
+   "note": "CGS単位（SIではジュール）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ダイン",
+   "aliases": [],
+   "note": "CGS単位（SIではニュートン）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "キュリー",
+   "aliases": [],
+   "note": "昔の単位（SIではベクレル）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "レントゲン",
+   "aliases": [],
+   "note": "昔の単位",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "レム",
+   "aliases": [],
+   "note": "昔の単位（SIではシーベルト）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "バール",
+   "aliases": [
+    "ミリバール"
+   ],
+   "note": "SIではない（SIではパスカル）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "54-si-derived-units",
+ "created": 52.0
+}
