@@ -1,0 +1,14 @@
+@title 交通系ICカード（全国相互利用10種）
+@category 鉄道
+@suffix
+@fuzzy off
+Kitaca | キタカ # JR北海道
+Suica | スイカ # JR東日本
+PASMO | パスモ # 首都圏の私鉄・バス
+TOICA | トイカ # JR東海
+manaca | マナカ # 名古屋の地下鉄・私鉄・バス
+ICOCA | イコカ # JR西日本
+PiTaPa | ピタパ # 関西の私鉄・バス（後払い）
+はやかけん # 福岡市地下鉄
+nimoca | ニモカ # 西鉄など
+SUGOCA | スゴカ # JR九州

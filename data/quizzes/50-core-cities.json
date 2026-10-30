@@ -1,0 +1,835 @@
+{
+ "title": "中核市以上の市（82市）",
+ "category": "日本の地理",
+ "options": {
+  "suffix": [
+   "市",
+   "し"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "札幌市",
+   "aliases": [
+    "さっぽろ"
+   ],
+   "note": "政令市・北海道",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "旭川市",
+   "aliases": [
+    "あさひかわ"
+   ],
+   "note": "中核市・北海道",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "函館市",
+   "aliases": [
+    "はこだて"
+   ],
+   "note": "中核市・北海道",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "青森市",
+   "aliases": [
+    "あおもり"
+   ],
+   "note": "中核市・青森",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八戸市",
+   "aliases": [
+    "はちのへ"
+   ],
+   "note": "中核市・青森",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "盛岡市",
+   "aliases": [
+    "もりおか"
+   ],
+   "note": "中核市・岩手",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "仙台市",
+   "aliases": [
+    "せんだい"
+   ],
+   "note": "政令市・宮城",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秋田市",
+   "aliases": [
+    "あきた"
+   ],
+   "note": "中核市・秋田",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山形市",
+   "aliases": [
+    "やまがた"
+   ],
+   "note": "中核市・山形",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福島市",
+   "aliases": [
+    "ふくしま"
+   ],
+   "note": "中核市・福島",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "郡山市",
+   "aliases": [
+    "こおりやま"
+   ],
+   "note": "中核市・福島",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "いわき市",
+   "aliases": [
+    "磐城"
+   ],
+   "note": "中核市・福島",
+   "group": "北海道・東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "水戸市",
+   "aliases": [
+    "みと"
+   ],
+   "note": "中核市・茨城",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宇都宮市",
+   "aliases": [
+    "うつのみや"
+   ],
+   "note": "中核市・栃木",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "前橋市",
+   "aliases": [
+    "まえばし"
+   ],
+   "note": "中核市・群馬",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高崎市",
+   "aliases": [
+    "たかさき"
+   ],
+   "note": "中核市・群馬",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "さいたま市",
+   "aliases": [
+    "埼玉市"
+   ],
+   "note": "政令市・埼玉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "川越市",
+   "aliases": [
+    "かわごえ"
+   ],
+   "note": "中核市・埼玉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "川口市",
+   "aliases": [
+    "かわぐち"
+   ],
+   "note": "中核市・埼玉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "越谷市",
+   "aliases": [
+    "こしがや"
+   ],
+   "note": "中核市・埼玉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "千葉市",
+   "aliases": [
+    "ちば"
+   ],
+   "note": "政令市・千葉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "船橋市",
+   "aliases": [
+    "ふなばし"
+   ],
+   "note": "中核市・千葉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "柏市",
+   "aliases": [
+    "かしわ"
+   ],
+   "note": "中核市・千葉",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八王子市",
+   "aliases": [
+    "はちおうじ"
+   ],
+   "note": "中核市・東京",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "横浜市",
+   "aliases": [
+    "よこはま"
+   ],
+   "note": "政令市・神奈川",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "川崎市",
+   "aliases": [
+    "かわさき"
+   ],
+   "note": "政令市・神奈川",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "相模原市",
+   "aliases": [
+    "さがみはら"
+   ],
+   "note": "政令市・神奈川",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "横須賀市",
+   "aliases": [
+    "よこすか"
+   ],
+   "note": "中核市・神奈川",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新潟市",
+   "aliases": [
+    "にいがた"
+   ],
+   "note": "政令市・新潟",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "富山市",
+   "aliases": [
+    "とやま"
+   ],
+   "note": "中核市・富山",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "金沢市",
+   "aliases": [
+    "かなざわ"
+   ],
+   "note": "中核市・石川",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福井市",
+   "aliases": [
+    "ふくい"
+   ],
+   "note": "中核市・福井",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "甲府市",
+   "aliases": [
+    "こうふ"
+   ],
+   "note": "中核市・山梨",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長野市",
+   "aliases": [
+    "ながの"
+   ],
+   "note": "中核市・長野",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "松本市",
+   "aliases": [
+    "まつもと"
+   ],
+   "note": "中核市・長野",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岐阜市",
+   "aliases": [
+    "ぎふ"
+   ],
+   "note": "中核市・岐阜",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "静岡市",
+   "aliases": [
+    "しずおか"
+   ],
+   "note": "政令市・静岡",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浜松市",
+   "aliases": [
+    "はままつ"
+   ],
+   "note": "政令市・静岡",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋市",
+   "aliases": [
+    "なごや"
+   ],
+   "note": "政令市・愛知",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "豊田市",
+   "aliases": [
+    "とよた"
+   ],
+   "note": "中核市・愛知",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "豊橋市",
+   "aliases": [
+    "とよはし"
+   ],
+   "note": "中核市・愛知",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岡崎市",
+   "aliases": [
+    "おかざき"
+   ],
+   "note": "中核市・愛知",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "一宮市",
+   "aliases": [
+    "いちのみや"
+   ],
+   "note": "中核市・愛知",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大津市",
+   "aliases": [
+    "おおつ"
+   ],
+   "note": "中核市・滋賀",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "京都市",
+   "aliases": [
+    "きょうと"
+   ],
+   "note": "政令市・京都",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪市",
+   "aliases": [
+    "おおさか"
+   ],
+   "note": "政令市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "堺市",
+   "aliases": [
+    "さかい"
+   ],
+   "note": "政令市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高槻市",
+   "aliases": [
+    "たかつき"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東大阪市",
+   "aliases": [
+    "ひがしおおさか"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "豊中市",
+   "aliases": [
+    "とよなか"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "枚方市",
+   "aliases": [
+    "ひらかた"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八尾市",
+   "aliases": [
+    "やお"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "寝屋川市",
+   "aliases": [
+    "ねやがわ"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吹田市",
+   "aliases": [
+    "すいた"
+   ],
+   "note": "中核市・大阪",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神戸市",
+   "aliases": [
+    "こうべ"
+   ],
+   "note": "政令市・兵庫",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "姫路市",
+   "aliases": [
+    "ひめじ"
+   ],
+   "note": "中核市・兵庫",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "西宮市",
+   "aliases": [
+    "にしのみや"
+   ],
+   "note": "中核市・兵庫",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "尼崎市",
+   "aliases": [
+    "あまがさき"
+   ],
+   "note": "中核市・兵庫",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "明石市",
+   "aliases": [
+    "あかし"
+   ],
+   "note": "中核市・兵庫",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奈良市",
+   "aliases": [
+    "なら"
+   ],
+   "note": "中核市・奈良",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "和歌山市",
+   "aliases": [
+    "わかやま"
+   ],
+   "note": "中核市・和歌山",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鳥取市",
+   "aliases": [
+    "とっとり"
+   ],
+   "note": "中核市・鳥取",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "松江市",
+   "aliases": [
+    "まつえ"
+   ],
+   "note": "中核市・島根",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岡山市",
+   "aliases": [
+    "おかやま"
+   ],
+   "note": "政令市・岡山",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "倉敷市",
+   "aliases": [
+    "くらしき"
+   ],
+   "note": "中核市・岡山",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "広島市",
+   "aliases": [
+    "ひろしま"
+   ],
+   "note": "政令市・広島",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福山市",
+   "aliases": [
+    "ふくやま"
+   ],
+   "note": "中核市・広島",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "呉市",
+   "aliases": [
+    "くれ"
+   ],
+   "note": "中核市・広島",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "下関市",
+   "aliases": [
+    "しものせき"
+   ],
+   "note": "中核市・山口",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高松市",
+   "aliases": [
+    "たかまつ"
+   ],
+   "note": "中核市・香川",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "松山市",
+   "aliases": [
+    "まつやま"
+   ],
+   "note": "中核市・愛媛",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高知市",
+   "aliases": [
+    "こうち"
+   ],
+   "note": "中核市・高知",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北九州市",
+   "aliases": [
+    "きたきゅうしゅう"
+   ],
+   "note": "政令市・福岡",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福岡市",
+   "aliases": [
+    "ふくおか"
+   ],
+   "note": "政令市・福岡",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "久留米市",
+   "aliases": [
+    "くるめ"
+   ],
+   "note": "中核市・福岡",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長崎市",
+   "aliases": [
+    "ながさき"
+   ],
+   "note": "中核市・長崎",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "佐世保市",
+   "aliases": [
+    "させぼ"
+   ],
+   "note": "中核市・長崎",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熊本市",
+   "aliases": [
+    "くまもと"
+   ],
+   "note": "政令市・熊本",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大分市",
+   "aliases": [
+    "おおいた"
+   ],
+   "note": "中核市・大分",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮崎市",
+   "aliases": [
+    "みやざき"
+   ],
+   "note": "中核市・宮崎",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鹿児島市",
+   "aliases": [
+    "かごしま"
+   ],
+   "note": "中核市・鹿児島",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "那覇市",
+   "aliases": [
+    "なは"
+   ],
+   "note": "中核市・沖縄",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "50-core-cities",
+ "created": 48.0
+}

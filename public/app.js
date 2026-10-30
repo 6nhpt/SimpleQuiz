@@ -142,7 +142,42 @@ async function renderHome() {
         <summary>${esc(c || "未分類")}<span class="muted">${groups.get(c).length}</span></summary>
         <ul class="cards">${groups.get(c).map(card).join("")}</ul>
       </details>`).join("")}
-    ${STATIC ? "" : `<a class="btn primary wide" href="#/new">＋ クイズを追加</a>`}`;
+    ${STATIC ? "" : `<a class="btn primary wide" href="#/new">＋ クイズを追加</a>`}
+    <div class="reset-area">
+      <button id="reset-open" class="btn small" type="button">記録をリセット…</button>
+      <div id="reset-panel" class="reset-panel" hidden></div>
+    </div>`;
+
+  // 記録のリセット。シークレットを1個でも見つけていれば「シークレットは残す」も選べる
+  document.getElementById("reset-open").onclick = () => {
+    const keys = Object.keys(localStorage).filter((k) => k.startsWith("sq:"));
+    const foundKeys = keys.filter((k) => k.startsWith("sq:found:"));
+    const anySecret = foundKeys.some((k) => { try { return JSON.parse(localStorage.getItem(k)).length > 0; } catch { return false; } });
+    const panel = document.getElementById("reset-panel");
+    panel.hidden = false;
+    panel.innerHTML = `
+      <p>すべてのクイズの回答記録を消します。</p>
+      ${anySecret ? `<button id="reset-keep" class="btn small" type="button">シークレット以外をリセット</button>` : ""}
+      <button id="reset-all" class="btn small danger" type="button">${anySecret ? "シークレット込みで全部リセット" : "全部リセット"}</button>
+      <button id="reset-cancel" class="btn small" type="button">やめる</button>`;
+    document.getElementById("reset-cancel").onclick = () => (panel.hidden = true);
+    document.getElementById("reset-all").onclick = () => {
+      if (!confirm("回答記録をすべて消します。よろしいですか？")) return;
+      for (const k of keys) if (k.startsWith("sq:prog:") || k.startsWith("sq:found:")) localStorage.removeItem(k);
+      renderHome();
+    };
+    document.getElementById("reset-keep")?.addEventListener("click", () => {
+      if (!confirm("見つけたシークレットは残して、それ以外の回答記録を消します。よろしいですか？")) return;
+      for (const k of keys.filter((k) => k.startsWith("sq:prog:"))) {
+        const id = k.slice("sq:prog:".length);
+        const found = loadFound(id);
+        const p = loadProg(id);
+        const kept = p.answered.filter((n) => found.has(n));
+        saveProg(id, { answered: kept, secrets: kept.length, gaveUp: false });
+      }
+      renderHome();
+    });
+  };
 
   for (const d of $app.querySelectorAll("details.cat")) {
     d.addEventListener("toggle", () => {

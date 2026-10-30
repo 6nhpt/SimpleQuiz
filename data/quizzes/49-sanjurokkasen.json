@@ -1,0 +1,425 @@
+{
+ "title": "三十六歌仙",
+ "category": "歴史・文化",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "柿本人麻呂",
+   "aliases": [
+    "柿本人麿",
+    "かきのもとのひとまろ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山部赤人",
+   "aliases": [
+    "山辺赤人",
+    "やまべのあかひと"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大伴家持",
+   "aliases": [
+    "おおとものやかもち"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "猿丸大夫",
+   "aliases": [
+    "猿丸太夫",
+    "猿丸",
+    "さるまるのたいふ",
+    "さるまるだゆう"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "僧正遍昭",
+   "aliases": [
+    "遍昭",
+    "遍照",
+    "僧正遍照",
+    "そうじょうへんじょう"
+   ],
+   "note": "六歌仙でもある",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "在原業平",
+   "aliases": [
+    "ありわらのなりひら"
+   ],
+   "note": "六歌仙でもある",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小野小町",
+   "aliases": [
+    "おののこまち"
+   ],
+   "note": "六歌仙でもある",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原兼輔",
+   "aliases": [
+    "ふじわらのかねすけ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "紀貫之",
+   "aliases": [
+    "きのつらゆき"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "凡河内躬恒",
+   "aliases": [
+    "おおしこうちのみつね"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "紀友則",
+   "aliases": [
+    "きのとものり"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "壬生忠岑",
+   "aliases": [
+    "みぶのただみね"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "伊勢",
+   "aliases": [
+    "いせ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原興風",
+   "aliases": [
+    "ふじわらのおきかぜ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原敏行",
+   "aliases": [
+    "ふじわらのとしゆき"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源公忠",
+   "aliases": [
+    "みなもとのきんただ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源宗于",
+   "aliases": [
+    "みなもとのむねゆき"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "素性法師",
+   "aliases": [
+    "素性",
+    "そせいほうし"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大中臣頼基",
+   "aliases": [
+    "おおなかとみのよりもと"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "坂上是則",
+   "aliases": [
+    "さかのうえのこれのり"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源重之",
+   "aliases": [
+    "みなもとのしげゆき"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原朝忠",
+   "aliases": [
+    "ふじわらのあさただ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原敦忠",
+   "aliases": [
+    "ふじわらのあつただ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原元真",
+   "aliases": [
+    "ふじわらのもとざね"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源信明",
+   "aliases": [
+    "みなもとのさねあきら",
+    "みなもとののぶあきら"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "斎宮女御",
+   "aliases": [
+    "徽子女王",
+    "さいぐうのにょうご"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原清正",
+   "aliases": [
+    "ふじわらのきよただ",
+    "ふじわらのきよまさ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原高光",
+   "aliases": [
+    "ふじわらのたかみつ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小大君",
+   "aliases": [
+    "こおおきみ",
+    "こだいのきみ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中務",
+   "aliases": [
+    "なかつかさ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤原仲文",
+   "aliases": [
+    "ふじわらのなかふみ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "清原元輔",
+   "aliases": [
+    "きよはらのもとすけ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大中臣能宣",
+   "aliases": [
+    "おおなかとみのよしのぶ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源順",
+   "aliases": [
+    "みなもとのしたごう"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "壬生忠見",
+   "aliases": [
+    "みぶのただみ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "平兼盛",
+   "aliases": [
+    "たいらのかねもり"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "文屋康秀",
+   "aliases": [
+    "ふんやのやすひで"
+   ],
+   "note": "六歌仙だが三十六歌仙ではない",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "喜撰法師",
+   "aliases": [
+    "きせんほうし"
+   ],
+   "note": "六歌仙だが三十六歌仙ではない",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大友黒主",
+   "aliases": [
+    "おおとものくろぬし"
+   ],
+   "note": "六歌仙だが三十六歌仙ではない",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "藤原公任",
+   "aliases": [
+    "ふじわらのきんとう"
+   ],
+   "note": "三十六歌仙を選んだ人（本人は入っていない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "49-sanjurokkasen",
+ "created": 47.0
+}

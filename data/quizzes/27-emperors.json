@@ -15,7 +15,9 @@
     "じんむ"
    ],
    "note": "1代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "綏靖天皇",
@@ -23,7 +25,9 @@
     "すいぜい"
    ],
    "note": "2代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "安寧天皇",
@@ -31,7 +35,9 @@
     "あんねい"
    ],
    "note": "3代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "懿徳天皇",
@@ -39,7 +45,9 @@
     "いとく"
    ],
    "note": "4代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝昭天皇",
@@ -47,7 +55,9 @@
     "こうしょう"
    ],
    "note": "5代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝安天皇",
@@ -55,7 +65,9 @@
     "こうあん"
    ],
    "note": "6代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝霊天皇",
@@ -63,7 +75,9 @@
     "こうれい"
    ],
    "note": "7代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝元天皇",
@@ -71,7 +85,9 @@
     "こうげん"
    ],
    "note": "8代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "開化天皇",
@@ -79,7 +95,9 @@
     "かいか"
    ],
    "note": "9代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "崇神天皇",
@@ -87,7 +105,9 @@
     "すじん"
    ],
    "note": "10代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "垂仁天皇",
@@ -95,7 +115,9 @@
     "すいにん"
    ],
    "note": "11代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "景行天皇",
@@ -103,7 +125,9 @@
     "けいこう"
    ],
    "note": "12代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "成務天皇",
@@ -111,7 +135,9 @@
     "せいむ"
    ],
    "note": "13代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仲哀天皇",
@@ -119,7 +145,9 @@
     "ちゅうあい"
    ],
    "note": "14代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "応神天皇",
@@ -127,7 +155,9 @@
     "おうじん"
    ],
    "note": "15代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仁徳天皇",
@@ -135,7 +165,9 @@
     "にんとく"
    ],
    "note": "16代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "履中天皇",
@@ -143,7 +175,9 @@
     "りちゅう"
    ],
    "note": "17代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "反正天皇",
@@ -151,7 +185,9 @@
     "はんぜい"
    ],
    "note": "18代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "允恭天皇",
@@ -159,7 +195,9 @@
     "いんぎょう"
    ],
    "note": "19代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "安康天皇",
@@ -167,7 +205,9 @@
     "あんこう"
    ],
    "note": "20代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "雄略天皇",
@@ -175,7 +215,9 @@
     "ゆうりゃく"
    ],
    "note": "21代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "清寧天皇",
@@ -183,7 +225,9 @@
     "せいねい"
    ],
    "note": "22代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "顕宗天皇",
@@ -191,7 +235,9 @@
     "けんぞう"
    ],
    "note": "23代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仁賢天皇",
@@ -199,7 +245,9 @@
     "にんけん"
    ],
    "note": "24代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "武烈天皇",
@@ -207,7 +255,9 @@
     "ぶれつ"
    ],
    "note": "25代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "継体天皇",
@@ -215,7 +265,9 @@
     "けいたい"
    ],
    "note": "26代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "安閑天皇",
@@ -223,7 +275,9 @@
     "あんかん"
    ],
    "note": "27代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "宣化天皇",
@@ -231,7 +285,9 @@
     "せんか"
    ],
    "note": "28代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "欽明天皇",
@@ -239,7 +295,9 @@
     "きんめい"
    ],
    "note": "29代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "敏達天皇",
@@ -247,7 +305,9 @@
     "びだつ"
    ],
    "note": "30代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "用明天皇",
@@ -255,7 +315,9 @@
     "ようめい"
    ],
    "note": "31代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "崇峻天皇",
@@ -263,7 +325,9 @@
     "すしゅん"
    ],
    "note": "32代",
-   "group": "古代（〜崇峻）"
+   "group": "古代（〜崇峻）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "推古天皇",
@@ -271,7 +335,9 @@
     "すいこ"
    ],
    "note": "33代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "舒明天皇",
@@ -279,7 +345,9 @@
     "じょめい"
    ],
    "note": "34代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "皇極天皇",
@@ -287,7 +355,9 @@
     "こうぎょく"
    ],
    "note": "35代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝徳天皇",
@@ -295,7 +365,9 @@
     "こうとく"
    ],
    "note": "36代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "斉明天皇",
@@ -303,7 +375,9 @@
     "さいめい"
    ],
    "note": "37代（皇極天皇の重祚）",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "天智天皇",
@@ -311,7 +385,9 @@
     "てんじ"
    ],
    "note": "38代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "弘文天皇",
@@ -319,7 +395,9 @@
     "こうぶん"
    ],
    "note": "39代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "天武天皇",
@@ -327,7 +405,9 @@
     "てんむ"
    ],
    "note": "40代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "持統天皇",
@@ -335,7 +415,9 @@
     "じとう"
    ],
    "note": "41代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "文武天皇",
@@ -343,7 +425,9 @@
     "もんむ"
    ],
    "note": "42代",
-   "group": "飛鳥時代"
+   "group": "飛鳥時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "元明天皇",
@@ -351,7 +435,9 @@
     "げんめい"
    ],
    "note": "43代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "元正天皇",
@@ -359,7 +445,9 @@
     "げんしょう"
    ],
    "note": "44代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "聖武天皇",
@@ -367,7 +455,9 @@
     "しょうむ"
    ],
    "note": "45代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝謙天皇",
@@ -375,7 +465,9 @@
     "こうけん"
    ],
    "note": "46代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "淳仁天皇",
@@ -383,7 +475,9 @@
     "じゅんにん"
    ],
    "note": "47代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "称徳天皇",
@@ -391,7 +485,9 @@
     "しょうとく"
    ],
    "note": "48代（孝謙天皇の重祚）",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "光仁天皇",
@@ -399,7 +495,9 @@
     "こうにん"
    ],
    "note": "49代",
-   "group": "奈良時代"
+   "group": "奈良時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "桓武天皇",
@@ -407,7 +505,9 @@
     "かんむ"
    ],
    "note": "50代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "平城天皇",
@@ -415,7 +515,9 @@
     "へいぜい"
    ],
    "note": "51代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "嵯峨天皇",
@@ -423,7 +525,9 @@
     "さが"
    ],
    "note": "52代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "淳和天皇",
@@ -431,7 +535,9 @@
     "じゅんな"
    ],
    "note": "53代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仁明天皇",
@@ -439,7 +545,9 @@
     "にんみょう"
    ],
    "note": "54代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "文徳天皇",
@@ -447,7 +555,9 @@
     "もんとく"
    ],
    "note": "55代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "清和天皇",
@@ -455,7 +565,9 @@
     "せいわ"
    ],
    "note": "56代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "陽成天皇",
@@ -463,7 +575,9 @@
     "ようぜい"
    ],
    "note": "57代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "光孝天皇",
@@ -471,7 +585,9 @@
     "こうこう"
    ],
    "note": "58代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "宇多天皇",
@@ -479,7 +595,9 @@
     "うだ"
    ],
    "note": "59代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "醍醐天皇",
@@ -487,7 +605,9 @@
     "だいご"
    ],
    "note": "60代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "朱雀天皇",
@@ -495,7 +615,9 @@
     "すざく"
    ],
    "note": "61代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "村上天皇",
@@ -503,7 +625,9 @@
     "むらかみ"
    ],
    "note": "62代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "冷泉天皇",
@@ -511,7 +635,9 @@
     "れいぜい"
    ],
    "note": "63代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "円融天皇",
@@ -519,7 +645,9 @@
     "えんゆう"
    ],
    "note": "64代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "花山天皇",
@@ -527,7 +655,9 @@
     "かざん"
    ],
    "note": "65代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "一条天皇",
@@ -535,7 +665,9 @@
     "いちじょう"
    ],
    "note": "66代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "三条天皇",
@@ -543,7 +675,9 @@
     "さんじょう"
    ],
    "note": "67代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後一条天皇",
@@ -551,7 +685,9 @@
     "ごいちじょう"
    ],
    "note": "68代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後朱雀天皇",
@@ -559,7 +695,9 @@
     "ごすざく"
    ],
    "note": "69代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後冷泉天皇",
@@ -567,7 +705,9 @@
     "ごれいぜい"
    ],
    "note": "70代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後三条天皇",
@@ -575,7 +715,9 @@
     "ごさんじょう"
    ],
    "note": "71代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "白河天皇",
@@ -583,7 +725,9 @@
     "しらかわ"
    ],
    "note": "72代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "堀河天皇",
@@ -591,7 +735,9 @@
     "ほりかわ"
    ],
    "note": "73代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "鳥羽天皇",
@@ -599,7 +745,9 @@
     "とば"
    ],
    "note": "74代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "崇徳天皇",
@@ -607,7 +755,9 @@
     "すとく"
    ],
    "note": "75代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "近衛天皇",
@@ -615,7 +765,9 @@
     "このえ"
    ],
    "note": "76代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後白河天皇",
@@ -623,7 +775,9 @@
     "ごしらかわ"
    ],
    "note": "77代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "二条天皇",
@@ -631,7 +785,9 @@
     "にじょう"
    ],
    "note": "78代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "六条天皇",
@@ -639,7 +795,9 @@
     "ろくじょう"
    ],
    "note": "79代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "高倉天皇",
@@ -647,7 +805,9 @@
     "たかくら"
    ],
    "note": "80代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "安徳天皇",
@@ -655,7 +815,9 @@
     "あんとく"
    ],
    "note": "81代",
-   "group": "平安時代"
+   "group": "平安時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後鳥羽天皇",
@@ -663,7 +825,9 @@
     "ごとば"
    ],
    "note": "82代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "土御門天皇",
@@ -671,7 +835,9 @@
     "つちみかど"
    ],
    "note": "83代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "順徳天皇",
@@ -679,7 +845,9 @@
     "じゅんとく"
    ],
    "note": "84代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仲恭天皇",
@@ -687,7 +855,9 @@
     "ちゅうきょう"
    ],
    "note": "85代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後堀河天皇",
@@ -695,7 +865,9 @@
     "ごほりかわ"
    ],
    "note": "86代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "四条天皇",
@@ -703,7 +875,9 @@
     "しじょう"
    ],
    "note": "87代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後嵯峨天皇",
@@ -711,7 +885,9 @@
     "ごさが"
    ],
    "note": "88代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後深草天皇",
@@ -719,7 +895,9 @@
     "ごふかくさ"
    ],
    "note": "89代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "亀山天皇",
@@ -727,7 +905,9 @@
     "かめやま"
    ],
    "note": "90代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後宇多天皇",
@@ -735,7 +915,9 @@
     "ごうだ"
    ],
    "note": "91代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "伏見天皇",
@@ -743,7 +925,9 @@
     "ふしみ"
    ],
    "note": "92代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後伏見天皇",
@@ -751,7 +935,9 @@
     "ごふしみ"
    ],
    "note": "93代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後二条天皇",
@@ -759,7 +945,9 @@
     "ごにじょう"
    ],
    "note": "94代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "花園天皇",
@@ -767,7 +955,9 @@
     "はなぞの"
    ],
    "note": "95代",
-   "group": "鎌倉時代"
+   "group": "鎌倉時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後醍醐天皇",
@@ -775,7 +965,9 @@
     "ごだいご"
    ],
    "note": "96代",
-   "group": "南北朝時代（南朝）"
+   "group": "南北朝時代（南朝）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後村上天皇",
@@ -783,7 +975,9 @@
     "ごむらかみ"
    ],
    "note": "97代",
-   "group": "南北朝時代（南朝）"
+   "group": "南北朝時代（南朝）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "長慶天皇",
@@ -791,7 +985,9 @@
     "ちょうけい"
    ],
    "note": "98代",
-   "group": "南北朝時代（南朝）"
+   "group": "南北朝時代（南朝）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後亀山天皇",
@@ -799,7 +995,9 @@
     "ごかめやま"
    ],
    "note": "99代",
-   "group": "南北朝時代（南朝）"
+   "group": "南北朝時代（南朝）",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後小松天皇",
@@ -807,7 +1005,9 @@
     "ごこまつ"
    ],
    "note": "100代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "称光天皇",
@@ -815,7 +1015,9 @@
     "しょうこう"
    ],
    "note": "101代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後花園天皇",
@@ -823,7 +1025,9 @@
     "ごはなぞの"
    ],
    "note": "102代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後土御門天皇",
@@ -831,7 +1035,9 @@
     "ごつちみかど"
    ],
    "note": "103代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後柏原天皇",
@@ -839,7 +1045,9 @@
     "ごかしわばら"
    ],
    "note": "104代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後奈良天皇",
@@ -847,7 +1055,9 @@
     "ごなら"
    ],
    "note": "105代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "正親町天皇",
@@ -855,7 +1065,9 @@
     "おおぎまち"
    ],
    "note": "106代",
-   "group": "室町・戦国時代"
+   "group": "室町・戦国時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後陽成天皇",
@@ -863,7 +1075,9 @@
     "ごようぜい"
    ],
    "note": "107代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後水尾天皇",
@@ -871,7 +1085,9 @@
     "ごみずのお"
    ],
    "note": "108代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "明正天皇",
@@ -879,7 +1095,9 @@
     "めいしょう"
    ],
    "note": "109代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後光明天皇",
@@ -887,7 +1105,9 @@
     "ごこうみょう"
    ],
    "note": "110代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後西天皇",
@@ -895,7 +1115,9 @@
     "ごさい"
    ],
    "note": "111代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "霊元天皇",
@@ -903,7 +1125,9 @@
     "れいげん"
    ],
    "note": "112代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "東山天皇",
@@ -911,7 +1135,9 @@
     "ひがしやま"
    ],
    "note": "113代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "中御門天皇",
@@ -919,7 +1145,9 @@
     "なかみかど"
    ],
    "note": "114代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "桜町天皇",
@@ -927,7 +1155,9 @@
     "さくらまち"
    ],
    "note": "115代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "桃園天皇",
@@ -935,7 +1165,9 @@
     "ももぞの"
    ],
    "note": "116代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後桜町天皇",
@@ -943,7 +1175,9 @@
     "ごさくらまち"
    ],
    "note": "117代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "後桃園天皇",
@@ -951,7 +1185,9 @@
     "ごももぞの"
    ],
    "note": "118代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "光格天皇",
@@ -959,7 +1195,9 @@
     "こうかく"
    ],
    "note": "119代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "仁孝天皇",
@@ -967,7 +1205,9 @@
     "にんこう"
    ],
    "note": "120代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "孝明天皇",
@@ -975,7 +1215,9 @@
     "こうめい"
    ],
    "note": "121代",
-   "group": "安土桃山・江戸時代"
+   "group": "安土桃山・江戸時代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "明治天皇",
@@ -985,7 +1227,9 @@
     "むつひと"
    ],
    "note": "122代",
-   "group": "近現代"
+   "group": "近現代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "大正天皇",
@@ -995,7 +1239,9 @@
     "よしひと"
    ],
    "note": "123代",
-   "group": "近現代"
+   "group": "近現代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "昭和天皇",
@@ -1005,7 +1251,9 @@
     "ひろひと"
    ],
    "note": "124代",
-   "group": "近現代"
+   "group": "近現代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "明仁（上皇）",
@@ -1020,7 +1268,9 @@
     "へいせい"
    ],
    "note": "125代",
-   "group": "近現代"
+   "group": "近現代",
+   "secret": false,
+   "ghost": false
   },
   {
    "name": "徳仁（今上天皇）",
@@ -1032,7 +1282,81 @@
     "きんじょう"
    ],
    "note": "126代",
-   "group": "近現代"
+   "group": "近現代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "光厳天皇",
+   "aliases": [
+    "こうごん"
+   ],
+   "note": "北朝1代",
+   "group": "北朝",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "光明天皇",
+   "aliases": [
+    "こうみょう"
+   ],
+   "note": "北朝2代",
+   "group": "北朝",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "崇光天皇",
+   "aliases": [
+    "すこう"
+   ],
+   "note": "北朝3代",
+   "group": "北朝",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "後光厳天皇",
+   "aliases": [
+    "ごこうごん"
+   ],
+   "note": "北朝4代",
+   "group": "北朝",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "後円融天皇",
+   "aliases": [
+    "ごえんゆう"
+   ],
+   "note": "北朝5代（次の後小松天皇は北朝6代でもある）",
+   "group": "北朝",
+   "secret": true,
+   "ghost": false
+  },
+  {
+   "name": "神功皇后",
+   "aliases": [
+    "じんぐうこうごう"
+   ],
+   "note": "大正時代まで歴代に数えられることがあったが、現在は含まない",
+   "group": "北朝",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "飯豊青皇女",
+   "aliases": [
+    "飯豊天皇",
+    "いいとよあおのひめみこ",
+    "いいとよてんのう"
+   ],
+   "note": "天皇とみなす説もあるが、歴代には含まない",
+   "group": "北朝",
+   "secret": false,
+   "ghost": true
   }
  ],
  "id": "27-emperors",

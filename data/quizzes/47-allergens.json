@@ -1,0 +1,306 @@
+{
+ "title": "食物アレルギー表示の29品目",
+ "category": "くらし",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "えび",
+   "aliases": [
+    "海老"
+   ],
+   "note": "甲殻類",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "かに",
+   "aliases": [
+    "蟹"
+   ],
+   "note": "甲殻類",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "くるみ",
+   "aliases": [
+    "胡桃"
+   ],
+   "note": "2023年に義務化",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小麦",
+   "aliases": [
+    "こむぎ"
+   ],
+   "note": "",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "そば",
+   "aliases": [
+    "蕎麦"
+   ],
+   "note": "",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "卵",
+   "aliases": [
+    "たまご",
+    "玉子",
+    "鶏卵"
+   ],
+   "note": "",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "乳",
+   "aliases": [
+    "牛乳",
+    "乳製品",
+    "ちち",
+    "にゅう"
+   ],
+   "note": "",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "落花生",
+   "aliases": [
+    "ピーナッツ",
+    "らっかせい"
+   ],
+   "note": "",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "カシューナッツ",
+   "aliases": [],
+   "note": "2026年に義務化",
+   "group": "義務（特定原材料）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "アーモンド",
+   "aliases": [],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "あわび",
+   "aliases": [
+    "鮑"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "いか",
+   "aliases": [
+    "烏賊"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "いくら",
+   "aliases": [],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "オレンジ",
+   "aliases": [],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "キウイフルーツ",
+   "aliases": [
+    "キウイ"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "牛肉",
+   "aliases": [
+    "ぎゅうにく"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ごま",
+   "aliases": [
+    "胡麻"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "さけ",
+   "aliases": [
+    "鮭",
+    "しゃけ"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "さば",
+   "aliases": [
+    "鯖"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大豆",
+   "aliases": [
+    "だいず"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鶏肉",
+   "aliases": [
+    "とりにく",
+    "けいにく"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "バナナ",
+   "aliases": [],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "豚肉",
+   "aliases": [
+    "ぶたにく"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "マカダミアナッツ",
+   "aliases": [
+    "マカデミアナッツ"
+   ],
+   "note": "2024年に追加",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "もも",
+   "aliases": [
+    "桃"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "やまいも",
+   "aliases": [
+    "山芋"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "りんご",
+   "aliases": [
+    "林檎"
+   ],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ゼラチン",
+   "aliases": [],
+   "note": "",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ピスタチオ",
+   "aliases": [],
+   "note": "2026年に追加",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "まつたけ",
+   "aliases": [
+    "松茸"
+   ],
+   "note": "2024年に推奨品目から削除",
+   "group": "推奨（特定原材料に準ずるもの）",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "47-allergens",
+ "created": 45.0
+}

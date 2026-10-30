@@ -1,0 +1,334 @@
+{
+ "title": "国民の祝日",
+ "category": "くらし",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "元日",
+   "aliases": [
+    "がんじつ"
+   ],
+   "note": "1月1日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "成人の日",
+   "aliases": [
+    "せいじんのひ"
+   ],
+   "note": "1月第2月曜",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "建国記念の日",
+   "aliases": [
+    "建国記念日",
+    "けんこくきねんのひ"
+   ],
+   "note": "2月11日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天皇誕生日",
+   "aliases": [
+    "てんのうたんじょうび"
+   ],
+   "note": "2月23日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "春分の日",
+   "aliases": [
+    "しゅんぶんのひ"
+   ],
+   "note": "春分日（3月20日頃）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "昭和の日",
+   "aliases": [
+    "しょうわのひ"
+   ],
+   "note": "4月29日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "憲法記念日",
+   "aliases": [
+    "けんぽうきねんび"
+   ],
+   "note": "5月3日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "みどりの日",
+   "aliases": [
+    "緑の日"
+   ],
+   "note": "5月4日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "こどもの日",
+   "aliases": [
+    "子供の日",
+    "子どもの日"
+   ],
+   "note": "5月5日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "海の日",
+   "aliases": [
+    "うみのひ"
+   ],
+   "note": "7月第3月曜",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山の日",
+   "aliases": [
+    "やまのひ"
+   ],
+   "note": "8月11日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "敬老の日",
+   "aliases": [
+    "けいろうのひ"
+   ],
+   "note": "9月第3月曜",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秋分の日",
+   "aliases": [
+    "しゅうぶんのひ"
+   ],
+   "note": "秋分日（9月23日頃）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "スポーツの日",
+   "aliases": [],
+   "note": "10月第2月曜",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "文化の日",
+   "aliases": [
+    "ぶんかのひ"
+   ],
+   "note": "11月3日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "勤労感謝の日",
+   "aliases": [
+    "きんろうかんしゃのひ"
+   ],
+   "note": "11月23日",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "体育の日",
+   "aliases": [
+    "たいいくのひ"
+   ],
+   "note": "スポーツの日の旧称（2019年まで）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "天長節",
+   "aliases": [
+    "てんちょうせつ"
+   ],
+   "note": "天皇誕生日の戦前の名称",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "紀元節",
+   "aliases": [
+    "きげんせつ"
+   ],
+   "note": "戦前の祝日（2月11日）。建国記念の日の前身にあたる",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "明治節",
+   "aliases": [
+    "めいじせつ"
+   ],
+   "note": "戦前の祝日（11月3日）。今の文化の日",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "新嘗祭",
+   "aliases": [
+    "にいなめさい",
+    "しんじょうさい"
+   ],
+   "note": "戦前の祭日（11月23日）。今の勤労感謝の日",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "四方拝",
+   "aliases": [
+    "しほうはい"
+   ],
+   "note": "戦前の祝日（1月1日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "元始祭",
+   "aliases": [
+    "げんしさい"
+   ],
+   "note": "戦前の祭日（1月3日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "春季皇霊祭",
+   "aliases": [
+    "しゅんきこうれいさい"
+   ],
+   "note": "戦前の祭日。今の春分の日",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "秋季皇霊祭",
+   "aliases": [
+    "しゅうきこうれいさい"
+   ],
+   "note": "戦前の祭日。今の秋分の日",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "神武天皇祭",
+   "aliases": [
+    "じんむてんのうさい"
+   ],
+   "note": "戦前の祭日（4月3日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "神嘗祭",
+   "aliases": [
+    "かんなめさい",
+    "かんなめのまつり"
+   ],
+   "note": "戦前の祭日（10月17日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大正天皇祭",
+   "aliases": [
+    "たいしょうてんのうさい"
+   ],
+   "note": "戦前の祭日（12月25日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "明治天皇祭",
+   "aliases": [
+    "めいじてんのうさい"
+   ],
+   "note": "大正期の祭日（7月30日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "海の記念日",
+   "aliases": [
+    "うみのきねんび"
+   ],
+   "note": "海の日の前身（祝日ではない記念日）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "振替休日",
+   "aliases": [
+    "ふりかえきゅうじつ"
+   ],
+   "note": "休日だが「国民の祝日」ではない",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "国民の休日",
+   "aliases": [
+    "こくみんのきゅうじつ"
+   ],
+   "note": "祝日に挟まれた平日を休みにする制度。「国民の祝日」ではない",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "45-national-holidays",
+ "created": 43.0
+}

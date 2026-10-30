@@ -1,0 +1,208 @@
+{
+ "title": "必須アミノ酸（9種）",
+ "category": "理科・天文",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "バリン",
+   "aliases": [
+    "valine"
+   ],
+   "note": "分岐鎖（BCAA）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ロイシン",
+   "aliases": [
+    "leucine"
+   ],
+   "note": "分岐鎖（BCAA）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "イソロイシン",
+   "aliases": [
+    "isoleucine"
+   ],
+   "note": "分岐鎖（BCAA）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "トレオニン",
+   "aliases": [
+    "スレオニン",
+    "threonine"
+   ],
+   "note": "ヒドロキシ基をもつ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "メチオニン",
+   "aliases": [
+    "methionine"
+   ],
+   "note": "硫黄を含む",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "フェニルアラニン",
+   "aliases": [
+    "phenylalanine"
+   ],
+   "note": "芳香族",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "トリプトファン",
+   "aliases": [
+    "tryptophan"
+   ],
+   "note": "芳香族",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "リシン",
+   "aliases": [
+    "リジン",
+    "lysine"
+   ],
+   "note": "塩基性",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヒスチジン",
+   "aliases": [
+    "histidine"
+   ],
+   "note": "塩基性（乳幼児で必須とされ、のちに成人も）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "グリシン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アラニン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "セリン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "システイン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アスパラギン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "グルタミン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "プロリン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "チロシン",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アスパラギン酸",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "グルタミン酸",
+   "aliases": [],
+   "note": "非必須アミノ酸",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アルギニン",
+   "aliases": [],
+   "note": "非必須アミノ酸（成長期には条件付きで必須とされることも）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "セレノシステイン",
+   "aliases": [],
+   "note": "21番目のアミノ酸（必須アミノ酸ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ピロリシン",
+   "aliases": [],
+   "note": "22番目のアミノ酸（必須アミノ酸ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "44-essential-amino-acids",
+ "created": 42.0
+}

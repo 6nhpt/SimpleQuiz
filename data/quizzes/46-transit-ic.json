@@ -1,0 +1,110 @@
+{
+ "title": "交通系ICカード（全国相互利用10種）",
+ "category": "鉄道",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "Kitaca",
+   "aliases": [
+    "キタカ"
+   ],
+   "note": "JR北海道",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "Suica",
+   "aliases": [
+    "スイカ"
+   ],
+   "note": "JR東日本",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "PASMO",
+   "aliases": [
+    "パスモ"
+   ],
+   "note": "首都圏の私鉄・バス",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "TOICA",
+   "aliases": [
+    "トイカ"
+   ],
+   "note": "JR東海",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "manaca",
+   "aliases": [
+    "マナカ"
+   ],
+   "note": "名古屋の地下鉄・私鉄・バス",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ICOCA",
+   "aliases": [
+    "イコカ"
+   ],
+   "note": "JR西日本",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "PiTaPa",
+   "aliases": [
+    "ピタパ"
+   ],
+   "note": "関西の私鉄・バス（後払い）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "はやかけん",
+   "aliases": [],
+   "note": "福岡市地下鉄",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "nimoca",
+   "aliases": [
+    "ニモカ"
+   ],
+   "note": "西鉄など",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "SUGOCA",
+   "aliases": [
+    "スゴカ"
+   ],
+   "note": "JR九州",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "46-transit-ic",
+ "created": 44.0
+}
