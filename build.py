@@ -4,6 +4,7 @@
 """
 import json
 import shutil
+import time
 
 import server
 
@@ -16,9 +17,15 @@ def main():
         shutil.rmtree(DIST)
     shutil.copytree(server.PUBLIC, DIST, ignore=shutil.ignore_patterns("_*"))
 
+    # JS/CSS の URL にビルドごとのバージョンを付けて、古いキャッシュを使わせない
+    ver = str(int(time.time()))
     index = DIST / "index.html"
     html = index.read_text(encoding="utf-8")
-    index.write_text(html.replace('<html lang="ja">', '<html lang="ja" data-static="1">', 1), encoding="utf-8")
+    html = html.replace('<html lang="ja">', '<html lang="ja" data-static="1">', 1)
+    html = html.replace('src="app.js"', f'src="app.js?v={ver}"').replace('href="style.css"', f'href="style.css?v={ver}"')
+    index.write_text(html, encoding="utf-8")
+    app = DIST / "app.js"
+    app.write_text(app.read_text(encoding="utf-8").replace('"./matcher.js"', f'"./matcher.js?v={ver}"'), encoding="utf-8")
 
     out = DIST / "data"
     out.mkdir()

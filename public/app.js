@@ -15,7 +15,8 @@ const STATIC = document.documentElement.dataset.static === "1";
 async function api(method, path, body) {
   if (STATIC) {
     if (method !== "GET") throw new Error("公開版では編集できません");
-    const res = await fetch(path ? `data/${encodeURIComponent(path)}.json` : "data/index.json");
+    // Pages は max-age=600 で配信されるので、毎回サーバーに更新を確認させる
+    const res = await fetch(path ? `data/${encodeURIComponent(path)}.json` : "data/index.json", { cache: "no-cache" });
     if (!res.ok) throw new Error("クイズが見つかりません");
     return res.json();
   }
