@@ -31,7 +31,8 @@ def main():
     out.mkdir()
     quizzes = server.list_quizzes()
     for q in quizzes:
-        shutil.copy(server.quiz_path(q["id"]), out / f"{q['id']}.json")
+        quiz = {**server.load_quiz(q["id"]), "wiki": server.load_wiki(q["id"])}
+        (out / f"{q['id']}.json").write_text(json.dumps(quiz, ensure_ascii=False), encoding="utf-8")
     (out / "index.json").write_text(json.dumps(quizzes, ensure_ascii=False), encoding="utf-8")
     (DIST / "version.json").write_text(json.dumps({"v": ver}), encoding="utf-8")
     (DIST / ".nojekyll").write_text("", encoding="utf-8")

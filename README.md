@@ -22,16 +22,19 @@ start.bat            （または  python server.py 8080）
 - 手元のサーバーで追加・編集 → `data/quizzes/` の変更を commit して push
 - または `seed/` に txt を追加して push（GitHub の Web 画面からでも可。txt の先頭に `@title` などのヘッダを書く。既存の seed を参照）
 - `python build.py` で公開版を手元に書き出して確認できる
+- `python wiki.py [クイズID]` で一覧画面の Wikipedia リンク先を調べ直す（`data/wiki/` に保存。候補の付け方や個別の上書きは wiki.py 冒頭）
 
 ## 構成
 
 ```
 server.py            静的配信 + REST API（/api/quizzes）
 build.py             公開用の静的サイトを dist/ に書き出す
+wiki.py              一覧画面の Wikipedia リンク先を調べて data/wiki/ に書く
 public/              画面（素のHTML/JS/CSS、ビルド不要）
   app.js             画面（ホーム / 回答 / 一覧 / 編集）
   matcher.js         表記ゆれ吸収・判定ロジック
 data/quizzes/*.json  クイズ本体（バックアップはこのフォルダをコピー）
+data/wiki/*.json     項目名 → Wikipedia 記事名
 seed/*.txt           初期データ。起動時に未取り込みのものだけ data に入る
 ```
 

@@ -400,11 +400,25 @@ async function renderView(id) {
   const ghostCount = quiz.items.filter((it) => it.ghost).length;
   const secrets = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].secret && found.has(quiz.items[i].name));
   const ghosts = quiz.items.map((_, i) => i).filter((i) => quiz.items[i].ghost && found.has(quiz.items[i].name));
+  const wiki = quiz.wiki || {};
+  const wikiLink = (name) => {
+    if (!wiki[name]) return "";
+    const [title, frag] = wiki[name].split("#").map((s) => encodeURIComponent(s.replace(/ /g, "_")));
+    return `<a class="wiki" href="https://ja.wikipedia.org/wiki/${title}${frag ? "#" + frag : ""}" target="_blank" rel="noopener">Wikipedia</a>`;
+  };
+  // 別解が多いとき（反水素など）は、先頭だけ見せて残りは折りたたむ
+  const ALIAS_SHOW = 4;
+  const aliases = (a) => {
+    if (!a.length) return "";
+    if (a.length <= ALIAS_SHOW + 1) return `<span class="aliases">${a.map(esc).join(" / ")}</span>`;
+    return `<details class="aliases"><summary>${a.slice(0, ALIAS_SHOW).map(esc).join(" / ")} <span class="more">ほか${a.length - ALIAS_SHOW}件</span></summary>${a.slice(ALIAS_SHOW).map(esc).join(" / ")}</details>`;
+  };
   const li = (it) => `
               <li data-s="${esc([it.name, ...it.aliases, noteText(it.note), it.group || ""].join(" ").toLowerCase())}">
                 <span class="name">${esc(it.name)}</span>
                 ${it.note ? `<span class="note">${esc(noteText(it.note))}</span>` : ""}
-                ${it.aliases.length ? `<span class="aliases">${it.aliases.map(esc).join(" / ")}</span>` : ""}
+                ${wikiLink(it.name)}
+                ${aliases(it.aliases)}
               </li>`;
   setBar(quiz.title, "#/", STATIC ? "" : `<a class="btn small" href="#/edit/${id}">編集</a>`);
   $app.innerHTML = `

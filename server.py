@@ -98,6 +98,12 @@ def load_quiz(qid):
     return json.loads(p.read_text(encoding="utf-8"))
 
 
+def load_wiki(qid):
+    """一覧画面用の Wikipedia 記事名 {項目名: 記事名}（wiki.py が作る）"""
+    p = DATA.parent / "wiki" / f"{qid}.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
 def save_quiz(quiz):
     p = quiz_path(quiz["id"])
     tmp = p.with_suffix(".tmp")
@@ -195,7 +201,7 @@ class Handler(BaseHTTPRequestHandler):
                 return self.send_json(list_quizzes())
             if not ID_RE.match(qid) or not (q := load_quiz(qid)):
                 return self.send_error_json(HTTPStatus.NOT_FOUND, "not found")
-            return self.send_json(q)
+            return self.send_json({**q, "wiki": load_wiki(qid)})
         if urlparse(self.path).path.startswith("/api/"):
             return self.send_error_json(HTTPStatus.NOT_FOUND, "not found")
         self.serve_static()

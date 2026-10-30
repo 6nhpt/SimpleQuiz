@@ -140,6 +140,12 @@ input[type=text], input[type=search], input:not([type]), textarea {
 .list .name { font-weight: 600; }
 .list .note { margin-left: 8px; font-size: 12px; color: var(--muted); }
 .list .aliases { display: block; font-size: 13px; color: var(--muted); }
+.list details.aliases summary { cursor: pointer; list-style: none; }
+.list details.aliases summary::-webkit-details-marker { display: none; }
+.list details.aliases .more { color: var(--primary); white-space: nowrap; }
+.list details.aliases[open] .more { display: none; }
+.list details.aliases[open] summary::after { content: " /"; }
+.list .wiki { margin-left: 8px; font-size: 12px; color: var(--primary); text-decoration: underline; }
 
 /* 編集画面 */
 .edit { display: grid; gap: 14px; }
