@@ -1,0 +1,28 @@
+@title ギリシャ文字
+@category ことば・記号
+@suffix
+@fuzzy on
+アルファ | alpha # Α α
+ベータ | ビータ | beta # Β β
+ガンマ | gamma # Γ γ
+デルタ | delta # Δ δ
+イプシロン | エプシロン | epsilon # Ε ε
+ゼータ | ジータ | zeta # Ζ ζ
+エータ | イータ | eta # Η η
+シータ | テータ | theta # Θ θ
+イオタ | iota # Ι ι
+カッパ | kappa # Κ κ
+ラムダ | lambda # Λ λ
+ミュー | mu # Μ μ
+ニュー | nu # Ν ν
+クシー | グザイ | クサイ | xi # Ξ ξ
+オミクロン | omicron # Ο ο
+パイ | ピー | pi # Π π
+ロー | rho # Ρ ρ
+シグマ | sigma # Σ σ
+タウ | tau # Τ τ
+ユプシロン | ウプシロン | upsilon # Υ υ
+ファイ | フィー | phi # Φ φ
+カイ | キー | chi # Χ χ
+プサイ | プシー | psi # Ψ ψ
+オメガ | omega # Ω ω

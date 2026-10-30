@@ -1,0 +1,32 @@
+@title SI接頭語（24個）
+@category 理科・天文
+@suffix
+@fuzzy on
+
+## 大きい方
+クエタ | quetta # 10^30・Q
+ロナ | ronna # 10^27・R
+ヨタ | yotta # 10^24・Y
+ゼタ | zetta # 10^21・Z
+エクサ | exa # 10^18・E
+ペタ | peta # 10^15・P
+テラ | tera # 10^12・T
+ギガ | giga # 10^9・G
+メガ | mega # 10^6・M
+キロ | kilo # 10^3・k
+ヘクト | hecto # 10^2・h
+デカ | deca | deka # 10^1・da
+
+## 小さい方
+デシ | deci # 10^-1・d
+センチ | centi # 10^-2・c
+ミリ | milli # 10^-3・m
+マイクロ | micro # 10^-6・μ
+ナノ | nano # 10^-9・n
+ピコ | pico # 10^-12・p
+フェムト | femto # 10^-15・f
+アト | atto # 10^-18・a
+ゼプト | zepto # 10^-21・z
+ヨクト | yocto # 10^-24・y
+ロント | ronto # 10^-27・r
+クエクト | quecto # 10^-30・q

@@ -1,0 +1,130 @@
+{
+ "title": "8000m峰（14座）",
+ "category": "世界の地理",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "エベレスト",
+   "aliases": [
+    "チョモランマ",
+    "サガルマータ",
+    "Everest"
+   ],
+   "note": "8848m・ネパール/中国",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "カンチェンジュンガ",
+   "aliases": [
+    "Kangchenjunga"
+   ],
+   "note": "8586m・ネパール/インド",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "ローツェ",
+   "aliases": [
+    "Lhotse"
+   ],
+   "note": "8516m・ネパール/中国",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "マカルー",
+   "aliases": [
+    "Makalu"
+   ],
+   "note": "8463m・ネパール/中国",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "チョ・オユー",
+   "aliases": [
+    "Cho Oyu"
+   ],
+   "note": "8188m・ネパール/中国",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "ダウラギリ",
+   "aliases": [
+    "Dhaulagiri"
+   ],
+   "note": "8167m・ネパール",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "マナスル",
+   "aliases": [
+    "Manaslu"
+   ],
+   "note": "8163m・ネパール",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "ナンガ・パルバット",
+   "aliases": [
+    "Nanga Parbat"
+   ],
+   "note": "8126m・パキスタン",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "アンナプルナ",
+   "aliases": [
+    "Annapurna"
+   ],
+   "note": "8091m・ネパール",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "シシャパンマ",
+   "aliases": [
+    "Shishapangma"
+   ],
+   "note": "8027m・中国",
+   "group": "ヒマラヤ山脈"
+  },
+  {
+   "name": "K2",
+   "aliases": [
+    "ゴッドウィンオースチン",
+    "ゴドウィンオースティン"
+   ],
+   "note": "8611m・パキスタン/中国",
+   "group": "カラコルム山脈"
+  },
+  {
+   "name": "ガッシャーブルムI",
+   "aliases": [
+    "ガッシャーブルム1",
+    "ヒドゥンピーク",
+    "Gasherbrum I"
+   ],
+   "note": "8080m・パキスタン/中国",
+   "group": "カラコルム山脈"
+  },
+  {
+   "name": "ブロード・ピーク",
+   "aliases": [
+    "Broad Peak"
+   ],
+   "note": "8051m・パキスタン/中国",
+   "group": "カラコルム山脈"
+  },
+  {
+   "name": "ガッシャーブルムII",
+   "aliases": [
+    "ガッシャーブルム2",
+    "Gasherbrum II"
+   ],
+   "note": "8035m・パキスタン/中国",
+   "group": "カラコルム山脈"
+  }
+ ],
+ "id": "26-8000m-peaks",
+ "created": 25.0
+}

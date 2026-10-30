@@ -1,0 +1,216 @@
+{
+ "title": "ギリシャ文字",
+ "category": "ことば・記号",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "アルファ",
+   "aliases": [
+    "alpha"
+   ],
+   "note": "Α α",
+   "group": ""
+  },
+  {
+   "name": "ベータ",
+   "aliases": [
+    "ビータ",
+    "beta"
+   ],
+   "note": "Β β",
+   "group": ""
+  },
+  {
+   "name": "ガンマ",
+   "aliases": [
+    "gamma"
+   ],
+   "note": "Γ γ",
+   "group": ""
+  },
+  {
+   "name": "デルタ",
+   "aliases": [
+    "delta"
+   ],
+   "note": "Δ δ",
+   "group": ""
+  },
+  {
+   "name": "イプシロン",
+   "aliases": [
+    "エプシロン",
+    "epsilon"
+   ],
+   "note": "Ε ε",
+   "group": ""
+  },
+  {
+   "name": "ゼータ",
+   "aliases": [
+    "ジータ",
+    "zeta"
+   ],
+   "note": "Ζ ζ",
+   "group": ""
+  },
+  {
+   "name": "エータ",
+   "aliases": [
+    "イータ",
+    "eta"
+   ],
+   "note": "Η η",
+   "group": ""
+  },
+  {
+   "name": "シータ",
+   "aliases": [
+    "テータ",
+    "theta"
+   ],
+   "note": "Θ θ",
+   "group": ""
+  },
+  {
+   "name": "イオタ",
+   "aliases": [
+    "iota"
+   ],
+   "note": "Ι ι",
+   "group": ""
+  },
+  {
+   "name": "カッパ",
+   "aliases": [
+    "kappa"
+   ],
+   "note": "Κ κ",
+   "group": ""
+  },
+  {
+   "name": "ラムダ",
+   "aliases": [
+    "lambda"
+   ],
+   "note": "Λ λ",
+   "group": ""
+  },
+  {
+   "name": "ミュー",
+   "aliases": [
+    "mu"
+   ],
+   "note": "Μ μ",
+   "group": ""
+  },
+  {
+   "name": "ニュー",
+   "aliases": [
+    "nu"
+   ],
+   "note": "Ν ν",
+   "group": ""
+  },
+  {
+   "name": "クシー",
+   "aliases": [
+    "グザイ",
+    "クサイ",
+    "xi"
+   ],
+   "note": "Ξ ξ",
+   "group": ""
+  },
+  {
+   "name": "オミクロン",
+   "aliases": [
+    "omicron"
+   ],
+   "note": "Ο ο",
+   "group": ""
+  },
+  {
+   "name": "パイ",
+   "aliases": [
+    "ピー",
+    "pi"
+   ],
+   "note": "Π π",
+   "group": ""
+  },
+  {
+   "name": "ロー",
+   "aliases": [
+    "rho"
+   ],
+   "note": "Ρ ρ",
+   "group": ""
+  },
+  {
+   "name": "シグマ",
+   "aliases": [
+    "sigma"
+   ],
+   "note": "Σ σ",
+   "group": ""
+  },
+  {
+   "name": "タウ",
+   "aliases": [
+    "tau"
+   ],
+   "note": "Τ τ",
+   "group": ""
+  },
+  {
+   "name": "ユプシロン",
+   "aliases": [
+    "ウプシロン",
+    "upsilon"
+   ],
+   "note": "Υ υ",
+   "group": ""
+  },
+  {
+   "name": "ファイ",
+   "aliases": [
+    "フィー",
+    "phi"
+   ],
+   "note": "Φ φ",
+   "group": ""
+  },
+  {
+   "name": "カイ",
+   "aliases": [
+    "キー",
+    "chi"
+   ],
+   "note": "Χ χ",
+   "group": ""
+  },
+  {
+   "name": "プサイ",
+   "aliases": [
+    "プシー",
+    "psi"
+   ],
+   "note": "Ψ ψ",
+   "group": ""
+  },
+  {
+   "name": "オメガ",
+   "aliases": [
+    "omega"
+   ],
+   "note": "Ω ω",
+   "group": ""
+  }
+ ],
+ "id": "22-greek-letters",
+ "created": 21.0
+}

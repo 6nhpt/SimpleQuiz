@@ -1,0 +1,30 @@
+@title NATOフォネティックコード
+@category ことば・記号
+@suffix
+@fuzzy on
+Alfa | Alpha | アルファ # A
+Bravo | ブラボー # B
+Charlie | チャーリー # C
+Delta | デルタ # D
+Echo | エコー # E
+Foxtrot | フォックストロット # F
+Golf | ゴルフ # G
+Hotel | ホテル # H
+India | インディア # I
+Juliett | Juliet | ジュリエット # J
+Kilo | キロ # K
+Lima | リマ # L
+Mike | マイク # M
+November | ノベンバー # N
+Oscar | オスカー # O
+Papa | パパ # P
+Quebec | ケベック # Q
+Romeo | ロメオ # R
+Sierra | シエラ # S
+Tango | タンゴ # T
+Uniform | ユニフォーム # U
+Victor | ビクター # V
+Whiskey | Whisky | ウイスキー | ウィスキー # W
+X-ray | Xray | エックスレイ | エクスレイ # X
+Yankee | ヤンキー # Y
+Zulu | ズールー # Z

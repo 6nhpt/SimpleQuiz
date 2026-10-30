@@ -1,0 +1,226 @@
+{
+ "title": "NATOフォネティックコード",
+ "category": "ことば・記号",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "Alfa",
+   "aliases": [
+    "Alpha",
+    "アルファ"
+   ],
+   "note": "A",
+   "group": ""
+  },
+  {
+   "name": "Bravo",
+   "aliases": [
+    "ブラボー"
+   ],
+   "note": "B",
+   "group": ""
+  },
+  {
+   "name": "Charlie",
+   "aliases": [
+    "チャーリー"
+   ],
+   "note": "C",
+   "group": ""
+  },
+  {
+   "name": "Delta",
+   "aliases": [
+    "デルタ"
+   ],
+   "note": "D",
+   "group": ""
+  },
+  {
+   "name": "Echo",
+   "aliases": [
+    "エコー"
+   ],
+   "note": "E",
+   "group": ""
+  },
+  {
+   "name": "Foxtrot",
+   "aliases": [
+    "フォックストロット"
+   ],
+   "note": "F",
+   "group": ""
+  },
+  {
+   "name": "Golf",
+   "aliases": [
+    "ゴルフ"
+   ],
+   "note": "G",
+   "group": ""
+  },
+  {
+   "name": "Hotel",
+   "aliases": [
+    "ホテル"
+   ],
+   "note": "H",
+   "group": ""
+  },
+  {
+   "name": "India",
+   "aliases": [
+    "インディア"
+   ],
+   "note": "I",
+   "group": ""
+  },
+  {
+   "name": "Juliett",
+   "aliases": [
+    "Juliet",
+    "ジュリエット"
+   ],
+   "note": "J",
+   "group": ""
+  },
+  {
+   "name": "Kilo",
+   "aliases": [
+    "キロ"
+   ],
+   "note": "K",
+   "group": ""
+  },
+  {
+   "name": "Lima",
+   "aliases": [
+    "リマ"
+   ],
+   "note": "L",
+   "group": ""
+  },
+  {
+   "name": "Mike",
+   "aliases": [
+    "マイク"
+   ],
+   "note": "M",
+   "group": ""
+  },
+  {
+   "name": "November",
+   "aliases": [
+    "ノベンバー"
+   ],
+   "note": "N",
+   "group": ""
+  },
+  {
+   "name": "Oscar",
+   "aliases": [
+    "オスカー"
+   ],
+   "note": "O",
+   "group": ""
+  },
+  {
+   "name": "Papa",
+   "aliases": [
+    "パパ"
+   ],
+   "note": "P",
+   "group": ""
+  },
+  {
+   "name": "Quebec",
+   "aliases": [
+    "ケベック"
+   ],
+   "note": "Q",
+   "group": ""
+  },
+  {
+   "name": "Romeo",
+   "aliases": [
+    "ロメオ"
+   ],
+   "note": "R",
+   "group": ""
+  },
+  {
+   "name": "Sierra",
+   "aliases": [
+    "シエラ"
+   ],
+   "note": "S",
+   "group": ""
+  },
+  {
+   "name": "Tango",
+   "aliases": [
+    "タンゴ"
+   ],
+   "note": "T",
+   "group": ""
+  },
+  {
+   "name": "Uniform",
+   "aliases": [
+    "ユニフォーム"
+   ],
+   "note": "U",
+   "group": ""
+  },
+  {
+   "name": "Victor",
+   "aliases": [
+    "ビクター"
+   ],
+   "note": "V",
+   "group": ""
+  },
+  {
+   "name": "Whiskey",
+   "aliases": [
+    "Whisky",
+    "ウイスキー",
+    "ウィスキー"
+   ],
+   "note": "W",
+   "group": ""
+  },
+  {
+   "name": "X-ray",
+   "aliases": [
+    "Xray",
+    "エックスレイ",
+    "エクスレイ"
+   ],
+   "note": "X",
+   "group": ""
+  },
+  {
+   "name": "Yankee",
+   "aliases": [
+    "ヤンキー"
+   ],
+   "note": "Y",
+   "group": ""
+  },
+  {
+   "name": "Zulu",
+   "aliases": [
+    "ズールー"
+   ],
+   "note": "Z",
+   "group": ""
+  }
+ ],
+ "id": "23-nato-phonetic",
+ "created": 22.0
+}

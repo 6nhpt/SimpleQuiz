@@ -1,0 +1,205 @@
+{
+ "title": "SI接頭語（24個）",
+ "category": "理科・天文",
+ "options": {
+  "suffix": [],
+  "fuzzy": true
+ },
+ "items": [
+  {
+   "name": "クエタ",
+   "aliases": [
+    "quetta"
+   ],
+   "note": "10^30・Q",
+   "group": "大きい方"
+  },
+  {
+   "name": "ロナ",
+   "aliases": [
+    "ronna"
+   ],
+   "note": "10^27・R",
+   "group": "大きい方"
+  },
+  {
+   "name": "ヨタ",
+   "aliases": [
+    "yotta"
+   ],
+   "note": "10^24・Y",
+   "group": "大きい方"
+  },
+  {
+   "name": "ゼタ",
+   "aliases": [
+    "zetta"
+   ],
+   "note": "10^21・Z",
+   "group": "大きい方"
+  },
+  {
+   "name": "エクサ",
+   "aliases": [
+    "exa"
+   ],
+   "note": "10^18・E",
+   "group": "大きい方"
+  },
+  {
+   "name": "ペタ",
+   "aliases": [
+    "peta"
+   ],
+   "note": "10^15・P",
+   "group": "大きい方"
+  },
+  {
+   "name": "テラ",
+   "aliases": [
+    "tera"
+   ],
+   "note": "10^12・T",
+   "group": "大きい方"
+  },
+  {
+   "name": "ギガ",
+   "aliases": [
+    "giga"
+   ],
+   "note": "10^9・G",
+   "group": "大きい方"
+  },
+  {
+   "name": "メガ",
+   "aliases": [
+    "mega"
+   ],
+   "note": "10^6・M",
+   "group": "大きい方"
+  },
+  {
+   "name": "キロ",
+   "aliases": [
+    "kilo"
+   ],
+   "note": "10^3・k",
+   "group": "大きい方"
+  },
+  {
+   "name": "ヘクト",
+   "aliases": [
+    "hecto"
+   ],
+   "note": "10^2・h",
+   "group": "大きい方"
+  },
+  {
+   "name": "デカ",
+   "aliases": [
+    "deca",
+    "deka"
+   ],
+   "note": "10^1・da",
+   "group": "大きい方"
+  },
+  {
+   "name": "デシ",
+   "aliases": [
+    "deci"
+   ],
+   "note": "10^-1・d",
+   "group": "小さい方"
+  },
+  {
+   "name": "センチ",
+   "aliases": [
+    "centi"
+   ],
+   "note": "10^-2・c",
+   "group": "小さい方"
+  },
+  {
+   "name": "ミリ",
+   "aliases": [
+    "milli"
+   ],
+   "note": "10^-3・m",
+   "group": "小さい方"
+  },
+  {
+   "name": "マイクロ",
+   "aliases": [
+    "micro"
+   ],
+   "note": "10^-6・μ",
+   "group": "小さい方"
+  },
+  {
+   "name": "ナノ",
+   "aliases": [
+    "nano"
+   ],
+   "note": "10^-9・n",
+   "group": "小さい方"
+  },
+  {
+   "name": "ピコ",
+   "aliases": [
+    "pico"
+   ],
+   "note": "10^-12・p",
+   "group": "小さい方"
+  },
+  {
+   "name": "フェムト",
+   "aliases": [
+    "femto"
+   ],
+   "note": "10^-15・f",
+   "group": "小さい方"
+  },
+  {
+   "name": "アト",
+   "aliases": [
+    "atto"
+   ],
+   "note": "10^-18・a",
+   "group": "小さい方"
+  },
+  {
+   "name": "ゼプト",
+   "aliases": [
+    "zepto"
+   ],
+   "note": "10^-21・z",
+   "group": "小さい方"
+  },
+  {
+   "name": "ヨクト",
+   "aliases": [
+    "yocto"
+   ],
+   "note": "10^-24・y",
+   "group": "小さい方"
+  },
+  {
+   "name": "ロント",
+   "aliases": [
+    "ronto"
+   ],
+   "note": "10^-27・r",
+   "group": "小さい方"
+  },
+  {
+   "name": "クエクト",
+   "aliases": [
+    "quecto"
+   ],
+   "note": "10^-30・q",
+   "group": "小さい方"
+  }
+ ],
+ "id": "24-si-prefixes",
+ "created": 23.0
+}
