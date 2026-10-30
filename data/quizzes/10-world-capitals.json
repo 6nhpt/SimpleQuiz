@@ -1,5 +1,6 @@
 {
  "title": "世界の首都（国連加盟国）",
+ "category": "世界の地理",
  "options": {
   "suffix": [],
   "fuzzy": true
@@ -10,7 +11,8 @@
    "aliases": [
     "とうきょう"
    ],
-   "note": "日本"
+   "note": "日本",
+   "group": "アジア"
   },
   {
    "name": "北京",
@@ -18,104 +20,122 @@
     "ペキン",
     "ベイジン"
    ],
-   "note": "中国"
+   "note": "中国",
+   "group": "アジア"
   },
   {
    "name": "ソウル",
    "aliases": [],
-   "note": "韓国"
+   "note": "韓国",
+   "group": "アジア"
   },
   {
    "name": "平壌",
    "aliases": [
     "ピョンヤン"
    ],
-   "note": "北朝鮮"
+   "note": "北朝鮮",
+   "group": "アジア"
   },
   {
    "name": "ウランバートル",
    "aliases": [],
-   "note": "モンゴル"
+   "note": "モンゴル",
+   "group": "アジア"
   },
   {
    "name": "ハノイ",
    "aliases": [],
-   "note": "ベトナム"
+   "note": "ベトナム",
+   "group": "アジア"
   },
   {
    "name": "ビエンチャン",
    "aliases": [
     "ヴィエンチャン"
    ],
-   "note": "ラオス"
+   "note": "ラオス",
+   "group": "アジア"
   },
   {
    "name": "プノンペン",
    "aliases": [],
-   "note": "カンボジア"
+   "note": "カンボジア",
+   "group": "アジア"
   },
   {
    "name": "バンコク",
    "aliases": [],
-   "note": "タイ"
+   "note": "タイ",
+   "group": "アジア"
   },
   {
    "name": "ネピドー",
    "aliases": [
     "ネーピードー"
    ],
-   "note": "ミャンマー"
+   "note": "ミャンマー",
+   "group": "アジア"
   },
   {
    "name": "クアラルンプール",
    "aliases": [],
-   "note": "マレーシア"
+   "note": "マレーシア",
+   "group": "アジア"
   },
   {
    "name": "シンガポール",
    "aliases": [],
-   "note": "シンガポール"
+   "note": "シンガポール",
+   "group": "アジア"
   },
   {
    "name": "ジャカルタ",
    "aliases": [
     "ヌサンタラ"
    ],
-   "note": "インドネシア"
+   "note": "インドネシア",
+   "group": "アジア"
   },
   {
    "name": "マニラ",
    "aliases": [],
-   "note": "フィリピン"
+   "note": "フィリピン",
+   "group": "アジア"
   },
   {
    "name": "バンダルスリブガワン",
    "aliases": [
     "バンダルセリベガワン"
    ],
-   "note": "ブルネイ"
+   "note": "ブルネイ",
+   "group": "アジア"
   },
   {
    "name": "ディリ",
    "aliases": [],
-   "note": "東ティモール"
+   "note": "東ティモール",
+   "group": "アジア"
   },
   {
    "name": "ニューデリー",
    "aliases": [
     "デリー"
    ],
-   "note": "インド"
+   "note": "インド",
+   "group": "アジア"
   },
   {
    "name": "イスラマバード",
    "aliases": [],
-   "note": "パキスタン"
+   "note": "パキスタン",
+   "group": "アジア"
   },
   {
    "name": "ダッカ",
    "aliases": [],
-   "note": "バングラデシュ"
+   "note": "バングラデシュ",
+   "group": "アジア"
   },
   {
    "name": "スリジャヤワルダナプラコッテ",
@@ -123,628 +143,758 @@
     "コッテ",
     "スリジャヤワルダナプラ"
    ],
-   "note": "スリランカ"
+   "note": "スリランカ",
+   "group": "アジア"
   },
   {
    "name": "カトマンズ",
    "aliases": [],
-   "note": "ネパール"
+   "note": "ネパール",
+   "group": "アジア"
   },
   {
    "name": "ティンプー",
    "aliases": [],
-   "note": "ブータン"
+   "note": "ブータン",
+   "group": "アジア"
   },
   {
    "name": "マレ",
    "aliases": [],
-   "note": "モルディブ"
-  },
-  {
-   "name": "カブール",
-   "aliases": [],
-   "note": "アフガニスタン"
-  },
-  {
-   "name": "テヘラン",
-   "aliases": [],
-   "note": "イラン"
-  },
-  {
-   "name": "バグダッド",
-   "aliases": [
-    "バグダード"
-   ],
-   "note": "イラク"
-  },
-  {
-   "name": "リヤド",
-   "aliases": [],
-   "note": "サウジアラビア"
-  },
-  {
-   "name": "クウェート",
-   "aliases": [
-    "クウェートシティ"
-   ],
-   "note": "クウェート"
-  },
-  {
-   "name": "マナーマ",
-   "aliases": [],
-   "note": "バーレーン"
-  },
-  {
-   "name": "ドーハ",
-   "aliases": [],
-   "note": "カタール"
-  },
-  {
-   "name": "アブダビ",
-   "aliases": [],
-   "note": "アラブ首長国連邦"
-  },
-  {
-   "name": "マスカット",
-   "aliases": [],
-   "note": "オマーン"
-  },
-  {
-   "name": "サヌア",
-   "aliases": [
-    "サナア"
-   ],
-   "note": "イエメン"
-  },
-  {
-   "name": "アンマン",
-   "aliases": [],
-   "note": "ヨルダン"
-  },
-  {
-   "name": "ダマスカス",
-   "aliases": [],
-   "note": "シリア"
-  },
-  {
-   "name": "ベイルート",
-   "aliases": [],
-   "note": "レバノン"
-  },
-  {
-   "name": "エルサレム",
-   "aliases": [
-    "テルアビブ"
-   ],
-   "note": "イスラエル"
-  },
-  {
-   "name": "アンカラ",
-   "aliases": [],
-   "note": "トルコ"
-  },
-  {
-   "name": "ニコシア",
-   "aliases": [],
-   "note": "キプロス"
+   "note": "モルディブ",
+   "group": "アジア"
   },
   {
    "name": "アスタナ",
    "aliases": [
     "ヌルスルタン"
    ],
-   "note": "カザフスタン"
+   "note": "カザフスタン",
+   "group": "アジア"
   },
   {
    "name": "タシケント",
    "aliases": [],
-   "note": "ウズベキスタン"
+   "note": "ウズベキスタン",
+   "group": "アジア"
   },
   {
    "name": "アシガバート",
    "aliases": [
     "アシガバット"
    ],
-   "note": "トルクメニスタン"
+   "note": "トルクメニスタン",
+   "group": "アジア"
   },
   {
    "name": "ビシュケク",
    "aliases": [],
-   "note": "キルギス"
+   "note": "キルギス",
+   "group": "アジア"
   },
   {
    "name": "ドゥシャンベ",
    "aliases": [],
-   "note": "タジキスタン"
+   "note": "タジキスタン",
+   "group": "アジア"
   },
   {
    "name": "トビリシ",
    "aliases": [],
-   "note": "ジョージア"
+   "note": "ジョージア",
+   "group": "アジア"
   },
   {
    "name": "エレバン",
    "aliases": [],
-   "note": "アルメニア"
+   "note": "アルメニア",
+   "group": "アジア"
   },
   {
    "name": "バクー",
    "aliases": [],
-   "note": "アゼルバイジャン"
+   "note": "アゼルバイジャン",
+   "group": "アジア"
   },
   {
-   "name": "ロンドン",
+   "name": "カブール",
    "aliases": [],
-   "note": "イギリス"
+   "note": "アフガニスタン",
+   "group": "中東"
+  },
+  {
+   "name": "テヘラン",
+   "aliases": [],
+   "note": "イラン",
+   "group": "中東"
+  },
+  {
+   "name": "バグダッド",
+   "aliases": [
+    "バグダード"
+   ],
+   "note": "イラク",
+   "group": "中東"
+  },
+  {
+   "name": "リヤド",
+   "aliases": [],
+   "note": "サウジアラビア",
+   "group": "中東"
+  },
+  {
+   "name": "クウェート",
+   "aliases": [
+    "クウェートシティ"
+   ],
+   "note": "クウェート",
+   "group": "中東"
+  },
+  {
+   "name": "マナーマ",
+   "aliases": [],
+   "note": "バーレーン",
+   "group": "中東"
+  },
+  {
+   "name": "ドーハ",
+   "aliases": [],
+   "note": "カタール",
+   "group": "中東"
+  },
+  {
+   "name": "アブダビ",
+   "aliases": [],
+   "note": "アラブ首長国連邦",
+   "group": "中東"
+  },
+  {
+   "name": "マスカット",
+   "aliases": [],
+   "note": "オマーン",
+   "group": "中東"
+  },
+  {
+   "name": "サヌア",
+   "aliases": [
+    "サナア"
+   ],
+   "note": "イエメン",
+   "group": "中東"
+  },
+  {
+   "name": "アンマン",
+   "aliases": [],
+   "note": "ヨルダン",
+   "group": "中東"
+  },
+  {
+   "name": "ダマスカス",
+   "aliases": [],
+   "note": "シリア",
+   "group": "中東"
+  },
+  {
+   "name": "ベイルート",
+   "aliases": [],
+   "note": "レバノン",
+   "group": "中東"
+  },
+  {
+   "name": "エルサレム",
+   "aliases": [
+    "テルアビブ"
+   ],
+   "note": "イスラエル",
+   "group": "中東"
+  },
+  {
+   "name": "アンカラ",
+   "aliases": [],
+   "note": "トルコ",
+   "group": "中東"
+  },
+  {
+   "name": "ニコシア",
+   "aliases": [],
+   "note": "キプロス",
+   "group": "中東"
   },
   {
    "name": "パリ",
    "aliases": [],
-   "note": "フランス"
+   "note": "フランス",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ベルリン",
    "aliases": [],
-   "note": "ドイツ"
-  },
-  {
-   "name": "ローマ",
-   "aliases": [],
-   "note": "イタリア"
-  },
-  {
-   "name": "マドリード",
-   "aliases": [
-    "マドリッド"
-   ],
-   "note": "スペイン"
-  },
-  {
-   "name": "リスボン",
-   "aliases": [],
-   "note": "ポルトガル"
+   "note": "ドイツ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "アムステルダム",
    "aliases": [],
-   "note": "オランダ"
+   "note": "オランダ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ブリュッセル",
    "aliases": [],
-   "note": "ベルギー"
+   "note": "ベルギー",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ルクセンブルク",
    "aliases": [
     "ルクセンブルグ"
    ],
-   "note": "ルクセンブルク"
+   "note": "ルクセンブルク",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ベルン",
    "aliases": [],
-   "note": "スイス"
+   "note": "スイス",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ウィーン",
    "aliases": [],
-   "note": "オーストリア"
+   "note": "オーストリア",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ファドゥーツ",
    "aliases": [],
-   "note": "リヒテンシュタイン"
+   "note": "リヒテンシュタイン",
+   "group": "ヨーロッパ"
   },
   {
    "name": "モナコ",
    "aliases": [],
-   "note": "モナコ"
+   "note": "モナコ",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "アンドララベリャ",
-   "aliases": [
-    "アンドラ・ラ・ベリャ"
-   ],
-   "note": "アンドラ"
-  },
-  {
-   "name": "サンマリノ",
+   "name": "ロンドン",
    "aliases": [],
-   "note": "サンマリノ"
-  },
-  {
-   "name": "バレッタ",
-   "aliases": [],
-   "note": "マルタ"
+   "note": "イギリス",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ダブリン",
    "aliases": [],
-   "note": "アイルランド"
+   "note": "アイルランド",
+   "group": "ヨーロッパ"
   },
   {
    "name": "レイキャビク",
    "aliases": [
     "レイキャヴィーク"
    ],
-   "note": "アイスランド"
+   "note": "アイスランド",
+   "group": "ヨーロッパ"
   },
   {
    "name": "オスロ",
    "aliases": [],
-   "note": "ノルウェー"
+   "note": "ノルウェー",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ストックホルム",
    "aliases": [],
-   "note": "スウェーデン"
+   "note": "スウェーデン",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ヘルシンキ",
    "aliases": [],
-   "note": "フィンランド"
+   "note": "フィンランド",
+   "group": "ヨーロッパ"
   },
   {
    "name": "コペンハーゲン",
    "aliases": [],
-   "note": "デンマーク"
+   "note": "デンマーク",
+   "group": "ヨーロッパ"
   },
   {
    "name": "タリン",
    "aliases": [],
-   "note": "エストニア"
+   "note": "エストニア",
+   "group": "ヨーロッパ"
   },
   {
    "name": "リガ",
    "aliases": [],
-   "note": "ラトビア"
+   "note": "ラトビア",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ビリニュス",
    "aliases": [
     "ヴィリニュス"
    ],
-   "note": "リトアニア"
+   "note": "リトアニア",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ワルシャワ",
-   "aliases": [],
-   "note": "ポーランド"
+   "name": "マドリード",
+   "aliases": [
+    "マドリッド"
+   ],
+   "note": "スペイン",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "プラハ",
+   "name": "リスボン",
    "aliases": [],
-   "note": "チェコ"
+   "note": "ポルトガル",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ブラチスラバ",
+   "name": "ローマ",
    "aliases": [],
-   "note": "スロバキア"
+   "note": "イタリア",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ブダペスト",
-   "aliases": [],
-   "note": "ハンガリー"
+   "name": "アンドララベリャ",
+   "aliases": [
+    "アンドラ・ラ・ベリャ"
+   ],
+   "note": "アンドラ",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "リュブリャナ",
+   "name": "サンマリノ",
    "aliases": [],
-   "note": "スロベニア"
+   "note": "サンマリノ",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ザグレブ",
+   "name": "バレッタ",
    "aliases": [],
-   "note": "クロアチア"
-  },
-  {
-   "name": "サラエボ",
-   "aliases": [],
-   "note": "ボスニア・ヘルツェゴビナ"
-  },
-  {
-   "name": "ベオグラード",
-   "aliases": [],
-   "note": "セルビア"
-  },
-  {
-   "name": "ポドゴリツァ",
-   "aliases": [],
-   "note": "モンテネグロ"
-  },
-  {
-   "name": "スコピエ",
-   "aliases": [],
-   "note": "北マケドニア"
-  },
-  {
-   "name": "ティラナ",
-   "aliases": [],
-   "note": "アルバニア"
+   "note": "マルタ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "アテネ",
    "aliases": [],
-   "note": "ギリシャ"
+   "note": "ギリシャ",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ソフィア",
+   "name": "リュブリャナ",
    "aliases": [],
-   "note": "ブルガリア"
+   "note": "スロベニア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ザグレブ",
+   "aliases": [],
+   "note": "クロアチア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "サラエボ",
+   "aliases": [],
+   "note": "ボスニア・ヘルツェゴビナ",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ベオグラード",
+   "aliases": [],
+   "note": "セルビア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ポドゴリツァ",
+   "aliases": [],
+   "note": "モンテネグロ",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "スコピエ",
+   "aliases": [],
+   "note": "北マケドニア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ティラナ",
+   "aliases": [],
+   "note": "アルバニア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ワルシャワ",
+   "aliases": [],
+   "note": "ポーランド",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "プラハ",
+   "aliases": [],
+   "note": "チェコ",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ブラチスラバ",
+   "aliases": [],
+   "note": "スロバキア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ブダペスト",
+   "aliases": [],
+   "note": "ハンガリー",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ブカレスト",
    "aliases": [],
-   "note": "ルーマニア"
+   "note": "ルーマニア",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ソフィア",
+   "aliases": [],
+   "note": "ブルガリア",
+   "group": "ヨーロッパ"
   },
   {
    "name": "キシナウ",
    "aliases": [
     "キシニョフ"
    ],
-   "note": "モルドバ"
+   "note": "モルドバ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "キーウ",
    "aliases": [
     "キエフ"
    ],
-   "note": "ウクライナ"
+   "note": "ウクライナ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ミンスク",
    "aliases": [],
-   "note": "ベラルーシ"
+   "note": "ベラルーシ",
+   "group": "ヨーロッパ"
   },
   {
    "name": "モスクワ",
    "aliases": [],
-   "note": "ロシア"
+   "note": "ロシア",
+   "group": "ヨーロッパ"
   },
   {
    "name": "カイロ",
    "aliases": [],
-   "note": "エジプト"
+   "note": "エジプト",
+   "group": "アフリカ"
   },
   {
    "name": "トリポリ",
    "aliases": [],
-   "note": "リビア"
+   "note": "リビア",
+   "group": "アフリカ"
   },
   {
    "name": "チュニス",
    "aliases": [],
-   "note": "チュニジア"
+   "note": "チュニジア",
+   "group": "アフリカ"
   },
   {
    "name": "アルジェ",
    "aliases": [],
-   "note": "アルジェリア"
+   "note": "アルジェリア",
+   "group": "アフリカ"
   },
   {
    "name": "ラバト",
    "aliases": [],
-   "note": "モロッコ"
+   "note": "モロッコ",
+   "group": "アフリカ"
   },
   {
    "name": "ハルツーム",
    "aliases": [],
-   "note": "スーダン"
+   "note": "スーダン",
+   "group": "アフリカ"
   },
   {
    "name": "ジュバ",
    "aliases": [],
-   "note": "南スーダン"
+   "note": "南スーダン",
+   "group": "アフリカ"
   },
   {
    "name": "アディスアベバ",
    "aliases": [],
-   "note": "エチオピア"
+   "note": "エチオピア",
+   "group": "アフリカ"
   },
   {
    "name": "アスマラ",
    "aliases": [],
-   "note": "エリトリア"
+   "note": "エリトリア",
+   "group": "アフリカ"
   },
   {
    "name": "ジブチ",
    "aliases": [],
-   "note": "ジブチ"
+   "note": "ジブチ",
+   "group": "アフリカ"
   },
   {
    "name": "モガディシュ",
    "aliases": [],
-   "note": "ソマリア"
+   "note": "ソマリア",
+   "group": "アフリカ"
   },
   {
    "name": "ナイロビ",
    "aliases": [],
-   "note": "ケニア"
+   "note": "ケニア",
+   "group": "アフリカ"
   },
   {
    "name": "カンパラ",
    "aliases": [],
-   "note": "ウガンダ"
+   "note": "ウガンダ",
+   "group": "アフリカ"
   },
   {
    "name": "ドドマ",
    "aliases": [
     "ダルエスサラーム"
    ],
-   "note": "タンザニア"
+   "note": "タンザニア",
+   "group": "アフリカ"
   },
   {
    "name": "キガリ",
    "aliases": [],
-   "note": "ルワンダ"
+   "note": "ルワンダ",
+   "group": "アフリカ"
   },
   {
    "name": "ギテガ",
    "aliases": [
     "ブジュンブラ"
    ],
-   "note": "ブルンジ"
+   "note": "ブルンジ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ルサカ",
+   "aliases": [],
+   "note": "ザンビア",
+   "group": "アフリカ"
+  },
+  {
+   "name": "リロングウェ",
+   "aliases": [],
+   "note": "マラウイ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "マプト",
+   "aliases": [],
+   "note": "モザンビーク",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ハラレ",
+   "aliases": [],
+   "note": "ジンバブエ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "アンタナナリボ",
+   "aliases": [],
+   "note": "マダガスカル",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ポートルイス",
+   "aliases": [],
+   "note": "モーリシャス",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ビクトリア",
+   "aliases": [
+    "ヴィクトリア"
+   ],
+   "note": "セーシェル",
+   "group": "アフリカ"
+  },
+  {
+   "name": "モロニ",
+   "aliases": [],
+   "note": "コモロ",
+   "group": "アフリカ"
   },
   {
    "name": "キンシャサ",
    "aliases": [],
-   "note": "コンゴ民主共和国"
+   "note": "コンゴ民主共和国",
+   "group": "アフリカ"
   },
   {
    "name": "ブラザビル",
    "aliases": [],
-   "note": "コンゴ共和国"
+   "note": "コンゴ共和国",
+   "group": "アフリカ"
   },
   {
    "name": "バンギ",
    "aliases": [],
-   "note": "中央アフリカ"
+   "note": "中央アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ンジャメナ",
    "aliases": [],
-   "note": "チャド"
+   "note": "チャド",
+   "group": "アフリカ"
   },
   {
    "name": "ヤウンデ",
    "aliases": [],
-   "note": "カメルーン"
+   "note": "カメルーン",
+   "group": "アフリカ"
   },
   {
    "name": "マラボ",
    "aliases": [],
-   "note": "赤道ギニア"
+   "note": "赤道ギニア",
+   "group": "アフリカ"
   },
   {
    "name": "リーブルビル",
    "aliases": [],
-   "note": "ガボン"
+   "note": "ガボン",
+   "group": "アフリカ"
   },
   {
    "name": "サントメ",
    "aliases": [],
-   "note": "サントメ・プリンシペ"
+   "note": "サントメ・プリンシペ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ルアンダ",
+   "aliases": [],
+   "note": "アンゴラ",
+   "group": "アフリカ"
   },
   {
    "name": "アブジャ",
    "aliases": [],
-   "note": "ナイジェリア"
+   "note": "ナイジェリア",
+   "group": "アフリカ"
   },
   {
    "name": "ニアメ",
    "aliases": [],
-   "note": "ニジェール"
+   "note": "ニジェール",
+   "group": "アフリカ"
   },
   {
    "name": "ポルトノボ",
    "aliases": [
     "コトヌー"
    ],
-   "note": "ベナン"
+   "note": "ベナン",
+   "group": "アフリカ"
   },
   {
    "name": "ロメ",
    "aliases": [],
-   "note": "トーゴ"
+   "note": "トーゴ",
+   "group": "アフリカ"
   },
   {
    "name": "アクラ",
    "aliases": [],
-   "note": "ガーナ"
+   "note": "ガーナ",
+   "group": "アフリカ"
   },
   {
    "name": "ヤムスクロ",
    "aliases": [
     "アビジャン"
    ],
-   "note": "コートジボワール"
+   "note": "コートジボワール",
+   "group": "アフリカ"
   },
   {
    "name": "ワガドゥグー",
    "aliases": [],
-   "note": "ブルキナファソ"
+   "note": "ブルキナファソ",
+   "group": "アフリカ"
   },
   {
    "name": "バマコ",
    "aliases": [],
-   "note": "マリ"
+   "note": "マリ",
+   "group": "アフリカ"
   },
   {
    "name": "ヌアクショット",
    "aliases": [],
-   "note": "モーリタニア"
+   "note": "モーリタニア",
+   "group": "アフリカ"
   },
   {
    "name": "ダカール",
    "aliases": [],
-   "note": "セネガル"
+   "note": "セネガル",
+   "group": "アフリカ"
   },
   {
    "name": "バンジュール",
    "aliases": [],
-   "note": "ガンビア"
+   "note": "ガンビア",
+   "group": "アフリカ"
   },
   {
    "name": "ビサウ",
    "aliases": [],
-   "note": "ギニアビサウ"
+   "note": "ギニアビサウ",
+   "group": "アフリカ"
   },
   {
    "name": "コナクリ",
    "aliases": [],
-   "note": "ギニア"
+   "note": "ギニア",
+   "group": "アフリカ"
   },
   {
    "name": "フリータウン",
    "aliases": [],
-   "note": "シエラレオネ"
+   "note": "シエラレオネ",
+   "group": "アフリカ"
   },
   {
    "name": "モンロビア",
    "aliases": [],
-   "note": "リベリア"
+   "note": "リベリア",
+   "group": "アフリカ"
   },
   {
    "name": "プライア",
    "aliases": [],
-   "note": "カーボベルデ"
-  },
-  {
-   "name": "ルアンダ",
-   "aliases": [],
-   "note": "アンゴラ"
-  },
-  {
-   "name": "ルサカ",
-   "aliases": [],
-   "note": "ザンビア"
-  },
-  {
-   "name": "リロングウェ",
-   "aliases": [],
-   "note": "マラウイ"
-  },
-  {
-   "name": "マプト",
-   "aliases": [],
-   "note": "モザンビーク"
-  },
-  {
-   "name": "ハラレ",
-   "aliases": [],
-   "note": "ジンバブエ"
-  },
-  {
-   "name": "ハボローネ",
-   "aliases": [
-    "ガボローネ"
-   ],
-   "note": "ボツワナ"
-  },
-  {
-   "name": "ウィントフック",
-   "aliases": [],
-   "note": "ナミビア"
+   "note": "カーボベルデ",
+   "group": "アフリカ"
   },
   {
    "name": "プレトリア",
@@ -752,41 +902,36 @@
     "ケープタウン",
     "ブルームフォンテーン"
    ],
-   "note": "南アフリカ"
+   "note": "南アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ウィントフック",
+   "aliases": [],
+   "note": "ナミビア",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ハボローネ",
+   "aliases": [
+    "ガボローネ"
+   ],
+   "note": "ボツワナ",
+   "group": "アフリカ"
   },
   {
    "name": "マセル",
    "aliases": [],
-   "note": "レソト"
+   "note": "レソト",
+   "group": "アフリカ"
   },
   {
    "name": "ムババーネ",
    "aliases": [
     "ロバンバ"
    ],
-   "note": "エスワティニ"
-  },
-  {
-   "name": "アンタナナリボ",
-   "aliases": [],
-   "note": "マダガスカル"
-  },
-  {
-   "name": "ポートルイス",
-   "aliases": [],
-   "note": "モーリシャス"
-  },
-  {
-   "name": "ビクトリア",
-   "aliases": [
-    "ヴィクトリア"
-   ],
-   "note": "セーシェル"
-  },
-  {
-   "name": "モロニ",
-   "aliases": [],
-   "note": "コモロ"
+   "note": "エスワティニ",
+   "group": "アフリカ"
   },
   {
    "name": "ワシントンD.C.",
@@ -794,262 +939,310 @@
     "ワシントン",
     "ワシントンDC"
    ],
-   "note": "アメリカ"
+   "note": "アメリカ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "オタワ",
    "aliases": [],
-   "note": "カナダ"
+   "note": "カナダ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "メキシコシティ",
    "aliases": [
     "メキシコ"
    ],
-   "note": "メキシコ"
+   "note": "メキシコ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "グアテマラシティ",
    "aliases": [
     "グアテマラ"
    ],
-   "note": "グアテマラ"
+   "note": "グアテマラ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ベルモパン",
    "aliases": [],
-   "note": "ベリーズ"
+   "note": "ベリーズ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "テグシガルパ",
    "aliases": [],
-   "note": "ホンジュラス"
+   "note": "ホンジュラス",
+   "group": "北中米・カリブ"
   },
   {
    "name": "サンサルバドル",
    "aliases": [],
-   "note": "エルサルバドル"
+   "note": "エルサルバドル",
+   "group": "北中米・カリブ"
   },
   {
    "name": "マナグア",
    "aliases": [],
-   "note": "ニカラグア"
+   "note": "ニカラグア",
+   "group": "北中米・カリブ"
   },
   {
    "name": "サンホセ",
    "aliases": [],
-   "note": "コスタリカ"
+   "note": "コスタリカ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "パナマシティ",
    "aliases": [
     "パナマ"
    ],
-   "note": "パナマ"
+   "note": "パナマ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ハバナ",
    "aliases": [],
-   "note": "キューバ"
+   "note": "キューバ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "キングストン",
    "aliases": [],
-   "note": "ジャマイカ"
+   "note": "ジャマイカ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ポルトープランス",
    "aliases": [],
-   "note": "ハイチ"
+   "note": "ハイチ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "サントドミンゴ",
    "aliases": [],
-   "note": "ドミニカ共和国"
+   "note": "ドミニカ共和国",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ロゾー",
    "aliases": [],
-   "note": "ドミニカ国"
+   "note": "ドミニカ国",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ナッソー",
    "aliases": [],
-   "note": "バハマ"
+   "note": "バハマ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ブリッジタウン",
    "aliases": [],
-   "note": "バルバドス"
+   "note": "バルバドス",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ポートオブスペイン",
    "aliases": [],
-   "note": "トリニダード・トバゴ"
+   "note": "トリニダード・トバゴ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "セントジョージズ",
    "aliases": [],
-   "note": "グレナダ"
+   "note": "グレナダ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "カストリーズ",
    "aliases": [],
-   "note": "セントルシア"
+   "note": "セントルシア",
+   "group": "北中米・カリブ"
   },
   {
    "name": "キングスタウン",
    "aliases": [],
-   "note": "セントビンセント及びグレナディーン諸島"
+   "note": "セントビンセント及びグレナディーン諸島",
+   "group": "北中米・カリブ"
   },
   {
    "name": "バセテール",
    "aliases": [],
-   "note": "セントクリストファー・ネービス"
+   "note": "セントクリストファー・ネービス",
+   "group": "北中米・カリブ"
   },
   {
    "name": "セントジョンズ",
    "aliases": [],
-   "note": "アンティグア・バーブーダ"
+   "note": "アンティグア・バーブーダ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ボゴタ",
    "aliases": [],
-   "note": "コロンビア"
+   "note": "コロンビア",
+   "group": "南米"
   },
   {
    "name": "カラカス",
    "aliases": [],
-   "note": "ベネズエラ"
+   "note": "ベネズエラ",
+   "group": "南米"
   },
   {
    "name": "ジョージタウン",
    "aliases": [],
-   "note": "ガイアナ"
+   "note": "ガイアナ",
+   "group": "南米"
   },
   {
    "name": "パラマリボ",
    "aliases": [],
-   "note": "スリナム"
+   "note": "スリナム",
+   "group": "南米"
   },
   {
    "name": "キト",
    "aliases": [],
-   "note": "エクアドル"
+   "note": "エクアドル",
+   "group": "南米"
   },
   {
    "name": "リマ",
    "aliases": [],
-   "note": "ペルー"
+   "note": "ペルー",
+   "group": "南米"
   },
   {
    "name": "ブラジリア",
    "aliases": [],
-   "note": "ブラジル"
+   "note": "ブラジル",
+   "group": "南米"
   },
   {
    "name": "スクレ",
    "aliases": [
     "ラパス"
    ],
-   "note": "ボリビア"
+   "note": "ボリビア",
+   "group": "南米"
   },
   {
    "name": "アスンシオン",
    "aliases": [],
-   "note": "パラグアイ"
+   "note": "パラグアイ",
+   "group": "南米"
   },
   {
    "name": "モンテビデオ",
    "aliases": [],
-   "note": "ウルグアイ"
+   "note": "ウルグアイ",
+   "group": "南米"
   },
   {
    "name": "ブエノスアイレス",
    "aliases": [],
-   "note": "アルゼンチン"
+   "note": "アルゼンチン",
+   "group": "南米"
   },
   {
    "name": "サンティアゴ",
    "aliases": [],
-   "note": "チリ"
+   "note": "チリ",
+   "group": "南米"
   },
   {
    "name": "キャンベラ",
    "aliases": [],
-   "note": "オーストラリア"
+   "note": "オーストラリア",
+   "group": "オセアニア"
   },
   {
    "name": "ウェリントン",
    "aliases": [],
-   "note": "ニュージーランド"
+   "note": "ニュージーランド",
+   "group": "オセアニア"
   },
   {
    "name": "ポートモレスビー",
    "aliases": [],
-   "note": "パプアニューギニア"
+   "note": "パプアニューギニア",
+   "group": "オセアニア"
   },
   {
    "name": "スバ",
    "aliases": [],
-   "note": "フィジー"
+   "note": "フィジー",
+   "group": "オセアニア"
   },
   {
    "name": "ホニアラ",
    "aliases": [],
-   "note": "ソロモン諸島"
+   "note": "ソロモン諸島",
+   "group": "オセアニア"
   },
   {
    "name": "ポートビラ",
    "aliases": [],
-   "note": "バヌアツ"
+   "note": "バヌアツ",
+   "group": "オセアニア"
   },
   {
    "name": "アピア",
    "aliases": [],
-   "note": "サモア"
+   "note": "サモア",
+   "group": "オセアニア"
   },
   {
    "name": "ヌクアロファ",
    "aliases": [],
-   "note": "トンガ"
+   "note": "トンガ",
+   "group": "オセアニア"
   },
   {
    "name": "フナフティ",
    "aliases": [],
-   "note": "ツバル"
+   "note": "ツバル",
+   "group": "オセアニア"
   },
   {
    "name": "タラワ",
    "aliases": [
     "南タラワ"
    ],
-   "note": "キリバス"
+   "note": "キリバス",
+   "group": "オセアニア"
   },
   {
    "name": "ヤレン",
    "aliases": [],
-   "note": "ナウル"
+   "note": "ナウル",
+   "group": "オセアニア"
   },
   {
    "name": "マジュロ",
    "aliases": [],
-   "note": "マーシャル諸島"
+   "note": "マーシャル諸島",
+   "group": "オセアニア"
   },
   {
    "name": "パリキール",
    "aliases": [],
-   "note": "ミクロネシア連邦"
+   "note": "ミクロネシア連邦",
+   "group": "オセアニア"
   },
   {
    "name": "マルキョク",
    "aliases": [
     "ゲルルムド"
    ],
-   "note": "パラオ"
+   "note": "パラオ",
+   "group": "オセアニア"
   }
  ],
  "id": "10-world-capitals",
- "created": 9.0,
- "category": "世界の地理"
+ "created": 9.0
 }

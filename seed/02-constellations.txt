@@ -2,91 +2,101 @@
 @category 理科・天文
 @suffix 座,ざ
 @fuzzy on
-アンドロメダ座 # Andromeda
-いっかくじゅう座 | 一角獣座 # Monoceros
-いて座 | 射手座 # Sagittarius
-いるか座 | 海豚座 # Delphinus
-インディアン座 # Indus
-うお座 | 魚座 # Pisces
-うさぎ座 | 兎座 # Lepus
-うしかい座 | 牛飼座 | 牛飼い座 # Boötes
-うみへび座 | 海蛇座 # Hydra
-エリダヌス座 # Eridanus
-おうし座 | 牡牛座 # Taurus
-おおいぬ座 | 大犬座 # Canis Major
-おおかみ座 | 狼座 # Lupus
+
+## 春の星座
 おおぐま座 | 大熊座 # Ursa Major
-おとめ座 | 乙女座 # Virgo
-おひつじ座 | 牡羊座 # Aries
-オリオン座 # Orion
-がか座 | 画架座 # Pictor
-カシオペヤ座 | カシオペア座 # Cassiopeia
-かじき座 | 旗魚座 # Dorado
-かに座 | 蟹座 # Cancer
-かみのけ座 | 髪の毛座 # Coma Berenices
-カメレオン座 # Chamaeleon
-からす座 | 烏座 # Corvus
-かんむり座 | 冠座 # Corona Borealis
-きょしちょう座 | 巨嘴鳥座 # Tucana
-ぎょしゃ座 | 馭者座 | 御者座 # Auriga
-きりん座 | 麒麟座 # Camelopardalis
-くじゃく座 | 孔雀座 # Pavo
-くじら座 | 鯨座 # Cetus
-ケフェウス座 # Cepheus
-ケンタウルス座 # Centaurus
-けんびきょう座 | 顕微鏡座 # Microscopium
-こいぬ座 | 小犬座 # Canis Minor
-こうま座 | 小馬座 # Equuleus
-こぎつね座 | 小狐座 # Vulpecula
 こぐま座 | 小熊座 # Ursa Minor
 こじし座 | 小獅子座 # Leo Minor
-コップ座 # Crater
-こと座 | 琴座 # Lyra
-コンパス座 # Circinus
-さいだん座 | 祭壇座 # Ara
-さそり座 | 蠍座 # Scorpius
-さんかく座 | 三角座 # Triangulum
 しし座 | 獅子座 # Leo
-じょうぎ座 | 定規座 # Norma
-たて座 | 楯座 | 盾座 # Scutum
-ちょうこくぐ座 | 彫刻具座 # Caelum
-ちょうこくしつ座 | 彫刻室座 # Sculptor
-つる座 | 鶴座 # Grus
-テーブルさん座 | テーブル山座 # Mensa
-てんびん座 | 天秤座 # Libra
-とかげ座 | 蜥蜴座 # Lacerta
-とけい座 | 時計座 # Horologium
-とびうお座 | 飛魚座 # Volans
-とも座 | 艫座 # Puppis
-はえ座 | 蝿座 # Musca
-はくちょう座 | 白鳥座 # Cygnus
-はちぶんぎ座 | 八分儀座 # Octans
-はと座 | 鳩座 # Columba
-ふうちょう座 | 風鳥座 # Apus
-ふたご座 | 双子座 # Gemini
-ペガスス座 | ペガサス座 # Pegasus
-へび座 | 蛇座 # Serpens
-へびつかい座 | 蛇遣座 | 蛇使い座 # Ophiuchus
-ヘルクレス座 | ヘラクレス座 # Hercules
-ペルセウス座 # Perseus
-ほ座 | 帆座 # Vela
-ぼうえんきょう座 | 望遠鏡座 # Telescopium
-ほうおう座 | 鳳凰座 # Phoenix
-ポンプ座 # Antlia
-みずがめ座 | 水瓶座 # Aquarius
-みずへび座 | 水蛇座 # Hydrus
-みなみじゅうじ座 | 南十字座 # Crux
-みなみのうお座 | 南の魚座 | 南魚座 # Piscis Austrinus
-みなみのかんむり座 | 南の冠座 | 南冠座 # Corona Australis
-みなみのさんかく座 | 南の三角座 | 南三角座 # Triangulum Australe
-や座 | 矢座 # Sagitta
-やぎ座 | 山羊座 # Capricornus
-やまねこ座 | 山猫座 # Lynx
-らしんばん座 | 羅針盤座 # Pyxis
-りゅう座 | 竜座 | 龍座 # Draco
-りゅうこつ座 | 竜骨座 # Carina
-りょうけん座 | 猟犬座 # Canes Venatici
-レチクル座 # Reticulum
-ろ座 | 炉座 # Fornax
+かに座 | 蟹座 # Cancer
+うみへび座 | 海蛇座 # Hydra
 ろくぶんぎ座 | 六分儀座 # Sextans
+コップ座 # Crater
+からす座 | 烏座 # Corvus
+おとめ座 | 乙女座 # Virgo
+かみのけ座 | 髪の毛座 # Coma Berenices
+りょうけん座 | 猟犬座 # Canes Venatici
+うしかい座 | 牛飼座 | 牛飼い座 # Boötes
+ポンプ座 # Antlia
+らしんばん座 | 羅針盤座 # Pyxis
+
+## 夏の星座
+てんびん座 | 天秤座 # Libra
+かんむり座 | 冠座 # Corona Borealis
+ヘルクレス座 | ヘラクレス座 # Hercules
+へびつかい座 | 蛇遣座 | 蛇使い座 # Ophiuchus
+へび座 | 蛇座 # Serpens
+さそり座 | 蠍座 # Scorpius
+いて座 | 射手座 # Sagittarius
+こと座 | 琴座 # Lyra
 わし座 | 鷲座 # Aquila
+はくちょう座 | 白鳥座 # Cygnus
+や座 | 矢座 # Sagitta
+こぎつね座 | 小狐座 # Vulpecula
+いるか座 | 海豚座 # Delphinus
+たて座 | 楯座 | 盾座 # Scutum
+りゅう座 | 竜座 | 龍座 # Draco
+おおかみ座 | 狼座 # Lupus
+みなみのかんむり座 | 南の冠座 | 南冠座 # Corona Australis
+
+## 秋の星座
+ペガスス座 | ペガサス座 # Pegasus
+アンドロメダ座 # Andromeda
+カシオペヤ座 | カシオペア座 # Cassiopeia
+ケフェウス座 # Cepheus
+ペルセウス座 # Perseus
+さんかく座 | 三角座 # Triangulum
+おひつじ座 | 牡羊座 # Aries
+うお座 | 魚座 # Pisces
+みずがめ座 | 水瓶座 # Aquarius
+やぎ座 | 山羊座 # Capricornus
+くじら座 | 鯨座 # Cetus
+みなみのうお座 | 南の魚座 | 南魚座 # Piscis Austrinus
+ちょうこくしつ座 | 彫刻室座 # Sculptor
+ろ座 | 炉座 # Fornax
+こうま座 | 小馬座 # Equuleus
+とかげ座 | 蜥蜴座 # Lacerta
+けんびきょう座 | 顕微鏡座 # Microscopium
+
+## 冬の星座
+オリオン座 # Orion
+おおいぬ座 | 大犬座 # Canis Major
+こいぬ座 | 小犬座 # Canis Minor
+ふたご座 | 双子座 # Gemini
+ぎょしゃ座 | 馭者座 | 御者座 # Auriga
+おうし座 | 牡牛座 # Taurus
+うさぎ座 | 兎座 # Lepus
+エリダヌス座 # Eridanus
+いっかくじゅう座 | 一角獣座 # Monoceros
+はと座 | 鳩座 # Columba
+ちょうこくぐ座 | 彫刻具座 # Caelum
+きりん座 | 麒麟座 # Camelopardalis
+やまねこ座 | 山猫座 # Lynx
+とも座 | 艫座 # Puppis
+
+## 南天の星座
+ケンタウルス座 # Centaurus
+みなみじゅうじ座 | 南十字座 # Crux
+りゅうこつ座 | 竜骨座 # Carina
+ほ座 | 帆座 # Vela
+はえ座 | 蝿座 # Musca
+カメレオン座 # Chamaeleon
+とびうお座 | 飛魚座 # Volans
+かじき座 | 旗魚座 # Dorado
+テーブルさん座 | テーブル山座 # Mensa
+レチクル座 # Reticulum
+とけい座 | 時計座 # Horologium
+がか座 | 画架座 # Pictor
+ほうおう座 | 鳳凰座 # Phoenix
+つる座 | 鶴座 # Grus
+きょしちょう座 | 巨嘴鳥座 # Tucana
+みずへび座 | 水蛇座 # Hydrus
+はちぶんぎ座 | 八分儀座 # Octans
+ふうちょう座 | 風鳥座 # Apus
+みなみのさんかく座 | 南の三角座 | 南三角座 # Triangulum Australe
+くじゃく座 | 孔雀座 # Pavo
+インディアン座 # Indus
+さいだん座 | 祭壇座 # Ara
+じょうぎ座 | 定規座 # Norma
+ぼうえんきょう座 | 望遠鏡座 # Telescopium
+コンパス座 # Circinus

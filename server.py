@@ -28,8 +28,10 @@ def parse_text(text):
 
     @title タイトル / @category カテゴリ / @suffix 座,ざ / @fuzzy on|off / @order 10 がヘッダ。
     以降は 1行1項目:  名前 | 別解 | 別解 # メモ
+    「## 区分名」の行以降の項目はその区分（group）に入る。
     """
     quiz = {"title": "", "category": "", "options": {"suffix": [], "fuzzy": True}, "items": []}
+    group = ""
     for raw in text.splitlines():
         line = raw.strip()
         if not line:
@@ -48,11 +50,14 @@ def parse_text(text):
             elif key == "order":
                 quiz["created"] = float(val)
             continue
+        if line.startswith("##"):
+            group = line[2:].strip()
+            continue
         body, _, note = line.partition("#")
         parts = [p.strip() for p in body.split("|") if p.strip()]
         if not parts:
             continue
-        quiz["items"].append({"name": parts[0], "aliases": parts[1:], "note": note.strip()})
+        quiz["items"].append({"name": parts[0], "aliases": parts[1:], "note": note.strip(), "group": group})
     return quiz
 
 
@@ -122,7 +127,8 @@ def clean_quiz(body, qid, created):
         if not name:
             continue
         aliases = [str(a).strip() for a in it.get("aliases") or [] if str(a).strip()]
-        items.append({"name": name, "aliases": aliases, "note": str(it.get("note", "")).strip()})
+        items.append({"name": name, "aliases": aliases, "note": str(it.get("note", "")).strip(),
+                      "group": str(it.get("group", "")).strip()})
     if not items:
         raise ValueError("項目がありません")
     return {

@@ -37,6 +37,17 @@ function loadProg(id) {
 }
 function saveProg(id, p) { localStorage.setItem(progKey(id), JSON.stringify(p)); }
 
+// 項目を区分（group）ごとにまとめる。並びは区分が最初に登場した順
+function groupItems(items) {
+  const groups = new Map();
+  items.forEach((it, i) => {
+    const g = it.group || "";
+    if (!groups.has(g)) groups.set(g, []);
+    groups.get(g).push(i);
+  });
+  return [...groups];
+}
+
 // ---------------------------------------------------------------- ルーター
 
 function setBar(title, back, right = "") {
@@ -138,7 +149,7 @@ async function renderPlay(id) {
         <button id="reset" class="btn small" type="button">リセット</button>
       </span>
     </div>
-    <ol id="grid" class="grid"></ol>`;
+    <div id="grid"></div>`;
 
   const $in = document.getElementById("in");
   const $fb = document.getElementById("fb");
@@ -156,8 +167,15 @@ async function renderPlay(id) {
     return `<li class="${cls}" data-i="${i}">${text || "&nbsp;"}${hint}</li>`;
   }
 
+  const groups = groupItems(quiz.items);
   function renderGrid(flash) {
-    $grid.innerHTML = quiz.items.map(cell).join("");
+    $grid.innerHTML = groups.map(([g, idxs]) => {
+      const n = idxs.filter((i) => answered.has(i)).length;
+      const head = groups.length > 1
+        ? `<h3 class="grp-head${n === idxs.length ? " done" : ""}">${esc(g || "その他")}<span>${n} / ${idxs.length}</span></h3>`
+        : "";
+      return `<section class="grp">${head}<ol class="grid">${idxs.map((i) => cell(quiz.items[i], i)).join("")}</ol></section>`;
+    }).join("");
     document.getElementById("count").textContent = `${answered.size} / ${total}`;
     document.getElementById("bar-fill").style.width = `${(answered.size / total) * 100}%`;
     if (flash !== undefined) $grid.querySelector(`[data-i="${flash}"]`)?.classList.add("flash");
@@ -240,6 +258,7 @@ async function renderPlay(id) {
 
 async function renderView(id) {
   const quiz = await api("GET", id);
+  const groups = groupItems(quiz.items);
   setBar(quiz.title, "#/", STATIC ? "" : `<a class="btn small" href="#/edit/${id}">編集</a>`);
   $app.innerHTML = `
     <div class="view-head">
@@ -247,17 +266,24 @@ async function renderView(id) {
       <a class="btn small primary" href="#/play/${id}">挑戦する</a>
     </div>
     <input id="filter" type="search" placeholder="絞り込み">
-    <ol id="list" class="list">
-      ${quiz.items.map((it) => `
-        <li data-s="${esc([it.name, ...it.aliases, it.note].join(" ").toLowerCase())}">
-          <span class="name">${esc(it.name)}</span>
-          ${it.note ? `<span class="note">${esc(it.note)}</span>` : ""}
-          ${it.aliases.length ? `<span class="aliases">${it.aliases.map(esc).join(" / ")}</span>` : ""}
-        </li>`).join("")}
-    </ol>`;
+    <div id="list">
+      ${groups.map(([g, idxs]) => `
+        <section class="grp">
+          ${groups.length > 1 ? `<h3 class="grp-head">${esc(g || "その他")}<span>${idxs.length}</span></h3>` : ""}
+          <ol class="list">
+            ${idxs.map((i) => quiz.items[i]).map((it) => `
+              <li data-s="${esc([it.name, ...it.aliases, it.note, it.group || ""].join(" ").toLowerCase())}">
+                <span class="name">${esc(it.name)}</span>
+                ${it.note ? `<span class="note">${esc(it.note)}</span>` : ""}
+                ${it.aliases.length ? `<span class="aliases">${it.aliases.map(esc).join(" / ")}</span>` : ""}
+              </li>`).join("")}
+          </ol>
+        </section>`).join("")}
+    </div>`;
   document.getElementById("filter").addEventListener("input", (e) => {
     const q = e.target.value.trim().toLowerCase();
     for (const li of document.querySelectorAll("#list li")) li.hidden = q && !li.dataset.s.includes(q);
+    for (const sec of document.querySelectorAll("#list .grp")) sec.hidden = !sec.querySelector("li:not([hidden])");
   });
 }
 
@@ -282,7 +308,7 @@ async function renderEdit(id) {
       </label>
       <label class="check"><input id="e-fuzzy" type="checkbox" ${quiz.options.fuzzy ? "checked" : ""}> 1文字違いまで許容（5文字以上の答えのみ）</label>
       <label>項目（1行に1つ）<span id="e-count" class="muted"></span>
-        <textarea id="e-items" rows="14" placeholder="ハワイ&#10;ペンシルベニア | ペンシルバニア&#10;おおぐま座 | 大熊座 # 北天">${esc(itemsToText(quiz.items))}</textarea>
+        <textarea id="e-items" rows="14" placeholder="## 西部&#10;ハワイ&#10;## 北東部&#10;ペンシルベニア | ペンシルバニア # 中部大西洋">${esc(itemsToText(quiz.items))}</textarea>
       </label>
       <details class="help">
         <summary>書き方</summary>
@@ -291,6 +317,7 @@ async function renderEdit(id) {
           <li><code>|</code> の後ろは別解。<b>漢字の項目には読みがなを書いておく</b>と、ひらがなでも正解になります</li>
           <li>カタカナの項目はひらがなでも自動で正解になります（ヴァ/バ、ウェ/ウエ、長音の有無なども自動で吸収）</li>
           <li><code>#</code> の後ろはメモ（ヒント・一覧表示用、判定には使いません）</li>
+          <li><code>## 区分名</code> の行を入れると、それ以降の項目がその区分にまとまって表示されます</li>
         </ul>
       </details>
       <label>判定テスト<input id="e-test" placeholder="ここに入力すると、どれに当たるか表示"></label>

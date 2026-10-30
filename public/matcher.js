@@ -117,24 +117,38 @@ export class Matcher {
 
 // 編集画面のテキスト形式 ⇔ items
 export function itemsToText(items) {
-  return items.map((it) => {
+  const lines = [];
+  let group = "";
+  for (const it of items) {
+    if ((it.group || "") !== group) {
+      group = it.group || "";
+      if (lines.length) lines.push("");
+      lines.push("## " + (group || "（区分なし）"));
+    }
     let s = [it.name, ...(it.aliases || [])].join(" | ");
     if (it.note) s += " # " + it.note;
-    return s;
-  }).join("\n");
+    lines.push(s);
+  }
+  return lines.join("\n");
 }
 
 export function textToItems(text) {
   const items = [];
+  let group = "";
   for (const raw of text.split(/\r?\n/)) {
     const line = raw.trim();
     if (!line) continue;
+    if (line.startsWith("##")) {
+      group = line.slice(2).trim();
+      if (group === "（区分なし）") group = "";
+      continue;
+    }
     const hash = line.indexOf("#");
     const body = hash >= 0 ? line.slice(0, hash) : line;
     const note = hash >= 0 ? line.slice(hash + 1).trim() : "";
     const parts = body.split("|").map((p) => p.trim()).filter(Boolean);
     if (!parts.length) continue;
-    items.push({ name: parts[0], aliases: parts.slice(1), note });
+    items.push({ name: parts[0], aliases: parts.slice(1), note, group });
   }
   return items;
 }

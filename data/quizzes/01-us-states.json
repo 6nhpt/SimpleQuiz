@@ -1,5 +1,6 @@
 {
  "title": "アメリカ50州",
+ "category": "世界の地理",
  "options": {
   "suffix": [
    "州",
@@ -9,147 +10,21 @@
  },
  "items": [
   {
-   "name": "アラバマ",
-   "aliases": [
-    "Alabama"
-   ],
-   "note": ""
-  },
-  {
-   "name": "アラスカ",
-   "aliases": [
-    "Alaska"
-   ],
-   "note": ""
-  },
-  {
-   "name": "アリゾナ",
-   "aliases": [
-    "Arizona"
-   ],
-   "note": ""
-  },
-  {
-   "name": "アーカンソー",
-   "aliases": [
-    "アーカンザス",
-    "Arkansas"
-   ],
-   "note": ""
-  },
-  {
-   "name": "カリフォルニア",
-   "aliases": [
-    "California"
-   ],
-   "note": ""
-  },
-  {
-   "name": "コロラド",
-   "aliases": [
-    "Colorado"
-   ],
-   "note": ""
-  },
-  {
    "name": "コネチカット",
    "aliases": [
     "コネティカット",
     "Connecticut"
    ],
-   "note": ""
-  },
-  {
-   "name": "デラウェア",
-   "aliases": [
-    "Delaware"
-   ],
-   "note": ""
-  },
-  {
-   "name": "フロリダ",
-   "aliases": [
-    "Florida"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ジョージア",
-   "aliases": [
-    "Georgia"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ハワイ",
-   "aliases": [
-    "Hawaii"
-   ],
-   "note": ""
-  },
-  {
-   "name": "アイダホ",
-   "aliases": [
-    "Idaho"
-   ],
-   "note": ""
-  },
-  {
-   "name": "イリノイ",
-   "aliases": [
-    "Illinois"
-   ],
-   "note": ""
-  },
-  {
-   "name": "インディアナ",
-   "aliases": [
-    "Indiana"
-   ],
-   "note": ""
-  },
-  {
-   "name": "アイオワ",
-   "aliases": [
-    "Iowa"
-   ],
-   "note": ""
-  },
-  {
-   "name": "カンザス",
-   "aliases": [
-    "カンサス",
-    "Kansas"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ケンタッキー",
-   "aliases": [
-    "Kentucky"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ルイジアナ",
-   "aliases": [
-    "Louisiana"
-   ],
-   "note": ""
+   "note": "ニューイングランド",
+   "group": "北東部"
   },
   {
    "name": "メイン",
    "aliases": [
     "Maine"
    ],
-   "note": ""
-  },
-  {
-   "name": "メリーランド",
-   "aliases": [
-    "Maryland"
-   ],
-   "note": ""
+   "note": "ニューイングランド",
+   "group": "北東部"
   },
   {
    "name": "マサチューセッツ",
@@ -157,120 +32,48 @@
     "マサチュセッツ",
     "Massachusetts"
    ],
-   "note": ""
-  },
-  {
-   "name": "ミシガン",
-   "aliases": [
-    "Michigan"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ミネソタ",
-   "aliases": [
-    "Minnesota"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ミシシッピ",
-   "aliases": [
-    "Mississippi"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ミズーリ",
-   "aliases": [
-    "Missouri"
-   ],
-   "note": ""
-  },
-  {
-   "name": "モンタナ",
-   "aliases": [
-    "Montana"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ネブラスカ",
-   "aliases": [
-    "Nebraska"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ネバダ",
-   "aliases": [
-    "Nevada"
-   ],
-   "note": ""
+   "note": "ニューイングランド",
+   "group": "北東部"
   },
   {
    "name": "ニューハンプシャー",
    "aliases": [
     "New Hampshire"
    ],
-   "note": ""
+   "note": "ニューイングランド",
+   "group": "北東部"
+  },
+  {
+   "name": "ロードアイランド",
+   "aliases": [
+    "Rhode Island"
+   ],
+   "note": "ニューイングランド",
+   "group": "北東部"
+  },
+  {
+   "name": "バーモント",
+   "aliases": [
+    "Vermont"
+   ],
+   "note": "ニューイングランド",
+   "group": "北東部"
   },
   {
    "name": "ニュージャージー",
    "aliases": [
     "New Jersey"
    ],
-   "note": ""
-  },
-  {
-   "name": "ニューメキシコ",
-   "aliases": [
-    "New Mexico"
-   ],
-   "note": ""
+   "note": "中部大西洋",
+   "group": "北東部"
   },
   {
    "name": "ニューヨーク",
    "aliases": [
     "New York"
    ],
-   "note": ""
-  },
-  {
-   "name": "ノースカロライナ",
-   "aliases": [
-    "ノースカロライナー",
-    "North Carolina"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ノースダコタ",
-   "aliases": [
-    "North Dakota"
-   ],
-   "note": ""
-  },
-  {
-   "name": "オハイオ",
-   "aliases": [
-    "Ohio"
-   ],
-   "note": ""
-  },
-  {
-   "name": "オクラホマ",
-   "aliases": [
-    "Oklahoma"
-   ],
-   "note": ""
-  },
-  {
-   "name": "オレゴン",
-   "aliases": [
-    "Oregon"
-   ],
-   "note": ""
+   "note": "中部大西洋",
+   "group": "北東部"
   },
   {
    "name": "ペンシルベニア",
@@ -278,14 +81,146 @@
     "ペンシルバニア",
     "Pennsylvania"
    ],
-   "note": ""
+   "note": "中部大西洋",
+   "group": "北東部"
   },
   {
-   "name": "ロードアイランド",
+   "name": "イリノイ",
    "aliases": [
-    "Rhode Island"
+    "Illinois"
    ],
-   "note": ""
+   "note": "東北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "インディアナ",
+   "aliases": [
+    "Indiana"
+   ],
+   "note": "東北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ミシガン",
+   "aliases": [
+    "Michigan"
+   ],
+   "note": "東北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "オハイオ",
+   "aliases": [
+    "Ohio"
+   ],
+   "note": "東北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ウィスコンシン",
+   "aliases": [
+    "Wisconsin"
+   ],
+   "note": "東北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "アイオワ",
+   "aliases": [
+    "Iowa"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "カンザス",
+   "aliases": [
+    "カンサス",
+    "Kansas"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ミネソタ",
+   "aliases": [
+    "Minnesota"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ミズーリ",
+   "aliases": [
+    "Missouri"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ネブラスカ",
+   "aliases": [
+    "Nebraska"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "ノースダコタ",
+   "aliases": [
+    "North Dakota"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "サウスダコタ",
+   "aliases": [
+    "South Dakota"
+   ],
+   "note": "西北中部",
+   "group": "中西部"
+  },
+  {
+   "name": "デラウェア",
+   "aliases": [
+    "Delaware"
+   ],
+   "note": "南部大西洋",
+   "group": "南部"
+  },
+  {
+   "name": "フロリダ",
+   "aliases": [
+    "Florida"
+   ],
+   "note": "南部大西洋",
+   "group": "南部"
+  },
+  {
+   "name": "ジョージア",
+   "aliases": [
+    "Georgia"
+   ],
+   "note": "南部大西洋",
+   "group": "南部"
+  },
+  {
+   "name": "メリーランド",
+   "aliases": [
+    "Maryland"
+   ],
+   "note": "南部大西洋",
+   "group": "南部"
+  },
+  {
+   "name": "ノースカロライナ",
+   "aliases": [
+    "ノースカロライナー",
+    "North Carolina"
+   ],
+   "note": "南部大西洋",
+   "group": "南部"
   },
   {
    "name": "サウスカロライナ",
@@ -293,56 +228,16 @@
     "サウスカロライナー",
     "South Carolina"
    ],
-   "note": ""
-  },
-  {
-   "name": "サウスダコタ",
-   "aliases": [
-    "South Dakota"
-   ],
-   "note": ""
-  },
-  {
-   "name": "テネシー",
-   "aliases": [
-    "Tennessee"
-   ],
-   "note": ""
-  },
-  {
-   "name": "テキサス",
-   "aliases": [
-    "Texas"
-   ],
-   "note": ""
-  },
-  {
-   "name": "ユタ",
-   "aliases": [
-    "Utah"
-   ],
-   "note": ""
-  },
-  {
-   "name": "バーモント",
-   "aliases": [
-    "Vermont"
-   ],
-   "note": ""
+   "note": "南部大西洋",
+   "group": "南部"
   },
   {
    "name": "バージニア",
    "aliases": [
     "Virginia"
    ],
-   "note": ""
-  },
-  {
-   "name": "ワシントン",
-   "aliases": [
-    "Washington"
-   ],
-   "note": ""
+   "note": "南部大西洋",
+   "group": "南部"
   },
   {
    "name": "ウェストバージニア",
@@ -350,24 +245,179 @@
     "ウエストヴァージニア",
     "West Virginia"
    ],
-   "note": ""
+   "note": "南部大西洋",
+   "group": "南部"
   },
   {
-   "name": "ウィスコンシン",
+   "name": "アラバマ",
    "aliases": [
-    "Wisconsin"
+    "Alabama"
    ],
-   "note": ""
+   "note": "東南中部",
+   "group": "南部"
+  },
+  {
+   "name": "ケンタッキー",
+   "aliases": [
+    "Kentucky"
+   ],
+   "note": "東南中部",
+   "group": "南部"
+  },
+  {
+   "name": "ミシシッピ",
+   "aliases": [
+    "Mississippi"
+   ],
+   "note": "東南中部",
+   "group": "南部"
+  },
+  {
+   "name": "テネシー",
+   "aliases": [
+    "Tennessee"
+   ],
+   "note": "東南中部",
+   "group": "南部"
+  },
+  {
+   "name": "アーカンソー",
+   "aliases": [
+    "アーカンザス",
+    "Arkansas"
+   ],
+   "note": "西南中部",
+   "group": "南部"
+  },
+  {
+   "name": "ルイジアナ",
+   "aliases": [
+    "Louisiana"
+   ],
+   "note": "西南中部",
+   "group": "南部"
+  },
+  {
+   "name": "オクラホマ",
+   "aliases": [
+    "Oklahoma"
+   ],
+   "note": "西南中部",
+   "group": "南部"
+  },
+  {
+   "name": "テキサス",
+   "aliases": [
+    "Texas"
+   ],
+   "note": "西南中部",
+   "group": "南部"
+  },
+  {
+   "name": "アリゾナ",
+   "aliases": [
+    "Arizona"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "コロラド",
+   "aliases": [
+    "Colorado"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "アイダホ",
+   "aliases": [
+    "Idaho"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "モンタナ",
+   "aliases": [
+    "Montana"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "ネバダ",
+   "aliases": [
+    "Nevada"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "ニューメキシコ",
+   "aliases": [
+    "New Mexico"
+   ],
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "ユタ",
+   "aliases": [
+    "Utah"
+   ],
+   "note": "山岳部",
+   "group": "西部"
   },
   {
    "name": "ワイオミング",
    "aliases": [
     "Wyoming"
    ],
-   "note": ""
+   "note": "山岳部",
+   "group": "西部"
+  },
+  {
+   "name": "アラスカ",
+   "aliases": [
+    "Alaska"
+   ],
+   "note": "太平洋岸",
+   "group": "西部"
+  },
+  {
+   "name": "カリフォルニア",
+   "aliases": [
+    "California"
+   ],
+   "note": "太平洋岸",
+   "group": "西部"
+  },
+  {
+   "name": "ハワイ",
+   "aliases": [
+    "Hawaii"
+   ],
+   "note": "太平洋岸",
+   "group": "西部"
+  },
+  {
+   "name": "オレゴン",
+   "aliases": [
+    "Oregon"
+   ],
+   "note": "太平洋岸",
+   "group": "西部"
+  },
+  {
+   "name": "ワシントン",
+   "aliases": [
+    "Washington"
+   ],
+   "note": "太平洋岸",
+   "group": "西部"
   }
  ],
  "id": "01-us-states",
- "created": 0.0,
- "category": "世界の地理"
+ "created": 0.0
 }

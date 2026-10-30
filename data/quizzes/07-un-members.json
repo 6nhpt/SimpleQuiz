@@ -1,5 +1,6 @@
 {
  "title": "国連加盟国",
+ "category": "世界の地理",
  "options": {
   "suffix": [],
   "fuzzy": true
@@ -11,7 +12,8 @@
     "にほん",
     "にっぽん"
    ],
-   "note": "アジア"
+   "note": "東アジア",
+   "group": "アジア"
   },
   {
    "name": "中国",
@@ -19,7 +21,8 @@
     "中華人民共和国",
     "ちゅうごく"
    ],
-   "note": "アジア"
+   "note": "東アジア",
+   "group": "アジア"
   },
   {
    "name": "韓国",
@@ -27,7 +30,8 @@
     "大韓民国",
     "かんこく"
    ],
-   "note": "アジア"
+   "note": "東アジア",
+   "group": "アジア"
   },
   {
    "name": "北朝鮮",
@@ -35,64 +39,76 @@
     "朝鮮民主主義人民共和国",
     "きたちょうせん"
    ],
-   "note": "アジア"
+   "note": "東アジア",
+   "group": "アジア"
   },
   {
    "name": "モンゴル",
    "aliases": [],
-   "note": "アジア"
+   "note": "東アジア",
+   "group": "アジア"
   },
   {
    "name": "ベトナム",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "ラオス",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "カンボジア",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "タイ",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "ミャンマー",
    "aliases": [
     "ビルマ"
    ],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "マレーシア",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "シンガポール",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "インドネシア",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "フィリピン",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "ブルネイ",
    "aliases": [],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "東ティモール",
@@ -100,83 +116,150 @@
     "ひがしてぃもーる",
     "ティモールレステ"
    ],
-   "note": "アジア"
+   "note": "東南アジア",
+   "group": "アジア"
   },
   {
    "name": "インド",
    "aliases": [],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "パキスタン",
    "aliases": [],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "バングラデシュ",
    "aliases": [
     "バングラディシュ"
    ],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "スリランカ",
    "aliases": [],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "ネパール",
    "aliases": [],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "ブータン",
    "aliases": [],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
   },
   {
    "name": "モルディブ",
    "aliases": [
     "モルジブ"
    ],
-   "note": "アジア"
+   "note": "南アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "カザフスタン",
+   "aliases": [],
+   "note": "中央アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "ウズベキスタン",
+   "aliases": [],
+   "note": "中央アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "トルクメニスタン",
+   "aliases": [],
+   "note": "中央アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "キルギス",
+   "aliases": [
+    "キルギスタン"
+   ],
+   "note": "中央アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "タジキスタン",
+   "aliases": [],
+   "note": "中央アジア",
+   "group": "アジア"
+  },
+  {
+   "name": "ジョージア",
+   "aliases": [
+    "グルジア"
+   ],
+   "note": "コーカサス",
+   "group": "アジア"
+  },
+  {
+   "name": "アルメニア",
+   "aliases": [],
+   "note": "コーカサス",
+   "group": "アジア"
+  },
+  {
+   "name": "アゼルバイジャン",
+   "aliases": [],
+   "note": "コーカサス",
+   "group": "アジア"
   },
   {
    "name": "アフガニスタン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "イラン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "イラク",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "サウジアラビア",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "クウェート",
    "aliases": [
     "クエート"
    ],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "バーレーン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "カタール",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "アラブ首長国連邦",
@@ -184,37 +267,44 @@
     "UAE",
     "あらぶしゅちょうこくれんぽう"
    ],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "オマーン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "イエメン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "ヨルダン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "シリア",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "レバノン",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "イスラエル",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "トルコ",
@@ -222,56 +312,70 @@
     "テュルキエ",
     "トゥルキエ"
    ],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
    "name": "キプロス",
    "aliases": [],
-   "note": "中東"
+   "note": "",
+   "group": "中東"
   },
   {
-   "name": "カザフスタン",
+   "name": "フランス",
    "aliases": [],
-   "note": "中央アジア"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ウズベキスタン",
+   "name": "ドイツ",
    "aliases": [],
-   "note": "中央アジア"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "トルクメニスタン",
+   "name": "オランダ",
    "aliases": [],
-   "note": "中央アジア"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "キルギス",
+   "name": "ベルギー",
+   "aliases": [],
+   "note": "西欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ルクセンブルク",
    "aliases": [
-    "キルギスタン"
+    "ルクセンブルグ"
    ],
-   "note": "中央アジア"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "タジキスタン",
+   "name": "スイス",
    "aliases": [],
-   "note": "中央アジア"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ジョージア",
-   "aliases": [
-    "グルジア"
-   ],
-   "note": "コーカサス"
-  },
-  {
-   "name": "アルメニア",
+   "name": "オーストリア",
    "aliases": [],
-   "note": "コーカサス"
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "アゼルバイジャン",
+   "name": "リヒテンシュタイン",
    "aliases": [],
-   "note": "コーカサス"
+   "note": "西欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "モナコ",
+   "aliases": [],
+   "note": "西欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "イギリス",
@@ -280,176 +384,138 @@
     "えいこく",
     "連合王国"
    ],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "フランス",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "ドイツ",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "イタリア",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "スペイン",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "ポルトガル",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "オランダ",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "ベルギー",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "ルクセンブルク",
-   "aliases": [
-    "ルクセンブルグ"
-   ],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "スイス",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "オーストリア",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "リヒテンシュタイン",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "モナコ",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "アンドラ",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "サンマリノ",
-   "aliases": [],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "マルタ",
-   "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "アイルランド",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "アイスランド",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ノルウェー",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "スウェーデン",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "フィンランド",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "デンマーク",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "エストニア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ラトビア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "リトアニア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "北欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ポーランド",
+   "name": "スペイン",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "チェコ",
+   "name": "ポルトガル",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "スロバキア",
+   "name": "イタリア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ハンガリー",
+   "name": "アンドラ",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "サンマリノ",
+   "aliases": [],
+   "note": "南欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "マルタ",
+   "aliases": [],
+   "note": "南欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ギリシャ",
+   "aliases": [
+    "ギリシア"
+   ],
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "スロベニア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "クロアチア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ボスニア・ヘルツェゴビナ",
    "aliases": [
     "ボスニア"
    ],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "セルビア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "モンテネグロ",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "北マケドニア",
@@ -457,145 +523,240 @@
     "きたまけどにあ",
     "マケドニア"
    ],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "アルバニア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "南欧",
+   "group": "ヨーロッパ"
   },
   {
-   "name": "ギリシャ",
-   "aliases": [
-    "ギリシア"
-   ],
-   "note": "ヨーロッパ"
-  },
-  {
-   "name": "ブルガリア",
+   "name": "ポーランド",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "チェコ",
+   "aliases": [],
+   "note": "東欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "スロバキア",
+   "aliases": [],
+   "note": "東欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ハンガリー",
+   "aliases": [],
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ルーマニア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
+  },
+  {
+   "name": "ブルガリア",
+   "aliases": [],
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "モルドバ",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ウクライナ",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ベラルーシ",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "ロシア",
    "aliases": [],
-   "note": "ヨーロッパ"
+   "note": "東欧",
+   "group": "ヨーロッパ"
   },
   {
    "name": "エジプト",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "リビア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "チュニジア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "アルジェリア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "モロッコ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "スーダン",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "北アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "南スーダン",
    "aliases": [
     "みなみすーだん"
    ],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "エチオピア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "エリトリア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ジブチ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ソマリア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ケニア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ウガンダ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "タンザニア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ルワンダ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ブルンジ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ザンビア",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "マラウイ",
+   "aliases": [
+    "マラウィ"
+   ],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "モザンビーク",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ジンバブエ",
+   "aliases": [
+    "ジンバブウェ"
+   ],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "マダガスカル",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "モーリシャス",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "セーシェル",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "コモロ",
+   "aliases": [],
+   "note": "東アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "コンゴ民主共和国",
    "aliases": [
     "こんごみんしゅきょうわこく"
    ],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "コンゴ共和国",
    "aliases": [
     "こんごきょうわこく"
    ],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "中央アフリカ",
@@ -603,157 +764,146 @@
     "中央アフリカ共和国",
     "ちゅうおうあふりか"
    ],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "チャド",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "カメルーン",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "赤道ギニア",
    "aliases": [
     "せきどうぎにあ"
    ],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ガボン",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "サントメ・プリンシペ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "中部アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "アンゴラ",
+   "aliases": [],
+   "note": "中部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ナイジェリア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ニジェール",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ベナン",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "トーゴ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ガーナ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "コートジボワール",
    "aliases": [
     "象牙海岸"
    ],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ブルキナファソ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "マリ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "モーリタニア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "セネガル",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ガンビア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ギニアビサウ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "ギニア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "シエラレオネ",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "リベリア",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "カーボベルデ",
    "aliases": [
     "カボベルデ"
    ],
-   "note": "アフリカ"
-  },
-  {
-   "name": "アンゴラ",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "ザンビア",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "マラウイ",
-   "aliases": [
-    "マラウィ"
-   ],
-   "note": "アフリカ"
-  },
-  {
-   "name": "モザンビーク",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "ジンバブエ",
-   "aliases": [
-    "ジンバブウェ"
-   ],
-   "note": "アフリカ"
-  },
-  {
-   "name": "ボツワナ",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "ナミビア",
-   "aliases": [],
-   "note": "アフリカ"
+   "note": "西アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "南アフリカ",
@@ -761,39 +911,34 @@
     "南アフリカ共和国",
     "みなみあふりか"
    ],
-   "note": "アフリカ"
+   "note": "南部アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ナミビア",
+   "aliases": [],
+   "note": "南部アフリカ",
+   "group": "アフリカ"
+  },
+  {
+   "name": "ボツワナ",
+   "aliases": [],
+   "note": "南部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "レソト",
    "aliases": [],
-   "note": "アフリカ"
+   "note": "南部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "エスワティニ",
    "aliases": [
     "スワジランド"
    ],
-   "note": "アフリカ"
-  },
-  {
-   "name": "マダガスカル",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "モーリシャス",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "セーシェル",
-   "aliases": [],
-   "note": "アフリカ"
-  },
-  {
-   "name": "コモロ",
-   "aliases": [],
-   "note": "アフリカ"
+   "note": "南部アフリカ",
+   "group": "アフリカ"
   },
   {
    "name": "アメリカ",
@@ -802,106 +947,126 @@
     "米国",
     "べいこく"
    ],
-   "note": "北中米"
+   "note": "北米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "カナダ",
    "aliases": [],
-   "note": "北中米"
+   "note": "北米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "メキシコ",
    "aliases": [],
-   "note": "北中米"
+   "note": "北米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "グアテマラ",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ベリーズ",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ホンジュラス",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "エルサルバドル",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ニカラグア",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "コスタリカ",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "パナマ",
    "aliases": [],
-   "note": "北中米"
+   "note": "中米",
+   "group": "北中米・カリブ"
   },
   {
    "name": "キューバ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ジャマイカ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ハイチ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ドミニカ共和国",
    "aliases": [
     "どみにかきょうわこく"
    ],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "ドミニカ国",
    "aliases": [
     "どみにかこく"
    ],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "バハマ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "バルバドス",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "トリニダード・トバゴ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "グレナダ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "セントルシア",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "セントビンセント及びグレナディーン諸島",
@@ -910,7 +1075,8 @@
     "セントビンセントおよびグレナディーン諸島",
     "せんとびんせんとおよびぐれなでぃーんしょとう"
    ],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "セントクリストファー・ネービス",
@@ -918,136 +1084,162 @@
     "セントクリストファーネイビス",
     "セントキッツネービス"
    ],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "アンティグア・バーブーダ",
    "aliases": [],
-   "note": "カリブ"
+   "note": "カリブ",
+   "group": "北中米・カリブ"
   },
   {
    "name": "コロンビア",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ベネズエラ",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ガイアナ",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "スリナム",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "エクアドル",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ペルー",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ブラジル",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ボリビア",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "パラグアイ",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "ウルグアイ",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "アルゼンチン",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "チリ",
    "aliases": [],
-   "note": "南米"
+   "note": "",
+   "group": "南米"
   },
   {
    "name": "オーストラリア",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "オーストラリア・NZ",
+   "group": "オセアニア"
   },
   {
    "name": "ニュージーランド",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "オーストラリア・NZ",
+   "group": "オセアニア"
   },
   {
    "name": "パプアニューギニア",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "メラネシア",
+   "group": "オセアニア"
   },
   {
    "name": "フィジー",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "メラネシア",
+   "group": "オセアニア"
   },
   {
    "name": "ソロモン諸島",
    "aliases": [
     "そろもんしょとう"
    ],
-   "note": "オセアニア"
+   "note": "メラネシア",
+   "group": "オセアニア"
   },
   {
    "name": "バヌアツ",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "メラネシア",
+   "group": "オセアニア"
   },
   {
    "name": "サモア",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ポリネシア",
+   "group": "オセアニア"
   },
   {
    "name": "トンガ",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ポリネシア",
+   "group": "オセアニア"
   },
   {
    "name": "ツバル",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ポリネシア",
+   "group": "オセアニア"
   },
   {
    "name": "キリバス",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ミクロネシア",
+   "group": "オセアニア"
   },
   {
    "name": "ナウル",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ミクロネシア",
+   "group": "オセアニア"
   },
   {
    "name": "マーシャル諸島",
    "aliases": [
     "まーしゃるしょとう"
    ],
-   "note": "オセアニア"
+   "note": "ミクロネシア",
+   "group": "オセアニア"
   },
   {
    "name": "ミクロネシア連邦",
@@ -1055,15 +1247,16 @@
     "ミクロネシア",
     "みくろねしあれんぽう"
    ],
-   "note": "オセアニア"
+   "note": "ミクロネシア",
+   "group": "オセアニア"
   },
   {
    "name": "パラオ",
    "aliases": [],
-   "note": "オセアニア"
+   "note": "ミクロネシア",
+   "group": "オセアニア"
   }
  ],
  "id": "07-un-members",
- "created": 6.0,
- "category": "世界の地理"
+ "created": 6.0
 }

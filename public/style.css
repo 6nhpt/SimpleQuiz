@@ -111,6 +111,14 @@ input[type=text], input[type=search], input:not([type]), textarea {
   list-style: none; margin: 0; padding: 0;
   display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 5px;
 }
+.grp + .grp { margin-top: 16px; }
+.grp-head {
+  display: flex; justify-content: space-between; align-items: baseline;
+  margin: 0 0 6px; padding: 0 2px 3px; font-size: 14px;
+  border-bottom: 1px solid var(--line);
+}
+.grp-head span { font-size: 13px; color: var(--muted); font-weight: normal; font-variant-numeric: tabular-nums; }
+.grp-head.done span { color: var(--ok); font-weight: 600; }
 .grid li {
   min-height: 40px; border-radius: 8px; padding: 4px 6px;
   font-size: 13px; line-height: 1.25; display: flex; flex-direction: column; justify-content: center;

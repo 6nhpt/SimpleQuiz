@@ -2,53 +2,61 @@
 @category 世界の地理
 @suffix 州,しゅう
 @fuzzy on
-アラバマ | Alabama
-アラスカ | Alaska
-アリゾナ | Arizona
-アーカンソー | アーカンザス | Arkansas
-カリフォルニア | California
-コロラド | Colorado
-コネチカット | コネティカット | Connecticut
-デラウェア | Delaware
-フロリダ | Florida
-ジョージア | Georgia
-ハワイ | Hawaii
-アイダホ | Idaho
-イリノイ | Illinois
-インディアナ | Indiana
-アイオワ | Iowa
-カンザス | カンサス | Kansas
-ケンタッキー | Kentucky
-ルイジアナ | Louisiana
-メイン | Maine
-メリーランド | Maryland
-マサチューセッツ | マサチュセッツ | Massachusetts
-ミシガン | Michigan
-ミネソタ | Minnesota
-ミシシッピ | Mississippi
-ミズーリ | Missouri
-モンタナ | Montana
-ネブラスカ | Nebraska
-ネバダ | Nevada
-ニューハンプシャー | New Hampshire
-ニュージャージー | New Jersey
-ニューメキシコ | New Mexico
-ニューヨーク | New York
-ノースカロライナ | ノースカロライナー | North Carolina
-ノースダコタ | North Dakota
-オハイオ | Ohio
-オクラホマ | Oklahoma
-オレゴン | Oregon
-ペンシルベニア | ペンシルバニア | Pennsylvania
-ロードアイランド | Rhode Island
-サウスカロライナ | サウスカロライナー | South Carolina
-サウスダコタ | South Dakota
-テネシー | Tennessee
-テキサス | Texas
-ユタ | Utah
-バーモント | Vermont
-バージニア | Virginia
-ワシントン | Washington
-ウェストバージニア | ウエストヴァージニア | West Virginia
-ウィスコンシン | Wisconsin
-ワイオミング | Wyoming
+
+## 北東部
+コネチカット | コネティカット | Connecticut # ニューイングランド
+メイン | Maine # ニューイングランド
+マサチューセッツ | マサチュセッツ | Massachusetts # ニューイングランド
+ニューハンプシャー | New Hampshire # ニューイングランド
+ロードアイランド | Rhode Island # ニューイングランド
+バーモント | Vermont # ニューイングランド
+ニュージャージー | New Jersey # 中部大西洋
+ニューヨーク | New York # 中部大西洋
+ペンシルベニア | ペンシルバニア | Pennsylvania # 中部大西洋
+
+## 中西部
+イリノイ | Illinois # 東北中部
+インディアナ | Indiana # 東北中部
+ミシガン | Michigan # 東北中部
+オハイオ | Ohio # 東北中部
+ウィスコンシン | Wisconsin # 東北中部
+アイオワ | Iowa # 西北中部
+カンザス | カンサス | Kansas # 西北中部
+ミネソタ | Minnesota # 西北中部
+ミズーリ | Missouri # 西北中部
+ネブラスカ | Nebraska # 西北中部
+ノースダコタ | North Dakota # 西北中部
+サウスダコタ | South Dakota # 西北中部
+
+## 南部
+デラウェア | Delaware # 南部大西洋
+フロリダ | Florida # 南部大西洋
+ジョージア | Georgia # 南部大西洋
+メリーランド | Maryland # 南部大西洋
+ノースカロライナ | ノースカロライナー | North Carolina # 南部大西洋
+サウスカロライナ | サウスカロライナー | South Carolina # 南部大西洋
+バージニア | Virginia # 南部大西洋
+ウェストバージニア | ウエストヴァージニア | West Virginia # 南部大西洋
+アラバマ | Alabama # 東南中部
+ケンタッキー | Kentucky # 東南中部
+ミシシッピ | Mississippi # 東南中部
+テネシー | Tennessee # 東南中部
+アーカンソー | アーカンザス | Arkansas # 西南中部
+ルイジアナ | Louisiana # 西南中部
+オクラホマ | Oklahoma # 西南中部
+テキサス | Texas # 西南中部
+
+## 西部
+アリゾナ | Arizona # 山岳部
+コロラド | Colorado # 山岳部
+アイダホ | Idaho # 山岳部
+モンタナ | Montana # 山岳部
+ネバダ | Nevada # 山岳部
+ニューメキシコ | New Mexico # 山岳部
+ユタ | Utah # 山岳部
+ワイオミング | Wyoming # 山岳部
+アラスカ | Alaska # 太平洋岸
+カリフォルニア | California # 太平洋岸
+ハワイ | Hawaii # 太平洋岸
+オレゴン | Oregon # 太平洋岸
+ワシントン | Washington # 太平洋岸
