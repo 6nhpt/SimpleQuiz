@@ -1,0 +1,26 @@
+@title タロットの大アルカナ（22枚）
+@category エンタメ・スポーツ
+@suffix
+@fuzzy off
+愚者 | 愚か者 | ぐしゃ | フール | The Fool | Fool # 0
+魔術師 | 奇術師 | まじゅつし | マジシャン | The Magician | Magician # 1
+女教皇 | 女司祭長 | 女法王 | 女司祭 | じょきょうこう | ハイプリエステス | The High Priestess | High Priestess # 2
+女帝 | じょてい | エンプレス | The Empress | Empress # 3
+皇帝 | こうてい | エンペラー | The Emperor | Emperor # 4
+教皇 | 法王 | 司祭 | きょうこう | ほうおう | ハイエロファント | The Hierophant | Hierophant | The Pope # 5
+恋人 | 恋人たち | 恋人達 | こいびと | ラバーズ | The Lovers | Lovers # 6
+戦車 | せんしゃ | チャリオット | The Chariot | Chariot # 7
+力 | 剛毅 | ちから | ごうき | ストレングス | Strength | Fortitude # 8（マルセイユ版は11）
+隠者 | いんじゃ | ハーミット | The Hermit | Hermit # 9
+運命の輪 | 運命 | うんめいのわ | ホイールオブフォーチュン | Wheel of Fortune # 10
+正義 | せいぎ | ジャスティス | Justice # 11（マルセイユ版は8）
+吊るされた男 | 吊された男 | 吊られた男 | 刑死者 | つるされたおとこ | けいししゃ | ハングドマン | The Hanged Man | Hanged Man # 12
+死神 | 死 | しにがみ | デス | Death # 13
+節制 | せっせい | テンパランス | Temperance # 14
+悪魔 | あくま | デビル | The Devil | Devil # 15
+塔 | 神の家 | とう | タワー | The Tower | Tower # 16
+星 | ほし | スター | The Star | Star # 17
+月 | つき | ムーン | The Moon | Moon # 18
+太陽 | たいよう | サン | The Sun | Sun # 19
+審判 | しんぱん | ジャッジメント | Judgement | Judgment # 20
+世界 | せかい | ワールド | The World | World # 21

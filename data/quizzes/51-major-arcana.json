@@ -1,0 +1,314 @@
+{
+ "title": "タロットの大アルカナ（22枚）",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "愚者",
+   "aliases": [
+    "愚か者",
+    "ぐしゃ",
+    "フール",
+    "The Fool",
+    "Fool"
+   ],
+   "note": "0",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "魔術師",
+   "aliases": [
+    "奇術師",
+    "まじゅつし",
+    "マジシャン",
+    "The Magician",
+    "Magician"
+   ],
+   "note": "1",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "女教皇",
+   "aliases": [
+    "女司祭長",
+    "女法王",
+    "女司祭",
+    "じょきょうこう",
+    "ハイプリエステス",
+    "The High Priestess",
+    "High Priestess"
+   ],
+   "note": "2",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "女帝",
+   "aliases": [
+    "じょてい",
+    "エンプレス",
+    "The Empress",
+    "Empress"
+   ],
+   "note": "3",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "皇帝",
+   "aliases": [
+    "こうてい",
+    "エンペラー",
+    "The Emperor",
+    "Emperor"
+   ],
+   "note": "4",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "教皇",
+   "aliases": [
+    "法王",
+    "司祭",
+    "きょうこう",
+    "ほうおう",
+    "ハイエロファント",
+    "The Hierophant",
+    "Hierophant",
+    "The Pope"
+   ],
+   "note": "5",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "恋人",
+   "aliases": [
+    "恋人たち",
+    "恋人達",
+    "こいびと",
+    "ラバーズ",
+    "The Lovers",
+    "Lovers"
+   ],
+   "note": "6",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "戦車",
+   "aliases": [
+    "せんしゃ",
+    "チャリオット",
+    "The Chariot",
+    "Chariot"
+   ],
+   "note": "7",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "力",
+   "aliases": [
+    "剛毅",
+    "ちから",
+    "ごうき",
+    "ストレングス",
+    "Strength",
+    "Fortitude"
+   ],
+   "note": "8（マルセイユ版は11）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "隠者",
+   "aliases": [
+    "いんじゃ",
+    "ハーミット",
+    "The Hermit",
+    "Hermit"
+   ],
+   "note": "9",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "運命の輪",
+   "aliases": [
+    "運命",
+    "うんめいのわ",
+    "ホイールオブフォーチュン",
+    "Wheel of Fortune"
+   ],
+   "note": "10",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "正義",
+   "aliases": [
+    "せいぎ",
+    "ジャスティス",
+    "Justice"
+   ],
+   "note": "11（マルセイユ版は8）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吊るされた男",
+   "aliases": [
+    "吊された男",
+    "吊られた男",
+    "刑死者",
+    "つるされたおとこ",
+    "けいししゃ",
+    "ハングドマン",
+    "The Hanged Man",
+    "Hanged Man"
+   ],
+   "note": "12",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "死神",
+   "aliases": [
+    "死",
+    "しにがみ",
+    "デス",
+    "Death"
+   ],
+   "note": "13",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "節制",
+   "aliases": [
+    "せっせい",
+    "テンパランス",
+    "Temperance"
+   ],
+   "note": "14",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "悪魔",
+   "aliases": [
+    "あくま",
+    "デビル",
+    "The Devil",
+    "Devil"
+   ],
+   "note": "15",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "塔",
+   "aliases": [
+    "神の家",
+    "とう",
+    "タワー",
+    "The Tower",
+    "Tower"
+   ],
+   "note": "16",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "星",
+   "aliases": [
+    "ほし",
+    "スター",
+    "The Star",
+    "Star"
+   ],
+   "note": "17",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "月",
+   "aliases": [
+    "つき",
+    "ムーン",
+    "The Moon",
+    "Moon"
+   ],
+   "note": "18",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "太陽",
+   "aliases": [
+    "たいよう",
+    "サン",
+    "The Sun",
+    "Sun"
+   ],
+   "note": "19",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "審判",
+   "aliases": [
+    "しんぱん",
+    "ジャッジメント",
+    "Judgement",
+    "Judgment"
+   ],
+   "note": "20",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "世界",
+   "aliases": [
+    "せかい",
+    "ワールド",
+    "The World",
+    "World"
+   ],
+   "note": "21",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  }
+ ],
+ "id": "51-major-arcana",
+ "created": 49.0
+}
