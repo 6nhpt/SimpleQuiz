@@ -1,5 +1,6 @@
 {
  "title": "山手線の駅",
+ "category": "鉄道",
  "options": {
   "suffix": [
    "駅",
@@ -13,35 +14,45 @@
    "aliases": [
     "とうきょう"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "有楽町",
    "aliases": [
     "ゆうらくちょう"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新橋",
    "aliases": [
     "しんばし"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "浜松町",
    "aliases": [
     "はままつちょう"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "田町",
    "aliases": [
     "たまち"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "高輪ゲートウェイ",
@@ -49,178 +60,227 @@
     "たかなわげーとうぇい",
     "高輪GW"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "品川",
    "aliases": [
     "しながわ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "大崎",
    "aliases": [
     "おおさき"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "五反田",
    "aliases": [
     "ごたんだ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "目黒",
    "aliases": [
     "めぐろ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "恵比寿",
    "aliases": [
     "えびす"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "渋谷",
    "aliases": [
     "しぶや"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "原宿",
    "aliases": [
     "はらじゅく"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "代々木",
    "aliases": [
     "よよぎ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新宿",
    "aliases": [
     "しんじゅく"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新大久保",
    "aliases": [
     "しんおおくぼ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "高田馬場",
    "aliases": [
     "たかだのばば"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "目白",
    "aliases": [
     "めじろ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "池袋",
    "aliases": [
     "いけぶくろ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "大塚",
    "aliases": [
     "おおつか"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "巣鴨",
    "aliases": [
     "すがも"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "駒込",
    "aliases": [
     "こまごめ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "田端",
    "aliases": [
     "たばた"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "西日暮里",
    "aliases": [
     "にしにっぽり"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "日暮里",
    "aliases": [
     "にっぽり"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "鶯谷",
    "aliases": [
     "うぐいすだに"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "上野",
    "aliases": [
     "うえの"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "御徒町",
    "aliases": [
     "おかちまち"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "秋葉原",
    "aliases": [
     "あきはばら"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "神田",
    "aliases": [
     "かんだ"
    ],
-   "note": ""
+   "note": "",
+   "group": "",
+   "secret": false
   }
  ],
  "id": "09-yamanote",
- "created": 8.0,
- "category": "日本の地理"
+ "created": 8.0
 }

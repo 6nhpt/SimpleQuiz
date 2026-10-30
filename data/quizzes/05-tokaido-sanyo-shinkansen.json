@@ -1,5 +1,6 @@
 {
  "title": "東海道・山陽新幹線の駅",
+ "category": "鉄道",
  "options": {
   "suffix": [
    "駅",
@@ -13,248 +14,326 @@
    "aliases": [
     "とうきょう"
    ],
-   "note": "東海道・東京都"
+   "note": "東海道・東京都",
+   "group": "",
+   "secret": false
   },
   {
    "name": "品川",
    "aliases": [
     "しながわ"
    ],
-   "note": "東海道・東京都"
+   "note": "東海道・東京都",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新横浜",
    "aliases": [
     "しんよこはま"
    ],
-   "note": "東海道・神奈川県"
+   "note": "東海道・神奈川県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "小田原",
    "aliases": [
     "おだわら"
    ],
-   "note": "東海道・神奈川県"
+   "note": "東海道・神奈川県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "熱海",
    "aliases": [
     "あたみ"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "三島",
    "aliases": [
     "みしま"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新富士",
    "aliases": [
     "しんふじ"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "静岡",
    "aliases": [
     "しずおか"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "掛川",
    "aliases": [
     "かけがわ"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "浜松",
    "aliases": [
     "はままつ"
    ],
-   "note": "東海道・静岡県"
+   "note": "東海道・静岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "豊橋",
    "aliases": [
     "とよはし"
    ],
-   "note": "東海道・愛知県"
+   "note": "東海道・愛知県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "三河安城",
    "aliases": [
     "みかわあんじょう"
    ],
-   "note": "東海道・愛知県"
+   "note": "東海道・愛知県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "名古屋",
    "aliases": [
     "なごや"
    ],
-   "note": "東海道・愛知県"
+   "note": "東海道・愛知県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "岐阜羽島",
    "aliases": [
     "ぎふはしま"
    ],
-   "note": "東海道・岐阜県"
+   "note": "東海道・岐阜県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "米原",
    "aliases": [
     "まいばら"
    ],
-   "note": "東海道・滋賀県"
+   "note": "東海道・滋賀県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "京都",
    "aliases": [
     "きょうと"
    ],
-   "note": "東海道・京都府"
+   "note": "東海道・京都府",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新大阪",
    "aliases": [
     "しんおおさか"
    ],
-   "note": "東海道/山陽・大阪府"
+   "note": "東海道/山陽・大阪府",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新神戸",
    "aliases": [
     "しんこうべ"
    ],
-   "note": "山陽・兵庫県"
+   "note": "山陽・兵庫県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "西明石",
    "aliases": [
     "にしあかし"
    ],
-   "note": "山陽・兵庫県"
+   "note": "山陽・兵庫県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "姫路",
    "aliases": [
     "ひめじ"
    ],
-   "note": "山陽・兵庫県"
+   "note": "山陽・兵庫県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "相生",
    "aliases": [
     "あいおい"
    ],
-   "note": "山陽・兵庫県"
+   "note": "山陽・兵庫県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "岡山",
    "aliases": [
     "おかやま"
    ],
-   "note": "山陽・岡山県"
+   "note": "山陽・岡山県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新倉敷",
    "aliases": [
     "しんくらしき"
    ],
-   "note": "山陽・岡山県"
+   "note": "山陽・岡山県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "福山",
    "aliases": [
     "ふくやま"
    ],
-   "note": "山陽・広島県"
+   "note": "山陽・広島県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新尾道",
    "aliases": [
     "しんおのみち"
    ],
-   "note": "山陽・広島県"
+   "note": "山陽・広島県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "三原",
    "aliases": [
     "みはら"
    ],
-   "note": "山陽・広島県"
+   "note": "山陽・広島県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "東広島",
    "aliases": [
     "ひがしひろしま"
    ],
-   "note": "山陽・広島県"
+   "note": "山陽・広島県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "広島",
    "aliases": [
     "ひろしま"
    ],
-   "note": "山陽・広島県"
+   "note": "山陽・広島県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新岩国",
    "aliases": [
     "しんいわくに"
    ],
-   "note": "山陽・山口県"
+   "note": "山陽・山口県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "徳山",
    "aliases": [
     "とくやま"
    ],
-   "note": "山陽・山口県"
+   "note": "山陽・山口県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新山口",
    "aliases": [
     "しんやまぐち"
    ],
-   "note": "山陽・山口県"
+   "note": "山陽・山口県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "厚狭",
    "aliases": [
     "あさ"
    ],
-   "note": "山陽・山口県"
+   "note": "山陽・山口県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "新下関",
    "aliases": [
     "しんしものせき"
    ],
-   "note": "山陽・山口県"
+   "note": "山陽・山口県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "小倉",
    "aliases": [
     "こくら"
    ],
-   "note": "山陽・福岡県"
+   "note": "山陽・福岡県",
+   "group": "",
+   "secret": false
   },
   {
    "name": "博多",
    "aliases": [
     "はかた"
    ],
-   "note": "山陽・福岡県"
+   "note": "山陽・福岡県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "博多南",
+   "aliases": [
+    "はかたみなみ"
+   ],
+   "note": "博多南線・福岡県",
+   "group": "",
+   "secret": true
   }
  ],
  "id": "05-tokaido-sanyo-shinkansen",
- "created": 4.0,
- "category": "日本の地理"
+ "created": 4.0
 }

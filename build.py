@@ -21,7 +21,7 @@ def main():
     ver = str(int(time.time()))
     index = DIST / "index.html"
     html = index.read_text(encoding="utf-8")
-    html = html.replace('<html lang="ja">', '<html lang="ja" data-static="1">', 1)
+    html = html.replace('<html lang="ja">', f'<html lang="ja" data-static="1" data-version="{ver}">', 1)
     html = html.replace('src="app.js"', f'src="app.js?v={ver}"').replace('href="style.css"', f'href="style.css?v={ver}"')
     index.write_text(html, encoding="utf-8")
     app = DIST / "app.js"
@@ -33,6 +33,7 @@ def main():
     for q in quizzes:
         shutil.copy(server.quiz_path(q["id"]), out / f"{q['id']}.json")
     (out / "index.json").write_text(json.dumps(quizzes, ensure_ascii=False), encoding="utf-8")
+    (DIST / "version.json").write_text(json.dumps({"v": ver}), encoding="utf-8")
     (DIST / ".nojekyll").write_text("", encoding="utf-8")
     print(f"built {len(quizzes)} quizzes -> {DIST}")
 

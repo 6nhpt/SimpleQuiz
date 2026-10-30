@@ -11,8 +11,9 @@
    "aliases": [
     "alpha"
    ],
-   "note": "Α α",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ベータ",
@@ -20,24 +21,27 @@
     "ビータ",
     "beta"
    ],
-   "note": "Β β",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ガンマ",
    "aliases": [
     "gamma"
    ],
-   "note": "Γ γ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "デルタ",
    "aliases": [
     "delta"
    ],
-   "note": "Δ δ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "イプシロン",
@@ -45,8 +49,9 @@
     "エプシロン",
     "epsilon"
    ],
-   "note": "Ε ε",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ゼータ",
@@ -54,8 +59,9 @@
     "ジータ",
     "zeta"
    ],
-   "note": "Ζ ζ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "エータ",
@@ -63,8 +69,9 @@
     "イータ",
     "eta"
    ],
-   "note": "Η η",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "シータ",
@@ -72,48 +79,54 @@
     "テータ",
     "theta"
    ],
-   "note": "Θ θ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "イオタ",
    "aliases": [
     "iota"
    ],
-   "note": "Ι ι",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "カッパ",
    "aliases": [
     "kappa"
    ],
-   "note": "Κ κ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ラムダ",
    "aliases": [
     "lambda"
    ],
-   "note": "Λ λ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ミュー",
    "aliases": [
     "mu"
    ],
-   "note": "Μ μ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ニュー",
    "aliases": [
     "nu"
    ],
-   "note": "Ν ν",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "クシー",
@@ -122,16 +135,18 @@
     "クサイ",
     "xi"
    ],
-   "note": "Ξ ξ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "オミクロン",
    "aliases": [
     "omicron"
    ],
-   "note": "Ο ο",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "パイ",
@@ -139,32 +154,36 @@
     "ピー",
     "pi"
    ],
-   "note": "Π π",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ロー",
    "aliases": [
     "rho"
    ],
-   "note": "Ρ ρ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "シグマ",
    "aliases": [
     "sigma"
    ],
-   "note": "Σ σ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "タウ",
    "aliases": [
     "tau"
    ],
-   "note": "Τ τ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ユプシロン",
@@ -172,8 +191,9 @@
     "ウプシロン",
     "upsilon"
    ],
-   "note": "Υ υ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "ファイ",
@@ -181,8 +201,9 @@
     "フィー",
     "phi"
    ],
-   "note": "Φ φ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "カイ",
@@ -190,8 +211,9 @@
     "キー",
     "chi"
    ],
-   "note": "Χ χ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "プサイ",
@@ -199,16 +221,18 @@
     "プシー",
     "psi"
    ],
-   "note": "Ψ ψ",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   },
   {
    "name": "オメガ",
    "aliases": [
     "omega"
    ],
-   "note": "Ω ω",
-   "group": ""
+   "note": "",
+   "group": "",
+   "secret": false
   }
  ],
  "id": "22-greek-letters",

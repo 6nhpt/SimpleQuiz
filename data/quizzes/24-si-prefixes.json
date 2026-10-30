@@ -11,88 +11,99 @@
    "aliases": [
     "quetta"
    ],
-   "note": "10^30・Q",
-   "group": "大きい方"
+   "note": "10^30",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ロナ",
    "aliases": [
     "ronna"
    ],
-   "note": "10^27・R",
-   "group": "大きい方"
+   "note": "10^27",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ヨタ",
    "aliases": [
     "yotta"
    ],
-   "note": "10^24・Y",
-   "group": "大きい方"
+   "note": "10^24",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ゼタ",
    "aliases": [
     "zetta"
    ],
-   "note": "10^21・Z",
-   "group": "大きい方"
+   "note": "10^21",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "エクサ",
    "aliases": [
     "exa"
    ],
-   "note": "10^18・E",
-   "group": "大きい方"
+   "note": "10^18",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ペタ",
    "aliases": [
     "peta"
    ],
-   "note": "10^15・P",
-   "group": "大きい方"
+   "note": "10^15",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "テラ",
    "aliases": [
     "tera"
    ],
-   "note": "10^12・T",
-   "group": "大きい方"
+   "note": "10^12",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ギガ",
    "aliases": [
     "giga"
    ],
-   "note": "10^9・G",
-   "group": "大きい方"
+   "note": "10^9",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "メガ",
    "aliases": [
     "mega"
    ],
-   "note": "10^6・M",
-   "group": "大きい方"
+   "note": "10^6",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "キロ",
    "aliases": [
     "kilo"
    ],
-   "note": "10^3・k",
-   "group": "大きい方"
+   "note": "10^3",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "ヘクト",
    "aliases": [
     "hecto"
    ],
-   "note": "10^2・h",
-   "group": "大きい方"
+   "note": "10^2",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "デカ",
@@ -100,104 +111,117 @@
     "deca",
     "deka"
    ],
-   "note": "10^1・da",
-   "group": "大きい方"
+   "note": "10^1",
+   "group": "大きい方",
+   "secret": false
   },
   {
    "name": "デシ",
    "aliases": [
     "deci"
    ],
-   "note": "10^-1・d",
-   "group": "小さい方"
+   "note": "10^-1",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "センチ",
    "aliases": [
     "centi"
    ],
-   "note": "10^-2・c",
-   "group": "小さい方"
+   "note": "10^-2",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ミリ",
    "aliases": [
     "milli"
    ],
-   "note": "10^-3・m",
-   "group": "小さい方"
+   "note": "10^-3",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "マイクロ",
    "aliases": [
     "micro"
    ],
-   "note": "10^-6・μ",
-   "group": "小さい方"
+   "note": "10^-6",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ナノ",
    "aliases": [
     "nano"
    ],
-   "note": "10^-9・n",
-   "group": "小さい方"
+   "note": "10^-9",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ピコ",
    "aliases": [
     "pico"
    ],
-   "note": "10^-12・p",
-   "group": "小さい方"
+   "note": "10^-12",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "フェムト",
    "aliases": [
     "femto"
    ],
-   "note": "10^-15・f",
-   "group": "小さい方"
+   "note": "10^-15",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "アト",
    "aliases": [
     "atto"
    ],
-   "note": "10^-18・a",
-   "group": "小さい方"
+   "note": "10^-18",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ゼプト",
    "aliases": [
     "zepto"
    ],
-   "note": "10^-21・z",
-   "group": "小さい方"
+   "note": "10^-21",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ヨクト",
    "aliases": [
     "yocto"
    ],
-   "note": "10^-24・y",
-   "group": "小さい方"
+   "note": "10^-24",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "ロント",
    "aliases": [
     "ronto"
    ],
-   "note": "10^-27・r",
-   "group": "小さい方"
+   "note": "10^-27",
+   "group": "小さい方",
+   "secret": false
   },
   {
    "name": "クエクト",
    "aliases": [
     "quecto"
    ],
-   "note": "10^-30・q",
-   "group": "小さい方"
+   "note": "10^-30",
+   "group": "小さい方",
+   "secret": false
   }
  ],
  "id": "24-si-prefixes",

@@ -4,29 +4,29 @@
 @fuzzy on
 
 ## 大きい方
-クエタ | quetta # 10^30・Q
-ロナ | ronna # 10^27・R
-ヨタ | yotta # 10^24・Y
-ゼタ | zetta # 10^21・Z
-エクサ | exa # 10^18・E
-ペタ | peta # 10^15・P
-テラ | tera # 10^12・T
-ギガ | giga # 10^9・G
-メガ | mega # 10^6・M
-キロ | kilo # 10^3・k
-ヘクト | hecto # 10^2・h
-デカ | deca | deka # 10^1・da
+クエタ | quetta # 10^30
+ロナ | ronna # 10^27
+ヨタ | yotta # 10^24
+ゼタ | zetta # 10^21
+エクサ | exa # 10^18
+ペタ | peta # 10^15
+テラ | tera # 10^12
+ギガ | giga # 10^9
+メガ | mega # 10^6
+キロ | kilo # 10^3
+ヘクト | hecto # 10^2
+デカ | deca | deka # 10^1
 
 ## 小さい方
-デシ | deci # 10^-1・d
-センチ | centi # 10^-2・c
-ミリ | milli # 10^-3・m
-マイクロ | micro # 10^-6・μ
-ナノ | nano # 10^-9・n
-ピコ | pico # 10^-12・p
-フェムト | femto # 10^-15・f
-アト | atto # 10^-18・a
-ゼプト | zepto # 10^-21・z
-ヨクト | yocto # 10^-24・y
-ロント | ronto # 10^-27・r
-クエクト | quecto # 10^-30・q
+デシ | deci # 10^-1
+センチ | centi # 10^-2
+ミリ | milli # 10^-3
+マイクロ | micro # 10^-6
+ナノ | nano # 10^-9
+ピコ | pico # 10^-12
+フェムト | femto # 10^-15
+アト | atto # 10^-18
+ゼプト | zepto # 10^-21
+ヨクト | yocto # 10^-24
+ロント | ronto # 10^-27
+クエクト | quecto # 10^-30

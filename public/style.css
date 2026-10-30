@@ -151,3 +151,14 @@ input[type=text], input[type=search], input:not([type]), textarea {
 .row .primary { flex: 1; }
 .muted { color: var(--muted); font-weight: normal; font-size: 14px; }
 .error { color: var(--ng); }
+
+/* シークレット */
+:root { --gold: #b45309; --gold-bg: #fef3c7; }
+@media (prefers-color-scheme: dark) { :root { --gold: #fbbf24; --gold-bg: #422006; } }
+.grid li.ok.secret { background: var(--gold-bg); color: var(--gold); border: 1px solid var(--gold); font-weight: 600; }
+.grid li.miss.secret { background: transparent; color: var(--gold); border: 1px dashed var(--gold); opacity: .8; }
+.feedback.secret { color: var(--gold); }
+.star { color: var(--gold); font-weight: 600; }
+.secret-box { margin-top: 18px; font-size: 14px; background: var(--card); padding: 8px 12px; border-radius: 10px; border: 1px dashed var(--gold); }
+.secret-box summary { color: var(--gold); cursor: pointer; }
+.secret-box .list { padding-left: 1.2em; }

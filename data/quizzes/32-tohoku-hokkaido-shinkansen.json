@@ -1,0 +1,250 @@
+{
+ "title": "東北・北海道新幹線の駅",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "東京",
+   "aliases": [
+    "とうきょう"
+   ],
+   "note": "東京都",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "上野",
+   "aliases": [
+    "うえの"
+   ],
+   "note": "東京都",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "大宮",
+   "aliases": [
+    "おおみや"
+   ],
+   "note": "埼玉県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "小山",
+   "aliases": [
+    "おやま"
+   ],
+   "note": "栃木県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "宇都宮",
+   "aliases": [
+    "うつのみや"
+   ],
+   "note": "栃木県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "那須塩原",
+   "aliases": [
+    "なすしおばら"
+   ],
+   "note": "栃木県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "新白河",
+   "aliases": [
+    "しんしらかわ"
+   ],
+   "note": "福島県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "郡山",
+   "aliases": [
+    "こおりやま"
+   ],
+   "note": "福島県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "福島",
+   "aliases": [
+    "ふくしま"
+   ],
+   "note": "福島県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "白石蔵王",
+   "aliases": [
+    "しろいしざおう"
+   ],
+   "note": "宮城県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "仙台",
+   "aliases": [
+    "せんだい"
+   ],
+   "note": "宮城県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "古川",
+   "aliases": [
+    "ふるかわ"
+   ],
+   "note": "宮城県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "くりこま高原",
+   "aliases": [
+    "くりこまこうげん"
+   ],
+   "note": "宮城県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "一ノ関",
+   "aliases": [
+    "一関",
+    "いちのせき"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "水沢江刺",
+   "aliases": [
+    "みずさわえさし"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "北上",
+   "aliases": [
+    "きたかみ"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "新花巻",
+   "aliases": [
+    "しんはなまき"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "盛岡",
+   "aliases": [
+    "もりおか"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "いわて沼宮内",
+   "aliases": [
+    "いわてぬまくない"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "二戸",
+   "aliases": [
+    "にのへ"
+   ],
+   "note": "岩手県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "八戸",
+   "aliases": [
+    "はちのへ"
+   ],
+   "note": "青森県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "七戸十和田",
+   "aliases": [
+    "しちのへとわだ"
+   ],
+   "note": "青森県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "新青森",
+   "aliases": [
+    "しんあおもり"
+   ],
+   "note": "青森県",
+   "group": "東北新幹線",
+   "secret": false
+  },
+  {
+   "name": "奥津軽いまべつ",
+   "aliases": [
+    "おくつがるいまべつ"
+   ],
+   "note": "青森県",
+   "group": "北海道新幹線",
+   "secret": false
+  },
+  {
+   "name": "木古内",
+   "aliases": [
+    "きこない"
+   ],
+   "note": "北海道",
+   "group": "北海道新幹線",
+   "secret": false
+  },
+  {
+   "name": "新函館北斗",
+   "aliases": [
+    "しんはこだてほくと"
+   ],
+   "note": "北海道",
+   "group": "北海道新幹線",
+   "secret": false
+  }
+ ],
+ "id": "32-tohoku-hokkaido-shinkansen",
+ "created": 31.0
+}

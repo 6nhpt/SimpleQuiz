@@ -1,0 +1,169 @@
+{
+ "title": "山形・秋田新幹線の駅",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "福島",
+   "aliases": [
+    "ふくしま"
+   ],
+   "note": "福島県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "米沢",
+   "aliases": [
+    "よねざわ"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "高畠",
+   "aliases": [
+    "たかはた"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "赤湯",
+   "aliases": [
+    "あかゆ"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "かみのやま温泉",
+   "aliases": [
+    "上山温泉",
+    "かみのやまおんせん"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "山形",
+   "aliases": [
+    "やまがた"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "天童",
+   "aliases": [
+    "てんどう"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "さくらんぼ東根",
+   "aliases": [
+    "さくらんぼひがしね"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "村山",
+   "aliases": [
+    "むらやま"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "大石田",
+   "aliases": [
+    "おおいしだ"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "新庄",
+   "aliases": [
+    "しんじょう"
+   ],
+   "note": "山形県",
+   "group": "山形新幹線（福島〜新庄）",
+   "secret": false
+  },
+  {
+   "name": "盛岡",
+   "aliases": [
+    "もりおか"
+   ],
+   "note": "岩手県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  },
+  {
+   "name": "雫石",
+   "aliases": [
+    "しずくいし"
+   ],
+   "note": "岩手県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  },
+  {
+   "name": "田沢湖",
+   "aliases": [
+    "たざわこ"
+   ],
+   "note": "秋田県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  },
+  {
+   "name": "角館",
+   "aliases": [
+    "かくのだて"
+   ],
+   "note": "秋田県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  },
+  {
+   "name": "大曲",
+   "aliases": [
+    "おおまがり"
+   ],
+   "note": "秋田県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  },
+  {
+   "name": "秋田",
+   "aliases": [
+    "あきた"
+   ],
+   "note": "秋田県",
+   "group": "秋田新幹線（盛岡〜秋田）",
+   "secret": false
+  }
+ ],
+ "id": "36-mini-shinkansen",
+ "created": 35.0
+}

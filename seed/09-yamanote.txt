@@ -1,5 +1,5 @@
 @title 山手線の駅
-@category 日本の地理
+@category 鉄道
 @suffix 駅,えき
 @fuzzy off
 東京 | とうきょう

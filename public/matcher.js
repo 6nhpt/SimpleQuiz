@@ -98,7 +98,8 @@ export class Matcher {
     if (hits.length) {
       const fresh = hits.find((i) => !answered.has(i));
       if (fresh === undefined) return { status: "dup", index: hits[0] };
-      if (strict && this.allKeys.some(([k, i]) => i !== fresh && !answered.has(i) && k !== key && k.startsWith(key))) {
+      // シークレット項目は待ちの判定に使わない（「博多」で止まると博多南の存在がばれるため）
+      if (strict && this.allKeys.some(([k, i]) => i !== fresh && !answered.has(i) && !this.items[i].secret && k !== key && k.startsWith(key))) {
         return { status: "wait" };
       }
       return { status: "ok", index: fresh };
@@ -125,7 +126,7 @@ export function itemsToText(items) {
       if (lines.length) lines.push("");
       lines.push("## " + (group || "（区分なし）"));
     }
-    let s = [it.name, ...(it.aliases || [])].join(" | ");
+    let s = (it.secret ? "* " : "") + [it.name, ...(it.aliases || [])].join(" | ");
     if (it.note) s += " # " + it.note;
     lines.push(s);
   }
@@ -143,12 +144,14 @@ export function textToItems(text) {
       if (group === "（区分なし）") group = "";
       continue;
     }
-    const hash = line.indexOf("#");
-    const body = hash >= 0 ? line.slice(0, hash) : line;
-    const note = hash >= 0 ? line.slice(hash + 1).trim() : "";
+    const secret = line.startsWith("*");
+    const rest = secret ? line.slice(1).trim() : line;
+    const hash = rest.indexOf("#");
+    const body = hash >= 0 ? rest.slice(0, hash) : rest;
+    const note = hash >= 0 ? rest.slice(hash + 1).trim() : "";
     const parts = body.split("|").map((p) => p.trim()).filter(Boolean);
     if (!parts.length) continue;
-    items.push({ name: parts[0], aliases: parts.slice(1), note, group });
+    items.push({ name: parts[0], aliases: parts.slice(1), note, group, secret });
   }
   return items;
 }

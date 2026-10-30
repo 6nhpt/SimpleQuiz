@@ -1,0 +1,186 @@
+{
+ "title": "北陸新幹線の駅（高崎〜敦賀）",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "高崎",
+   "aliases": [
+    "たかさき"
+   ],
+   "note": "群馬県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "安中榛名",
+   "aliases": [
+    "あんなかはるな"
+   ],
+   "note": "群馬県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "軽井沢",
+   "aliases": [
+    "かるいざわ"
+   ],
+   "note": "長野県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "佐久平",
+   "aliases": [
+    "さくだいら"
+   ],
+   "note": "長野県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "上田",
+   "aliases": [
+    "うえだ"
+   ],
+   "note": "長野県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "長野",
+   "aliases": [
+    "ながの"
+   ],
+   "note": "長野県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "飯山",
+   "aliases": [
+    "いいやま"
+   ],
+   "note": "長野県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "上越妙高",
+   "aliases": [
+    "じょうえつみょうこう"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "糸魚川",
+   "aliases": [
+    "いといがわ"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "黒部宇奈月温泉",
+   "aliases": [
+    "くろべうなづきおんせん"
+   ],
+   "note": "富山県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "富山",
+   "aliases": [
+    "とやま"
+   ],
+   "note": "富山県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "新高岡",
+   "aliases": [
+    "しんたかおか"
+   ],
+   "note": "富山県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "金沢",
+   "aliases": [
+    "かなざわ"
+   ],
+   "note": "石川県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "小松",
+   "aliases": [
+    "こまつ"
+   ],
+   "note": "石川県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "加賀温泉",
+   "aliases": [
+    "かがおんせん"
+   ],
+   "note": "石川県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "芦原温泉",
+   "aliases": [
+    "あわらおんせん"
+   ],
+   "note": "福井県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "福井",
+   "aliases": [
+    "ふくい"
+   ],
+   "note": "福井県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "越前たけふ",
+   "aliases": [
+    "えちぜんたけふ"
+   ],
+   "note": "福井県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "敦賀",
+   "aliases": [
+    "つるが"
+   ],
+   "note": "福井県",
+   "group": "",
+   "secret": false
+  }
+ ],
+ "id": "34-hokuriku-shinkansen",
+ "created": 33.0
+}

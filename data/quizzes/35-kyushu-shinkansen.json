@@ -1,0 +1,168 @@
+{
+ "title": "九州・西九州新幹線の駅",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "博多",
+   "aliases": [
+    "はかた"
+   ],
+   "note": "福岡県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新鳥栖",
+   "aliases": [
+    "しんとす"
+   ],
+   "note": "佐賀県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "久留米",
+   "aliases": [
+    "くるめ"
+   ],
+   "note": "福岡県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "筑後船小屋",
+   "aliases": [
+    "ちくごふなごや"
+   ],
+   "note": "福岡県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新大牟田",
+   "aliases": [
+    "しんおおむた"
+   ],
+   "note": "福岡県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新玉名",
+   "aliases": [
+    "しんたまな"
+   ],
+   "note": "熊本県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "熊本",
+   "aliases": [
+    "くまもと"
+   ],
+   "note": "熊本県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新八代",
+   "aliases": [
+    "しんやつしろ"
+   ],
+   "note": "熊本県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新水俣",
+   "aliases": [
+    "しんみなまた"
+   ],
+   "note": "熊本県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "出水",
+   "aliases": [
+    "いずみ"
+   ],
+   "note": "鹿児島県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "川内",
+   "aliases": [
+    "せんだい"
+   ],
+   "note": "鹿児島県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "鹿児島中央",
+   "aliases": [
+    "かごしまちゅうおう"
+   ],
+   "note": "鹿児島県",
+   "group": "九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "武雄温泉",
+   "aliases": [
+    "たけおおんせん"
+   ],
+   "note": "佐賀県",
+   "group": "西九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "嬉野温泉",
+   "aliases": [
+    "うれしのおんせん"
+   ],
+   "note": "佐賀県",
+   "group": "西九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "新大村",
+   "aliases": [
+    "しんおおむら"
+   ],
+   "note": "長崎県",
+   "group": "西九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "諫早",
+   "aliases": [
+    "いさはや"
+   ],
+   "note": "長崎県",
+   "group": "西九州新幹線",
+   "secret": false
+  },
+  {
+   "name": "長崎",
+   "aliases": [
+    "ながさき"
+   ],
+   "note": "長崎県",
+   "group": "西九州新幹線",
+   "secret": false
+  }
+ ],
+ "id": "35-kyushu-shinkansen",
+ "created": 34.0
+}

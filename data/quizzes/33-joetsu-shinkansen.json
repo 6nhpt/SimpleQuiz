@@ -1,0 +1,114 @@
+{
+ "title": "上越新幹線の駅（大宮〜新潟）",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "大宮",
+   "aliases": [
+    "おおみや"
+   ],
+   "note": "埼玉県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "熊谷",
+   "aliases": [
+    "くまがや"
+   ],
+   "note": "埼玉県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "本庄早稲田",
+   "aliases": [
+    "ほんじょうわせだ"
+   ],
+   "note": "埼玉県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "高崎",
+   "aliases": [
+    "たかさき"
+   ],
+   "note": "群馬県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "上毛高原",
+   "aliases": [
+    "じょうもうこうげん"
+   ],
+   "note": "群馬県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "越後湯沢",
+   "aliases": [
+    "えちごゆざわ"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "ガーラ湯沢",
+   "aliases": [
+    "がーらゆざわ"
+   ],
+   "note": "上越線支線（冬季のみ）",
+   "group": "",
+   "secret": true
+  },
+  {
+   "name": "浦佐",
+   "aliases": [
+    "うらさ"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "長岡",
+   "aliases": [
+    "ながおか"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "燕三条",
+   "aliases": [
+    "つばめさんじょう"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  },
+  {
+   "name": "新潟",
+   "aliases": [
+    "にいがた"
+   ],
+   "note": "新潟県",
+   "group": "",
+   "secret": false
+  }
+ ],
+ "id": "33-joetsu-shinkansen",
+ "created": 32.0
+}

@@ -2,27 +2,27 @@
 @category ことば・記号
 @suffix
 @fuzzy on
-アルファ | alpha # Α α
-ベータ | ビータ | beta # Β β
-ガンマ | gamma # Γ γ
-デルタ | delta # Δ δ
-イプシロン | エプシロン | epsilon # Ε ε
-ゼータ | ジータ | zeta # Ζ ζ
-エータ | イータ | eta # Η η
-シータ | テータ | theta # Θ θ
-イオタ | iota # Ι ι
-カッパ | kappa # Κ κ
-ラムダ | lambda # Λ λ
-ミュー | mu # Μ μ
-ニュー | nu # Ν ν
-クシー | グザイ | クサイ | xi # Ξ ξ
-オミクロン | omicron # Ο ο
-パイ | ピー | pi # Π π
-ロー | rho # Ρ ρ
-シグマ | sigma # Σ σ
-タウ | tau # Τ τ
-ユプシロン | ウプシロン | upsilon # Υ υ
-ファイ | フィー | phi # Φ φ
-カイ | キー | chi # Χ χ
-プサイ | プシー | psi # Ψ ψ
-オメガ | omega # Ω ω
+アルファ | alpha
+ベータ | ビータ | beta
+ガンマ | gamma
+デルタ | delta
+イプシロン | エプシロン | epsilon
+ゼータ | ジータ | zeta
+エータ | イータ | eta
+シータ | テータ | theta
+イオタ | iota
+カッパ | kappa
+ラムダ | lambda
+ミュー | mu
+ニュー | nu
+クシー | グザイ | クサイ | xi
+オミクロン | omicron
+パイ | ピー | pi
+ロー | rho
+シグマ | sigma
+タウ | tau
+ユプシロン | ウプシロン | upsilon
+ファイ | フィー | phi
+カイ | キー | chi
+プサイ | プシー | psi
+オメガ | omega
