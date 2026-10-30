@@ -86,10 +86,12 @@ main { max-width: 760px; margin: 0 auto; padding: 12px 12px calc(40px + env(safe
 .tag.done { background: var(--ok-bg); color: var(--ok); }
 
 /* 回答画面 */
-.answer {
+/* 入力欄・判定表示・進捗バーはまとめてヘッダー下に固定 */
+.play-head {
   position: sticky; top: calc(52px + env(safe-area-inset-top)); z-index: 5;
-  display: flex; gap: 8px; padding: 8px 0; background: var(--bg);
+  margin: -12px -12px 0; padding: 8px 12px 1px; background: var(--bg);
 }
+.answer { display: flex; gap: 8px; padding: 0 0 4px; }
 input[type=text], input[type=search], input:not([type]), textarea {
   width: 100%; font-size: 16px; /* 16px未満だとiOSが勝手にズームする */
   padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line);

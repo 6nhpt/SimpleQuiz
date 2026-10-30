@@ -205,12 +205,14 @@ async function renderPlay(id) {
 
   setBar(quiz.title, "#/", `<span id="count"></span>`);
   $app.innerHTML = `
-    <form id="ans" class="answer" autocomplete="off">
-      <input id="in" type="text" enterkeyhint="send" placeholder="答えを入力" autocapitalize="off" spellcheck="false">
-      <button class="btn primary" type="submit">回答</button>
-    </form>
-    <div id="fb" class="feedback">&nbsp;</div>
-    <div class="progress"><div id="bar-fill"></div></div>
+    <div id="head" class="play-head">
+      <form id="ans" class="answer" autocomplete="off">
+        <input id="in" type="text" enterkeyhint="send" placeholder="答えを入力" autocapitalize="off" spellcheck="false">
+        <button class="btn primary" type="submit">回答</button>
+      </form>
+      <div id="fb" class="feedback">&nbsp;</div>
+      <div class="progress"><div id="bar-fill"></div></div>
+    </div>
     <div class="tools">
       ${hasNotes ? `<label class="check"><input id="hint" type="checkbox" ${showHint ? "checked" : ""}> ヒント表示</label>` : "<span></span>"}
       <span>
@@ -223,6 +225,24 @@ async function renderPlay(id) {
   const $in = document.getElementById("in");
   const $fb = document.getElementById("fb");
   const $grid = document.getElementById("grid");
+  const $head = document.getElementById("head");
+  const pending = new Set();
+
+  // マスが見える位置（固定ヘッダーの下）までスッとスクロールする。見えていれば何もしない
+  function scrollToCell(i) {
+    const el = $grid.querySelector(`[data-i="${i}"]`);
+    if (!el) return Promise.resolve();
+    const top = $head.getBoundingClientRect().bottom;
+    const bottom = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+    const r = el.getBoundingClientRect();
+    if (r.top >= top && r.bottom <= bottom) return Promise.resolve();
+    window.scrollTo({ top: window.scrollY + r.top - top - 24, behavior: "smooth" });
+    return new Promise((resolve) => {
+      const done = () => { window.removeEventListener("scrollend", done); clearTimeout(t); resolve(); };
+      const t = setTimeout(done, 600);  // scrollend 非対応ブラウザ向け
+      window.addEventListener("scrollend", done);
+    });
+  }
 
   function persist() {
     saveProg(id, {
@@ -235,8 +255,8 @@ async function renderPlay(id) {
   // シークレットは見つけるまで枠を出さない（ギブアップでも明かさない）。
   // ただし「全部シークレットの区分」（隠し区分）は、1個見つけると区分ごと空き枠付きで現れる
   function cell(it, i, open) {
-    const ok = answered.has(i);
-    if (it.secret && !ok && !open) return "";
+    if (it.secret && !answered.has(i) && !open) return "";
+    const ok = answered.has(i) && !pending.has(i);  // pending: スクロール待ちで、まだ空欄に見せておく
     const miss = gaveUp && !it.secret;
     const cls = (ok ? "ok" : miss ? "miss" : "blank") + (it.secret ? " secret" : "");
     const text = ok || miss ? (it.secret ? "★ " : "") + esc(it.name) : "";
@@ -285,7 +305,13 @@ async function renderPlay(id) {
     if (isSecret(r.index)) addFound(id, quiz.items[r.index].name);
     persist();
     $in.value = "";
-    renderGrid(r.index);
+    // 空欄のまま描いて、そのマスまでスクロールしてから埋める
+    pending.add(r.index);
+    renderGrid();
+    scrollToCell(r.index).then(() => {
+      if (!pending.delete(r.index)) return;  // 途中でリセットされた
+      renderGrid(r.index);
+    });
     const name = quiz.items[r.index].name + (r.fuzzy ? "（表記ゆれ）" : "");
     const done = [...answered].filter((i) => !isSecret(i)).length;
     const g = groups.find(([, idxs]) => idxs.includes(r.index));
@@ -323,7 +349,7 @@ async function renderPlay(id) {
     else if (r.status === "dup") {
       feedback("dup", `回答済み：${quiz.items[r.index].name}`);
       $in.value = "";
-      $grid.querySelector(`[data-i="${r.index}"]`)?.classList.add("flash");
+      scrollToCell(r.index).then(() => $grid.querySelector(`[data-i="${r.index}"]`)?.classList.add("flash"));
     } else {
       feedback("ng", `✗ 「${v}」はありません`);
       $in.select();
@@ -345,6 +371,7 @@ async function renderPlay(id) {
   document.getElementById("reset").onclick = () => {
     if (!confirm("回答をリセットしますか？")) return;
     answered.clear();
+    pending.clear();
     gaveUp = false;
     persist();
     feedback("", " ");
