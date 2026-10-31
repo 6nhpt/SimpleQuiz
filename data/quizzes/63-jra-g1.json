@@ -1,0 +1,521 @@
+{
+ "title": "JRAのGⅠレース（26競走）",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "阪神ジュベナイルフィリーズ",
+   "aliases": [
+    "阪神JF",
+    "阪神ジュベナイル",
+    "ジュベナイルフィリーズ",
+    "はんしんじゅべないるふぃりーず"
+   ],
+   "note": "12月・阪神 芝1600m（牝馬）",
+   "group": "2歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "朝日杯フューチュリティステークス",
+   "aliases": [
+    "朝日杯FS",
+    "朝日杯",
+    "朝日杯フューチュリティS",
+    "朝日杯フューチュリティ",
+    "あさひはい"
+   ],
+   "note": "12月・阪神 芝1600m",
+   "group": "2歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ホープフルステークス",
+   "aliases": [
+    "ホープフルS",
+    "ホープフル"
+   ],
+   "note": "12月・中山 芝2000m",
+   "group": "2歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "桜花賞",
+   "aliases": [
+    "おうかしょう"
+   ],
+   "note": "4月・阪神 芝1600m（牝馬）",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "皐月賞",
+   "aliases": [
+    "さつきしょう"
+   ],
+   "note": "4月・中山 芝2000m",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "NHKマイルカップ",
+   "aliases": [
+    "NHKマイルC",
+    "NHKマイル"
+   ],
+   "note": "5月・東京 芝1600m",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "オークス",
+   "aliases": [
+    "優駿牝馬",
+    "ゆうしゅんひんば"
+   ],
+   "note": "5月・東京 芝2400m（牝馬）",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "日本ダービー",
+   "aliases": [
+    "東京優駿",
+    "ダービー",
+    "とうきょうゆうしゅん",
+    "にほんだーびー",
+    "にっぽんだーびー"
+   ],
+   "note": "5月・東京 芝2400m",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秋華賞",
+   "aliases": [
+    "しゅうかしょう"
+   ],
+   "note": "10月・京都 芝2000m（牝馬）",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "菊花賞",
+   "aliases": [
+    "きっかしょう"
+   ],
+   "note": "10月・京都 芝3000m",
+   "group": "3歳",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "フェブラリーステークス",
+   "aliases": [
+    "フェブラリーS",
+    "フェブラリー"
+   ],
+   "note": "2月・東京 ダート1600m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高松宮記念",
+   "aliases": [
+    "たかまつのみやきねん"
+   ],
+   "note": "3月・中京 芝1200m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪杯",
+   "aliases": [
+    "産経大阪杯",
+    "おおさかはい"
+   ],
+   "note": "4月・阪神 芝2000m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天皇賞（春）",
+   "aliases": [
+    "天皇賞・春",
+    "天皇賞春",
+    "春の天皇賞",
+    "春天",
+    "てんのうしょうはる"
+   ],
+   "note": "5月・京都 芝3200m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヴィクトリアマイル",
+   "aliases": [
+    "ビクトリアマイル"
+   ],
+   "note": "5月・東京 芝1600m（牝馬）",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "安田記念",
+   "aliases": [
+    "やすだきねん"
+   ],
+   "note": "6月・東京 芝1600m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宝塚記念",
+   "aliases": [
+    "たからづかきねん"
+   ],
+   "note": "6月・阪神 芝2200m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "スプリンターズステークス",
+   "aliases": [
+    "スプリンターズS",
+    "スプリンターズ"
+   ],
+   "note": "9月・中山 芝1200m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天皇賞（秋）",
+   "aliases": [
+    "天皇賞・秋",
+    "天皇賞秋",
+    "秋の天皇賞",
+    "秋天",
+    "てんのうしょうあき"
+   ],
+   "note": "10〜11月・東京 芝2000m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "エリザベス女王杯",
+   "aliases": [
+    "エリザベス",
+    "エリ女",
+    "えりざべすじょおうはい"
+   ],
+   "note": "11月・京都 芝2200m（牝馬）",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "マイルチャンピオンシップ",
+   "aliases": [
+    "マイルCS",
+    "マイルチャンピオンS"
+   ],
+   "note": "11月・京都 芝1600m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ジャパンカップ",
+   "aliases": [
+    "ジャパンC",
+    "JC"
+   ],
+   "note": "11月・東京 芝2400m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "チャンピオンズカップ",
+   "aliases": [
+    "チャンピオンズC",
+    "ジャパンカップダート",
+    "ジャパンCダート",
+    "JCダート"
+   ],
+   "note": "12月・中京 ダート1800m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "有馬記念",
+   "aliases": [
+    "ありまきねん"
+   ],
+   "note": "12月・中山 芝2500m",
+   "group": "古馬（3・4歳以上）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中山グランドジャンプ",
+   "aliases": [
+    "中山GJ",
+    "なかやまぐらんどじゃんぷ"
+   ],
+   "note": "4月・中山 障害4250m",
+   "group": "障害",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中山大障害",
+   "aliases": [
+    "なかやまだいしょうがい"
+   ],
+   "note": "12月・中山 障害4100m",
+   "group": "障害",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "天皇賞",
+   "aliases": [],
+   "note": "春と秋の2回あります",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京大賞典",
+   "aliases": [
+    "とうきょうだいしょうてん"
+   ],
+   "note": "地方競馬（大井）のGⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "帝王賞",
+   "aliases": [
+    "ていおうしょう"
+   ],
+   "note": "地方競馬（大井）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "JBCクラシック",
+   "aliases": [],
+   "note": "地方競馬持ち回りのJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "JBCスプリント",
+   "aliases": [],
+   "note": "地方競馬持ち回りのJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "JBCレディスクラシック",
+   "aliases": [],
+   "note": "地方競馬持ち回りのJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "川崎記念",
+   "aliases": [
+    "かわさききねん"
+   ],
+   "note": "地方競馬（川崎）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "かしわ記念",
+   "aliases": [],
+   "note": "地方競馬（船橋）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "マイルチャンピオンシップ南部杯",
+   "aliases": [
+    "南部杯"
+   ],
+   "note": "地方競馬（盛岡）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "全日本2歳優駿",
+   "aliases": [],
+   "note": "地方競馬（川崎）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京ダービー",
+   "aliases": [],
+   "note": "地方競馬（大井）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "羽田盃",
+   "aliases": [
+    "はねだはい"
+   ],
+   "note": "地方競馬（大井）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ジャパンダートクラシック",
+   "aliases": [
+    "ジャパンダートダービー"
+   ],
+   "note": "地方競馬（大井）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "さきたま杯",
+   "aliases": [],
+   "note": "地方競馬（浦和）のJpnⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "凱旋門賞",
+   "aliases": [
+    "がいせんもんしょう"
+   ],
+   "note": "フランスのGⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ドバイワールドカップ",
+   "aliases": [],
+   "note": "ドバイのGⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "香港カップ",
+   "aliases": [],
+   "note": "香港のGⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ケンタッキーダービー",
+   "aliases": [],
+   "note": "アメリカのGⅠ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "京都記念",
+   "aliases": [
+    "きょうときねん"
+   ],
+   "note": "JRAのGⅡ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "毎日王冠",
+   "aliases": [
+    "まいにちおうかん"
+   ],
+   "note": "JRAのGⅡ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "札幌記念",
+   "aliases": [
+    "さっぽろきねん"
+   ],
+   "note": "JRAのGⅡ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弥生賞",
+   "aliases": [
+    "やよいしょう"
+   ],
+   "note": "JRAのGⅡ（皐月賞トライアル）",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "目黒記念",
+   "aliases": [],
+   "note": "JRAのGⅡ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "金鯱賞",
+   "aliases": [
+    "きんこしょう"
+   ],
+   "note": "JRAのGⅡ",
+   "group": "障害",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "63-jra-g1",
+ "created": 61.0
+}
