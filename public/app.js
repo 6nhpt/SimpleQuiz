@@ -131,6 +131,17 @@ async function checkUpdate() {
 
 // ---------------------------------------------------------------- ホーム
 
+// 更新履歴（public/changelog.json、新しい順）
+async function loadNews() {
+  try {
+    const list = await (await fetch("changelog.json", { cache: "no-cache" })).json();
+    const $news = document.getElementById("news");
+    if (!$news || !list.length) return;
+    $news.innerHTML = list.map((e) => `<li><time>${esc(e.date.slice(5).replace("-", "/"))}</time>${esc(e.text)}</li>`).join("");
+    $news.parentElement.hidden = false;
+  } catch { /* 取れなければ出さない */ }
+}
+
 async function renderHome() {
   setBar("列挙クイズ", null);
   checkUpdate();
@@ -165,19 +176,13 @@ async function renderHome() {
   // 同じまとめ（series）のクイズが2つ以上あれば、最初に出てくる位置に1つの畳めるカードとしてまとめる
   const seriesCard = (c, name, qs) => {
     const key = `${c}/${name}`;
-    let n = 0, total = 0, done = 0;
-    for (const q of qs) {
-      const p = loadProg(q.id);
-      const a = p.answered.length - (p.secrets || 0);
-      n += Math.min(a, q.count); total += q.count;
-      if (a >= q.count) done++;
-    }
+    const done = qs.filter((q) => { const p = loadProg(q.id); return p.answered.length - (p.secrets || 0) >= q.count; }).length;
     return `
     <li class="series">
       <details data-key="${esc(key)}" ${opened.has(key) ? "open" : ""}>
         <summary class="series-head">
           <span class="card-title">${esc(name)}</span>
-          <span class="card-sub">${qs.length}クイズ・${total}個${n ? ` ・ ${n}/${total}` : ""}
+          <span class="card-sub">${qs.length}クイズ
             ${done === qs.length ? `<span class="tag done">コンプリート</span>` : done ? `<span class="tag">${done}/${qs.length}完了</span>` : ""}</span>
         </summary>
         <ul class="cards">${qs.map(card).join("")}</ul>
@@ -199,6 +204,7 @@ async function renderHome() {
   };
 
   $app.innerHTML = `
+    <section class="news" hidden><h2>更新履歴</h2><ul id="news"></ul></section>
     ${cats.map((c) => `
       <details class="cat" data-cat="${esc(c)}" style="--h:${catHue(c)}" ${closed.has(c) ? "" : "open"}>
         <summary><span class="cat-icon">${catIcon(c)}</span>${esc(c || "未分類")}<span class="muted">${groups.get(c).length}</span></summary>
@@ -209,6 +215,8 @@ async function renderHome() {
       <button id="reset-open" class="btn small" type="button">記録をリセット…</button>
       <div id="reset-panel" class="reset-panel" hidden></div>
     </div>`;
+
+  loadNews();
 
   // 記録のリセット。シークレットを1個でも見つけていれば「シークレットは残す」も選べる
   document.getElementById("reset-open").onclick = () => {

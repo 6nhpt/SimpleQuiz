@@ -30,7 +30,7 @@
 }
 
 /* カテゴリ色: --h（色相）を html やカテゴリ枠に置き、そこから計算する */
-:root { --h: 220; }
+:root { --h: 220; color-scheme: light dark; }
 :root, .cat {
   --accent: hsl(var(--h) 55% 45%);
   --accent-bg: hsl(var(--h) 70% 50% / .07);
@@ -83,6 +83,12 @@ main { max-width: 760px; margin: 0 auto; padding: 12px 12px calc(40px + env(safe
 .btn.wide { display: block; margin-top: 16px; }
 
 /* ホーム */
+.news { margin: 0 0 14px; padding: 6px 10px; border-radius: 10px; background: var(--card); border: 1px solid var(--line); font-size: 13px; }
+.news h2 { margin: 0 0 2px; font-size: 12px; color: var(--muted); font-weight: 600; }
+.news ul { list-style: none; margin: 0; padding: 0; max-height: 4.6em; overflow-y: auto; line-height: 1.5; overscroll-behavior: contain; scrollbar-width: thin; }
+.news li { display: flex; gap: 8px; }
+.news li + li { border-top: 1px dashed var(--line); }
+.news time { flex: none; color: var(--muted); font-variant-numeric: tabular-nums; }
 .cat { margin-bottom: 14px; }
 .cat > summary {
   list-style: none; cursor: pointer; user-select: none;
