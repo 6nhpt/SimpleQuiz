@@ -1,5 +1,6 @@
 @title SI接頭語（24個）
 @category 理科・天文
+@series SI単位
 @suffix
 @fuzzy on
 

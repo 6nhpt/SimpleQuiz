@@ -26,7 +26,8 @@ ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
 def parse_text(text):
     """シード用テキスト形式をクイズ辞書に変換する。
 
-    @title タイトル / @category カテゴリ / @suffix 座,ざ / @fuzzy on|off / @order 10 がヘッダ。
+    @title タイトル / @category カテゴリ / @series まとめ名 / @suffix 座,ざ / @fuzzy on|off / @order 10 がヘッダ。
+    （@series が同じクイズは、ホームでカテゴリの中の1段としてまとめて畳める）
     以降は 1行1項目:  名前 | 別解 | 別解 # メモ
     「## 区分名」の行以降の項目はその区分（group）に入る。
     行頭が「*」の項目はシークレット（総数に数えず、答えると+1される）。
@@ -45,6 +46,8 @@ def parse_text(text):
                 quiz["title"] = val
             elif key == "category":
                 quiz["category"] = val
+            elif key == "series":
+                quiz["series"] = val
             elif key == "suffix":
                 quiz["options"]["suffix"] = [s.strip() for s in val.split(",") if s.strip()]
             elif key == "fuzzy":
@@ -119,6 +122,7 @@ def list_quizzes():
         except (OSError, ValueError):
             continue
         out.append({"id": q["id"], "title": q.get("title", ""), "category": q.get("category", ""),
+                    "series": q.get("series", ""),
                     "count": sum(1 for i in q.get("items", []) if not i.get("secret") and not i.get("ghost")),
                     "created": q.get("created", 0)})
     out.sort(key=lambda q: q["created"])
@@ -148,6 +152,7 @@ def clean_quiz(body, qid, created):
         "id": qid,
         "title": title,
         "category": str(body.get("category", "")).strip(),
+        "series": str(body.get("series", "")).strip(),
         "options": {
             "suffix": [str(s).strip() for s in opts.get("suffix") or [] if str(s).strip()],
             "fuzzy": bool(opts.get("fuzzy", True)),

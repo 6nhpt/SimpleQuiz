@@ -1,5 +1,6 @@
 @title 一級水系（109水系）
 @category 日本の地理
+@series 山・川・自然
 @suffix 水系,すいけい
 @fuzzy off
 

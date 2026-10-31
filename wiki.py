@@ -44,6 +44,8 @@ PATTERNS = {
     "52-weather-symbols": ["{}", "{alias}"],
     "54-si-derived-units": ["{} (単位)", "{}"],
     "23-nato-phonetic": None, "39-wabun-tsuwahyo": None, "47-allergens": None,
+    # 漢字1字の記事は別の意味のものが多いので付けない
+    **{f"{56 + g}-kanji-grade{g}": None for g in range(1, 7)},
 }
 
 # 個別の上書き（先頭から順に試す）

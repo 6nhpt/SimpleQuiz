@@ -1,5 +1,6 @@
 @title 88星座
 @category 理科・天文
+@series 星空
 @suffix 座,ざ
 @fuzzy on
 

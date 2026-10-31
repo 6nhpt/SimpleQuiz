@@ -1,0 +1,8221 @@
+{
+ "title": "小学6年生で習う漢字（191字）",
+ "category": "ことば・記号",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "胃",
+   "aliases": [],
+   "note": "イ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "異",
+   "aliases": [],
+   "note": "イ・こと",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "遺",
+   "aliases": [],
+   "note": "イ・（ユイ）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "域",
+   "aliases": [],
+   "note": "イキ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宇",
+   "aliases": [],
+   "note": "ウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "映",
+   "aliases": [],
+   "note": "エイ・うつる・うつす・はえる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "延",
+   "aliases": [],
+   "note": "エン・のびる・のべる・のばす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "沿",
+   "aliases": [],
+   "note": "エン・そう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "恩",
+   "aliases": [],
+   "note": "オン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "我",
+   "aliases": [],
+   "note": "ガ・われ・わ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "灰",
+   "aliases": [],
+   "note": "カイ・はい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "拡",
+   "aliases": [],
+   "note": "カク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "革",
+   "aliases": [],
+   "note": "カク・かわ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "閣",
+   "aliases": [],
+   "note": "カク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "割",
+   "aliases": [],
+   "note": "カツ・わる・わり・われる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "株",
+   "aliases": [],
+   "note": "かぶ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "干",
+   "aliases": [],
+   "note": "カン・ほす・ひる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "巻",
+   "aliases": [],
+   "note": "カン・まく・まき",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "看",
+   "aliases": [],
+   "note": "カン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "簡",
+   "aliases": [],
+   "note": "カン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "危",
+   "aliases": [],
+   "note": "キ・あぶない・あやうい・あやぶむ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "机",
+   "aliases": [],
+   "note": "キ・つくえ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "揮",
+   "aliases": [],
+   "note": "キ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "貴",
+   "aliases": [],
+   "note": "キ・たっとい・とうとい・たっとぶ…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "疑",
+   "aliases": [],
+   "note": "ギ・うたがう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吸",
+   "aliases": [],
+   "note": "キュウ・すう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "供",
+   "aliases": [],
+   "note": "キョウ・（ク）・そなえる・とも",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "胸",
+   "aliases": [],
+   "note": "キョウ・むね・（むな）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "郷",
+   "aliases": [],
+   "note": "キョウ・ゴウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "勤",
+   "aliases": [],
+   "note": "キン・（ゴン）・つとめる・つとまる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "筋",
+   "aliases": [],
+   "note": "キン・すじ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "系",
+   "aliases": [],
+   "note": "ケイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "敬",
+   "aliases": [],
+   "note": "ケイ・うやまう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "警",
+   "aliases": [],
+   "note": "ケイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "劇",
+   "aliases": [],
+   "note": "ゲキ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "激",
+   "aliases": [],
+   "note": "ゲキ・はげしい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "穴",
+   "aliases": [],
+   "note": "ケツ・あな",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "券",
+   "aliases": [],
+   "note": "ケン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "絹",
+   "aliases": [],
+   "note": "ケン・きぬ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "権",
+   "aliases": [],
+   "note": "ケン・（ゴン）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "憲",
+   "aliases": [],
+   "note": "ケン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "源",
+   "aliases": [],
+   "note": "ゲン・みなもと",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "厳",
+   "aliases": [],
+   "note": "ゲン・（ゴン）・おごそか・きびしい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "己",
+   "aliases": [],
+   "note": "コ・キ・おのれ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "呼",
+   "aliases": [],
+   "note": "コ・よぶ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "誤",
+   "aliases": [],
+   "note": "ゴ・あやまる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "后",
+   "aliases": [],
+   "note": "コウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "孝",
+   "aliases": [],
+   "note": "コウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "皇",
+   "aliases": [],
+   "note": "コウ・オウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "紅",
+   "aliases": [],
+   "note": "コウ・（ク）・べに・くれない",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "降",
+   "aliases": [],
+   "note": "コウ・おりる・おろす・ふる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鋼",
+   "aliases": [],
+   "note": "コウ・はがね",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "刻",
+   "aliases": [],
+   "note": "コク・きざむ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "穀",
+   "aliases": [],
+   "note": "コク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "骨",
+   "aliases": [],
+   "note": "コツ・ほね",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "困",
+   "aliases": [],
+   "note": "コン・こまる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "砂",
+   "aliases": [],
+   "note": "サ・シャ・すな",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "座",
+   "aliases": [],
+   "note": "ザ・すわる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "済",
+   "aliases": [],
+   "note": "サイ・すむ・すます",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "裁",
+   "aliases": [],
+   "note": "サイ・たつ・さばく",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "策",
+   "aliases": [],
+   "note": "サク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "冊",
+   "aliases": [],
+   "note": "サツ・サク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "蚕",
+   "aliases": [],
+   "note": "サン・かいこ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "至",
+   "aliases": [],
+   "note": "シ・いたる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "私",
+   "aliases": [],
+   "note": "シ・わたくし・わたし",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "姿",
+   "aliases": [],
+   "note": "シ・すがた",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "視",
+   "aliases": [],
+   "note": "シ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "詞",
+   "aliases": [],
+   "note": "シ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "誌",
+   "aliases": [],
+   "note": "シ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "磁",
+   "aliases": [],
+   "note": "ジ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "射",
+   "aliases": [],
+   "note": "シャ・いる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "捨",
+   "aliases": [],
+   "note": "シャ・すてる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "尺",
+   "aliases": [],
+   "note": "シャク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "若",
+   "aliases": [],
+   "note": "ジャク・（ニャク）・わかい・もしくは",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "樹",
+   "aliases": [],
+   "note": "ジュ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "収",
+   "aliases": [],
+   "note": "シュウ・おさめる・おさまる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宗",
+   "aliases": [],
+   "note": "シュウ・ソウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "就",
+   "aliases": [],
+   "note": "シュウ・（ジュ）・つく・つける",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "衆",
+   "aliases": [],
+   "note": "シュウ・（シュ）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "従",
+   "aliases": [],
+   "note": "ジュウ・（ショウ）・（ジュ）・したがう…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "縦",
+   "aliases": [],
+   "note": "ジュウ・たて",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "縮",
+   "aliases": [],
+   "note": "シュク・ちぢむ・ちぢまる・ちぢめる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熟",
+   "aliases": [],
+   "note": "ジュク・うれる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "純",
+   "aliases": [],
+   "note": "ジュン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "処",
+   "aliases": [],
+   "note": "ショ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "署",
+   "aliases": [],
+   "note": "ショ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "諸",
+   "aliases": [],
+   "note": "ショ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "除",
+   "aliases": [],
+   "note": "ジョ・（ジ）・のぞく",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "承",
+   "aliases": [],
+   "note": "ショウ・うけたまわる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "将",
+   "aliases": [],
+   "note": "ショウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "傷",
+   "aliases": [],
+   "note": "ショウ・きず・いたむ・いためる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "障",
+   "aliases": [],
+   "note": "ショウ・さわる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "蒸",
+   "aliases": [],
+   "note": "ジョウ・むす・むれる・むらす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "針",
+   "aliases": [],
+   "note": "シン・はり",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "仁",
+   "aliases": [],
+   "note": "ジン・（ニ）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "垂",
+   "aliases": [],
+   "note": "スイ・たれる・たらす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "推",
+   "aliases": [],
+   "note": "スイ・おす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "寸",
+   "aliases": [],
+   "note": "スン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "盛",
+   "aliases": [],
+   "note": "セイ・（ジョウ）・もる・さかる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "聖",
+   "aliases": [],
+   "note": "セイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "誠",
+   "aliases": [],
+   "note": "セイ・まこと",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "舌",
+   "aliases": [],
+   "note": "ゼツ・した",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宣",
+   "aliases": [],
+   "note": "セン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "専",
+   "aliases": [],
+   "note": "セン・もっぱら",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "泉",
+   "aliases": [],
+   "note": "セン・いずみ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "洗",
+   "aliases": [],
+   "note": "セン・あらう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "染",
+   "aliases": [],
+   "note": "セン・そめる・そまる・しみる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "銭",
+   "aliases": [],
+   "note": "セン・ぜに",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "善",
+   "aliases": [],
+   "note": "ゼン・よい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奏",
+   "aliases": [],
+   "note": "ソウ・かなでる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "窓",
+   "aliases": [],
+   "note": "ソウ・まど",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "創",
+   "aliases": [],
+   "note": "ソウ・つくる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "装",
+   "aliases": [],
+   "note": "ソウ・ショウ・よそおう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "層",
+   "aliases": [],
+   "note": "ソウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "操",
+   "aliases": [],
+   "note": "ソウ・みさお・あやつる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "蔵",
+   "aliases": [],
+   "note": "ゾウ・くら",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "臓",
+   "aliases": [],
+   "note": "ゾウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "存",
+   "aliases": [],
+   "note": "ソン・ゾン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "尊",
+   "aliases": [],
+   "note": "ソン・たっとい・とうとい・たっとぶ…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "退",
+   "aliases": [],
+   "note": "タイ・しりぞく・しりぞける",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宅",
+   "aliases": [],
+   "note": "タク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "担",
+   "aliases": [],
+   "note": "タン・かつぐ・になう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "探",
+   "aliases": [],
+   "note": "タン・さぐる・さがす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "誕",
+   "aliases": [],
+   "note": "タン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "段",
+   "aliases": [],
+   "note": "ダン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暖",
+   "aliases": [],
+   "note": "ダン・あたたか・あたたかい・あたたまる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "値",
+   "aliases": [],
+   "note": "チ・ね・あたい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宙",
+   "aliases": [],
+   "note": "チュウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "忠",
+   "aliases": [],
+   "note": "チュウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "著",
+   "aliases": [],
+   "note": "チョ・あらわす・いちじるしい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "庁",
+   "aliases": [],
+   "note": "チョウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "頂",
+   "aliases": [],
+   "note": "チョウ・いただく・いただき",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "腸",
+   "aliases": [],
+   "note": "チョウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "潮",
+   "aliases": [],
+   "note": "チョウ・しお",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "賃",
+   "aliases": [],
+   "note": "チン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "痛",
+   "aliases": [],
+   "note": "ツウ・いたい・いたむ・いためる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "敵",
+   "aliases": [],
+   "note": "テキ・かたき",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "展",
+   "aliases": [],
+   "note": "テン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "討",
+   "aliases": [],
+   "note": "トウ・うつ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "党",
+   "aliases": [],
+   "note": "トウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "糖",
+   "aliases": [],
+   "note": "トウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "届",
+   "aliases": [],
+   "note": "とどける・とどく",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "難",
+   "aliases": [],
+   "note": "ナン・かたい・むずかしい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "乳",
+   "aliases": [],
+   "note": "ニュウ・ちち・ち",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "認",
+   "aliases": [],
+   "note": "ニン・みとめる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "納",
+   "aliases": [],
+   "note": "ノウ・（ナッ）・（ナ）・（ナン）…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "脳",
+   "aliases": [],
+   "note": "ノウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "派",
+   "aliases": [],
+   "note": "ハ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "拝",
+   "aliases": [],
+   "note": "ハイ・おがむ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "背",
+   "aliases": [],
+   "note": "ハイ・せ・せい・そむく…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "肺",
+   "aliases": [],
+   "note": "ハイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "俳",
+   "aliases": [],
+   "note": "ハイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "班",
+   "aliases": [],
+   "note": "ハン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "晩",
+   "aliases": [],
+   "note": "バン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "否",
+   "aliases": [],
+   "note": "ヒ・いな",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "批",
+   "aliases": [],
+   "note": "ヒ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秘",
+   "aliases": [],
+   "note": "ヒ・ひめる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "俵",
+   "aliases": [],
+   "note": "ヒョウ・たわら",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "腹",
+   "aliases": [],
+   "note": "フク・はら",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奮",
+   "aliases": [],
+   "note": "フン・ふるう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "並",
+   "aliases": [],
+   "note": "ヘイ・なみ・ならべる・ならぶ…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "陛",
+   "aliases": [],
+   "note": "ヘイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "閉",
+   "aliases": [],
+   "note": "ヘイ・とじる・とざす・しめる…",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "片",
+   "aliases": [],
+   "note": "ヘン・かた",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "補",
+   "aliases": [],
+   "note": "ホ・おぎなう",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "暮",
+   "aliases": [],
+   "note": "ボ・くれる・くらす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宝",
+   "aliases": [],
+   "note": "ホウ・たから",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "訪",
+   "aliases": [],
+   "note": "ホウ・おとずれる・たずねる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "亡",
+   "aliases": [],
+   "note": "ボウ・（モウ）・ない",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "忘",
+   "aliases": [],
+   "note": "ボウ・わすれる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "棒",
+   "aliases": [],
+   "note": "ボウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "枚",
+   "aliases": [],
+   "note": "マイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "幕",
+   "aliases": [],
+   "note": "マク・バク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "密",
+   "aliases": [],
+   "note": "ミツ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "盟",
+   "aliases": [],
+   "note": "メイ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "模",
+   "aliases": [],
+   "note": "モ・ボ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "訳",
+   "aliases": [],
+   "note": "ヤク・わけ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "郵",
+   "aliases": [],
+   "note": "ユウ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "優",
+   "aliases": [],
+   "note": "ユウ・やさしい・すぐれる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "預",
+   "aliases": [],
+   "note": "ヨ・あずける・あずかる",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "幼",
+   "aliases": [],
+   "note": "ヨウ・おさない",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "欲",
+   "aliases": [],
+   "note": "ヨク・ほっする・ほしい",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "翌",
+   "aliases": [],
+   "note": "ヨク",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "乱",
+   "aliases": [],
+   "note": "ラン・みだれる・みだす",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "卵",
+   "aliases": [],
+   "note": "ラン・たまご",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "覧",
+   "aliases": [],
+   "note": "ラン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "裏",
+   "aliases": [],
+   "note": "リ・うら",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "律",
+   "aliases": [],
+   "note": "リツ・（リチ）",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "臨",
+   "aliases": [],
+   "note": "リン・のぞむ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "朗",
+   "aliases": [],
+   "note": "ロウ・ほがらか",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "論",
+   "aliases": [],
+   "note": "ロン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "愛",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "悪",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "圧",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "安",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "案",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "暗",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "以",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "衣",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "位",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "囲",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "医",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "委",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "移",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "意",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "育",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "一",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "茨",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "引",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "印",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "因",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "員",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "院",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "飲",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "右",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "羽",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "雨",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "運",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "雲",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "永",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "泳",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "英",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "栄",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "営",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "衛",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "易",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "益",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "液",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "駅",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "円",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "媛",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "園",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "遠",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "塩",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "演",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "王",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "央",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "応",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "往",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "桜",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "横",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "岡",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "屋",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "億",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "音",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "温",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "下",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "化",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "火",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "加",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "可",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "仮",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "何",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "花",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "価",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "果",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "河",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "科",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "夏",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "家",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "荷",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貨",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "過",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "歌",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "課",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "画",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "芽",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "賀",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "回",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "会",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "快",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "改",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "海",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "界",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "械",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "絵",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "開",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "階",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "解",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貝",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "外",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "害",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "街",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "各",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "角",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "格",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "覚",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "確",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "学",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "楽",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "額",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "潟",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "活",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "刊",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "完",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "官",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "寒",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "間",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "幹",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "感",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "漢",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "慣",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "管",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "関",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "館",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "観",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "丸",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "岸",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "岩",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "眼",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "顔",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "願",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "気",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "岐",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "希",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "汽",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "季",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "紀",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "記",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "起",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "帰",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "基",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "寄",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "規",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "喜",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "期",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "旗",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "器",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "機",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "技",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "義",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "議",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "客",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "逆",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "九",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "久",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弓",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "旧",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "休",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "求",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "究",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "泣",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "急",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "級",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "宮",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "救",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "球",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "給",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "牛",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "去",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "居",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "挙",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "許",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "魚",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "漁",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "共",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "京",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "協",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "強",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "教",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "境",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "橋",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鏡",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "競",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "業",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "曲",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "局",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "極",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "玉",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "均",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "近",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "金",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "禁",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "銀",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "区",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "句",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "苦",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "具",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "空",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "熊",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "君",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "訓",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "軍",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "郡",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "群",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "兄",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "形",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "径",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "係",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "型",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "計",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "経",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "景",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "軽",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "芸",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "欠",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "血",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "決",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "結",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "潔",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "月",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "犬",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "件",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "見",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "建",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "研",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "県",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "健",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "険",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "検",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "験",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "元",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "言",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "限",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "原",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "現",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "減",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "戸",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "古",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "固",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "故",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "個",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "庫",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "湖",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "五",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "午",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "後",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "語",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "護",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "口",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "工",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "公",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "功",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "広",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "交",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "光",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "向",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "好",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "考",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "行",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "効",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "幸",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "厚",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "香",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "候",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "校",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "耕",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "航",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "高",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "康",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "黄",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "港",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鉱",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "構",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "興",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "講",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "号",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "合",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "告",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "谷",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "国",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "黒",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "今",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "根",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "混",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "左",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "佐",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "査",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "差",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "才",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "再",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "災",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "妻",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "採",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "祭",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "細",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "菜",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "最",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "際",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "埼",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "在",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "材",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "財",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "罪",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "崎",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "作",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "昨",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "札",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "刷",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "殺",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "察",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "雑",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "皿",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "三",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "山",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "参",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "産",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "散",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "算",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "酸",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "賛",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "残",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "士",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "子",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "支",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "止",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "氏",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "仕",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "史",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "司",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "四",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "市",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "矢",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "死",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "糸",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "志",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "使",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "始",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "姉",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "枝",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "思",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "指",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "師",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "紙",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "歯",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "試",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "詩",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "資",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "飼",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "示",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "字",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "寺",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "次",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "耳",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "自",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "似",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "児",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "事",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "治",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "持",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "時",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "滋",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "辞",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鹿",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "式",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "識",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "七",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "失",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "室",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "質",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "実",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "写",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "社",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "車",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "舎",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "者",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "謝",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "借",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弱",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "手",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "主",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "守",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "取",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "首",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "酒",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "種",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "受",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "授",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "州",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "周",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "拾",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "秋",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "修",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "終",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "習",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "週",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "集",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "十",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "住",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "重",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "祝",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "宿",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "出",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "述",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "術",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "春",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "順",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "準",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "初",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "所",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "書",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "暑",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "助",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "序",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "小",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "少",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "招",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "松",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "昭",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "消",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "笑",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "唱",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "商",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "章",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "勝",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "焼",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "証",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "象",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "照",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "賞",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "上",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "条",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "状",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "乗",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "城",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "常",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "情",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "場",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "縄",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "色",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "食",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "植",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "織",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "職",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "心",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "申",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "臣",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "身",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "信",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "神",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "真",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "深",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "進",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "森",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "新",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "親",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "人",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "図",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "水",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "数",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "井",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "世",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "正",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "生",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "成",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "西",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "声",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "制",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "性",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "青",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "政",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "星",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "省",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "清",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "晴",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "勢",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "精",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "製",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "静",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "整",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "税",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "夕",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "石",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "赤",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "昔",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "席",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "責",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "積",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "績",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "切",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "折",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "接",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "設",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "雪",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "節",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "説",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "絶",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "千",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "川",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "先",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "浅",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "船",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "戦",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "線",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "選",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "全",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "前",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "然",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "祖",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "素",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "組",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "早",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "争",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "走",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "相",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "草",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "送",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "倉",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "巣",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "想",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "総",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "造",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "像",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "増",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "束",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "足",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "則",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "息",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "速",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "側",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "測",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "族",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "属",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "続",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "卒",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "率",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "村",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "孫",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "損",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "他",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "多",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "打",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "太",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "対",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "体",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "待",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "帯",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貸",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "隊",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "態",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "代",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "台",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "第",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "題",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "達",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "単",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "炭",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "短",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "団",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "男",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "断",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "談",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "地",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "池",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "知",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "置",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "竹",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "築",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "茶",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "着",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "中",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "仲",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "虫",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "沖",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "注",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "昼",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "柱",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貯",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "丁",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "兆",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "町",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "長",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "帳",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "張",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鳥",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "朝",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "調",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "直",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "追",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "通",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "低",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弟",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "定",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "底",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "庭",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "停",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "提",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "程",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "的",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "笛",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "適",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鉄",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "天",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "典",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "店",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "点",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "転",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "田",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "伝",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "電",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "徒",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "都",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "土",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "努",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "度",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "刀",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "冬",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "灯",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "当",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "投",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "豆",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "島",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "湯",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "登",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "答",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "等",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "統",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "頭",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "同",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "動",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "堂",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "童",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "道",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "働",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "銅",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "導",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "特",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "得",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "徳",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "毒",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "独",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "読",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "栃",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "奈",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "内",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "梨",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "南",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "二",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "肉",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "日",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "入",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "任",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "熱",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "年",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "念",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "燃",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "能",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "農",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "波",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "破",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "馬",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "配",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "敗",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "売",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "倍",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "梅",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "買",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "白",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "博",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "麦",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "箱",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "畑",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "八",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "発",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "反",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "半",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "犯",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "判",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "坂",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "阪",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "板",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "版",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "飯",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "番",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "比",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "皮",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "肥",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "非",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "飛",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "悲",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "費",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "美",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "備",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鼻",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "必",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "筆",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "百",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "氷",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "表",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "票",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "評",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "標",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "秒",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "病",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "品",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貧",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "不",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "夫",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "父",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "付",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "布",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "府",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "阜",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "負",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "婦",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "富",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "武",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "部",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "風",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "服",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "副",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "復",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "福",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "複",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "仏",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "物",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "粉",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "分",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "文",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "聞",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "平",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "兵",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "米",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "別",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "辺",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "返",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "変",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "編",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "弁",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "便",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "勉",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "歩",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "保",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "母",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "墓",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "方",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "包",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "放",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "法",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "報",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "豊",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "防",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "望",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "貿",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "暴",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "北",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "木",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "牧",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "本",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "毎",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "妹",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "末",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "万",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "満",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "未",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "味",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "脈",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "民",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "務",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "無",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "夢",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "名",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "命",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "明",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "迷",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "鳴",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "面",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "綿",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "毛",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "目",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "門",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "問",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "夜",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "野",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "役",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "約",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "薬",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "由",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "油",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "輸",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "友",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "有",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "勇",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "遊",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "予",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "余",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "用",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "羊",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "洋",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "要",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "容",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "葉",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "陽",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "様",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "養",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "曜",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "浴",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "来",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "落",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "利",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "里",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "理",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "陸",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "立",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "略",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "流",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "留",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "旅",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "両",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "良",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "料",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "量",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "領",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "力",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "緑",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "林",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "輪",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "類",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "令",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "礼",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "冷",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "例",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "歴",
+   "aliases": [],
+   "note": "5年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "列",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "連",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "練",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "路",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "老",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "労",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "六",
+   "aliases": [],
+   "note": "1年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "録",
+   "aliases": [],
+   "note": "4年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "和",
+   "aliases": [],
+   "note": "3年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "話",
+   "aliases": [],
+   "note": "2年生で習う漢字",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "series": "小学校で習う漢字",
+ "created": 206.0,
+ "id": "62-kanji-grade6"
+}

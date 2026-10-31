@@ -1,5 +1,6 @@
 @title 固有の名称をもつSI組立単位（22個）
 @category 理科・天文
+@series SI単位
 @suffix
 
 ラジアン | ラディアン | radian # 平面角

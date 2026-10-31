@@ -1,5 +1,6 @@
 @title 六曜
 @category 歴史・文化
+@series 暦
 @suffix
 @fuzzy off
 先勝 | せんしょう | さきがち | せんかち | さきかち # 午前は吉、午後は凶

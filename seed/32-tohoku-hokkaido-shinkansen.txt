@@ -1,5 +1,6 @@
 @title 東北・北海道新幹線の駅
 @category 鉄道
+@series 新幹線の駅
 @suffix 駅,えき
 @fuzzy off
 

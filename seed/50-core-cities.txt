@@ -1,5 +1,6 @@
 @title 中核市以上の市（82市）
 @category 日本の地理
+@series 市と区
 @suffix 市,し
 @fuzzy off
 

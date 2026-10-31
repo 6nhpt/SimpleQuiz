@@ -1,5 +1,6 @@
 @title 1等星（21個）
 @category 理科・天文
+@series 星空
 @suffix
 @fuzzy on
 シリウス # おおいぬ座

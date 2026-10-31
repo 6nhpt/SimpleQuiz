@@ -1,5 +1,6 @@
 @title 三十六歌仙
 @category 歴史・文化
+@series 歌仙
 @suffix
 @fuzzy off
 柿本人麻呂 | 柿本人麿 | かきのもとのひとまろ

@@ -1,5 +1,6 @@
 @title 東京23区
 @category 日本の地理
+@series 市と区
 @suffix 区,く
 @fuzzy off
 千代田区 | ちよだ

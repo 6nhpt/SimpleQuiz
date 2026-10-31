@@ -144,6 +144,7 @@ async function renderHome() {
   }
   const cats = [...groups.keys()].sort((a, b) => (a === "") - (b === ""));
   const closed = new Set(JSON.parse(localStorage.getItem("sq:closed") || "[]"));
+  const opened = new Set(JSON.parse(localStorage.getItem("sq:series-open") || "[]"));  // まとめは最初は畳んでおく
 
   const card = (q) => {
     const p = loadProg(q.id);
@@ -161,11 +162,47 @@ async function renderHome() {
     </li>`;
   };
 
+  // 同じまとめ（series）のクイズが2つ以上あれば、最初に出てくる位置に1つの畳めるカードとしてまとめる
+  const seriesCard = (c, name, qs) => {
+    const key = `${c}/${name}`;
+    let n = 0, total = 0, done = 0;
+    for (const q of qs) {
+      const p = loadProg(q.id);
+      const a = p.answered.length - (p.secrets || 0);
+      n += Math.min(a, q.count); total += q.count;
+      if (a >= q.count) done++;
+    }
+    return `
+    <li class="series">
+      <details data-key="${esc(key)}" ${opened.has(key) ? "open" : ""}>
+        <summary class="series-head">
+          <span class="card-title">${esc(name)}</span>
+          <span class="card-sub">${qs.length}クイズ・${total}個${n ? ` ・ ${n}/${total}` : ""}
+            ${done === qs.length ? `<span class="tag done">コンプリート</span>` : done ? `<span class="tag">${done}/${qs.length}完了</span>` : ""}</span>
+        </summary>
+        <ul class="cards">${qs.map(card).join("")}</ul>
+      </details>
+    </li>`;
+  };
+  const catBody = (c) => {
+    const qs = groups.get(c);
+    const bySeries = new Map();
+    for (const q of qs) if (q.series) bySeries.set(q.series, [...(bySeries.get(q.series) || []), q]);
+    const out = [];
+    for (const q of qs) {
+      const ss = q.series && bySeries.get(q.series);
+      if (ss && ss.length > 1) {
+        if (ss[0] === q) out.push(seriesCard(c, q.series, ss));
+      } else out.push(card(q));
+    }
+    return out.join("");
+  };
+
   $app.innerHTML = `
     ${cats.map((c) => `
       <details class="cat" data-cat="${esc(c)}" style="--h:${catHue(c)}" ${closed.has(c) ? "" : "open"}>
         <summary><span class="cat-icon">${catIcon(c)}</span>${esc(c || "未分類")}<span class="muted">${groups.get(c).length}</span></summary>
-        <ul class="cards">${groups.get(c).map(card).join("")}</ul>
+        <ul class="cards">${catBody(c)}</ul>
       </details>`).join("")}
     ${STATIC ? "" : `<a class="btn primary wide" href="#/new">＋ クイズを追加</a>`}
     <div class="reset-area">
@@ -204,6 +241,12 @@ async function renderHome() {
     });
   };
 
+  for (const d of $app.querySelectorAll(".series > details")) {
+    d.addEventListener("toggle", () => {
+      d.open ? opened.add(d.dataset.key) : opened.delete(d.dataset.key);
+      localStorage.setItem("sq:series-open", JSON.stringify([...opened]));
+    });
+  }
   for (const d of $app.querySelectorAll("details.cat")) {
     d.addEventListener("toggle", () => {
       d.open ? closed.delete(d.dataset.cat) : closed.add(d.dataset.cat);
@@ -517,6 +560,7 @@ async function renderEdit(id) {
     api("GET"),
   ]);
   const cats = [...new Set(list.map((q) => q.category).filter(Boolean))];
+  const series = [...new Set(list.map((q) => q.series).filter(Boolean))];
   setBar(id ? "編集" : "クイズを追加", id ? `#/view/${id}` : "#/");
   $app.innerHTML = `
     <form id="edit" class="edit">
@@ -524,6 +568,10 @@ async function renderEdit(id) {
       <label>カテゴリ（任意）
         <input id="e-cat" list="e-cats" value="${esc(quiz.category || "")}" placeholder="選択 または 新しく入力">
         <datalist id="e-cats">${cats.map((c) => `<option value="${esc(c)}">`).join("")}</datalist>
+      </label>
+      <label>まとめ（任意・同じ名前のクイズはホームで1つに畳める）
+        <input id="e-series" list="e-series-list" value="${esc(quiz.series || "")}" placeholder="例：新幹線の駅">
+        <datalist id="e-series-list">${series.map((c) => `<option value="${esc(c)}">`).join("")}</datalist>
       </label>
       <label>無視する接尾辞（カンマ区切り・任意）
         <input id="e-suffix" value="${esc(quiz.options.suffix.join(","))}" placeholder="例：州,しゅう">
@@ -559,6 +607,7 @@ async function renderEdit(id) {
   const collect = () => ({
     title: document.getElementById("e-title").value.trim(),
     category: document.getElementById("e-cat").value.trim(),
+    series: document.getElementById("e-series").value.trim(),
     options: {
       suffix: document.getElementById("e-suffix").value.split(/[,、，]/).map((s) => s.trim()).filter(Boolean),
       fuzzy: document.getElementById("e-fuzzy").checked,

@@ -1,5 +1,6 @@
 @title 二十四節気
 @category 歴史・文化
+@series 暦
 @suffix
 @fuzzy off
 立春 | りっしゅん # 2月4日頃

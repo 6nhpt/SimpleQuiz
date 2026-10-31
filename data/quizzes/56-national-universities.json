@@ -1,0 +1,1114 @@
+{
+ "title": "国立大学（85校）",
+ "category": "日本の地理",
+ "options": {
+  "suffix": [
+   "大学"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "北海道大学",
+   "aliases": [
+    "北海道大",
+    "北大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北海道教育大学",
+   "aliases": [
+    "北海道教育大",
+    "北教大",
+    "道教大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "室蘭工業大学",
+   "aliases": [
+    "室蘭工業大",
+    "室工大",
+    "室工"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小樽商科大学",
+   "aliases": [
+    "小樽商科大",
+    "樽商",
+    "小樽商大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "帯広畜産大学",
+   "aliases": [
+    "帯広畜産大",
+    "帯畜",
+    "帯畜大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北見工業大学",
+   "aliases": [
+    "北見工業大",
+    "北見工大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "旭川医科大学",
+   "aliases": [
+    "旭川医科大",
+    "旭医大",
+    "旭川医大"
+   ],
+   "note": "北海道",
+   "group": "北海道",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "弘前大学",
+   "aliases": [
+    "弘前大",
+    "弘大"
+   ],
+   "note": "青森県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岩手大学",
+   "aliases": [
+    "岩手大",
+    "岩大"
+   ],
+   "note": "岩手県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東北大学",
+   "aliases": [
+    "東北大"
+   ],
+   "note": "宮城県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮城教育大学",
+   "aliases": [
+    "宮城教育大",
+    "宮教大",
+    "宮教"
+   ],
+   "note": "宮城県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "秋田大学",
+   "aliases": [
+    "秋田大",
+    "秋大"
+   ],
+   "note": "秋田県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山形大学",
+   "aliases": [
+    "山形大"
+   ],
+   "note": "山形県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福島大学",
+   "aliases": [
+    "福島大"
+   ],
+   "note": "福島県",
+   "group": "東北",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "茨城大学",
+   "aliases": [
+    "茨城大",
+    "茨大"
+   ],
+   "note": "茨城県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "筑波大学",
+   "aliases": [
+    "筑波大",
+    "筑波",
+    "筑大"
+   ],
+   "note": "茨城県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "筑波技術大学",
+   "aliases": [
+    "筑波技術大",
+    "筑技大"
+   ],
+   "note": "茨城県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宇都宮大学",
+   "aliases": [
+    "宇都宮大",
+    "宇大"
+   ],
+   "note": "栃木県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "群馬大学",
+   "aliases": [
+    "群馬大",
+    "群大"
+   ],
+   "note": "群馬県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "埼玉大学",
+   "aliases": [
+    "埼玉大",
+    "埼大"
+   ],
+   "note": "埼玉県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "千葉大学",
+   "aliases": [
+    "千葉大",
+    "千大"
+   ],
+   "note": "千葉県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京大学",
+   "aliases": [
+    "東京大",
+    "東大"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京外国語大学",
+   "aliases": [
+    "東京外国語大",
+    "外大",
+    "東外大",
+    "外語大",
+    "TUFS"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京学芸大学",
+   "aliases": [
+    "東京学芸大",
+    "学芸大",
+    "東京学芸"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京農工大学",
+   "aliases": [
+    "東京農工大",
+    "農工大",
+    "東京農工"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京藝術大学",
+   "aliases": [
+    "東京藝術大",
+    "東京芸術大学",
+    "芸大",
+    "藝大",
+    "東京芸大",
+    "東京藝大"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京科学大学",
+   "aliases": [
+    "東京科学大",
+    "科学大",
+    "東京科学",
+    "Science Tokyo"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京海洋大学",
+   "aliases": [
+    "東京海洋大",
+    "海洋大",
+    "東京海洋"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "お茶の水女子大学",
+   "aliases": [
+    "お茶の水女子大",
+    "お茶大",
+    "お茶の水",
+    "お茶女"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "電気通信大学",
+   "aliases": [
+    "電気通信大",
+    "電通大",
+    "UEC"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "一橋大学",
+   "aliases": [
+    "一橋大",
+    "一橋"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "政策研究大学院大学",
+   "aliases": [
+    "政策研究大学院大",
+    "政策研究大学院",
+    "政策研究大",
+    "GRIPS"
+   ],
+   "note": "東京都",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "横浜国立大学",
+   "aliases": [
+    "横浜国立大",
+    "横国",
+    "横浜国大",
+    "YNU"
+   ],
+   "note": "神奈川県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "総合研究大学院大学",
+   "aliases": [
+    "総合研究大学院大",
+    "総研大",
+    "SOKENDAI"
+   ],
+   "note": "神奈川県",
+   "group": "関東",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山梨大学",
+   "aliases": [
+    "山梨大",
+    "梨大"
+   ],
+   "note": "山梨県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "信州大学",
+   "aliases": [
+    "信州大",
+    "信大"
+   ],
+   "note": "長野県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新潟大学",
+   "aliases": [
+    "新潟大",
+    "新大"
+   ],
+   "note": "新潟県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長岡技術科学大学",
+   "aliases": [
+    "長岡技術科学大",
+    "長岡技大",
+    "長岡技科大",
+    "長技大"
+   ],
+   "note": "新潟県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上越教育大学",
+   "aliases": [
+    "上越教育大",
+    "上教大",
+    "上越教大"
+   ],
+   "note": "新潟県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岐阜大学",
+   "aliases": [
+    "岐阜大",
+    "岐大"
+   ],
+   "note": "岐阜県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "静岡大学",
+   "aliases": [
+    "静岡大",
+    "静大"
+   ],
+   "note": "静岡県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浜松医科大学",
+   "aliases": [
+    "浜松医科大",
+    "浜医",
+    "浜医大",
+    "浜松医大"
+   ],
+   "note": "静岡県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋大学",
+   "aliases": [
+    "名古屋大",
+    "名大"
+   ],
+   "note": "愛知県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "愛知教育大学",
+   "aliases": [
+    "愛知教育大",
+    "愛教大",
+    "愛教"
+   ],
+   "note": "愛知県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋工業大学",
+   "aliases": [
+    "名古屋工業大",
+    "名工大",
+    "名工"
+   ],
+   "note": "愛知県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "豊橋技術科学大学",
+   "aliases": [
+    "豊橋技術科学大",
+    "豊橋技大",
+    "豊技大",
+    "豊橋技科大"
+   ],
+   "note": "愛知県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "富山大学",
+   "aliases": [
+    "富山大",
+    "富大"
+   ],
+   "note": "富山県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "金沢大学",
+   "aliases": [
+    "金沢大",
+    "金大"
+   ],
+   "note": "石川県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "北陸先端科学技術大学院大学",
+   "aliases": [
+    "北陸先端科学技術大学院大",
+    "北陸先端",
+    "北陸先端大",
+    "JAIST",
+    "ジャイスト"
+   ],
+   "note": "石川県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福井大学",
+   "aliases": [
+    "福井大"
+   ],
+   "note": "福井県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "三重大学",
+   "aliases": [
+    "三重大"
+   ],
+   "note": "三重県",
+   "group": "中部",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "滋賀大学",
+   "aliases": [
+    "滋賀大",
+    "滋大"
+   ],
+   "note": "滋賀県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "滋賀医科大学",
+   "aliases": [
+    "滋賀医科大",
+    "滋賀医大",
+    "滋医大"
+   ],
+   "note": "滋賀県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "京都大学",
+   "aliases": [
+    "京都大",
+    "京大"
+   ],
+   "note": "京都府",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "京都教育大学",
+   "aliases": [
+    "京都教育大",
+    "京教",
+    "京教大"
+   ],
+   "note": "京都府",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "京都工芸繊維大学",
+   "aliases": [
+    "京都工芸繊維大",
+    "工繊",
+    "工繊大",
+    "京工繊",
+    "京都工繊"
+   ],
+   "note": "京都府",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪大学",
+   "aliases": [
+    "大阪大",
+    "阪大"
+   ],
+   "note": "大阪府",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大阪教育大学",
+   "aliases": [
+    "大阪教育大",
+    "大教",
+    "大教大",
+    "大阪教大"
+   ],
+   "note": "大阪府",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "兵庫教育大学",
+   "aliases": [
+    "兵庫教育大",
+    "兵教",
+    "兵教大"
+   ],
+   "note": "兵庫県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神戸大学",
+   "aliases": [
+    "神戸大",
+    "神大"
+   ],
+   "note": "兵庫県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奈良教育大学",
+   "aliases": [
+    "奈良教育大",
+    "奈教",
+    "奈良教大"
+   ],
+   "note": "奈良県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奈良女子大学",
+   "aliases": [
+    "奈良女子大",
+    "奈良女",
+    "奈女"
+   ],
+   "note": "奈良県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "奈良先端科学技術大学院大学",
+   "aliases": [
+    "奈良先端科学技術大学院大",
+    "奈良先端",
+    "奈良先端大",
+    "NAIST",
+    "ナイスト"
+   ],
+   "note": "奈良県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "和歌山大学",
+   "aliases": [
+    "和歌山大",
+    "和大"
+   ],
+   "note": "和歌山県",
+   "group": "近畿",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鳥取大学",
+   "aliases": [
+    "鳥取大",
+    "鳥大"
+   ],
+   "note": "鳥取県",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "島根大学",
+   "aliases": [
+    "島根大",
+    "島大"
+   ],
+   "note": "島根県",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岡山大学",
+   "aliases": [
+    "岡山大",
+    "岡大"
+   ],
+   "note": "岡山県",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "広島大学",
+   "aliases": [
+    "広島大",
+    "広大"
+   ],
+   "note": "広島県",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "山口大学",
+   "aliases": [
+    "山口大"
+   ],
+   "note": "山口県",
+   "group": "中国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "徳島大学",
+   "aliases": [
+    "徳島大",
+    "徳大"
+   ],
+   "note": "徳島県",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鳴門教育大学",
+   "aliases": [
+    "鳴門教育大",
+    "鳴教",
+    "鳴門教大"
+   ],
+   "note": "徳島県",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "香川大学",
+   "aliases": [
+    "香川大",
+    "香大"
+   ],
+   "note": "香川県",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "愛媛大学",
+   "aliases": [
+    "愛媛大"
+   ],
+   "note": "愛媛県",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高知大学",
+   "aliases": [
+    "高知大"
+   ],
+   "note": "高知県",
+   "group": "四国",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "九州大学",
+   "aliases": [
+    "九州大",
+    "九大"
+   ],
+   "note": "福岡県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "九州工業大学",
+   "aliases": [
+    "九州工業大",
+    "九工大",
+    "九州工大"
+   ],
+   "note": "福岡県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福岡教育大学",
+   "aliases": [
+    "福岡教育大",
+    "福教大",
+    "福教"
+   ],
+   "note": "福岡県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "佐賀大学",
+   "aliases": [
+    "佐賀大",
+    "佐大"
+   ],
+   "note": "佐賀県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "長崎大学",
+   "aliases": [
+    "長崎大",
+    "長大"
+   ],
+   "note": "長崎県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熊本大学",
+   "aliases": [
+    "熊本大",
+    "熊大"
+   ],
+   "note": "熊本県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大分大学",
+   "aliases": [
+    "大分大"
+   ],
+   "note": "大分県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宮崎大学",
+   "aliases": [
+    "宮崎大"
+   ],
+   "note": "宮崎県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鹿児島大学",
+   "aliases": [
+    "鹿児島大",
+    "鹿大"
+   ],
+   "note": "鹿児島県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鹿屋体育大学",
+   "aliases": [
+    "鹿屋体育大",
+    "鹿屋体大",
+    "鹿屋体育"
+   ],
+   "note": "鹿児島県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "琉球大学",
+   "aliases": [
+    "琉球大",
+    "琉大"
+   ],
+   "note": "沖縄県",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京工業大学",
+   "aliases": [
+    "東工大",
+    "東京工大"
+   ],
+   "note": "2024年に東京医科歯科大学と統合して{東京科学大学|○○大学}に",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京医科歯科大学",
+   "aliases": [
+    "医科歯科",
+    "医科歯科大",
+    "東京医科歯科大"
+   ],
+   "note": "2024年に東京工業大学と統合して{東京科学大学|○○大学}に",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大阪外国語大学",
+   "aliases": [
+    "大阪外大",
+    "阪外"
+   ],
+   "note": "2007年に{大阪大学|○○大学}と統合",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京水産大学",
+   "aliases": [],
+   "note": "2003年に東京商船大学と統合して{東京海洋大学|○○大学}に",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京商船大学",
+   "aliases": [],
+   "note": "2003年に東京水産大学と統合して{東京海洋大学|○○大学}に",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "神戸商船大学",
+   "aliases": [],
+   "note": "2003年に{神戸大学|○○大学}と統合",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "富山医科薬科大学",
+   "aliases": [],
+   "note": "2005年に{富山大学|○○大学}と統合",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京教育大学",
+   "aliases": [
+    "教育大"
+   ],
+   "note": "1978年に閉学（後身は{筑波大学|○○大学}）",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大阪公立大学",
+   "aliases": [
+    "大阪公大",
+    "公大"
+   ],
+   "note": "公立大学",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "東京都立大学",
+   "aliases": [
+    "都立大",
+    "首都大学東京",
+    "首都大"
+   ],
+   "note": "公立大学",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "防衛大学校",
+   "aliases": [
+    "防大"
+   ],
+   "note": "防衛省の大学校（大学ではない）",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "防衛医科大学校",
+   "aliases": [
+    "防衛医大"
+   ],
+   "note": "防衛省の大学校（大学ではない）",
+   "group": "九州・沖縄",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "56-national-universities",
+ "created": 54.0
+}

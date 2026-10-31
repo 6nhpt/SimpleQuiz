@@ -1,5 +1,6 @@
 @title 江戸幕府の将軍
 @category 歴史・文化
+@series 歴代のトップ
 @suffix
 @fuzzy off
 徳川家康 | 家康 | いえやす | とくがわいえやす # 初代

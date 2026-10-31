@@ -1,5 +1,6 @@
 @title 琵琶湖に面した市
 @category 日本の地理
+@series 市と区
 @suffix 市,し
 @fuzzy off
 大津市 | おおつ # 南湖西岸

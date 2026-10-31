@@ -1,5 +1,6 @@
 @title 和文通話表
 @category ことば・記号
+@series 通話表
 @suffix
 @fuzzy off
 

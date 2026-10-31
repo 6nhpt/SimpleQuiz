@@ -96,6 +96,15 @@ main { max-width: 760px; margin: 0 auto; padding: 12px 12px calc(40px + env(safe
 .cat > summary .muted { color: var(--muted); font-weight: normal; font-size: 13px; }
 .cat-icon { font-size: 17px; }
 .cat .card { border-left: 4px solid var(--accent); background: linear-gradient(90deg, var(--accent-bg), transparent 60%), var(--card); }
+/* まとめ（series）: カテゴリの中のもう1段 */
+.series > details { border-radius: 12px; border: 1px solid var(--line); border-left: 4px solid var(--accent);
+  background: repeating-linear-gradient(135deg, var(--accent-bg) 0 8px, transparent 8px 16px), var(--card); }
+.series-head { list-style: none; cursor: pointer; user-select: none; display: flex; flex-direction: column; padding: 14px 16px 14px 34px; position: relative; }
+.series-head::-webkit-details-marker { display: none; }
+.series-head::before { content: "▸"; position: absolute; left: 14px; top: 15px; color: var(--accent); transition: transform .15s; }
+.series > details[open] > .series-head::before { transform: rotate(90deg); }
+.series .cards { padding: 0 10px 10px 18px; gap: 8px; }
+.series .card { border-left-width: 3px; }
 .cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
 .card { display: flex; background: var(--card); border-radius: 12px; border: 1px solid var(--line); overflow: hidden; }
 .card-main { flex: 1; padding: 14px 16px; display: flex; flex-direction: column; }

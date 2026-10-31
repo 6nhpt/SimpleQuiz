@@ -1,5 +1,6 @@
 @title 政令指定都市
 @category 日本の地理
+@series 市と区
 @suffix 市,し
 @fuzzy off
 札幌市 | さっぽろ # 北海道

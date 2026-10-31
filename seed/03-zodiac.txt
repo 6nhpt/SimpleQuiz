@@ -1,5 +1,6 @@
 @title 黄道12星座
 @category 理科・天文
+@series 星空
 @suffix 座,ざ
 @fuzzy on
 おひつじ座 | 牡羊座 | 白羊宮 # 3/21〜4/19

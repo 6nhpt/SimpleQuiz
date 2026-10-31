@@ -1,5 +1,6 @@
 @title 世界の首都（国連加盟国）
 @category 世界の地理
+@series 国と首都
 @suffix
 @fuzzy on
 

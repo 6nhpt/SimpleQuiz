@@ -1,5 +1,6 @@
 @title 歴代アメリカ大統領
 @category 歴史・文化
+@series 歴代のトップ
 @suffix 大統領,だいとうりょう
 @fuzzy on
 

@@ -1,5 +1,6 @@
 @title 上越新幹線の駅
 @category 鉄道
+@series 新幹線の駅
 @suffix 駅,えき
 @fuzzy off
 大宮 | おおみや # 埼玉県

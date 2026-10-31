@@ -1,5 +1,6 @@
 @title 東海道・山陽新幹線の駅
 @category 鉄道
+@series 新幹線の駅
 @suffix 駅,えき
 @fuzzy off
 東京 | とうきょう # 東海道・東京都

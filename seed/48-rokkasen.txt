@@ -1,5 +1,6 @@
 @title 六歌仙
 @category 歴史・文化
+@series 歌仙
 @suffix
 @fuzzy off
 僧正遍昭 | 遍昭 | 遍照 | 僧正遍照 | そうじょうへんじょう | へんじょう
