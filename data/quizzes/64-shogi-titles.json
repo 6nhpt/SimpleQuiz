@@ -1,0 +1,290 @@
+{
+ "title": "将棋の8大タイトル",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [
+   "戦",
+   "せん"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "竜王",
+   "aliases": [
+    "龍王",
+    "りゅうおう"
+   ],
+   "note": "七番勝負・10〜12月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名人",
+   "aliases": [
+    "めいじん"
+   ],
+   "note": "七番勝負・4〜6月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "王位",
+   "aliases": [
+    "おうい"
+   ],
+   "note": "七番勝負・7〜9月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "叡王",
+   "aliases": [
+    "えいおう"
+   ],
+   "note": "五番勝負・4〜6月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "王座",
+   "aliases": [
+    "おうざ"
+   ],
+   "note": "五番勝負・9〜10月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "棋王",
+   "aliases": [
+    "きおう"
+   ],
+   "note": "五番勝負・2〜3月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "王将",
+   "aliases": [
+    "おうしょう"
+   ],
+   "note": "七番勝負・1〜3月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "棋聖",
+   "aliases": [
+    "きせい"
+   ],
+   "note": "五番勝負・6〜7月",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "十段",
+   "aliases": [
+    "じゅうだん"
+   ],
+   "note": "かつての将棋のタイトル（竜王の前身）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "九段",
+   "aliases": [
+    "くだん"
+   ],
+   "note": "かつての将棋のタイトル（十段の前身）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "本因坊",
+   "aliases": [
+    "ほんいんぼう"
+   ],
+   "note": "囲碁のタイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "碁聖",
+   "aliases": [
+    "ごせい"
+   ],
+   "note": "囲碁のタイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "天元",
+   "aliases": [
+    "てんげん"
+   ],
+   "note": "囲碁のタイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女流名人",
+   "aliases": [],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女流王位",
+   "aliases": [],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女流王将",
+   "aliases": [],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女流王座",
+   "aliases": [],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "女王",
+   "aliases": [
+    "じょおう"
+   ],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "清麗",
+   "aliases": [
+    "せいれい"
+   ],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "白玲",
+   "aliases": [
+    "はくれい"
+   ],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "倉敷藤花",
+   "aliases": [
+    "くらしきとうか"
+   ],
+   "note": "将棋の女流タイトル",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "NHK杯",
+   "aliases": [],
+   "note": "タイトル戦ではない一般棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "朝日杯",
+   "aliases": [
+    "朝日杯将棋オープン"
+   ],
+   "note": "タイトル戦ではない一般棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "銀河",
+   "aliases": [
+    "銀河戦"
+   ],
+   "note": "タイトル戦ではない一般棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "日本シリーズ",
+   "aliases": [
+    "JT杯"
+   ],
+   "note": "タイトル戦ではない一般棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "新人王",
+   "aliases": [
+    "新人王戦"
+   ],
+   "note": "タイトル戦ではない一般棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "順位戦",
+   "aliases": [],
+   "note": "名人への挑戦者を決める棋戦",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "永世名人",
+   "aliases": [],
+   "note": "永世称号（タイトルそのものではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "永世竜王",
+   "aliases": [],
+   "note": "永世称号（タイトルそのものではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "64-shogi-titles",
+ "created": 62.0
+}

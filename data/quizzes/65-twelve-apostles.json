@@ -1,0 +1,270 @@
+{
+ "title": "イエスの十二使徒",
+ "category": "歴史・文化",
+ "options": {
+  "suffix": [],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "ペトロ",
+   "aliases": [
+    "ペテロ",
+    "ペトロス",
+    "ペドロ",
+    "ピーター",
+    "シモン・ペトロ",
+    "シモンペトロ",
+    "ケファ",
+    "Peter"
+   ],
+   "note": "漁師。{アンデレ|ある使徒}の兄弟",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "アンデレ",
+   "aliases": [
+    "アンデレア",
+    "アンドレ",
+    "アンドレアス",
+    "アンドリュー",
+    "Andrew"
+   ],
+   "note": "漁師。{ペトロ|ある使徒}の兄弟",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ゼベダイの子ヤコブ",
+   "aliases": [
+    "大ヤコブ",
+    "ヤコブ（ゼベダイの子）",
+    "サンティアゴ",
+    "James"
+   ],
+   "note": "漁師。{ヨハネ|ある使徒}の兄弟",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヨハネ",
+   "aliases": [
+    "使徒ヨハネ",
+    "ゼベダイの子ヨハネ",
+    "ジョン",
+    "John"
+   ],
+   "note": "漁師。{ゼベダイの子ヤコブ|ある使徒}の兄弟",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "フィリポ",
+   "aliases": [
+    "フィリポス",
+    "ピリポ",
+    "フィリップ",
+    "Philip"
+   ],
+   "note": "ベトサイダ出身",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "バルトロマイ",
+   "aliases": [
+    "バルトロメオ",
+    "バーソロミュー",
+    "ナタナエル",
+    "Bartholomew"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "トマス",
+   "aliases": [
+    "トマ",
+    "トーマス",
+    "ディディモ",
+    "疑い深いトマス",
+    "Thomas"
+   ],
+   "note": "復活したイエスの傷に触れるまで信じなかった",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "マタイ",
+   "aliases": [
+    "マテオ",
+    "マシュー",
+    "レビ",
+    "Matthew"
+   ],
+   "note": "徴税人",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "アルファイの子ヤコブ",
+   "aliases": [
+    "小ヤコブ",
+    "ヤコブ（アルファイの子）",
+    "アルパヨの子ヤコブ"
+   ],
+   "note": "もう一人のヤコブ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "タダイ",
+   "aliases": [
+    "タデオ",
+    "ユダ・タダイ",
+    "ヤコブの子ユダ",
+    "レバイ",
+    "Thaddaeus"
+   ],
+   "note": "もう一人のユダ",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熱心党のシモン",
+   "aliases": [
+    "シモン・ゼロテ",
+    "ゼロテのシモン",
+    "カナナイのシモン",
+    "熱心党員シモン"
+   ],
+   "note": "もう一人のシモン",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "イスカリオテのユダ",
+   "aliases": [
+    "ユダ",
+    "イスカリオテ",
+    "Judas"
+   ],
+   "note": "銀貨30枚でイエスを裏切った",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ヤコブ",
+   "aliases": [],
+   "note": "十二使徒にはヤコブが2人います",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "シモン",
+   "aliases": [],
+   "note": "十二使徒にはシモンが2人います",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "マティア",
+   "aliases": [
+    "マッテヤ"
+   ],
+   "note": "{イスカリオテのユダ|ある使徒}の死後に補充された使徒",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "パウロ",
+   "aliases": [
+    "サウロ",
+    "ポール"
+   ],
+   "note": "十二使徒ではない「異邦人の使徒」",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "バルナバ",
+   "aliases": [],
+   "note": "パウロの同労者（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "マルコ",
+   "aliases": [],
+   "note": "福音書記者（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ルカ",
+   "aliases": [],
+   "note": "福音書記者（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "洗礼者ヨハネ",
+   "aliases": [
+    "バプテスマのヨハネ"
+   ],
+   "note": "イエスに洗礼を授けた人（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "マグダラのマリア",
+   "aliases": [
+    "マリア"
+   ],
+   "note": "イエスに従った女性（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ヨセフ",
+   "aliases": [],
+   "note": "イエスの養父（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ステファノ",
+   "aliases": [],
+   "note": "最初の殉教者（十二使徒ではない）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "65-twelve-apostles",
+ "created": 63.0
+}
