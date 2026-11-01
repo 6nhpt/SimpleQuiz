@@ -122,17 +122,20 @@ if (window.visualViewport) {
     const y = vv.scale > 1.01 ? 0 : Math.max(0, vv.offsetTop);
     document.documentElement.style.setProperty("--vv-top", `${y}px`);
   };
-  // キーボードの出し入れで見える高さが変わったら、下端の位置がそのままになるようにずらす
-  // （そのままだと上端基準で縮むので、下の方を見ていたのにキーボードで隠れる）。
-  // アドレスバーの出し入れ程度の小さな変化や、回転・拡大中は無視する
-  // 端末によっては高さが何回かに分けて変わるので、落ち着いてから合計で判断する
-  let last = { w: vv.width, h: vv.height }, timer = 0;
+  // キーボードの出し入れで見える高さが変わると、ブラウザは上端基準で縮める。
+  // 一番下まで見ていた場合だけは、下端が隠れないよう一番下に合わせ直す（それ以外は上端基準のまま）
+  const nearBottom = () => window.scrollY + vv.offsetTop + vv.height >= document.documentElement.scrollHeight - 40;
+  let atBottom = nearBottom(), stableH = vv.height, timer = 0;
+  // 高さが変わった直後のスクロール（ブラウザによる補正）では記録を上書きしない
+  window.addEventListener("scroll", () => { if (!timer && vv.height === stableH) atBottom = nearBottom(); }, { passive: true });
   const keepBottom = () => {
+    // 端末によっては高さが何回かに分けて変わるので、落ち着くまで「直前に一番下だったか」を保つ
     clearTimeout(timer);
     timer = setTimeout(() => {
-      const d = last.h - vv.height;
-      if (vv.width === last.w && vv.scale <= 1.01 && Math.abs(d) > 150) window.scrollBy(0, d);
-      last = { w: vv.width, h: vv.height };
+      timer = 0;
+      if (atBottom && vv.scale <= 1.01) window.scrollTo(0, document.documentElement.scrollHeight);
+      stableH = vv.height;
+      atBottom = nearBottom();
     }, 120);
   };
   vv.addEventListener("resize", () => { keepBottom(); follow(); });
