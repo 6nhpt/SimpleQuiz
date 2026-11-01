@@ -122,7 +122,20 @@ if (window.visualViewport) {
     const y = vv.scale > 1.01 ? 0 : Math.max(0, vv.offsetTop);
     document.documentElement.style.setProperty("--vv-top", `${y}px`);
   };
-  vv.addEventListener("resize", follow);
+  // キーボードの出し入れで見える高さが変わったら、下端の位置がそのままになるようにずらす
+  // （そのままだと上端基準で縮むので、下の方を見ていたのにキーボードで隠れる）。
+  // アドレスバーの出し入れ程度の小さな変化や、回転・拡大中は無視する
+  // 端末によっては高さが何回かに分けて変わるので、落ち着いてから合計で判断する
+  let last = { w: vv.width, h: vv.height }, timer = 0;
+  const keepBottom = () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      const d = last.h - vv.height;
+      if (vv.width === last.w && vv.scale <= 1.01 && Math.abs(d) > 150) window.scrollBy(0, d);
+      last = { w: vv.width, h: vv.height };
+    }, 120);
+  };
+  vv.addEventListener("resize", () => { keepBottom(); follow(); });
   vv.addEventListener("scroll", follow);
   follow();
 }
