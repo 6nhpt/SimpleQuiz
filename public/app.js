@@ -113,6 +113,20 @@ async function route() {
 window.addEventListener("hashchange", route);
 route();
 
+// iOS などはキーボードを出しても画面（レイアウト）の高さが変わらず、見えている範囲だけが縮んで上下に動く。
+// 固定ヘッダーはレイアウトの上端に付いたままなので、下の方を見ようとすると入力欄ごと画面外へ行ってしまう。
+// 見えている範囲の上端に合わせてヘッダーをずらす（ピンチで拡大中はずらさない）
+if (window.visualViewport) {
+  const vv = window.visualViewport;
+  const follow = () => {
+    const y = vv.scale > 1.01 ? 0 : Math.max(0, vv.offsetTop);
+    document.documentElement.style.setProperty("--vv-top", `${y}px`);
+  };
+  vv.addEventListener("resize", follow);
+  vv.addEventListener("scroll", follow);
+  follow();
+}
+
 // ---------------------------------------------------------------- 更新確認（公開版のみ）
 
 // サーバー上の version.json と、今表示している版の番号を比べ、新しければ読み直す。
@@ -311,7 +325,8 @@ async function renderPlay(id) {
     const el = $grid.querySelector(`[data-i="${i}"]`);
     if (!el) return Promise.resolve();
     const top = $head.getBoundingClientRect().bottom;
-    const bottom = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+    const vv = window.visualViewport;
+    const bottom = vv ? vv.offsetTop + vv.height : window.innerHeight;
     const r = el.getBoundingClientRect();
     if (r.top >= top && r.bottom <= bottom) return Promise.resolve();
     window.scrollTo({ top: window.scrollY + r.top - top - 24, behavior: "smooth" });

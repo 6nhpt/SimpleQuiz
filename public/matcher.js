@@ -97,17 +97,21 @@ export class Matcher {
     const { key, hits: all } = this.exact(input);
     if (!key) return { status: "none" };
     const hits = all.filter((i) => !this.items[i].ghost);
-    if (!hits.length && all.length) return { status: "ghost", index: all[0] };
+    // 入力の続きで別の未回答項目になりうるか。
+    // シークレット・判定のみ項目は待ちの判定に使わない（「博多」で止まると博多南の存在がばれるため）。
+    // ただし英字は1文字ずつ入力されるので、待たないと「u」でウランが確定して「Uue」が打てない
+    const ascii = /^[\x20-\x7e]+$/.test(key);
+    const hidden = (i) => !ascii && (this.items[i].secret || this.items[i].ghost);
+    const longer = (self) => this.allKeys.some(([k, i]) => i !== self && !answered.has(i) && !hidden(i) && k !== key && k.startsWith(key));
+    if (!hits.length && all.length) {
+      // 「てんのうしょう」の時点で判定のみの説明を出すと「てんのうしょうはる」が打ちにくい
+      if (strict && longer(-1)) return { status: "wait" };
+      return { status: "ghost", index: all[0] };
+    }
     if (hits.length) {
       const fresh = hits.find((i) => !answered.has(i));
       if (fresh === undefined) return { status: "dup", index: hits[0] };
-      // シークレット・判定のみ項目は待ちの判定に使わない（「博多」で止まると博多南の存在がばれるため）。
-      // ただし英字は1文字ずつ入力されるので、待たないと「u」でウランが確定して「Uue」が打てない
-      const ascii = /^[\x20-\x7e]+$/.test(key);
-      const hidden = (i) => !ascii && (this.items[i].secret || this.items[i].ghost);
-      if (strict && this.allKeys.some(([k, i]) => i !== fresh && !answered.has(i) && !hidden(i) && k !== key && k.startsWith(key))) {
-        return { status: "wait" };
-      }
+      if (strict && longer(fresh)) return { status: "wait" };
       return { status: "ok", index: fresh };
     }
     if (strict || !this.fuzzy || key.length < FUZZY_MIN_LEN) return { status: "none" };
