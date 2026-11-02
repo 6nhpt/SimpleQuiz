@@ -33,12 +33,15 @@ wiki.py              一覧画面の Wikipedia リンク先を調べて data/wik
 public/              画面（素のHTML/JS/CSS、ビルド不要）
   app.js             画面（ホーム / 回答 / 一覧 / 編集）
   matcher.js         表記ゆれ吸収・判定ロジック
+  sw.js              オフライン用 Service Worker（公開版で本人が有効にしたときだけ登録）
 data/quizzes/*.json  クイズ本体（バックアップはこのフォルダをコピー）
 data/wiki/*.json     項目名 → Wikipedia 記事名
 seed/*.txt           初期データ。起動時に未取り込みのものだけ data に入る
 ```
 
 回答の進捗はブラウザ（localStorage）に保存。端末ごとに別。
+
+公開版はホーム下部の「オフラインで使えるようにする」を押した端末だけ、全クイズを保存してオフラインで遊べる（`public/sw.js`。`build.py` が版番号とファイル一覧を埋める。押していない端末には Service Worker を登録しない）。
 
 ## クイズの書き方（編集画面）
 

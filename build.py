@@ -36,6 +36,15 @@ def main():
     (out / "index.json").write_text(json.dumps(quizzes, ensure_ascii=False), encoding="utf-8")
     (DIST / "version.json").write_text(json.dumps({"v": ver}), encoding="utf-8")
     (DIST / ".nojekyll").write_text("", encoding="utf-8")
+
+    # オフライン用: Service Worker に版番号と、初回に取っておく全ファイルの一覧を埋める
+    sw = DIST / "sw.js"
+    files = sorted(p.relative_to(DIST).as_posix() for p in DIST.rglob("*") if p.is_file())
+    files = ["./" if f == "index.html" else f for f in files if f not in ("sw.js", ".nojekyll")]
+    sw.write_text(
+        sw.read_text(encoding="utf-8").replace("__VERSION__", ver).replace("__FILES__", json.dumps(files, ensure_ascii=False)),
+        encoding="utf-8",
+    )
     print(f"built {len(quizzes)} quizzes -> {DIST}")
 
 

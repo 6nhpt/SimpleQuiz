@@ -14,6 +14,9 @@ const noteText = (note, known = () => true) =>
 
 // 静的公開版（build.py で書き出したもの）は読み取り専用。クイズは data/*.json から読む
 const STATIC = document.documentElement.dataset.static === "1";
+// オフライン保存（下の「オフライン」の節）を使えるか、本人が有効にしたか
+const OFFLINE_OK = STATIC && "serviceWorker" in navigator && window.isSecureContext;
+const offlineOn = () => localStorage.getItem("sq:offline") === "1";
 
 async function api(method, path, body) {
   if (STATIC) {
@@ -112,6 +115,7 @@ async function route() {
 }
 window.addEventListener("hashchange", route);
 route();
+syncOffline();
 
 // iOS などはキーボードを出しても画面（レイアウト）の高さが変わらず、見えている範囲だけが縮んで上下に動く。
 // 固定ヘッダーはレイアウトの上端に付いたままなので、下の方を見ようとすると入力欄ごと画面外へ行ってしまう。
@@ -157,6 +161,75 @@ async function checkUpdate() {
       location.replace(`${location.pathname}?v=${v}${location.hash}`);
     }
   } catch { /* オフライン等は無視 */ }
+}
+
+// ---------------------------------------------------------------- オフライン（公開版のみ）
+
+// ホームのボタンで本人が選んだときだけ、全クイズを端末に保存してオフラインでも遊べるようにする（public/sw.js）。
+// 選んだかどうかは sq:offline に残し、選んでいなければ Service Worker は登録しない
+
+async function enableOffline() {
+  const reg = await navigator.serviceWorker.register("sw.js");
+  const sw = reg.installing || reg.waiting || reg.active;
+  // 全ファイルを取り終えると activated になる。1つでも取れなければ redundant
+  if (sw.state !== "activated") {
+    await new Promise((ok, ng) => sw.addEventListener("statechange", () => {
+      if (sw.state === "activated") ok();
+      else if (sw.state === "redundant") ng(new Error("保存に失敗しました"));
+    }));
+  }
+  localStorage.setItem("sq:offline", "1");
+}
+
+async function disableOffline() {
+  localStorage.removeItem("sq:offline");
+  for (const r of await navigator.serviceWorker.getRegistrations()) await r.unregister();
+  for (const k of await caches.keys()) if (k.startsWith("sq-")) await caches.delete(k);
+}
+
+// 起動時: 有効にしてあれば最新版に更新し、そうでなければ残っている分を片付ける
+function syncOffline() {
+  if (!OFFLINE_OK) return;
+  (offlineOn() ? navigator.serviceWorker.register("sw.js") : disableOffline()).catch(() => {});
+}
+
+function renderOffline() {
+  const $box = document.getElementById("offline");
+  if (!$box) return;
+  if (offlineOn()) {
+    $box.innerHTML = `
+      <p class="muted">✓ この端末に保存済み。電波がなくても遊べます</p>
+      <button id="off-stop" class="btn small" type="button">オフライン保存をやめる</button>`;
+    document.getElementById("off-stop").onclick = async () => {
+      if (!confirm("端末に保存したクイズを消して、オフラインでは使えないようにします。回答記録は消えません。")) return;
+      await disableOffline().catch(() => {});
+      renderOffline();
+    };
+    return;
+  }
+  $box.innerHTML = `
+    <button id="off-open" class="btn small" type="button">オフラインで使えるようにする…</button>
+    <div id="off-panel" class="reset-panel" hidden>
+      <p>全クイズのデータをこの端末に保存して、電波がないところでも遊べるようにします。保存した分は、オンラインで開いたときに自動で最新になります。</p>
+      <button id="off-save" class="btn small primary" type="button">保存する</button>
+      <button id="off-cancel" class="btn small" type="button">やめる</button>
+    </div>`;
+  const $panel = document.getElementById("off-panel");
+  document.getElementById("off-open").onclick = () => ($panel.hidden = false);
+  document.getElementById("off-cancel").onclick = () => ($panel.hidden = true);
+  document.getElementById("off-save").onclick = async (e) => {
+    e.target.disabled = true;
+    e.target.textContent = "保存中…";
+    try {
+      await enableOffline();
+      renderOffline();
+    } catch (err) {
+      await disableOffline().catch(() => {});
+      $panel.querySelector("p").textContent = `${err.message || "保存に失敗しました"}。電波のよいところでもう一度お試しください。`;
+      e.target.disabled = false;
+      e.target.textContent = "保存する";
+    }
+  };
 }
 
 // ---------------------------------------------------------------- ホーム
@@ -244,9 +317,11 @@ async function renderHome() {
     <div class="reset-area">
       <button id="reset-open" class="btn small" type="button">記録をリセット…</button>
       <div id="reset-panel" class="reset-panel" hidden></div>
-    </div>`;
+    </div>
+    ${OFFLINE_OK ? `<div class="reset-area offline-area" id="offline"></div>` : ""}`;
 
   loadNews();
+  renderOffline();
 
   // 記録のリセット。シークレットを1個でも見つけていれば「シークレットは残す」も選べる
   document.getElementById("reset-open").onclick = () => {
