@@ -117,6 +117,12 @@ window.addEventListener("hashchange", route);
 route();
 syncOffline();
 
+// 電波がないときは画面のふちに色を付ける（style.css の .is-offline）
+const markOffline = () => document.documentElement.classList.toggle("is-offline", !navigator.onLine);
+window.addEventListener("online", markOffline);
+window.addEventListener("offline", markOffline);
+markOffline();
+
 // iOS などはキーボードを出しても画面（レイアウト）の高さが変わらず、見えている範囲だけが縮んで上下に動く。
 // 固定ヘッダーはレイアウトの上端に付いたままなので、下の方を見ようとすると入力欄ごと画面外へ行ってしまう。
 // 見えている範囲の上端に合わせてヘッダーをずらす（ピンチで拡大中はずらさない）
@@ -201,7 +207,11 @@ function renderOffline() {
       <p class="muted">✓ この端末に保存済み。電波がなくても遊べます</p>
       <button id="off-stop" class="btn small" type="button">オフライン保存をやめる</button>`;
     document.getElementById("off-stop").onclick = async () => {
-      if (!confirm("端末に保存したクイズを消して、オフラインでは使えないようにします。回答記録は消えません。")) return;
+      // 電波がないときに消すと、その場で遊べなくなり、電波が戻るまで保存し直せないので強めに警告する
+      const msg = navigator.onLine
+        ? "端末に保存したクイズを消して、オフラインでは使えないようにします。回答記録は消えません。"
+        : "⚠ いまは電波がありません。\n消すと、電波が戻るまでクイズで遊べなくなり、保存し直すこともできません（回答記録は消えません）。\nそれでも消しますか？";
+      if (!confirm(msg)) return;
       await disableOffline().catch(() => {});
       renderOffline();
     };
