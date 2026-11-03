@@ -696,6 +696,380 @@
    "aliases": [],
    "note": "Circinus",
    "group": "南天の星座"
+  },
+  {
+   "name": "しぶんぎ座",
+   "aliases": [
+    "四分儀座",
+    "へきめんしぶんぎ座",
+    "壁面四分儀座"
+   ],
+   "note": "ラランドが設定。1月のしぶんぎ座流星群に名を残す（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アルゴ座",
+   "aliases": [
+    "アルゴ船座",
+    "アルゴ号座",
+    "アルゴ"
+   ],
+   "note": "プトレマイオスの48星座の一つ。大きすぎるので3つの星座に分けられた（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "アンティノウス座",
+   "aliases": [],
+   "note": "ハドリアヌス帝に寵愛された青年（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "いんさつしつ座",
+   "aliases": [
+    "印刷室座"
+   ],
+   "note": "ボーデが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "おうしゃく座",
+   "aliases": [
+    "王笏座",
+    "王笏と正義の手座"
+   ],
+   "note": "ルイ14世をたたえて設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "おおぐも座",
+   "aliases": [
+    "大雲座"
+   ],
+   "note": "大マゼラン雲のこと（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "こぐも座",
+   "aliases": [
+    "小雲座"
+   ],
+   "note": "小マゼラン雲のこと（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "おんどり座",
+   "aliases": [
+    "雄鶏座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "かんししゃメシエ座",
+   "aliases": [
+    "監視者メシエ座",
+    "メシエ座"
+   ],
+   "note": "ラランドが彗星探索者メシエにちなんで設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "きたばえ座",
+   "aliases": [
+    "北蝿座",
+    "きたのはえ座",
+    "北のはえ座"
+   ],
+   "note": "南天のはえ座とは別物（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "けいききゅう座",
+   "aliases": [
+    "軽気球座",
+    "ききゅう座",
+    "気球座"
+   ],
+   "note": "ラランドが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ケルベルス座",
+   "aliases": [
+    "ケルベロス座"
+   ],
+   "note": "冥界の番犬（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "こがに座",
+   "aliases": [
+    "子蟹座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ザクセン選帝侯の双剣座",
+   "aliases": [
+    "双剣座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "しょうさんかく座",
+   "aliases": [
+    "小三角座",
+    "こさんかく座"
+   ],
+   "note": "ヘヴェリウスが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ジョージのこと座",
+   "aliases": [
+    "ジョージの琴座",
+    "ジョージのハープ座"
+   ],
+   "note": "英国王ジョージ3世にちなむ（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "そくていさく座",
+   "aliases": [
+    "測程索座"
+   ],
+   "note": "船の速さを測る道具（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "大理石の彫刻座",
+   "aliases": [],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "チグリス座",
+   "aliases": [
+    "ティグリス座"
+   ],
+   "note": "チグリス川のこと（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "チャールズのかしのき座",
+   "aliases": [
+    "チャールズの樫の木座"
+   ],
+   "note": "英国王チャールズ2世が隠れた木（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "つぐみ座",
+   "aliases": [
+    "鶫座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "帝国宝珠座",
+   "aliases": [],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "でんききかい座",
+   "aliases": [
+    "電気機械座"
+   ],
+   "note": "ボーデが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "となかい座",
+   "aliases": [
+    "トナカイ座",
+    "馴鹿座"
+   ],
+   "note": "ルモニエが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ボルタ電池座",
+   "aliases": [],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ねこ座",
+   "aliases": [
+    "猫座"
+   ],
+   "note": "ラランドが設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ハーシェルのぼうえんきょう座",
+   "aliases": [
+    "ハーシェルの望遠鏡座"
+   ],
+   "note": "天王星を発見したハーシェルにちなむ（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ひどけい座",
+   "aliases": [
+    "日時計座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ふくろう座",
+   "aliases": [
+    "梟座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ブランデンブルクのおうしゃく座",
+   "aliases": [
+    "ブランデンブルクの王笏座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "フリードリヒのえいよ座",
+   "aliases": [
+    "フリードリヒの栄誉座"
+   ],
+   "note": "プロイセン王フリードリヒ2世をたたえて設定（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ポニアトフスキーのおうし座",
+   "aliases": [
+    "ポニャトフスキーのおうし座",
+    "ポニアトフスキーの牡牛座"
+   ],
+   "note": "ポーランド王にちなむ（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "マエナルスさん座",
+   "aliases": [
+    "マエナルス山座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "南の矢座",
+   "aliases": [
+    "みなみのや座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "モモンガ座",
+   "aliases": [],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ゆり座",
+   "aliases": [
+    "百合座"
+   ],
+   "note": "現存しない星座",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "ヨルダン座",
+   "aliases": [
+    "ヨルダン川座"
+   ],
+   "note": "ヨルダン川のこと（現存しない星座）",
+   "group": "",
+   "secret": false,
+   "ghost": true
   }
  ],
  "id": "02-constellations",
