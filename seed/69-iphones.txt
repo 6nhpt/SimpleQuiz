@@ -1,0 +1,86 @@
+@title 歴代iPhone（55機種）
+@category くらし
+@memo 「iPhone」は省略できます（例：15 Pro）
+@suffix
+@fuzzy off
+
+## 初代〜4S
+iPhone（初代） | iPhone | 初代 | 初代iPhone | iPhone 2G | 2G # 2007年6月（日本未発売）
+iPhone 3G | 3G # 2008年7月
+iPhone 3GS | 3GS # 2009年6月
+iPhone 4 | 4 # 2010年6月
+iPhone 4S | 4S # 2011年10月
+
+## 5〜8
+iPhone 5 | 5 # 2012年9月
+iPhone 5c | 5c # 2013年9月
+iPhone 5s | 5s # 2013年9月
+iPhone 6 | 6 # 2014年9月
+iPhone 6 Plus | 6 Plus | 6 プラス # 2014年9月
+iPhone 6s | 6s # 2015年9月
+iPhone 6s Plus | 6s Plus | 6s プラス # 2015年9月
+iPhone 7 | 7 # 2016年9月
+iPhone 7 Plus | 7 Plus | 7 プラス # 2016年9月
+iPhone 8 | 8 # 2017年9月
+iPhone 8 Plus | 8 Plus | 8 プラス # 2017年9月
+
+## X・XS・XR
+iPhone X | X | 10 | テン # 2017年11月
+iPhone XS | XS | 10S | テンエス # 2018年9月
+iPhone XS Max | XS Max | XSマックス | 10S Max | テンエスマックス # 2018年9月
+iPhone XR | XR | 10R | テンアール # 2018年10月
+
+## 11〜13
+iPhone 11 | 11 # 2019年9月
+iPhone 11 Pro | 11 Pro | 11 プロ # 2019年9月
+iPhone 11 Pro Max | 11 Pro Max | 11 プロマックス # 2019年9月
+iPhone 12 mini | 12 mini | 12 ミニ # 2020年11月
+iPhone 12 | 12 # 2020年10月
+iPhone 12 Pro | 12 Pro | 12 プロ # 2020年10月
+iPhone 12 Pro Max | 12 Pro Max | 12 プロマックス # 2020年11月
+iPhone 13 mini | 13 mini | 13 ミニ # 2021年9月
+iPhone 13 | 13 # 2021年9月
+iPhone 13 Pro | 13 Pro | 13 プロ # 2021年9月
+iPhone 13 Pro Max | 13 Pro Max | 13 プロマックス # 2021年9月
+
+## 14〜16
+iPhone 14 | 14 # 2022年9月
+iPhone 14 Plus | 14 Plus | 14 プラス # 2022年10月
+iPhone 14 Pro | 14 Pro | 14 プロ # 2022年9月
+iPhone 14 Pro Max | 14 Pro Max | 14 プロマックス # 2022年9月
+iPhone 15 | 15 # 2023年9月
+iPhone 15 Plus | 15 Plus | 15 プラス # 2023年9月
+iPhone 15 Pro | 15 Pro | 15 プロ # 2023年9月
+iPhone 15 Pro Max | 15 Pro Max | 15 プロマックス # 2023年9月
+iPhone 16 | 16 # 2024年9月
+iPhone 16 Plus | 16 Plus | 16 プラス # 2024年9月
+iPhone 16 Pro | 16 Pro | 16 プロ # 2024年9月
+iPhone 16 Pro Max | 16 Pro Max | 16 プロマックス # 2024年9月
+
+## 17〜
+iPhone 17 | 17 # 2025年9月
+iPhone 17 Pro | 17 Pro | 17 プロ # 2025年9月
+iPhone 17 Pro Max | 17 Pro Max | 17 プロマックス # 2025年9月
+iPhone Air | Air | エア | 17 Air | iPhone 17 Air # 2025年9月
+iPhone 18 Pro | 18 Pro | 18 プロ # 2026年9月
+iPhone 18 Pro Max | 18 Pro Max | 18 プロマックス # 2026年9月
+iPhone Duo | Duo | デュオ # 2026年10月（折りたたみ）
+
+## SE・eシリーズ
+iPhone SE（第1世代） | SE | SE1 | SE 第1世代 | 初代SE | エスイー # 2016年3月
+iPhone SE（第2世代） | SE | SE2 | SE 第2世代 | エスイー # 2020年4月
+iPhone SE（第3世代） | SE | SE3 | SE 第3世代 | エスイー # 2022年3月
+iPhone 16e | 16e # 2025年2月
+iPhone 17e | 17e # 2026年3月
+
+? iPhone 9 | 9 # 欠番。8の次は{X|○}
+? iPhone 18 | 18 # 無印の18はまだ出ていない（2026年11月時点）
+? iPhone 18e | 18e # まだ出ていない（2026年11月時点）
+? iPhone 14 mini | 14 mini | 14ミニ # miniは13まで
+? iPhone 15 mini | 15 mini | 15ミニ # miniは13まで
+? iPhone SE（第4世代） | SE4 | SE 第4世代 # SEは第3世代が最後。後継は{16e|○○○}
+? iPhone Fold | Fold | フォールド | iPhone Flip | Flip # 噂の段階の呼び名。折りたたみ機の正式名は{Duo|○○○}
+? iPhone X Plus | X Plus | XS Plus # 出ていない。大きい方は{XS Max|○○ ○○○}
+? iPhone 3 | 3 # 出ていない。初代の次は{3G|○○}
+? iPod touch | アイポッドタッチ # iPhoneではなく音楽プレーヤー
+? iPad | アイパッド # iPhoneではなくタブレット

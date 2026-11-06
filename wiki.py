@@ -46,6 +46,7 @@ PATTERNS = {
     "64-shogi-titles": ["{}戦 (将棋)", "{}戦"],
     "66-nagoya-subway": ["{}駅 (愛知県)", "{}駅 (名古屋市)", "{}駅 (名古屋市営地下鉄)", "{}駅"],
     "68-racecourses": ["{}競馬場"],
+    "69-iphones": ["{}"],
     "67-ndc-classes": [],  # 一般の記事（「哲学」など）ではなく分類法の記事に飛ばす
     "23-nato-phonetic": None, "39-wabun-tsuwahyo": None, "47-allergens": None,
     # 漢字1字の記事は別の意味のものが多いので付けない
@@ -81,10 +82,12 @@ OVERRIDES = {
                         "女流名人": ["女流名人戦 (将棋)", "女流名人戦"]},
     "65-twelve-apostles": {"ヨハネ": ["ヨハネ (使徒)"], "ゼベダイの子ヤコブ": ["ヤコブ (ゼベダイの子)"],
                            "マルコ": ["マルコ (福音記者)"], "ヨセフ": ["ナザレのヨセフ"]},
+    "69-iphones": {"iPhone（初代）": ["iPhone (初代)"], "iPhone SE（第1世代）": ["iPhone SE (第1世代)"],
+                   "iPhone SE（第2世代）": ["iPhone SE (第2世代)"], "iPhone SE（第3世代）": ["iPhone SE (第3世代)"]},
 }
 
 # 判定のみ項目にはリンクを付けないクイズ（旧駅名の記事は新駅名へ転送されるので、答えがばれる）
-NO_GHOST_LINKS = {"66-nagoya-subway"}
+NO_GHOST_LINKS = {"66-nagoya-subway", "69-iphones"}
 
 # 個別の記事がない項目のリンク先（クイズ全体、または区分ごと）
 FALLBACK = {

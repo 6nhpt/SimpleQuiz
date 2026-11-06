@@ -397,6 +397,7 @@ async function renderPlay(id) {
 
   setBar(quiz.title, "#/", `<span id="count"></span>`);
   $app.innerHTML = `
+    ${quiz.memo ? `<div class="memo">${esc(quiz.memo)}</div>` : ""}
     <div id="head" class="play-head">
       <form id="ans" class="answer" autocomplete="off">
         <input id="in" type="text" enterkeyhint="send" placeholder="答えを入力" autocapitalize="off" spellcheck="false">
@@ -697,6 +698,9 @@ async function renderEdit(id) {
         <input id="e-series" list="e-series-list" value="${esc(quiz.series || "")}" placeholder="例：新幹線の駅">
         <datalist id="e-series-list">${series.map((c) => `<option value="${esc(c)}">`).join("")}</datalist>
       </label>
+      <label>注釈（任意・回答画面のタイトル下に1行で表示）
+        <input id="e-memo" value="${esc(quiz.memo || "")}" placeholder="例：「iPhone」は省略できます">
+      </label>
       <label>無視する接尾辞（カンマ区切り・任意）
         <input id="e-suffix" value="${esc(quiz.options.suffix.join(","))}" placeholder="例：州,しゅう">
       </label>
@@ -732,6 +736,7 @@ async function renderEdit(id) {
     title: document.getElementById("e-title").value.trim(),
     category: document.getElementById("e-cat").value.trim(),
     series: document.getElementById("e-series").value.trim(),
+    memo: document.getElementById("e-memo").value.trim(),
     options: {
       suffix: document.getElementById("e-suffix").value.split(/[,、，]/).map((s) => s.trim()).filter(Boolean),
       fuzzy: document.getElementById("e-fuzzy").checked,

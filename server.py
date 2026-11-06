@@ -26,7 +26,8 @@ ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,63}$")
 def parse_text(text):
     """シード用テキスト形式をクイズ辞書に変換する。
 
-    @title タイトル / @category カテゴリ / @series まとめ名 / @suffix 座,ざ / @fuzzy on|off / @order 10 がヘッダ。
+    @title タイトル / @category カテゴリ / @series まとめ名 / @memo 注釈 / @suffix 座,ざ / @fuzzy on|off / @order 10 がヘッダ。
+    （@memo は回答画面のタイトル下に1行で出す。「〜は省略可」のような答え方の説明用）
     （@series が同じクイズは、ホームでカテゴリの中の1段としてまとめて畳める）
     以降は 1行1項目:  名前 | 別解 | 別解 # メモ
     「## 区分名」の行以降の項目はその区分（group）に入る。
@@ -48,6 +49,8 @@ def parse_text(text):
                 quiz["category"] = val
             elif key == "series":
                 quiz["series"] = val
+            elif key == "memo":
+                quiz["memo"] = val
             elif key == "suffix":
                 quiz["options"]["suffix"] = [s.strip() for s in val.split(",") if s.strip()]
             elif key == "fuzzy":
@@ -153,6 +156,7 @@ def clean_quiz(body, qid, created):
         "title": title,
         "category": str(body.get("category", "")).strip(),
         "series": str(body.get("series", "")).strip(),
+        "memo": str(body.get("memo", "")).strip(),
         "options": {
             "suffix": [str(s).strip() for s in opts.get("suffix") or [] if str(s).strip()],
             "fuzzy": bool(opts.get("fuzzy", True)),
