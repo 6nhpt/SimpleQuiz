@@ -16,7 +16,7 @@
     "2G"
    ],
    "note": "2007年6月（日本未発売）",
-   "group": "初代〜4S",
+   "group": "2000年代",
    "secret": false,
    "ghost": false
   },
@@ -26,7 +26,7 @@
     "3G"
    ],
    "note": "2008年7月",
-   "group": "初代〜4S",
+   "group": "2000年代",
    "secret": false,
    "ghost": false
   },
@@ -36,7 +36,7 @@
     "3GS"
    ],
    "note": "2009年6月",
-   "group": "初代〜4S",
+   "group": "2000年代",
    "secret": false,
    "ghost": false
   },
@@ -46,7 +46,7 @@
     "4"
    ],
    "note": "2010年6月",
-   "group": "初代〜4S",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -56,7 +56,7 @@
     "4S"
    ],
    "note": "2011年10月",
-   "group": "初代〜4S",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -66,17 +66,7 @@
     "5"
    ],
    "note": "2012年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 5c",
-   "aliases": [
-    "5c"
-   ],
-   "note": "2013年9月",
-   "group": "5〜8",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -86,7 +76,17 @@
     "5s"
    ],
    "note": "2013年9月",
-   "group": "5〜8",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 5c",
+   "aliases": [
+    "5c"
+   ],
+   "note": "2013年9月",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -96,7 +96,7 @@
     "6"
    ],
    "note": "2014年9月",
-   "group": "5〜8",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -107,7 +107,7 @@
     "6 プラス"
    ],
    "note": "2014年9月",
-   "group": "5〜8",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -117,7 +117,7 @@
     "6s"
    ],
    "note": "2015年9月",
-   "group": "5〜8",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -128,423 +128,7 @@
     "6s プラス"
    ],
    "note": "2015年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 7",
-   "aliases": [
-    "7"
-   ],
-   "note": "2016年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 7 Plus",
-   "aliases": [
-    "7 Plus",
-    "7 プラス"
-   ],
-   "note": "2016年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 8",
-   "aliases": [
-    "8"
-   ],
-   "note": "2017年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 8 Plus",
-   "aliases": [
-    "8 Plus",
-    "8 プラス"
-   ],
-   "note": "2017年9月",
-   "group": "5〜8",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone X",
-   "aliases": [
-    "X",
-    "10",
-    "テン"
-   ],
-   "note": "2017年11月",
-   "group": "X・XS・XR",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone XS",
-   "aliases": [
-    "XS",
-    "10S",
-    "テンエス"
-   ],
-   "note": "2018年9月",
-   "group": "X・XS・XR",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone XS Max",
-   "aliases": [
-    "XS Max",
-    "XSマックス",
-    "10S Max",
-    "テンエスマックス"
-   ],
-   "note": "2018年9月",
-   "group": "X・XS・XR",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone XR",
-   "aliases": [
-    "XR",
-    "10R",
-    "テンアール"
-   ],
-   "note": "2018年10月",
-   "group": "X・XS・XR",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 11",
-   "aliases": [
-    "11"
-   ],
-   "note": "2019年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 11 Pro",
-   "aliases": [
-    "11 Pro",
-    "11 プロ"
-   ],
-   "note": "2019年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 11 Pro Max",
-   "aliases": [
-    "11 Pro Max",
-    "11 プロマックス"
-   ],
-   "note": "2019年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 12 mini",
-   "aliases": [
-    "12 mini",
-    "12 ミニ"
-   ],
-   "note": "2020年11月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 12",
-   "aliases": [
-    "12"
-   ],
-   "note": "2020年10月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 12 Pro",
-   "aliases": [
-    "12 Pro",
-    "12 プロ"
-   ],
-   "note": "2020年10月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 12 Pro Max",
-   "aliases": [
-    "12 Pro Max",
-    "12 プロマックス"
-   ],
-   "note": "2020年11月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 13 mini",
-   "aliases": [
-    "13 mini",
-    "13 ミニ"
-   ],
-   "note": "2021年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 13",
-   "aliases": [
-    "13"
-   ],
-   "note": "2021年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 13 Pro",
-   "aliases": [
-    "13 Pro",
-    "13 プロ"
-   ],
-   "note": "2021年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 13 Pro Max",
-   "aliases": [
-    "13 Pro Max",
-    "13 プロマックス"
-   ],
-   "note": "2021年9月",
-   "group": "11〜13",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 14",
-   "aliases": [
-    "14"
-   ],
-   "note": "2022年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 14 Plus",
-   "aliases": [
-    "14 Plus",
-    "14 プラス"
-   ],
-   "note": "2022年10月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 14 Pro",
-   "aliases": [
-    "14 Pro",
-    "14 プロ"
-   ],
-   "note": "2022年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 14 Pro Max",
-   "aliases": [
-    "14 Pro Max",
-    "14 プロマックス"
-   ],
-   "note": "2022年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 15",
-   "aliases": [
-    "15"
-   ],
-   "note": "2023年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 15 Plus",
-   "aliases": [
-    "15 Plus",
-    "15 プラス"
-   ],
-   "note": "2023年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 15 Pro",
-   "aliases": [
-    "15 Pro",
-    "15 プロ"
-   ],
-   "note": "2023年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 15 Pro Max",
-   "aliases": [
-    "15 Pro Max",
-    "15 プロマックス"
-   ],
-   "note": "2023年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 16",
-   "aliases": [
-    "16"
-   ],
-   "note": "2024年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 16 Plus",
-   "aliases": [
-    "16 Plus",
-    "16 プラス"
-   ],
-   "note": "2024年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 16 Pro",
-   "aliases": [
-    "16 Pro",
-    "16 プロ"
-   ],
-   "note": "2024年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 16 Pro Max",
-   "aliases": [
-    "16 Pro Max",
-    "16 プロマックス"
-   ],
-   "note": "2024年9月",
-   "group": "14〜16",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 17",
-   "aliases": [
-    "17"
-   ],
-   "note": "2025年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 17 Pro",
-   "aliases": [
-    "17 Pro",
-    "17 プロ"
-   ],
-   "note": "2025年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 17 Pro Max",
-   "aliases": [
-    "17 Pro Max",
-    "17 プロマックス"
-   ],
-   "note": "2025年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone Air",
-   "aliases": [
-    "Air",
-    "エア",
-    "17 Air",
-    "iPhone 17 Air"
-   ],
-   "note": "2025年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 18 Pro",
-   "aliases": [
-    "18 Pro",
-    "18 プロ"
-   ],
-   "note": "2026年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone 18 Pro Max",
-   "aliases": [
-    "18 Pro Max",
-    "18 プロマックス"
-   ],
-   "note": "2026年9月",
-   "group": "17〜",
-   "secret": false,
-   "ghost": false
-  },
-  {
-   "name": "iPhone Duo",
-   "aliases": [
-    "Duo",
-    "デュオ"
-   ],
-   "note": "2026年10月（折りたたみ）",
-   "group": "17〜",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -558,7 +142,130 @@
     "エスイー"
    ],
    "note": "2016年3月",
-   "group": "SE・eシリーズ",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 7",
+   "aliases": [
+    "7"
+   ],
+   "note": "2016年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 7 Plus",
+   "aliases": [
+    "7 Plus",
+    "7 プラス"
+   ],
+   "note": "2016年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 8",
+   "aliases": [
+    "8"
+   ],
+   "note": "2017年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 8 Plus",
+   "aliases": [
+    "8 Plus",
+    "8 プラス"
+   ],
+   "note": "2017年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone X",
+   "aliases": [
+    "X",
+    "10",
+    "テン"
+   ],
+   "note": "2017年11月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone XS",
+   "aliases": [
+    "XS",
+    "10S",
+    "テンエス"
+   ],
+   "note": "2018年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone XS Max",
+   "aliases": [
+    "XS Max",
+    "XSマックス",
+    "10S Max",
+    "テンエスマックス"
+   ],
+   "note": "2018年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone XR",
+   "aliases": [
+    "XR",
+    "10R",
+    "テンアール"
+   ],
+   "note": "2018年10月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 11",
+   "aliases": [
+    "11"
+   ],
+   "note": "2019年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 11 Pro",
+   "aliases": [
+    "11 Pro",
+    "11 プロ"
+   ],
+   "note": "2019年9月",
+   "group": "2010年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 11 Pro Max",
+   "aliases": [
+    "11 Pro Max",
+    "11 プロマックス"
+   ],
+   "note": "2019年9月",
+   "group": "2010年代",
    "secret": false,
    "ghost": false
   },
@@ -571,7 +278,93 @@
     "エスイー"
    ],
    "note": "2020年4月",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 12",
+   "aliases": [
+    "12"
+   ],
+   "note": "2020年10月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 12 Pro",
+   "aliases": [
+    "12 Pro",
+    "12 プロ"
+   ],
+   "note": "2020年10月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 12 mini",
+   "aliases": [
+    "12 mini",
+    "12 ミニ"
+   ],
+   "note": "2020年11月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 12 Pro Max",
+   "aliases": [
+    "12 Pro Max",
+    "12 プロマックス"
+   ],
+   "note": "2020年11月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 13",
+   "aliases": [
+    "13"
+   ],
+   "note": "2021年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 13 mini",
+   "aliases": [
+    "13 mini",
+    "13 ミニ"
+   ],
+   "note": "2021年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 13 Pro",
+   "aliases": [
+    "13 Pro",
+    "13 プロ"
+   ],
+   "note": "2021年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 13 Pro Max",
+   "aliases": [
+    "13 Pro Max",
+    "13 プロマックス"
+   ],
+   "note": "2021年9月",
+   "group": "2020年代",
    "secret": false,
    "ghost": false
   },
@@ -584,7 +377,136 @@
     "エスイー"
    ],
    "note": "2022年3月",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 14",
+   "aliases": [
+    "14"
+   ],
+   "note": "2022年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 14 Pro",
+   "aliases": [
+    "14 Pro",
+    "14 プロ"
+   ],
+   "note": "2022年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 14 Pro Max",
+   "aliases": [
+    "14 Pro Max",
+    "14 プロマックス"
+   ],
+   "note": "2022年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 14 Plus",
+   "aliases": [
+    "14 Plus",
+    "14 プラス"
+   ],
+   "note": "2022年10月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 15",
+   "aliases": [
+    "15"
+   ],
+   "note": "2023年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 15 Plus",
+   "aliases": [
+    "15 Plus",
+    "15 プラス"
+   ],
+   "note": "2023年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 15 Pro",
+   "aliases": [
+    "15 Pro",
+    "15 プロ"
+   ],
+   "note": "2023年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 15 Pro Max",
+   "aliases": [
+    "15 Pro Max",
+    "15 プロマックス"
+   ],
+   "note": "2023年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 16",
+   "aliases": [
+    "16"
+   ],
+   "note": "2024年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 16 Plus",
+   "aliases": [
+    "16 Plus",
+    "16 プラス"
+   ],
+   "note": "2024年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 16 Pro",
+   "aliases": [
+    "16 Pro",
+    "16 プロ"
+   ],
+   "note": "2024年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 16 Pro Max",
+   "aliases": [
+    "16 Pro Max",
+    "16 プロマックス"
+   ],
+   "note": "2024年9月",
+   "group": "2020年代",
    "secret": false,
    "ghost": false
   },
@@ -594,7 +516,52 @@
     "16e"
    ],
    "note": "2025年2月",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 17",
+   "aliases": [
+    "17"
+   ],
+   "note": "2025年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone Air",
+   "aliases": [
+    "Air",
+    "エア",
+    "17 Air",
+    "iPhone 17 Air"
+   ],
+   "note": "2025年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 17 Pro",
+   "aliases": [
+    "17 Pro",
+    "17 プロ"
+   ],
+   "note": "2025年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 17 Pro Max",
+   "aliases": [
+    "17 Pro Max",
+    "17 プロマックス"
+   ],
+   "note": "2025年9月",
+   "group": "2020年代",
    "secret": false,
    "ghost": false
   },
@@ -604,7 +571,40 @@
     "17e"
    ],
    "note": "2026年3月",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 18 Pro",
+   "aliases": [
+    "18 Pro",
+    "18 プロ"
+   ],
+   "note": "2026年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone 18 Pro Max",
+   "aliases": [
+    "18 Pro Max",
+    "18 プロマックス"
+   ],
+   "note": "2026年9月",
+   "group": "2020年代",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "iPhone Duo",
+   "aliases": [
+    "Duo",
+    "デュオ"
+   ],
+   "note": "2026年10月（折りたたみ）",
+   "group": "2020年代",
    "secret": false,
    "ghost": false
   },
@@ -614,7 +614,7 @@
     "9"
    ],
    "note": "欠番。8の次は{X|○}",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -624,7 +624,7 @@
     "18"
    ],
    "note": "無印の18はまだ出ていない（2026年11月時点）",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -634,7 +634,7 @@
     "18e"
    ],
    "note": "まだ出ていない（2026年11月時点）",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -645,7 +645,7 @@
     "14ミニ"
    ],
    "note": "miniは13まで",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -656,7 +656,7 @@
     "15ミニ"
    ],
    "note": "miniは13まで",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -667,7 +667,7 @@
     "SE 第4世代"
    ],
    "note": "SEは第3世代が最後。後継は{16e|○○○}",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -680,7 +680,7 @@
     "Flip"
    ],
    "note": "噂の段階の呼び名。折りたたみ機の正式名は{Duo|○○○}",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -691,7 +691,7 @@
     "XS Plus"
    ],
    "note": "出ていない。大きい方は{XS Max|○○ ○○○}",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -701,7 +701,7 @@
     "3"
    ],
    "note": "出ていない。初代の次は{3G|○○}",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -711,7 +711,7 @@
     "アイポッドタッチ"
    ],
    "note": "iPhoneではなく音楽プレーヤー",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   },
@@ -721,7 +721,7 @@
     "アイパッド"
    ],
    "note": "iPhoneではなくタブレット",
-   "group": "SE・eシリーズ",
+   "group": "2020年代",
    "secret": false,
    "ghost": true
   }
