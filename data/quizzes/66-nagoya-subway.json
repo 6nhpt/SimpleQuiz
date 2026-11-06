@@ -1,0 +1,935 @@
+{
+ "title": "名古屋市営地下鉄の駅（87駅）",
+ "category": "鉄道",
+ "options": {
+  "suffix": [
+   "駅",
+   "えき"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "高畑",
+   "aliases": [
+    "たかばた"
+   ],
+   "note": "中川区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八田",
+   "aliases": [
+    "はった"
+   ],
+   "note": "中川区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "岩塚",
+   "aliases": [
+    "いわつか"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中村公園",
+   "aliases": [
+    "なかむらこうえん"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中村日赤",
+   "aliases": [
+    "なかむらにっせき"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "本陣",
+   "aliases": [
+    "ほんじん"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "亀島",
+   "aliases": [
+    "かめじま"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋",
+   "aliases": [
+    "なごや"
+   ],
+   "note": "中村区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "伏見",
+   "aliases": [
+    "ふしみ"
+   ],
+   "note": "中区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "栄",
+   "aliases": [
+    "さかえ"
+   ],
+   "note": "中区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新栄町",
+   "aliases": [
+    "しんさかえまち"
+   ],
+   "note": "東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "千種",
+   "aliases": [
+    "ちくさ"
+   ],
+   "note": "東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "今池",
+   "aliases": [
+    "いまいけ"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "池下",
+   "aliases": [
+    "いけした"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "覚王山",
+   "aliases": [
+    "かくおうざん"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "本山",
+   "aliases": [
+    "もとやま"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東山公園",
+   "aliases": [
+    "ひがしやまこうえん"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "星ヶ丘",
+   "aliases": [
+    "星が丘",
+    "星ケ丘",
+    "ほしがおか"
+   ],
+   "note": "千種区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "一社",
+   "aliases": [
+    "いっしゃ"
+   ],
+   "note": "名東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上社",
+   "aliases": [
+    "かみやしろ"
+   ],
+   "note": "名東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "本郷",
+   "aliases": [
+    "ほんごう"
+   ],
+   "note": "名東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "藤が丘",
+   "aliases": [
+    "藤ヶ丘",
+    "藤ケ丘",
+    "ふじがおか"
+   ],
+   "note": "名東区",
+   "group": "東山線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "金山",
+   "aliases": [
+    "かなやま"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東別院",
+   "aliases": [
+    "ひがしべついん"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上前津",
+   "aliases": [
+    "かみまえづ"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "矢場町",
+   "aliases": [
+    "やばちょう"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "久屋大通",
+   "aliases": [
+    "ひさやおおどおり"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋城",
+   "aliases": [
+    "なごやじょう"
+   ],
+   "note": "中区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名城公園",
+   "aliases": [
+    "めいじょうこうえん"
+   ],
+   "note": "北区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "黒川",
+   "aliases": [
+    "くろかわ"
+   ],
+   "note": "北区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "志賀本通",
+   "aliases": [
+    "しがほんどおり"
+   ],
+   "note": "北区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "平安通",
+   "aliases": [
+    "へいあんどおり"
+   ],
+   "note": "北区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大曽根",
+   "aliases": [
+    "おおぞね"
+   ],
+   "note": "北区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "ナゴヤドーム前矢田",
+   "aliases": [
+    "ナゴヤドーム前",
+    "ドーム前矢田",
+    "名古屋ドーム前矢田",
+    "なごやどーむまえやだ"
+   ],
+   "note": "東区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "砂田橋",
+   "aliases": [
+    "すなだばし"
+   ],
+   "note": "東区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "茶屋ヶ坂",
+   "aliases": [
+    "茶屋が坂",
+    "茶屋ケ坂",
+    "ちゃやがさか"
+   ],
+   "note": "千種区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "自由ヶ丘",
+   "aliases": [
+    "自由が丘",
+    "自由ケ丘",
+    "じゆうがおか"
+   ],
+   "note": "千種区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋大学",
+   "aliases": [
+    "名大",
+    "なごやだいがく"
+   ],
+   "note": "千種区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八事日赤",
+   "aliases": [
+    "やごとにっせき"
+   ],
+   "note": "昭和区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "八事",
+   "aliases": [
+    "やごと"
+   ],
+   "note": "昭和区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "総合リハビリセンター",
+   "aliases": [
+    "総合リハビリ",
+    "そうごうりはびりせんたー"
+   ],
+   "note": "瑞穂区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "瑞穂運動場東",
+   "aliases": [
+    "みずほうんどうじょうひがし"
+   ],
+   "note": "瑞穂区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新瑞橋",
+   "aliases": [
+    "あらたまばし"
+   ],
+   "note": "瑞穂区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "妙音通",
+   "aliases": [
+    "みょうおんどおり"
+   ],
+   "note": "瑞穂区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "堀田",
+   "aliases": [
+    "ほった"
+   ],
+   "note": "瑞穂区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熱田神宮伝馬町",
+   "aliases": [
+    "あつたじんぐうてんまちょう"
+   ],
+   "note": "熱田区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "熱田神宮西",
+   "aliases": [
+    "あつたじんぐうにし"
+   ],
+   "note": "熱田区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "西高蔵",
+   "aliases": [
+    "にしたかくら"
+   ],
+   "note": "熱田区",
+   "group": "名城線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "日比野",
+   "aliases": [
+    "ひびの"
+   ],
+   "note": "熱田区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "六番町",
+   "aliases": [
+    "ろくばんちょう"
+   ],
+   "note": "熱田区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東海通",
+   "aliases": [
+    "とうかいどおり"
+   ],
+   "note": "港区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "港区役所",
+   "aliases": [
+    "みなとくやくしょ"
+   ],
+   "note": "港区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "築地口",
+   "aliases": [
+    "つきじぐち"
+   ],
+   "note": "港区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋港",
+   "aliases": [
+    "なごやこう"
+   ],
+   "note": "港区",
+   "group": "名港線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上小田井",
+   "aliases": [
+    "かみおたい"
+   ],
+   "note": "西区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "庄内緑地公園",
+   "aliases": [
+    "しょうないりょくちこうえん"
+   ],
+   "note": "西区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "庄内通",
+   "aliases": [
+    "しょうないどおり"
+   ],
+   "note": "西区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浄心",
+   "aliases": [
+    "じょうしん"
+   ],
+   "note": "西区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浅間町",
+   "aliases": [
+    "せんげんちょう"
+   ],
+   "note": "西区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "丸の内",
+   "aliases": [
+    "丸ノ内",
+    "まるのうち"
+   ],
+   "note": "中区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大須観音",
+   "aliases": [
+    "おおすかんのん"
+   ],
+   "note": "中区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鶴舞",
+   "aliases": [
+    "つるまい"
+   ],
+   "note": "中区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "荒畑",
+   "aliases": [
+    "あらはた"
+   ],
+   "note": "昭和区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "御器所",
+   "aliases": [
+    "ごきそ"
+   ],
+   "note": "昭和区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "川名",
+   "aliases": [
+    "かわな"
+   ],
+   "note": "昭和区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "いりなか",
+   "aliases": [],
+   "note": "昭和区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "塩釜口",
+   "aliases": [
+    "しおがまぐち"
+   ],
+   "note": "天白区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "植田",
+   "aliases": [
+    "うえだ"
+   ],
+   "note": "天白区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "原",
+   "aliases": [
+    "はら"
+   ],
+   "note": "天白区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "平針",
+   "aliases": [
+    "ひらばり"
+   ],
+   "note": "天白区",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "赤池",
+   "aliases": [
+    "あかいけ"
+   ],
+   "note": "日進市",
+   "group": "鶴舞線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "太閤通",
+   "aliases": [
+    "たいこうどおり"
+   ],
+   "note": "中村区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "国際センター",
+   "aliases": [],
+   "note": "中村区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高岳",
+   "aliases": [
+    "たかおか"
+   ],
+   "note": "東区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "車道",
+   "aliases": [
+    "くるまみち"
+   ],
+   "note": "東区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "吹上",
+   "aliases": [
+    "ふきあげ"
+   ],
+   "note": "千種区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "桜山",
+   "aliases": [
+    "さくらやま"
+   ],
+   "note": "瑞穂区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "瑞穂区役所",
+   "aliases": [
+    "みずほくやくしょ"
+   ],
+   "note": "瑞穂区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "瑞穂運動場西",
+   "aliases": [
+    "みずほうんどうじょうにし"
+   ],
+   "note": "瑞穂区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "桜本町",
+   "aliases": [
+    "さくらほんまち"
+   ],
+   "note": "南区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鶴里",
+   "aliases": [
+    "つるさと"
+   ],
+   "note": "南区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "野並",
+   "aliases": [
+    "のなみ"
+   ],
+   "note": "天白区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "鳴子北",
+   "aliases": [
+    "なるこきた"
+   ],
+   "note": "天白区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "相生山",
+   "aliases": [
+    "あいおいやま"
+   ],
+   "note": "緑区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "神沢",
+   "aliases": [
+    "かみさわ"
+   ],
+   "note": "緑区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "徳重",
+   "aliases": [
+    "とくしげ"
+   ],
+   "note": "緑区",
+   "group": "桜通線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "上飯田",
+   "aliases": [
+    "かみいいだ"
+   ],
+   "note": "北区",
+   "group": "上飯田線",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "市役所",
+   "aliases": [
+    "しやくしょ"
+   ],
+   "note": "中区。2023年1月に{名古屋城}駅へ改称した旧駅名",
+   "group": "上飯田線",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "伝馬町",
+   "aliases": [
+    "てんまちょう"
+   ],
+   "note": "熱田区。2023年1月に{熱田神宮伝馬町}駅へ改称した旧駅名",
+   "group": "上飯田線",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "神宮西",
+   "aliases": [
+    "じんぐうにし"
+   ],
+   "note": "熱田区。2023年1月に{熱田神宮西}駅へ改称した旧駅名",
+   "group": "上飯田線",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "中村区役所",
+   "aliases": [
+    "なかむらくやくしょ"
+   ],
+   "note": "中村区。2023年1月に{太閤通}駅へ改称した旧駅名",
+   "group": "上飯田線",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "66-nagoya-subway",
+ "created": 64.0
+}

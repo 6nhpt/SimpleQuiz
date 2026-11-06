@@ -44,6 +44,7 @@ PATTERNS = {
     "52-weather-symbols": ["{}", "{alias}"],
     "54-si-derived-units": ["{} (単位)", "{}"],
     "64-shogi-titles": ["{}戦 (将棋)", "{}戦"],
+    "66-nagoya-subway": ["{}駅 (愛知県)", "{}駅 (名古屋市)", "{}駅 (名古屋市営地下鉄)", "{}駅"],
     "23-nato-phonetic": None, "39-wabun-tsuwahyo": None, "47-allergens": None,
     # 漢字1字の記事は別の意味のものが多いので付けない
     **{f"{56 + g}-kanji-grade{g}": None for g in range(1, 7)},
@@ -79,6 +80,9 @@ OVERRIDES = {
     "65-twelve-apostles": {"ヨハネ": ["ヨハネ (使徒)"], "ゼベダイの子ヤコブ": ["ヤコブ (ゼベダイの子)"],
                            "マルコ": ["マルコ (福音記者)"], "ヨセフ": ["ナザレのヨセフ"]},
 }
+
+# 判定のみ項目にはリンクを付けないクイズ（旧駅名の記事は新駅名へ転送されるので、答えがばれる）
+NO_GHOST_LINKS = {"66-nagoya-subway"}
 
 # 個別の記事がない項目のリンク先（クイズ全体、または区分ごと）
 FALLBACK = {
@@ -137,7 +141,8 @@ def build(qid):
     if patterns is None:
         path.unlink(missing_ok=True)
         return
-    cands = {it["name"]: candidates(it, patterns, OVERRIDES.get(qid, {})) for it in quiz["items"]}
+    items = [it for it in quiz["items"] if not (qid in NO_GHOST_LINKS and it.get("ghost"))]
+    cands = {it["name"]: candidates(it, patterns, OVERRIDES.get(qid, {})) for it in items}
     fb = FALLBACK.get(qid)
     fbs = set(fb.values()) if isinstance(fb, dict) else {fb} if fb else set()
     found = query(sorted({t for ts in cands.values() for t in ts} | fbs))
