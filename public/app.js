@@ -393,7 +393,7 @@ async function renderPlay(id) {
   let gaveUp = prog.gaveUp;
   for (const i of answered) if (isSecret(i)) addFound(id, quiz.items[i].name);
   let showHint = localStorage.getItem("sq:hint") === "1";
-  const hasNotes = quiz.items.some((it) => it.note);
+  const hasNotes = quiz.items.some((it) => it.note && !it.ghost);  // 判定のみ項目のメモはマスに出ないので数えない
 
   setBar(quiz.title, "#/", `<span id="count"></span>`);
   $app.innerHTML = `

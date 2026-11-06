@@ -45,6 +45,7 @@ PATTERNS = {
     "54-si-derived-units": ["{} (単位)", "{}"],
     "64-shogi-titles": ["{}戦 (将棋)", "{}戦"],
     "66-nagoya-subway": ["{}駅 (愛知県)", "{}駅 (名古屋市)", "{}駅 (名古屋市営地下鉄)", "{}駅"],
+    "67-ndc-classes": [],  # 一般の記事（「哲学」など）ではなく分類法の記事に飛ばす
     "23-nato-phonetic": None, "39-wabun-tsuwahyo": None, "47-allergens": None,
     # 漢字1字の記事は別の意味のものが多いので付けない
     **{f"{56 + g}-kanji-grade{g}": None for g in range(1, 7)},
@@ -89,6 +90,7 @@ FALLBACK = {
     "08-elements": {"拡張周期表（119〜173）": "拡張周期表"},
     "24-si-prefixes": "SI接頭語",
     "40-rokuyo": "六曜",
+    "67-ndc-classes": "日本十進分類法",
     "42-kimarite": "決まり手",
     "51-major-arcana": "大アルカナ",
     "53-weather-warnings": {"特別警報": "特別警報", "危険警報": "警報 (気象庁)", "警報": "警報 (気象庁)",

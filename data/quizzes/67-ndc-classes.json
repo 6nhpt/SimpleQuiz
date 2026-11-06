@@ -1,0 +1,335 @@
+{
+ "title": "日本十進分類法の類（10区分）",
+ "category": "くらし",
+ "options": {
+  "suffix": [
+   "類",
+   "るい"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "総記",
+   "aliases": [
+    "そうき"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "哲学",
+   "aliases": [
+    "てつがく"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "歴史",
+   "aliases": [
+    "れきし"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "社会科学",
+   "aliases": [
+    "しゃかいかがく"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "自然科学",
+   "aliases": [
+    "しぜんかがく"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "技術",
+   "aliases": [
+    "工学",
+    "技術・工学",
+    "ぎじゅつ",
+    "こうがく"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "産業",
+   "aliases": [
+    "さんぎょう"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "芸術",
+   "aliases": [
+    "美術",
+    "芸術・美術",
+    "げいじゅつ",
+    "びじゅつ"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "言語",
+   "aliases": [
+    "げんご"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "文学",
+   "aliases": [
+    "ぶんがく"
+   ],
+   "note": "",
+   "group": "",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "宗教",
+   "aliases": [
+    "しゅうきょう"
+   ],
+   "note": "「{哲学}」の中の区分（160）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "心理学",
+   "aliases": [
+    "しんりがく"
+   ],
+   "note": "「{哲学}」の中の区分（140）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "図書館",
+   "aliases": [
+    "図書館学",
+    "としょかん"
+   ],
+   "note": "「{総記}」の中の区分（010）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "地理",
+   "aliases": [
+    "ちり"
+   ],
+   "note": "「{歴史}」の中の区分（290）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "政治",
+   "aliases": [
+    "せいじ"
+   ],
+   "note": "「{社会科学}」の中の区分（310）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "法律",
+   "aliases": [
+    "法学",
+    "ほうりつ"
+   ],
+   "note": "「{社会科学}」の中の区分（320）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "経済",
+   "aliases": [
+    "経済学",
+    "けいざい"
+   ],
+   "note": "「{社会科学}」の中の区分（330）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "教育",
+   "aliases": [
+    "きょういく"
+   ],
+   "note": "「{社会科学}」の中の区分（370）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "数学",
+   "aliases": [
+    "すうがく"
+   ],
+   "note": "「{自然科学}」の中の区分（410）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "物理学",
+   "aliases": [
+    "物理",
+    "ぶつり"
+   ],
+   "note": "「{自然科学}」の中の区分（420）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "化学",
+   "aliases": [
+    "かがく"
+   ],
+   "note": "「{自然科学}」の中の区分（430）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "医学",
+   "aliases": [
+    "いがく"
+   ],
+   "note": "「{自然科学}」の中の区分（490）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "家政学",
+   "aliases": [
+    "生活科学",
+    "かせいがく"
+   ],
+   "note": "「{技術}」の中の区分（590）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "農業",
+   "aliases": [
+    "のうぎょう"
+   ],
+   "note": "「{産業}」の中の区分（610）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "商業",
+   "aliases": [
+    "しょうぎょう"
+   ],
+   "note": "「{産業}」の中の区分（670）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "音楽",
+   "aliases": [
+    "おんがく"
+   ],
+   "note": "「{芸術}」の中の区分（760）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "スポーツ",
+   "aliases": [
+    "体育",
+    "スポーツ・体育"
+   ],
+   "note": "「{芸術}」の中の区分（780）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "日本語",
+   "aliases": [
+    "にほんご"
+   ],
+   "note": "「{言語}」の中の区分（810）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "英語",
+   "aliases": [
+    "えいご"
+   ],
+   "note": "「{言語}」の中の区分（830）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "日本文学",
+   "aliases": [
+    "にほんぶんがく"
+   ],
+   "note": "「{文学}」の中の区分（910）",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "科学",
+   "aliases": [],
+   "note": "「{社会科学}」と「{自然科学}」に分かれています",
+   "group": "",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "id": "67-ndc-classes",
+ "created": 65.0
+}
