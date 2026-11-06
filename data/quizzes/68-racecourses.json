@@ -1,0 +1,410 @@
+{
+ "title": "日本の競馬場（25場）",
+ "category": "エンタメ・スポーツ",
+ "options": {
+  "suffix": [
+   "競馬場",
+   "けいばじょう",
+   "競馬",
+   "けいば"
+  ],
+  "fuzzy": false
+ },
+ "items": [
+  {
+   "name": "札幌",
+   "aliases": [
+    "さっぽろ"
+   ],
+   "note": "北海道",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "函館",
+   "aliases": [
+    "はこだて"
+   ],
+   "note": "北海道",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "福島",
+   "aliases": [
+    "ふくしま"
+   ],
+   "note": "福島県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "新潟",
+   "aliases": [
+    "にいがた"
+   ],
+   "note": "新潟県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "東京",
+   "aliases": [
+    "府中",
+    "とうきょう",
+    "ふちゅう"
+   ],
+   "note": "東京都",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中山",
+   "aliases": [
+    "なかやま"
+   ],
+   "note": "千葉県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中京",
+   "aliases": [
+    "豊明",
+    "ちゅうきょう"
+   ],
+   "note": "愛知県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "京都",
+   "aliases": [
+    "淀",
+    "きょうと",
+    "よど"
+   ],
+   "note": "京都府",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "阪神",
+   "aliases": [
+    "仁川",
+    "はんしん",
+    "にがわ"
+   ],
+   "note": "兵庫県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "小倉",
+   "aliases": [
+    "こくら"
+   ],
+   "note": "福岡県",
+   "group": "中央競馬（JRA）",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "帯広",
+   "aliases": [
+    "ばんえい",
+    "ばんえい十勝",
+    "おびひろ"
+   ],
+   "note": "北海道",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "門別",
+   "aliases": [
+    "もんべつ"
+   ],
+   "note": "北海道",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "盛岡",
+   "aliases": [
+    "もりおか"
+   ],
+   "note": "岩手県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "水沢",
+   "aliases": [
+    "みずさわ"
+   ],
+   "note": "岩手県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "浦和",
+   "aliases": [
+    "うらわ"
+   ],
+   "note": "埼玉県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "船橋",
+   "aliases": [
+    "ふなばし"
+   ],
+   "note": "千葉県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "大井",
+   "aliases": [
+    "東京シティ",
+    "TCK",
+    "おおい"
+   ],
+   "note": "東京都",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "川崎",
+   "aliases": [
+    "かわさき"
+   ],
+   "note": "神奈川県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "金沢",
+   "aliases": [
+    "かなざわ"
+   ],
+   "note": "石川県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "笠松",
+   "aliases": [
+    "かさまつ"
+   ],
+   "note": "岐阜県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "名古屋",
+   "aliases": [
+    "弥富",
+    "なごや"
+   ],
+   "note": "愛知県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "園田",
+   "aliases": [
+    "そのだ"
+   ],
+   "note": "兵庫県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "姫路",
+   "aliases": [
+    "ひめじ"
+   ],
+   "note": "兵庫県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "高知",
+   "aliases": [
+    "こうち"
+   ],
+   "note": "高知県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "佐賀",
+   "aliases": [
+    "さが"
+   ],
+   "note": "佐賀県",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": false
+  },
+  {
+   "name": "中津",
+   "aliases": [
+    "なかつ"
+   ],
+   "note": "大分県。2001年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "三条",
+   "aliases": [
+    "さんじょう"
+   ],
+   "note": "新潟県。2002年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "益田",
+   "aliases": [
+    "ますだ"
+   ],
+   "note": "島根県。2002年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "上山",
+   "aliases": [
+    "かみのやま"
+   ],
+   "note": "山形県。2003年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "足利",
+   "aliases": [
+    "あしかが"
+   ],
+   "note": "栃木県。2003年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "高崎",
+   "aliases": [
+    "たかさき"
+   ],
+   "note": "群馬県。2004年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "宇都宮",
+   "aliases": [
+    "うつのみや"
+   ],
+   "note": "栃木県。2005年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "岩見沢",
+   "aliases": [
+    "いわみざわ"
+   ],
+   "note": "北海道。2006年に休止（ばんえい競馬）",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "北見",
+   "aliases": [
+    "きたみ"
+   ],
+   "note": "北海道。2006年に休止（ばんえい競馬）",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "旭川",
+   "aliases": [
+    "あさひかわ"
+   ],
+   "note": "北海道。2008年に休止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "荒尾",
+   "aliases": [
+    "あらお"
+   ],
+   "note": "熊本県。2011年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "福山",
+   "aliases": [
+    "ふくやま"
+   ],
+   "note": "広島県。2013年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  },
+  {
+   "name": "紀三井寺",
+   "aliases": [
+    "きみいでら"
+   ],
+   "note": "和歌山県。1988年に廃止",
+   "group": "地方競馬",
+   "secret": false,
+   "ghost": true
+  }
+ ],
+ "series": "競馬",
+ "id": "68-racecourses",
+ "created": 66.0
+}

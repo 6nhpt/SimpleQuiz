@@ -1,5 +1,6 @@
 @title JRAのGⅠレース（26競走）
 @category エンタメ・スポーツ
+@series 競馬
 @suffix
 @fuzzy off
 

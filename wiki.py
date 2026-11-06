@@ -45,6 +45,7 @@ PATTERNS = {
     "54-si-derived-units": ["{} (単位)", "{}"],
     "64-shogi-titles": ["{}戦 (将棋)", "{}戦"],
     "66-nagoya-subway": ["{}駅 (愛知県)", "{}駅 (名古屋市)", "{}駅 (名古屋市営地下鉄)", "{}駅"],
+    "68-racecourses": ["{}競馬場"],
     "67-ndc-classes": [],  # 一般の記事（「哲学」など）ではなく分類法の記事に飛ばす
     "23-nato-phonetic": None, "39-wabun-tsuwahyo": None, "47-allergens": None,
     # 漢字1字の記事は別の意味のものが多いので付けない
