@@ -1,6 +1,6 @@
 @title 歴代iPhone（55機種）
 @category くらし
-@memo 「iPhone」は省略できます（例：15 Pro）
+@memo 「iPhone」は省略できます
 @suffix
 @fuzzy off
 
